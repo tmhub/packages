@@ -1,0 +1,36 @@
+{
+    "name": "Templates Master Packages",
+    "homepage": "http://tmhub.github.io/packages/",
+    "repositories": [
+        {"type": "composer", "url": "http://packages.firegento.com"},
+        {"type": "vcs", "url": "git@github.com:tmhub/ajaxpro.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/ajaxsearch.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/akismet.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/askit.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/cdn.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/core.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/easycatalogimg.git"},                 
+        {"type": "vcs", "url": "git@github.com:tmhub/easytabs.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/helpdesk.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/lightboxpro.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/purify.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/reward.git"},        
+        {"type": "vcs", "url": "git@github.com:tmhub/secure.git"}
+    ],
+    "require": { 
+        "magento-hackathon/magento-composer-installer": "*",  
+        "tm/ajaxpro": "*",
+        "tm/ajaxsearch": "*",
+        "tm/akismet": "*",
+        "tm/askit": "*",
+        "tm/cdn": "*",
+        "tm/core": "*",
+        "tm/easycatalogimg": "*",
+        "tm/easytabs": "*",
+        "tm/helpdesk": "*",
+        "tm/lightboxpro": "*",
+        "tm/purify": "*",
+        "tm/reward": "*",
+        "tm/secure":"*"
+    } 
+}

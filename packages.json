@@ -314,12 +314,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "a58dd87e616990180529c02f1a8a7093b0f6d0fa"
+                    "reference": "057588c9bbf7e961ac832de72efdc158aa7a6afa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/a58dd87e616990180529c02f1a8a7093b0f6d0fa",
-                    "reference": "a58dd87e616990180529c02f1a8a7093b0f6d0fa",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/057588c9bbf7e961ac832de72efdc158aa7a6afa",
+                    "reference": "057588c9bbf7e961ac832de72efdc158aa7a6afa",
                     "shasum": ""
                 },
                 "require": {
@@ -332,7 +332,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2013-09-08 10:33:42",
+                "time": "2013-10-26 16:39:06",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -533,19 +533,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "e48419ebb8d3f1f12ccca564c07a3547a9804501"
+                    "reference": "c995b7ddac4e7467dd64f164fbf18b8c25c1e572"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/e48419ebb8d3f1f12ccca564c07a3547a9804501",
-                    "reference": "e48419ebb8d3f1f12ccca564c07a3547a9804501",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/c995b7ddac4e7467dd64f164fbf18b8c25c1e572",
+                    "reference": "c995b7ddac4e7467dd64f164fbf18b8c25c1e572",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-10-17 12:20:46",
+                "time": "2013-11-05 15:15:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -838,6 +838,58 @@
                 }
             }
         },
+        "tm/cdn": {
+            "dev-master": {
+                "name": "tm/cdn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cdn.git",
+                    "reference": "8c0ae700b0461f1cc8b5448ea4e4bbeec7bb0544"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/8c0ae700b0461f1cc8b5448ea4e4bbeec7bb0544",
+                    "reference": "8c0ae700b0461f1cc8b5448ea4e4bbeec7bb0544",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2013-11-08 14:30:40",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/CDN",
+                            "app/code/local/TM/CDN"
+                        ],
+                        [
+                            "app/etc/modules/TM_CDN.xml",
+                            "app/etc/modules/TM_CDN.xml"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master CDN module",
+                "homepage": "https://github.com/tmhub/cdn",
+                "support": {
+                    "source": "https://github.com/tmhub/cdn/tree/master",
+                    "issues": "https://github.com/tmhub/cdn/issues"
+                }
+            }
+        },
         "tm/core": {
             "dev-master": {
                 "name": "tm/core",
@@ -1057,12 +1109,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "18841722f37547ca244281200ebf99f2cfa25a1d"
+                    "reference": "d6390e9cdae5d020b080a00024bdf81f14a8ba37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/18841722f37547ca244281200ebf99f2cfa25a1d",
-                    "reference": "18841722f37547ca244281200ebf99f2cfa25a1d",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/d6390e9cdae5d020b080a00024bdf81f14a8ba37",
+                    "reference": "d6390e9cdae5d020b080a00024bdf81f14a8ba37",
                     "shasum": ""
                 },
                 "require": {
@@ -1071,7 +1123,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2013-10-23 13:37:23",
+                "time": "2013-10-30 10:27:27",
                 "type": "magento-module",
                 "extra": {
                     "map": [
