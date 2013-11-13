@@ -921,19 +921,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "3dc4e9ea685e9fe0b6f6564b4678116672c427c5"
+                    "reference": "74ec4260b2e6a10a8fd1db2611f45536622508fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/3dc4e9ea685e9fe0b6f6564b4678116672c427c5",
-                    "reference": "3dc4e9ea685e9fe0b6f6564b4678116672c427c5",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/74ec4260b2e6a10a8fd1db2611f45536622508fc",
+                    "reference": "74ec4260b2e6a10a8fd1db2611f45536622508fc",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-11 15:36:09",
+                "time": "2013-11-13 09:30:46",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1040,19 +1040,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycatalogimg.git",
-                    "reference": "d9569484bc3eca5826c64798cf019f8c6e08be46"
+                    "reference": "d5086bfbaca545ae843fb5b5c5baf3f48146683f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/d9569484bc3eca5826c64798cf019f8c6e08be46",
-                    "reference": "d9569484bc3eca5826c64798cf019f8c6e08be46",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/d5086bfbaca545ae843fb5b5c5baf3f48146683f",
+                    "reference": "d5086bfbaca545ae843fb5b5c5baf3f48146683f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-10-04 13:11:39",
+                "time": "2013-11-12 10:39:56",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1099,7 +1099,7 @@
                 "description": "Templates Master easy catalog images module",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/easycatalogimg-2.1.0",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             }
