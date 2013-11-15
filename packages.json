@@ -921,19 +921,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "ee310cf4edd118626b96d95827028c87ff0300d1"
+                    "reference": "c85303e8ca4f9a51807f3bae31ba8337cb734be0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/ee310cf4edd118626b96d95827028c87ff0300d1",
-                    "reference": "ee310cf4edd118626b96d95827028c87ff0300d1",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/c85303e8ca4f9a51807f3bae31ba8337cb734be0",
+                    "reference": "c85303e8ca4f9a51807f3bae31ba8337cb734be0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-13 14:45:21",
+                "time": "2013-11-15 11:11:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
