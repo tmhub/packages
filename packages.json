@@ -820,12 +820,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "a4d1e40ff87a2a2bc60ddd312662ff37c4a17731"
+                    "reference": "a085d1c9a5ecf924e43d41651b167d765e39303c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/a4d1e40ff87a2a2bc60ddd312662ff37c4a17731",
-                    "reference": "a4d1e40ff87a2a2bc60ddd312662ff37c4a17731",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/a085d1c9a5ecf924e43d41651b167d765e39303c",
+                    "reference": "a085d1c9a5ecf924e43d41651b167d765e39303c",
                     "shasum": ""
                 },
                 "require": {
@@ -833,7 +833,7 @@
                     "tm/akismet": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-10-04 12:01:53",
+                "time": "2013-11-21 10:08:34",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -921,19 +921,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "c85303e8ca4f9a51807f3bae31ba8337cb734be0"
+                    "reference": "1344c6e23161f68db5bf4c562ca3f3ede0f92c7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/c85303e8ca4f9a51807f3bae31ba8337cb734be0",
-                    "reference": "c85303e8ca4f9a51807f3bae31ba8337cb734be0",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/1344c6e23161f68db5bf4c562ca3f3ede0f92c7f",
+                    "reference": "1344c6e23161f68db5bf4c562ca3f3ede0f92c7f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-15 11:11:48",
+                "time": "2013-11-15 13:08:02",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1173,6 +1173,66 @@
                 "support": {
                     "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            }
+        },
+        "tm/email": {
+            "dev-master": {
+                "name": "tm/email",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/email.git",
+                    "reference": "c8b5cad7defad866082ade694b0f4cc7c8a4db6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/c8b5cad7defad866082ade694b0f4cc7c8a4db6b",
+                    "reference": "c8b5cad7defad866082ade694b0f4cc7c8a4db6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2013-11-21 09:38:34",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/Email",
+                            "app/code/community/TM/Email"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/email.xml",
+                            "app/design/adminhtml/default/default/layout/tm/email.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Email.xml",
+                            "app/etc/modules/TM_Email.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Email.csv",
+                            "app/locale/en_US/TM_Email.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Email module",
+                "homepage": "https://github.com/tmhub/email",
+                "support": {
+                    "source": "https://github.com/tmhub/email/tree/master",
+                    "issues": "https://github.com/tmhub/email/issues"
                 }
             }
         },
