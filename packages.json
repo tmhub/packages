@@ -392,12 +392,12 @@
                 "source": {
                     "type": "git",
                     "url": "git://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "02f7b627c7f21805c467a6d1d100121ac44b48dc"
+                    "reference": "5a4e95b44b5f5b845b7f982b14d932b372bc9645"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/02f7b627c7f21805c467a6d1d100121ac44b48dc",
-                    "reference": "02f7b627c7f21805c467a6d1d100121ac44b48dc",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer/zipball/5a4e95b44b5f5b845b7f982b14d932b372bc9645",
+                    "reference": "5a4e95b44b5f5b845b7f982b14d932b372bc9645",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -407,7 +407,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2013-11-09 19:31:23",
+                "time": "2013-12-10 10:35:46",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -608,19 +608,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "0dabf8cb0faac5cf9df58b1823a0123f766f2b1f"
+                    "reference": "d1c2bd16a594863ded83c7f01dcd84c6839e42ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/0dabf8cb0faac5cf9df58b1823a0123f766f2b1f",
-                    "reference": "0dabf8cb0faac5cf9df58b1823a0123f766f2b1f",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/d1c2bd16a594863ded83c7f01dcd84c6839e42ae",
+                    "reference": "d1c2bd16a594863ded83c7f01dcd84c6839e42ae",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-25 07:28:23",
+                "time": "2013-12-11 11:17:27",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -921,19 +921,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "1344c6e23161f68db5bf4c562ca3f3ede0f92c7f"
+                    "reference": "36f0b71daf6bad27086ccad05c8a9b319eaf9ea8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/1344c6e23161f68db5bf4c562ca3f3ede0f92c7f",
-                    "reference": "1344c6e23161f68db5bf4c562ca3f3ede0f92c7f",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/36f0b71daf6bad27086ccad05c8a9b319eaf9ea8",
+                    "reference": "36f0b71daf6bad27086ccad05c8a9b319eaf9ea8",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-15 13:08:02",
+                "time": "2013-12-04 15:18:18",
                 "type": "magento-module",
                 "extra": {
                     "map": [
