@@ -678,6 +678,84 @@
                     "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
+            },
+            "dev-msater": {
+                "name": "tm/ajaxpro",
+                "version": "dev-msater",
+                "version_normalized": "dev-msater",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxpro.git",
+                    "reference": "cfb3319318ad35ff010a43cb6007385d28c5962a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/cfb3319318ad35ff010a43cb6007385d28c5962a",
+                    "reference": "cfb3319318ad35ff010a43cb6007385d28c5962a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-01-13 08:24:55",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxPro",
+                            "app/code/local/TM/AjaxPro"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxpro.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxpro.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxpro",
+                            "app/design/frontend/base/default/template/tm/ajaxpro"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxPro.xml",
+                            "app/etc/modules/TM_AjaxPro.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Ajaxpro.csv",
+                            "app/locale/en_US/TM_Ajaxpro.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/ajaxpro.css",
+                            "skin/frontend/base/default/css/tm/ajaxpro.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/ajaxpro",
+                            "skin/frontend/base/default/images/tm/ajaxpro"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/ajaxpro",
+                            "skin/frontend/base/default/js/tm/ajaxpro"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/ajaxpro.js",
+                            "skin/frontend/base/default/js/tm/ajaxpro.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxPro module",
+                "homepage": "https://github.com/tmhub/ajaxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxpro/tree/msater",
+                    "issues": "https://github.com/tmhub/ajaxpro/issues"
+                }
             }
         },
         "tm/ajaxsearch": {
