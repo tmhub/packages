@@ -1104,6 +1104,206 @@
                 }
             }
         },
+        "tm/easyslide": {
+            "2.1.3": {
+                "name": "tm/easyslide",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-16 08:54:54",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Easyslide",
+                            "app/code/local/TM/Easyslide"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/easyslide",
+                            "app/design/adminhtml/default/default/template/easyslide"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/easyslide.xml",
+                            "app/design/frontend/default/default/layout/easyslide.xml"
+                        ],
+                        [
+                            "app/design/frontend/default/default/template/easyslide",
+                            "app/design/frontend/default/default/template/easyslide"
+                        ],
+                        [
+                            "app/etc/modules/TM_Easyslide.xml",
+                            "app/etc/modules/TM_Easyslide.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Easyslide.csv",
+                            "app/locale/en_US/TM_Easyslide.csv"
+                        ],
+                        [
+                            "media/easyslide",
+                            "media/easyslide"
+                        ],
+                        [
+                            "skin/frontend/default/default/css/easyslide.css",
+                            "skin/frontend/default/default/css/easyslide.css"
+                        ],
+                        [
+                            "skin/frontend/default/default/css/nivo",
+                            "skin/frontend/default/default/css/nivo"
+                        ],
+                        [
+                            "skin/frontend/default/default/images/easyslide",
+                            "skin/frontend/default/default/images/easyslide"
+                        ],
+                        [
+                            "skin/frontend/default/default/images/nivo",
+                            "skin/frontend/default/default/images/nivo"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/easyslide.js",
+                            "skin/frontend/default/default/js/easyslide.js"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/jquery-1.8.2.min.js",
+                            "skin/frontend/default/default/js/jquery-1.8.2.min.js"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/jquery.nivo.slider.js",
+                            "skin/frontend/default/default/js/jquery.nivo.slider.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/easyslide",
+                "support": {
+                    "source": "https://github.com/tmhub/easyslide/tree/2.1.3",
+                    "issues": "https://github.com/tmhub/easyslide/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easyslide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-16 08:54:54",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Easyslide",
+                            "app/code/local/TM/Easyslide"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/easyslide",
+                            "app/design/adminhtml/default/default/template/easyslide"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/easyslide.xml",
+                            "app/design/frontend/default/default/layout/easyslide.xml"
+                        ],
+                        [
+                            "app/design/frontend/default/default/template/easyslide",
+                            "app/design/frontend/default/default/template/easyslide"
+                        ],
+                        [
+                            "app/etc/modules/TM_Easyslide.xml",
+                            "app/etc/modules/TM_Easyslide.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Easyslide.csv",
+                            "app/locale/en_US/TM_Easyslide.csv"
+                        ],
+                        [
+                            "media/easyslide",
+                            "media/easyslide"
+                        ],
+                        [
+                            "skin/frontend/default/default/css/easyslide.css",
+                            "skin/frontend/default/default/css/easyslide.css"
+                        ],
+                        [
+                            "skin/frontend/default/default/css/nivo",
+                            "skin/frontend/default/default/css/nivo"
+                        ],
+                        [
+                            "skin/frontend/default/default/images/easyslide",
+                            "skin/frontend/default/default/images/easyslide"
+                        ],
+                        [
+                            "skin/frontend/default/default/images/nivo",
+                            "skin/frontend/default/default/images/nivo"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/easyslide.js",
+                            "skin/frontend/default/default/js/easyslide.js"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/jquery-1.8.2.min.js",
+                            "skin/frontend/default/default/js/jquery-1.8.2.min.js"
+                        ],
+                        [
+                            "skin/frontend/default/default/js/jquery.nivo.slider.js",
+                            "skin/frontend/default/default/js/jquery.nivo.slider.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/easyslide",
+                "support": {
+                    "source": "https://github.com/tmhub/easyslide/tree/2.1.3",
+                    "issues": "https://github.com/tmhub/easyslide/issues"
+                }
+            }
+        },
         "tm/easytabs": {
             "dev-master": {
                 "name": "tm/easytabs",
@@ -1244,12 +1444,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "7525b069e0828b945de08e568a19f2b6cf3bf074"
+                    "reference": "83056b0adcbf2872bfccee92b3600aa843841e2d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/7525b069e0828b945de08e568a19f2b6cf3bf074",
-                    "reference": "7525b069e0828b945de08e568a19f2b6cf3bf074",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/83056b0adcbf2872bfccee92b3600aa843841e2d",
+                    "reference": "83056b0adcbf2872bfccee92b3600aa843841e2d",
                     "shasum": ""
                 },
                 "require": {
@@ -1258,7 +1458,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2013-12-25 13:34:06",
+                "time": "2014-01-15 15:33:37",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1523,6 +1723,126 @@
                 }
             }
         },
+        "tm/mobileswitcher": {
+            "1.0.0": {
+                "name": "tm/mobileswitcher",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/mobileswitcher.git",
+                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/mobileswitcher/zipball/5d8a52b79cfcb160882892dd8b448a2b354f478a",
+                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-16 09:45:38",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/MobileSwitcher",
+                            "app/code/community/TM/MobileSwitcher"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml",
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_MobileSwitcher.xml",
+                            "app/etc/modules/TM_MobileSwitcher.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_MobileSwitcher.csv",
+                            "app/locale/en_US/TM_MobileSwitcher.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/mobileswitcher",
+                "support": {
+                    "source": "https://github.com/tmhub/mobileswitcher/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/mobileswitcher/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/mobileswitcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/mobileswitcher.git",
+                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/mobileswitcher/zipball/5d8a52b79cfcb160882892dd8b448a2b354f478a",
+                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-16 09:45:38",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/MobileSwitcher",
+                            "app/code/community/TM/MobileSwitcher"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml",
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_MobileSwitcher.xml",
+                            "app/etc/modules/TM_MobileSwitcher.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_MobileSwitcher.csv",
+                            "app/locale/en_US/TM_MobileSwitcher.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/mobileswitcher",
+                "support": {
+                    "source": "https://github.com/tmhub/mobileswitcher/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/mobileswitcher/issues"
+                }
+            }
+        },
         "tm/purify": {
             "dev-master": {
                 "name": "tm/purify",
@@ -1724,6 +2044,70 @@
                 "support": {
                     "source": "https://github.com/tmhub/secure/tree/master",
                     "issues": "https://github.com/tmhub/secure/issues"
+                }
+            }
+        },
+        "tm/templatem001": {
+            "dev-master": {
+                "name": "tm/templatem001",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/templatem001.git",
+                    "reference": "ff496a1ae12c2dcf3c9300ad8a11adfeed69f7f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/ff496a1ae12c2dcf3c9300ad8a11adfeed69f7f0",
+                    "reference": "ff496a1ae12c2dcf3c9300ad8a11adfeed69f7f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easyslide": "*",
+                    "tm/highlight": "*",
+                    "tm/mobilewitcher": "*"
+                },
+                "time": "2014-01-16 10:00:16",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Templatem001",
+                            "app/code/local/TM/Templatem001"
+                        ],
+                        [
+                            "app/design/frontend/default/m001",
+                            "app/design/frontend/default/m001"
+                        ],
+                        [
+                            "app/etc/modules/TM_Templatem001.xml",
+                            "app/etc/modules/TM_Templatem001.xml"
+                        ],
+                        [
+                            "skin/frontend/default/m001",
+                            "skin/frontend/default/m001"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/templatem001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatem001/tree/master",
+                    "issues": "https://github.com/tmhub/templatem001/issues"
                 }
             }
         }
