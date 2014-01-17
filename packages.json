@@ -2215,6 +2215,168 @@
                 }
             }
         },
+        "tm/smartsuggest": {
+            "dev-master": {
+                "name": "tm/smartsuggest",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b",
+                    "reference": "f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-01-17 15:10:42",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SmartSuggest",
+                            "app/code/local/TM/SmartSuggest"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml",
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/smartsuggest",
+                            "app/design/frontend/base/default/template/tm/smartsuggest"
+                        ],
+                        [
+                            "app/etc/modules/TM_SmartSuggest.xml",
+                            "app/etc/modules/TM_SmartSuggest.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SmartSuggest.csv",
+                            "app/locale/en_US/TM_SmartSuggest.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/smartsuggest.css",
+                            "skin/frontend/base/default/css/tm/smartsuggest.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/smartsuggest",
+                            "skin/frontend/base/default/images/tm/smartsuggest"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/smartsuggest.js",
+                            "skin/frontend/base/default/js/tm/smartsuggest.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest",
+                "support": {
+                    "source": "https://github.com/tmhub/smartsuggest/tree/master",
+                    "issues": "https://github.com/tmhub/smartsuggest/issues"
+                }
+            }
+        },
+        "tm/soldtogether": {
+            "dev-master": {
+                "name": "tm/soldtogether",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "09232af39e33f4842c2568f698bbc4ea67d08fd3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/09232af39e33f4842c2568f698bbc4ea67d08fd3",
+                    "reference": "09232af39e33f4842c2568f698bbc4ea67d08fd3",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-01-17 15:33:18",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SoldTogether",
+                            "app/code/local/TM/SoldTogether"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml",
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml",
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/soldtogether",
+                            "app/design/frontend/base/default/template/tm/soldtogether"
+                        ],
+                        [
+                            "app/etc/modules/TM_SoldTogether.xml",
+                            "app/etc/modules/TM_SoldTogether.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SoldTogether.csv",
+                            "app/locale/en_US/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/soldtogether.css",
+                            "skin/frontend/base/default/css/tm/soldtogether.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/soldtogether",
+                            "skin/frontend/base/default/images/tm/soldtogether"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/soldtogether.js",
+                            "skin/frontend/base/default/js/tm/soldtogether.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            }
+        },
         "tm/suggestpage": {
             "dev-master": {
                 "name": "tm/suggestpage",

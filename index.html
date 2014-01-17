@@ -42,7 +42,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
         <div id="hd">
             <h1>Templates Master Packages Composer Repository</h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2014-01-17T15:02:52+0000">Fri, 17 Jan 2014 15:02:52 +0000</time>
+                Last updated: <time datetime="2014-01-17T16:03:39+0000">Fri, 17 Jan 2014 16:03:39 +0000</time>
             </div>
         </div>
         <div id="bd">
@@ -285,6 +285,8 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                                                     <li><a href="#tm/quickshopping">tm/quickshopping</a></li>
                                                                                     <li><a href="#tm/reward">tm/reward</a></li>
                                                                                     <li><a href="#tm/secure">tm/secure</a></li>
+                                                                                    <li><a href="#tm/smartsuggest">tm/smartsuggest</a></li>
+                                                                                    <li><a href="#tm/soldtogether">tm/soldtogether</a></li>
                                                                                     <li><a href="#tm/suggestpage">tm/suggestpage</a></li>
                                                                                     <li><a href="#tm/templatem001">tm/templatem001</a></li>
                                                                             </ul>
@@ -651,6 +653,60 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                                                             </td>
                         </tr>
                     </table>
+                                    <h3 id="tm/smartsuggest">tm/smartsuggest</h3>
+                                            <p>Personalized products recommendations based on recent activity</p>
+                                        <table>
+                                                    <tr>
+                                <th>Homepage</th>
+                                <td><a href="https://github.com/tmhub/smartsuggest">https://github.com/tmhub/smartsuggest</a></td>
+                            </tr>
+                                                                            <tr>
+                                <th>License</th>
+                                <td>OSL-3.0</td>
+                            </tr>
+                                                                            <tr>
+                                <th>Authors</th>
+                                <td>
+                                    Templates-Master Team                                </td>
+                            </tr>
+                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="https://api.github.com/repos/tmhub/smartsuggest/zipball/f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b" title="f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b">dev-master</a>                            </td>
+                        </tr>
+                        <tr>
+                            <th>Required by</th>
+                            <td>
+                                                                                            </td>
+                        </tr>
+                    </table>
+                                    <h3 id="tm/soldtogether">tm/soldtogether</h3>
+                                            <p>Frequently bought together and Customer who bought this also bought blocks</p>
+                                        <table>
+                                                    <tr>
+                                <th>Homepage</th>
+                                <td><a href="https://github.com/tmhub/soldtogether">https://github.com/tmhub/soldtogether</a></td>
+                            </tr>
+                                                                            <tr>
+                                <th>License</th>
+                                <td>OSL-3.0</td>
+                            </tr>
+                                                                            <tr>
+                                <th>Authors</th>
+                                <td>
+                                    Templates-Master Team                                </td>
+                            </tr>
+                                                <tr>
+                            <th>Releases</th>
+                            <td>
+                                <a href="https://api.github.com/repos/tmhub/soldtogether/zipball/09232af39e33f4842c2568f698bbc4ea67d08fd3" title="09232af39e33f4842c2568f698bbc4ea67d08fd3">dev-master</a>                            </td>
+                        </tr>
+                        <tr>
+                            <th>Required by</th>
+                            <td>
+                                                                                            </td>
+                        </tr>
+                    </table>
                                     <h3 id="tm/suggestpage">tm/suggestpage</h3>
                                             <p>Page that can be shown after client adds product to the shopping cart</p>
                                         <table>
@@ -675,7 +731,11 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         <tr>
                             <th>Required by</th>
                             <td>
-                                                                                            </td>
+                                                                                                    <ul>
+                                                                                    <li><a href="#tm/smartsuggest">tm/smartsuggest</a></li>
+                                                                                    <li><a href="#tm/soldtogether">tm/soldtogether</a></li>
+                                                                            </ul>
+                                                            </td>
                         </tr>
                     </table>
                                     <h3 id="tm/templatem001">tm/templatem001</h3>
@@ -707,7 +767,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-01-17T15:02:52+0000</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-01-17T16:03:39+0000</small></p>
         </div>
     </div>
 
@@ -741,7 +801,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         }).focus();
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2014-01-17T15:02:52+0000').fromNow());
+            $lastUpdate.text(moment('2014-01-17T16:03:39+0000').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
