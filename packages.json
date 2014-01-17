@@ -1112,18 +1112,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c"
+                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/2565498fb706bce95b88947eaf1f3aa46e36568c",
-                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/41604aa3ab6384da04456e5f25d78754b95e0999",
+                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-16 08:54:54",
+                "time": "2014-01-17 12:25:06",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1152,8 +1152,8 @@
                             "app/locale/en_US/TM_Easyslide.csv"
                         ],
                         [
-                            "media/easyslide",
-                            "media/easyslide"
+                            "media/easyslide/.hidden",
+                            "media/easyslide/.hidden"
                         ],
                         [
                             "skin/frontend/default/default/css/easyslide.css",
@@ -1211,18 +1211,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c"
+                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/2565498fb706bce95b88947eaf1f3aa46e36568c",
-                    "reference": "2565498fb706bce95b88947eaf1f3aa46e36568c",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/41604aa3ab6384da04456e5f25d78754b95e0999",
+                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-16 08:54:54",
+                "time": "2014-01-17 12:25:06",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1251,8 +1251,8 @@
                             "app/locale/en_US/TM_Easyslide.csv"
                         ],
                         [
-                            "media/easyslide",
-                            "media/easyslide"
+                            "media/easyslide/.hidden",
+                            "media/easyslide/.hidden"
                         ],
                         [
                             "skin/frontend/default/default/css/easyslide.css",
