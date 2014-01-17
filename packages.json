@@ -2055,12 +2055,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/templatem001.git",
-                    "reference": "3908994722459c4c76f86f70adecae11ab023b73"
+                    "reference": "60656aed724abed7b87f790ed900825b99c303f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/3908994722459c4c76f86f70adecae11ab023b73",
-                    "reference": "3908994722459c4c76f86f70adecae11ab023b73",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/60656aed724abed7b87f790ed900825b99c303f0",
+                    "reference": "60656aed724abed7b87f790ed900825b99c303f0",
                     "shasum": ""
                 },
                 "require": {
@@ -2069,7 +2069,7 @@
                     "tm/highlight": "*",
                     "tm/mobileswitcher": "*"
                 },
-                "time": "2014-01-17 07:46:02",
+                "time": "2014-01-17 12:17:01",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2084,6 +2084,10 @@
                         [
                             "app/etc/modules/TM_Templatem001.xml",
                             "app/etc/modules/TM_Templatem001.xml"
+                        ],
+                        [
+                            "media/easyslide/m001",
+                            "media/easyslide/m001"
                         ],
                         [
                             "skin/frontend/default/m001",
@@ -2117,12 +2121,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/templatem001.git",
-                    "reference": "3908994722459c4c76f86f70adecae11ab023b73"
+                    "reference": "60656aed724abed7b87f790ed900825b99c303f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/3908994722459c4c76f86f70adecae11ab023b73",
-                    "reference": "3908994722459c4c76f86f70adecae11ab023b73",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/60656aed724abed7b87f790ed900825b99c303f0",
+                    "reference": "60656aed724abed7b87f790ed900825b99c303f0",
                     "shasum": ""
                 },
                 "require": {
@@ -2131,7 +2135,7 @@
                     "tm/highlight": "*",
                     "tm/mobileswitcher": "*"
                 },
-                "time": "2014-01-17 07:46:02",
+                "time": "2014-01-17 12:17:01",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2146,6 +2150,10 @@
                         [
                             "app/etc/modules/TM_Templatem001.xml",
                             "app/etc/modules/TM_Templatem001.xml"
+                        ],
+                        [
+                            "media/easyslide/m001",
+                            "media/easyslide/m001"
                         ],
                         [
                             "skin/frontend/default/m001",
