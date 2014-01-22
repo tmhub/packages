@@ -913,6 +913,84 @@
                 }
             }
         },
+        "tm/attributepages": {
+            "dev-master": {
+                "name": "tm/attributepages",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "37ee4bc4d38421459d83b8c8bbaf1c74919b29a8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/37ee4bc4d38421459d83b8c8bbaf1c74919b29a8",
+                    "reference": "37ee4bc4d38421459d83b8c8bbaf1c74919b29a8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-22 08:14:27",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Attributepages",
+                            "app/code/local/TM/Attributepages"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml",
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml",
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/attributepages",
+                            "app/design/frontend/base/default/template/tm/attributepages"
+                        ],
+                        [
+                            "app/etc/modules/TM_Attributepages.xml",
+                            "app/etc/modules/TM_Attributepages.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Attributepages.csv",
+                            "app/locale/en_US/TM_Attributepages.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/attributepages.css",
+                            "skin/frontend/base/default/css/tm/attributepages.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/attributepages.js",
+                            "skin/frontend/base/default/js/tm/attributepages.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/master",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            }
+        },
         "tm/cdn": {
             "dev-master": {
                 "name": "tm/cdn",
@@ -1433,6 +1511,72 @@
                 "support": {
                     "source": "https://github.com/tmhub/email/tree/master",
                     "issues": "https://github.com/tmhub/email/issues"
+                }
+            }
+        },
+        "tm/facebooklb": {
+            "dev-master": {
+                "name": "tm/facebooklb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/facebooklb.git",
+                    "reference": "cdae4b930b4f5ee1aa535636bdd3d9264dffb851"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/cdae4b930b4f5ee1aa535636bdd3d9264dffb851",
+                    "reference": "cdae4b930b4f5ee1aa535636bdd3d9264dffb851",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-22 13:51:19",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/FacebookLB",
+                            "app/code/community/TM/FacebookLB"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/FacebookLB.xml",
+                            "app/design/frontend/default/default/layout/FacebookLB.xml"
+                        ],
+                        [
+                            "app/design/frontend/default/default/template/facebooklb",
+                            "app/design/frontend/default/default/template/facebooklb"
+                        ],
+                        [
+                            "app/etc/modules/TM_FaceBookLB.xml",
+                            "app/etc/modules/TM_FaceBookLB.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_FacebookLB.csv",
+                            "app/locale/en_US/TM_FacebookLB.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook Like Button integration",
+                "homepage": "https://github.com/tmhub/facebooklb",
+                "support": {
+                    "source": "https://github.com/tmhub/facebooklb/tree/master",
+                    "issues": "https://github.com/tmhub/facebooklb/issues"
                 }
             }
         },
@@ -2132,6 +2276,72 @@
                 "support": {
                     "source": "https://github.com/tmhub/reward/tree/master",
                     "issues": "https://github.com/tmhub/reward/issues"
+                }
+            }
+        },
+        "tm/richsnippets": {
+            "dev-master": {
+                "name": "tm/richsnippets",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "1f92fe5722d95f06bd87ebc4a6538c8ae0924647"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/1f92fe5722d95f06bd87ebc4a6538c8ae0924647",
+                    "reference": "1f92fe5722d95f06bd87ebc4a6538c8ae0924647",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-22 10:16:15",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/RichSnippets",
+                            "app/code/local/TM/RichSnippets"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/richsnippets",
+                            "app/design/frontend/base/default/template/tm/richsnippets"
+                        ],
+                        [
+                            "app/etc/modules/TM_RichSnippets.xml",
+                            "app/etc/modules/TM_RichSnippets.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_RichSnippets.csv",
+                            "app/locale/en_US/TM_RichSnippets.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/master",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             }
         },
