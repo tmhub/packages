@@ -608,19 +608,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "988e73cb2c7cbcb25e1eeec62855ef0d020575c9"
+                    "reference": "34af8283ee2e0576060eaa58ed2b9f1cb62b62d6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/988e73cb2c7cbcb25e1eeec62855ef0d020575c9",
-                    "reference": "988e73cb2c7cbcb25e1eeec62855ef0d020575c9",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/34af8283ee2e0576060eaa58ed2b9f1cb62b62d6",
+                    "reference": "34af8283ee2e0576060eaa58ed2b9f1cb62b62d6",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-01-16 14:50:16",
+                "time": "2014-01-24 09:41:38",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -661,6 +661,9 @@
                             "skin/frontend/base/default/js/tm/ajaxpro.js"
                         ]
                     ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
                     "changelog": ""
                 },
                 "license": [
