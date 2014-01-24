@@ -1549,19 +1549,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easytabs.git",
-                    "reference": "4dad76555a2a0ee0d1076046ddc13079a693d3c7"
+                    "reference": "2cb9586561fa4267d0d7c9d808f4636aefe7292d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/4dad76555a2a0ee0d1076046ddc13079a693d3c7",
-                    "reference": "4dad76555a2a0ee0d1076046ddc13079a693d3c7",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2cb9586561fa4267d0d7c9d808f4636aefe7292d",
+                    "reference": "2cb9586561fa4267d0d7c9d808f4636aefe7292d",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-01-24 13:35:24",
+                "time": "2014-01-24 13:48:56",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1594,8 +1594,8 @@
                             "skin/frontend/base/default/css/tm/easytabs.css"
                         ],
                         [
-                            "skin/frontend/base/default/css/tm/easytabs.js",
-                            "skin/frontend/base/default/css/tm/easytabs.js"
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
                         ]
                     ],
                     "changelog": ""
