@@ -1116,6 +1116,64 @@
                 }
             }
         },
+        "tm/cache": {
+            "dev-master": {
+                "name": "tm/cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cache.git",
+                    "reference": "6fec97efa61dd650a85b0913aecc69fe5be2b118"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/6fec97efa61dd650a85b0913aecc69fe5be2b118",
+                    "reference": "6fec97efa61dd650a85b0913aecc69fe5be2b118",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-24 08:01:38",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Cache",
+                            "app/code/local/TM/Cache"
+                        ],
+                        [
+                            "app/etc/modules/TM_Cache.xml",
+                            "app/etc/modules/TM_Cache.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Cache.csv",
+                            "app/locale/en_US/TM_Cache.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Full page cache",
+                "homepage": "https://github.com/tmhub/cache",
+                "support": {
+                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "issues": "https://github.com/tmhub/cache/issues"
+                }
+            }
+        },
         "tm/cdn": {
             "dev-master": {
                 "name": "tm/cdn",
@@ -1243,18 +1301,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "d12ee2cbee6d4ac7763ef49a4a3f9a702aecb6a2"
+                    "reference": "6561d29047e1ce8ca833df1afe88b4a296d632a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/d12ee2cbee6d4ac7763ef49a4a3f9a702aecb6a2",
-                    "reference": "d12ee2cbee6d4ac7763ef49a4a3f9a702aecb6a2",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/6561d29047e1ce8ca833df1afe88b4a296d632a5",
+                    "reference": "6561d29047e1ce8ca833df1afe88b4a296d632a5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-22 14:18:53",
+                "time": "2014-01-28 09:10:47",
                 "type": "magento-module",
                 "extra": {
                     "map": [
