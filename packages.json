@@ -2844,25 +2844,25 @@
             }
         },
         "tm/prozoom": {
-            "dev-master": {
+            "1.2.6": {
                 "name": "tm/prozoom",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prozoom.git",
-                    "reference": "834bbdf5fe6578430d9e5a5796f38268912c2e00"
+                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prozoom/zipball/834bbdf5fe6578430d9e5a5796f38268912c2e00",
-                    "reference": "834bbdf5fe6578430d9e5a5796f38268912c2e00",
+                    "url": "https://api.github.com/repos/tmhub/prozoom/zipball/5b197038807d077ac30a05337e4b38cbc1a9f657",
+                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-23 09:20:54",
+                "time": "2014-01-31 15:49:20",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2916,7 +2916,83 @@
                 "description": "JQZoom Evolution on prototype&scriptaculous",
                 "homepage": "https://github.com/tmhub/prozoom",
                 "support": {
-                    "source": "https://github.com/tmhub/prozoom/tree/master",
+                    "source": "https://github.com/tmhub/prozoom/tree/1.2.6",
+                    "issues": "https://github.com/tmhub/prozoom/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/prozoom",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prozoom.git",
+                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prozoom/zipball/5b197038807d077ac30a05337e4b38cbc1a9f657",
+                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-01-31 15:49:20",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Prozoom",
+                            "app/code/local/TM/Prozoom"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prozoom.xml",
+                            "app/design/frontend/base/default/layout/tm/prozoom.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prozoom",
+                            "app/design/frontend/base/default/template/tm/prozoom"
+                        ],
+                        [
+                            "app/etc/modules/TM_Prozoom.xml",
+                            "app/etc/modules/TM_Prozoom.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Prozoom.csv",
+                            "app/locale/en_US/TM_Prozoom.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prozoom.css",
+                            "skin/frontend/base/default/css/tm/prozoom.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/prozoom",
+                            "skin/frontend/base/default/images/tm/prozoom"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prototype.prozoom.js",
+                            "skin/frontend/base/default/js/tm/prototype.prozoom.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "JQZoom Evolution on prototype&scriptaculous",
+                "homepage": "https://github.com/tmhub/prozoom",
+                "support": {
+                    "source": "https://github.com/tmhub/prozoom/tree/1.2.6",
                     "issues": "https://github.com/tmhub/prozoom/issues"
                 }
             }
@@ -2985,18 +3061,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
-                    "reference": "76558921f7646d8eed4bd002bf5e138a5a92a8a6"
+                    "reference": "f483bdaedee845bc98f9a7cab9362f18441f0ff9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/76558921f7646d8eed4bd002bf5e138a5a92a8a6",
-                    "reference": "76558921f7646d8eed4bd002bf5e138a5a92a8a6",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/f483bdaedee845bc98f9a7cab9362f18441f0ff9",
+                    "reference": "f483bdaedee845bc98f9a7cab9362f18441f0ff9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-17 14:04:16",
+                "time": "2014-01-31 13:07:39",
                 "type": "magento-module",
                 "extra": {
                     "map": [
