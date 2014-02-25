@@ -7,13 +7,13 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "6c98e3eb1a9020f3c2ab065e71dc951429a5682a"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "6bb14270f14b9025829b2b2a472c33df820210ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/6c98e3eb1a9020f3c2ab065e71dc951429a5682a",
-                    "reference": "6c98e3eb1a9020f3c2ab065e71dc951429a5682a",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/6bb14270f14b9025829b2b2a472c33df820210ba",
+                    "reference": "6bb14270f14b9025829b2b2a472c33df820210ba",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -70,11 +70,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.0",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.1": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -82,13 +78,13 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "1b1462324b34ec3f64f25bfc37148c3df5b7346c"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "45d5f657777bc46123069893b1f7052baae0269d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/1b1462324b34ec3f64f25bfc37148c3df5b7346c",
-                    "reference": "1b1462324b34ec3f64f25bfc37148c3df5b7346c",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/45d5f657777bc46123069893b1f7052baae0269d",
+                    "reference": "45d5f657777bc46123069893b1f7052baae0269d",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -145,11 +141,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.1",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.2": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -157,13 +149,13 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "09f82f814b2f8b1fb7062f40e166cf96dcdb3db9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/7919f7f2eecd07d5009e7143429e902b7698c616",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/09f82f814b2f8b1fb7062f40e166cf96dcdb3db9",
+                    "reference": "09f82f814b2f8b1fb7062f40e166cf96dcdb3db9",
                     "shasum": ""
                 },
                 "require": {
@@ -223,11 +215,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.3": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -235,13 +223,13 @@
                 "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "5c30c0b446a573a909c0a8ef292416c6202a43f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/7919f7f2eecd07d5009e7143429e902b7698c616",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/5c30c0b446a573a909c0a8ef292416c6202a43f6",
+                    "reference": "5c30c0b446a573a909c0a8ef292416c6202a43f6",
                     "shasum": ""
                 },
                 "require": {
@@ -301,11 +289,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.3.1": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -313,7 +297,7 @@
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "457c9732b4fbe36e64c3e73c3db918612630d7c0"
                 },
                 "dist": {
@@ -379,11 +363,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3.1",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -391,13 +371,13 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "c054c00f07eae16b08e1d8fc3e4652b3b70163a4"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "21912467539f26f9ff871246d1c71b356fcee54a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/c054c00f07eae16b08e1d8fc3e4652b3b70163a4",
-                    "reference": "c054c00f07eae16b08e1d8fc3e4652b3b70163a4",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/21912467539f26f9ff871246d1c71b356fcee54a",
+                    "reference": "21912467539f26f9ff871246d1c71b356fcee54a",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -408,7 +388,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2014-02-01 09:21:45",
+                "time": "2014-02-24 23:33:43",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -455,11 +435,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "dev-deploy-without-update": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -467,7 +443,7 @@
                 "version_normalized": "dev-deploy-without-update",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "0f979922c9f88b2e522a2e8a1ac062f71c8b1f03"
                 },
                 "dist": {
@@ -519,11 +495,7 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
-                "description": "Composer installer for Magento modules",
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                "description": "Composer installer for Magento modules"
             },
             "dev-target": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -531,7 +503,7 @@
                 "version_normalized": "dev-target",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "dfde3853362f8843b8927d0a9ef488a7112c3740"
                 },
                 "dist": {
@@ -594,11 +566,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/target",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             }
         },
         "tm/ajaxpro": {
@@ -609,19 +577,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "5f9924165732905016371b355ab88d068e8ec96d"
+                    "reference": "303af2af49ff4f87db7b0c45a0e0c0b2e25d7a93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/5f9924165732905016371b355ab88d068e8ec96d",
-                    "reference": "5f9924165732905016371b355ab88d068e8ec96d",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/303af2af49ff4f87db7b0c45a0e0c0b2e25d7a93",
+                    "reference": "303af2af49ff4f87db7b0c45a0e0c0b2e25d7a93",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-01-28 15:11:03",
+                "time": "2014-02-25 08:07:12",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -677,11 +645,7 @@
                     }
                 ],
                 "description": "Templates Master AjaxPro module",
-                "homepage": "https://github.com/tmhub/ajaxpro",
-                "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
-                    "issues": "https://github.com/tmhub/ajaxpro/issues"
-                }
+                "homepage": "https://github.com/tmhub/ajaxpro"
             }
         },
         "tm/ajaxsearch": {
@@ -704,7 +668,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-02-03 10:23:49",
+                "time": "2014-02-03 10:17:15",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -757,11 +721,7 @@
                     }
                 ],
                 "description": "Templates Master AjaxSearch module",
-                "homepage": "https://github.com/tmhub/ajaxsearch",
-                "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
-                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
-                }
+                "homepage": "https://github.com/tmhub/ajaxsearch"
             }
         },
         "tm/akismet": {
@@ -813,11 +773,7 @@
                     }
                 ],
                 "description": "Templates Master Akismet integration module",
-                "homepage": "https://github.com/tmhub/akismet",
-                "support": {
-                    "source": "https://github.com/tmhub/akismet/tree/master",
-                    "issues": "https://github.com/tmhub/akismet/issues"
-                }
+                "homepage": "https://github.com/tmhub/akismet"
             }
         },
         "tm/argento": {
@@ -828,12 +784,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "763461b51086005cf30d46c9458a1fdcb6acdcfe"
+                    "reference": "3c18b498590da74e6cf38afa76ec1758d77f2d0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/763461b51086005cf30d46c9458a1fdcb6acdcfe",
-                    "reference": "763461b51086005cf30d46c9458a1fdcb6acdcfe",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/3c18b498590da74e6cf38afa76ec1758d77f2d0e",
+                    "reference": "3c18b498590da74e6cf38afa76ec1758d77f2d0e",
                     "shasum": ""
                 },
                 "require": {
@@ -855,7 +811,7 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-02-04 07:23:05",
+                "time": "2014-02-25 13:06:27",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -931,11 +887,7 @@
                     }
                 ],
                 "description": "Argento theme",
-                "homepage": "https://github.com/tmhub/argento",
-                "support": {
-                    "source": "https://github.com/tmhub/argento/tree/master",
-                    "issues": "https://github.com/tmhub/argento/issues"
-                }
+                "homepage": "https://github.com/tmhub/argento"
             }
         },
         "tm/askit": {
@@ -1032,11 +984,7 @@
                     }
                 ],
                 "description": "Templates Master Askit module",
-                "homepage": "https://github.com/tmhub/askit",
-                "support": {
-                    "source": "https://github.com/tmhub/askit/tree/master",
-                    "issues": "https://github.com/tmhub/askit/issues"
-                }
+                "homepage": "https://github.com/tmhub/askit"
             }
         },
         "tm/attributepages": {
@@ -1047,18 +995,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/attributepages.git",
-                    "reference": "e8c703b4dbd4eb76bccc12dca359dbd38fa719df"
+                    "reference": "d32edce100cfe94851d240d7b97566a4e37a35f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/e8c703b4dbd4eb76bccc12dca359dbd38fa719df",
-                    "reference": "e8c703b4dbd4eb76bccc12dca359dbd38fa719df",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/d32edce100cfe94851d240d7b97566a4e37a35f0",
+                    "reference": "d32edce100cfe94851d240d7b97566a4e37a35f0",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-28 15:15:55",
+                "time": "2014-02-21 08:09:15",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1110,11 +1058,7 @@
                     }
                 ],
                 "description": "Attribute and brand based pages",
-                "homepage": "https://github.com/tmhub/attributepages",
-                "support": {
-                    "source": "https://github.com/tmhub/attributepages/tree/master",
-                    "issues": "https://github.com/tmhub/attributepages/issues"
-                }
+                "homepage": "https://github.com/tmhub/attributepages"
             }
         },
         "tm/cache": {
@@ -1168,11 +1112,7 @@
                     }
                 ],
                 "description": "Full page cache",
-                "homepage": "https://github.com/tmhub/cache",
-                "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
-                    "issues": "https://github.com/tmhub/cache/issues"
-                }
+                "homepage": "https://github.com/tmhub/cache"
             }
         },
         "tm/cdn": {
@@ -1195,7 +1135,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-12-04 15:18:18",
+                "time": "2013-12-04 12:49:12",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1220,11 +1160,7 @@
                     }
                 ],
                 "description": "Templates Master CDN module",
-                "homepage": "https://github.com/tmhub/cdn",
-                "support": {
-                    "source": "https://github.com/tmhub/cdn/tree/master",
-                    "issues": "https://github.com/tmhub/cdn/issues"
-                }
+                "homepage": "https://github.com/tmhub/cdn"
             }
         },
         "tm/core": {
@@ -1235,18 +1171,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/core.git",
-                    "reference": "203028fa3afbefba2b502f646196f0817fcea17f"
+                    "reference": "31a76a4ac99ea8c14601e1d8af370e6efdab4672"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/203028fa3afbefba2b502f646196f0817fcea17f",
-                    "reference": "203028fa3afbefba2b502f646196f0817fcea17f",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/31a76a4ac99ea8c14601e1d8af370e6efdab4672",
+                    "reference": "31a76a4ac99ea8c14601e1d8af370e6efdab4672",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2014-01-28 15:17:28",
+                "time": "2014-02-25 13:07:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1287,11 +1223,7 @@
                     }
                 ],
                 "description": "Templates Master core functionality module",
-                "homepage": "https://github.com/tmhub/core",
-                "support": {
-                    "source": "https://github.com/tmhub/core/tree/master",
-                    "issues": "https://github.com/tmhub/core/issues"
-                }
+                "homepage": "https://github.com/tmhub/core"
             }
         },
         "tm/easybanner": {
@@ -1361,11 +1293,7 @@
                     }
                 ],
                 "description": "Banner management extension",
-                "homepage": "https://github.com/tmhub/easybanner",
-                "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/master",
-                    "issues": "https://github.com/tmhub/easybanner/issues"
-                }
+                "homepage": "https://github.com/tmhub/easybanner"
             }
         },
         "tm/easycatalogimg": {
@@ -1376,12 +1304,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycatalogimg.git",
-                    "reference": "09592820aa702b4fb40782f1008b7d2636968f39"
+                    "reference": "2e744d3d9437999ba5ec87255eb80459eb97d8c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/09592820aa702b4fb40782f1008b7d2636968f39",
-                    "reference": "09592820aa702b4fb40782f1008b7d2636968f39",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/2e744d3d9437999ba5ec87255eb80459eb97d8c2",
+                    "reference": "2e744d3d9437999ba5ec87255eb80459eb97d8c2",
                     "shasum": ""
                 },
                 "require": {
@@ -1433,11 +1361,7 @@
                     }
                 ],
                 "description": "Templates Master easy catalog images module",
-                "homepage": "https://github.com/tmhub/easycatalogimg",
-                "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.3.0",
-                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
-                }
+                "homepage": "https://github.com/tmhub/easycatalogimg"
             },
             "dev-master": {
                 "name": "tm/easycatalogimg",
@@ -1503,11 +1427,7 @@
                     }
                 ],
                 "description": "Templates Master easy catalog images module",
-                "homepage": "https://github.com/tmhub/easycatalogimg",
-                "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.3.0",
-                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
-                }
+                "homepage": "https://github.com/tmhub/easycatalogimg"
             }
         },
         "tm/easylightbox": {
@@ -1581,11 +1501,7 @@
                     }
                 ],
                 "description": "Lightbox library integration",
-                "homepage": "https://github.com/tmhub/easylightbox",
-                "support": {
-                    "source": "https://github.com/tmhub/easylightbox/tree/master",
-                    "issues": "https://github.com/tmhub/easylightbox/issues"
-                }
+                "homepage": "https://github.com/tmhub/easylightbox"
             }
         },
         "tm/easyslide": {
@@ -1596,12 +1512,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999"
+                    "reference": "d43315d54de26ee1ba70a3707e66e87a6a7e9565"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/41604aa3ab6384da04456e5f25d78754b95e0999",
-                    "reference": "41604aa3ab6384da04456e5f25d78754b95e0999",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/d43315d54de26ee1ba70a3707e66e87a6a7e9565",
+                    "reference": "d43315d54de26ee1ba70a3707e66e87a6a7e9565",
                     "shasum": ""
                 },
                 "require": {
@@ -1682,11 +1598,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/easyslide",
-                "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/2.1.3",
-                    "issues": "https://github.com/tmhub/easyslide/issues"
-                }
+                "homepage": "https://github.com/tmhub/easyslide"
             },
             "2.2.0": {
                 "name": "tm/easyslide",
@@ -1695,12 +1607,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "daea372c1893284f0fb4927628f2249f9e897991"
+                    "reference": "a6f7a930de7e0f99243e49cb9921702d7b527d56"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/daea372c1893284f0fb4927628f2249f9e897991",
-                    "reference": "daea372c1893284f0fb4927628f2249f9e897991",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/a6f7a930de7e0f99243e49cb9921702d7b527d56",
+                    "reference": "a6f7a930de7e0f99243e49cb9921702d7b527d56",
                     "shasum": ""
                 },
                 "require": {
@@ -1757,11 +1669,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/easyslide",
-                "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/2.2.0",
-                    "issues": "https://github.com/tmhub/easyslide/issues"
-                }
+                "homepage": "https://github.com/tmhub/easyslide"
             },
             "dev-master": {
                 "name": "tm/easyslide",
@@ -1832,11 +1740,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/easyslide",
-                "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/2.2.0",
-                    "issues": "https://github.com/tmhub/easyslide/issues"
-                }
+                "homepage": "https://github.com/tmhub/easyslide"
             }
         },
         "tm/easytabs": {
@@ -1847,19 +1751,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easytabs.git",
-                    "reference": "a2f846fe94a7da3436ebaf20c9a11c2a9bee0bab"
+                    "reference": "2511f79ec83291ea869c3c75f069a0f4973fd83f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a2f846fe94a7da3436ebaf20c9a11c2a9bee0bab",
-                    "reference": "a2f846fe94a7da3436ebaf20c9a11c2a9bee0bab",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2511f79ec83291ea869c3c75f069a0f4973fd83f",
+                    "reference": "2511f79ec83291ea869c3c75f069a0f4973fd83f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-01-28 15:20:45",
+                "time": "2014-02-25 13:11:26",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1908,11 +1812,7 @@
                     }
                 ],
                 "description": "Templates Master EasyTabs module",
-                "homepage": "https://github.com/tmhub/easytabs",
-                "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
-                    "issues": "https://github.com/tmhub/easytabs/issues"
-                }
+                "homepage": "https://github.com/tmhub/easytabs"
             }
         },
         "tm/email": {
@@ -1935,7 +1835,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-11-21 09:38:34",
+                "time": "2013-11-21 09:32:19",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1968,11 +1868,7 @@
                     }
                 ],
                 "description": "Templates Master Email module",
-                "homepage": "https://github.com/tmhub/email",
-                "support": {
-                    "source": "https://github.com/tmhub/email/tree/master",
-                    "issues": "https://github.com/tmhub/email/issues"
-                }
+                "homepage": "https://github.com/tmhub/email"
             }
         },
         "tm/facebooklb": {
@@ -2034,11 +1930,7 @@
                     }
                 ],
                 "description": "Facebook Like Button integration",
-                "homepage": "https://github.com/tmhub/facebooklb",
-                "support": {
-                    "source": "https://github.com/tmhub/facebooklb/tree/master",
-                    "issues": "https://github.com/tmhub/facebooklb/issues"
-                }
+                "homepage": "https://github.com/tmhub/facebooklb"
             }
         },
         "tm/firecheckout": {
@@ -2184,11 +2076,7 @@
                     }
                 ],
                 "description": "One step checkout module",
-                "homepage": "https://github.com/tmhub/firecheckout",
-                "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/2.5.3",
-                    "issues": "https://github.com/tmhub/firecheckout/issues"
-                }
+                "homepage": "https://github.com/tmhub/firecheckout"
             },
             "dev-master": {
                 "name": "tm/firecheckout",
@@ -2197,18 +2085,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "3b884adb1617dd5679a477a87063518defb03ebe"
+                    "reference": "35d8075cc2328ebeca49c3082bef071633f42ff9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3b884adb1617dd5679a477a87063518defb03ebe",
-                    "reference": "3b884adb1617dd5679a477a87063518defb03ebe",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/35d8075cc2328ebeca49c3082bef071633f42ff9",
+                    "reference": "35d8075cc2328ebeca49c3082bef071633f42ff9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-02-05 13:06:16",
+                "time": "2014-02-19 09:14:36",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2332,11 +2220,7 @@
                     }
                 ],
                 "description": "One step checkout module",
-                "homepage": "https://github.com/tmhub/firecheckout",
-                "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/2.5.3",
-                    "issues": "https://github.com/tmhub/firecheckout/issues"
-                }
+                "homepage": "https://github.com/tmhub/firecheckout"
             }
         },
         "tm/helpdesk": {
@@ -2347,12 +2231,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "e20bec714a0a425ceb28904fadee0e1d8ce32ef4"
+                    "reference": "298954aca705303023d7139893e4a95b655e1eb4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/e20bec714a0a425ceb28904fadee0e1d8ce32ef4",
-                    "reference": "e20bec714a0a425ceb28904fadee0e1d8ce32ef4",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/298954aca705303023d7139893e4a95b655e1eb4",
+                    "reference": "298954aca705303023d7139893e4a95b655e1eb4",
                     "shasum": ""
                 },
                 "require": {
@@ -2361,7 +2245,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-02-03 07:54:28",
+                "time": "2014-02-25 13:49:26",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2470,11 +2354,7 @@
                     }
                 ],
                 "description": "Templates Master Helpdesk module",
-                "homepage": "https://github.com/tmhub/helpdesk",
-                "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
-                    "issues": "https://github.com/tmhub/helpdesk/issues"
-                }
+                "homepage": "https://github.com/tmhub/helpdesk"
             }
         },
         "tm/highlight": {
@@ -2539,11 +2419,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/highlight",
-                "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/master",
-                    "issues": "https://github.com/tmhub/highlight/issues"
-                }
+                "homepage": "https://github.com/tmhub/highlight"
             }
         },
         "tm/lightboxpro": {
@@ -2619,11 +2495,7 @@
                     }
                 ],
                 "description": "Templates Master LightboxPro module",
-                "homepage": "https://github.com/tmhub/lightboxpro",
-                "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
-                    "issues": "https://github.com/tmhub/lightboxpro/issues"
-                }
+                "homepage": "https://github.com/tmhub/lightboxpro"
             }
         },
         "tm/mobileswitcher": {
@@ -2634,12 +2506,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/mobileswitcher.git",
-                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a"
+                    "reference": "6af560dbc95dccdac3db2a53d32da0ad3a0d3ea5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/mobileswitcher/zipball/5d8a52b79cfcb160882892dd8b448a2b354f478a",
-                    "reference": "5d8a52b79cfcb160882892dd8b448a2b354f478a",
+                    "url": "https://api.github.com/repos/tmhub/mobileswitcher/zipball/6af560dbc95dccdac3db2a53d32da0ad3a0d3ea5",
+                    "reference": "6af560dbc95dccdac3db2a53d32da0ad3a0d3ea5",
                     "shasum": ""
                 },
                 "require": {
@@ -2680,11 +2552,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/mobileswitcher",
-                "support": {
-                    "source": "https://github.com/tmhub/mobileswitcher/tree/1.0.0",
-                    "issues": "https://github.com/tmhub/mobileswitcher/issues"
-                }
+                "homepage": "https://github.com/tmhub/mobileswitcher"
             },
             "dev-master": {
                 "name": "tm/mobileswitcher",
@@ -2739,11 +2607,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/mobileswitcher",
-                "support": {
-                    "source": "https://github.com/tmhub/mobileswitcher/tree/1.0.0",
-                    "issues": "https://github.com/tmhub/mobileswitcher/issues"
-                }
+                "homepage": "https://github.com/tmhub/mobileswitcher"
             }
         },
         "tm/navigationpro": {
@@ -2825,11 +2689,7 @@
                     }
                 ],
                 "description": "Flexible navigation customization module",
-                "homepage": "https://github.com/tmhub/navigationpro",
-                "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/master",
-                    "issues": "https://github.com/tmhub/navigationpro/issues"
-                }
+                "homepage": "https://github.com/tmhub/navigationpro"
             }
         },
         "tm/prolabels": {
@@ -2907,11 +2767,7 @@
                     }
                 ],
                 "description": "Product labels and badges",
-                "homepage": "https://github.com/tmhub/prolabels",
-                "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/master",
-                    "issues": "https://github.com/tmhub/prolabels/issues"
-                }
+                "homepage": "https://github.com/tmhub/prolabels"
             }
         },
         "tm/prozoom": {
@@ -2922,12 +2778,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prozoom.git",
-                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657"
+                    "reference": "44752cb16b3a6718bc8cc0c40e10d7caacfc2dad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prozoom/zipball/5b197038807d077ac30a05337e4b38cbc1a9f657",
-                    "reference": "5b197038807d077ac30a05337e4b38cbc1a9f657",
+                    "url": "https://api.github.com/repos/tmhub/prozoom/zipball/44752cb16b3a6718bc8cc0c40e10d7caacfc2dad",
+                    "reference": "44752cb16b3a6718bc8cc0c40e10d7caacfc2dad",
                     "shasum": ""
                 },
                 "require": {
@@ -2985,11 +2841,7 @@
                     }
                 ],
                 "description": "JQZoom Evolution on prototype&scriptaculous",
-                "homepage": "https://github.com/tmhub/prozoom",
-                "support": {
-                    "source": "https://github.com/tmhub/prozoom/tree/1.2.6",
-                    "issues": "https://github.com/tmhub/prozoom/issues"
-                }
+                "homepage": "https://github.com/tmhub/prozoom"
             },
             "dev-master": {
                 "name": "tm/prozoom",
@@ -3061,11 +2913,7 @@
                     }
                 ],
                 "description": "JQZoom Evolution on prototype&scriptaculous",
-                "homepage": "https://github.com/tmhub/prozoom",
-                "support": {
-                    "source": "https://github.com/tmhub/prozoom/tree/1.2.6",
-                    "issues": "https://github.com/tmhub/prozoom/issues"
-                }
+                "homepage": "https://github.com/tmhub/prozoom"
             }
         },
         "tm/purify": {
@@ -3117,11 +2965,7 @@
                     }
                 ],
                 "description": "Templates Master Purify module(HTMLPurifier magento integrator)",
-                "homepage": "https://github.com/tmhub/purify",
-                "support": {
-                    "source": "https://github.com/tmhub/purify/tree/master",
-                    "issues": "https://github.com/tmhub/purify/issues"
-                }
+                "homepage": "https://github.com/tmhub/purify"
             }
         },
         "tm/quickshopping": {
@@ -3132,12 +2976,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
-                    "reference": "3deecc0889d0724918c90f7f2b0f1586a4346491"
+                    "reference": "f2a4a62e553fd0b644084a0f4c9bf1efaeb8bacc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/3deecc0889d0724918c90f7f2b0f1586a4346491",
-                    "reference": "3deecc0889d0724918c90f7f2b0f1586a4346491",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/f2a4a62e553fd0b644084a0f4c9bf1efaeb8bacc",
+                    "reference": "f2a4a62e553fd0b644084a0f4c9bf1efaeb8bacc",
                     "shasum": ""
                 },
                 "require": {
@@ -3187,11 +3031,7 @@
                     }
                 ],
                 "description": "Quick view popup for the product listing",
-                "homepage": "https://github.com/tmhub/quickshopping",
-                "support": {
-                    "source": "https://github.com/tmhub/quickshopping/tree/1.2.4",
-                    "issues": "https://github.com/tmhub/quickshopping/issues"
-                }
+                "homepage": "https://github.com/tmhub/quickshopping"
             },
             "dev-master": {
                 "name": "tm/quickshopping",
@@ -3255,11 +3095,7 @@
                     }
                 ],
                 "description": "Quick view popup for the product listing",
-                "homepage": "https://github.com/tmhub/quickshopping",
-                "support": {
-                    "source": "https://github.com/tmhub/quickshopping/tree/1.2.4",
-                    "issues": "https://github.com/tmhub/quickshopping/issues"
-                }
+                "homepage": "https://github.com/tmhub/quickshopping"
             }
         },
         "tm/reward": {
@@ -3323,11 +3159,7 @@
                     }
                 ],
                 "description": "Templates Master Reward module",
-                "homepage": "https://github.com/tmhub/reward",
-                "support": {
-                    "source": "https://github.com/tmhub/reward/tree/master",
-                    "issues": "https://github.com/tmhub/reward/issues"
-                }
+                "homepage": "https://github.com/tmhub/reward"
             }
         },
         "tm/richsnippets": {
@@ -3389,11 +3221,7 @@
                     }
                 ],
                 "description": "Google richsnippets integration",
-                "homepage": "https://github.com/tmhub/richsnippets",
-                "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/master",
-                    "issues": "https://github.com/tmhub/richsnippets/issues"
-                }
+                "homepage": "https://github.com/tmhub/richsnippets"
             }
         },
         "tm/secure": {
@@ -3416,7 +3244,7 @@
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2013-10-04 13:48:01",
+                "time": "2013-10-04 13:47:46",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3469,11 +3297,7 @@
                     }
                 ],
                 "description": "Templates Master Admin Secure module",
-                "homepage": "https://github.com/tmhub/secure",
-                "support": {
-                    "source": "https://github.com/tmhub/secure/tree/master",
-                    "issues": "https://github.com/tmhub/secure/issues"
-                }
+                "homepage": "https://github.com/tmhub/secure"
             }
         },
         "tm/smartsuggest": {
@@ -3548,11 +3372,7 @@
                     }
                 ],
                 "description": "Personalized products recommendations based on recent activity",
-                "homepage": "https://github.com/tmhub/smartsuggest",
-                "support": {
-                    "source": "https://github.com/tmhub/smartsuggest/tree/master",
-                    "issues": "https://github.com/tmhub/smartsuggest/issues"
-                }
+                "homepage": "https://github.com/tmhub/smartsuggest"
             }
         },
         "tm/soldtogether": {
@@ -3631,11 +3451,7 @@
                     }
                 ],
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
-                "homepage": "https://github.com/tmhub/soldtogether",
-                "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
-                    "issues": "https://github.com/tmhub/soldtogether/issues"
-                }
+                "homepage": "https://github.com/tmhub/soldtogether"
             }
         },
         "tm/suggestpage": {
@@ -3705,11 +3521,7 @@
                     }
                 ],
                 "description": "Page that can be shown after client adds product to the shopping cart",
-                "homepage": "https://github.com/tmhub/suggestpage",
-                "support": {
-                    "source": "https://github.com/tmhub/suggestpage/tree/master",
-                    "issues": "https://github.com/tmhub/suggestpage/issues"
-                }
+                "homepage": "https://github.com/tmhub/suggestpage"
             }
         },
         "tm/templatem001": {
@@ -3720,12 +3532,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/templatem001.git",
-                    "reference": "ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517"
+                    "reference": "e4d80f4a6613eb59c131b685e4aedd63bb9606fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517",
-                    "reference": "ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/e4d80f4a6613eb59c131b685e4aedd63bb9606fb",
+                    "reference": "e4d80f4a6613eb59c131b685e4aedd63bb9606fb",
                     "shasum": ""
                 },
                 "require": {
@@ -3773,11 +3585,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/templatem001",
-                "support": {
-                    "source": "https://github.com/tmhub/templatem001/tree/1.2.1",
-                    "issues": "https://github.com/tmhub/templatem001/issues"
-                }
+                "homepage": "https://github.com/tmhub/templatem001"
             },
             "dev-master": {
                 "name": "tm/templatem001",
@@ -3839,11 +3647,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "homepage": "https://github.com/tmhub/templatem001",
-                "support": {
-                    "source": "https://github.com/tmhub/templatem001/tree/1.2.1",
-                    "issues": "https://github.com/tmhub/templatem001/issues"
-                }
+                "homepage": "https://github.com/tmhub/templatem001"
             }
         }
     }
