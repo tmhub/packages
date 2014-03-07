@@ -385,30 +385,29 @@
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             },
-            "dev-master": {
+            "1.3.2": {
                 "name": "magento-hackathon/magento-composer-installer",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "21912467539f26f9ff871246d1c71b356fcee54a"
+                    "reference": "5a4e95b44b5f5b845b7f982b14d932b372bc9645"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/21912467539f26f9ff871246d1c71b356fcee54a",
-                    "reference": "21912467539f26f9ff871246d1c71b356fcee54a",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/5a4e95b44b5f5b845b7f982b14d932b372bc9645",
+                    "reference": "5a4e95b44b5f5b845b7f982b14d932b372bc9645",
                     "shasum": ""
                 },
                 "require-dev": {
                     "composer/composer": "*",
-                    "mikey179/vfsstream": "*",
                     "phpunit/phpunit": "*"
                 },
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2014-02-24 23:33:43",
+                "time": "2013-12-10 10:35:46",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -457,7 +456,159 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3.2",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "2.0.0-beta1": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "2.0.0-beta1",
+                "version_normalized": "2.0.0.0-beta1",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
+                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "composer/composer": "*",
+                    "mikey179/vfsstream": "*",
+                    "phpunit/phpunit": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/composer-command-integrator": "*"
+                },
+                "time": "2014-02-26 13:13:09",
+                "type": "composer-installer",
+                "extra": {
+                    "composer-command-registry": [
+                        "MagentoHackathon\\Composer\\Magento\\Command\\DeployCommand"
+                    ],
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "flyingmana@googlemail.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/2.0.0-beta1",
+                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
+                }
+            },
+            "dev-master": {
+                "name": "magento-hackathon/magento-composer-installer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
+                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
+                    "shasum": ""
+                },
+                "require-dev": {
+                    "composer/composer": "*",
+                    "mikey179/vfsstream": "*",
+                    "phpunit/phpunit": "*"
+                },
+                "suggest": {
+                    "magento-hackathon/composer-command-integrator": "*"
+                },
+                "time": "2014-02-26 13:13:09",
+                "type": "composer-installer",
+                "extra": {
+                    "composer-command-registry": [
+                        "MagentoHackathon\\Composer\\Magento\\Command\\DeployCommand"
+                    ],
+                    "class": "MagentoHackathon\\Composer\\Magento\\Installer"
+                },
+                "autoload": {
+                    "psr-0": {
+                        "MagentoHackathon\\Composer\\Magento": "src/"
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Daniel Fahlke aka Flyingmana",
+                        "email": "flyingmana@googlemail.com"
+                    },
+                    {
+                        "name": "Jörg Weller",
+                        "email": "weller@flagbit.de"
+                    },
+                    {
+                        "name": "Karl Spies",
+                        "email": "karl.spies@gmx.net"
+                    },
+                    {
+                        "name": "Tobias Vogt",
+                        "email": "tobi@webguys.de"
+                    },
+                    {
+                        "name": "David Fuhr",
+                        "email": "fuhr@flagbit.de"
+                    },
+                    {
+                        "name": "Vinai Kopp",
+                        "email": "vinai@netzarbeiter.com"
+                    }
+                ],
+                "description": "Composer installer for Magento modules",
+                "homepage": "https://github.com/magento-hackathon/magento-composer-installer",
+                "keywords": [
+                    "composer-installer",
+                    "magento"
+                ],
+                "support": {
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/2.0.0-beta1",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             },
@@ -816,12 +967,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "9bf4c665ef451a0d6a977fdfb001a7dd4e17c689"
+                    "reference": "7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/9bf4c665ef451a0d6a977fdfb001a7dd4e17c689",
-                    "reference": "9bf4c665ef451a0d6a977fdfb001a7dd4e17c689",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf",
+                    "reference": "7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf",
                     "shasum": ""
                 },
                 "require": {
@@ -843,7 +994,7 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-02-25 15:09:34",
+                "time": "2014-03-07 14:13:42",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -864,8 +1015,16 @@
                             "app/design/adminhtml/default/default/layout/argento.xml"
                         ],
                         [
-                            "app/design/frontend/argento",
-                            "app/design/frontend/argento"
+                            "app/design/frontend/argento/argento",
+                            "app/design/frontend/argento/argento"
+                        ],
+                        [
+                            "app/design/frontend/argento/default",
+                            "app/design/frontend/argento/default"
+                        ],
+                        [
+                            "app/design/frontend/argento/pure",
+                            "app/design/frontend/argento/pure"
                         ],
                         [
                             "app/etc/modules/TM_Argento.xml",
@@ -888,8 +1047,12 @@
                             "js/tm/adminhtml/argento"
                         ],
                         [
-                            "media/argento",
-                            "media/argento"
+                            "media/argento/argento",
+                            "media/argento/argento"
+                        ],
+                        [
+                            "media/argento/pure",
+                            "media/argento/pure"
                         ],
                         [
                             "media/easyslide/argento",
@@ -900,8 +1063,16 @@
                             "media/easybanner/argento"
                         ],
                         [
-                            "skin/frontend/argento",
-                            "skin/frontend/argento"
+                            "skin/frontend/argento/argento",
+                            "skin/frontend/argento/argento"
+                        ],
+                        [
+                            "skin/frontend/argento/default",
+                            "skin/frontend/argento/default"
+                        ],
+                        [
+                            "skin/frontend/argento/pure",
+                            "skin/frontend/argento/pure"
                         ]
                     ],
                     "magento-root-dir": ".",
@@ -922,6 +1093,62 @@
                 "homepage": "https://github.com/tmhub/argento"
             }
         },
+        "tm/argento_mage2cloud": {
+            "dev-master": {
+                "name": "tm/argento_mage2cloud",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento_mage2cloud.git",
+                    "reference": "043ac227e7dcdb6837200dbf3db729f528c01644"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/043ac227e7dcdb6837200dbf3db729f528c01644",
+                    "reference": "043ac227e7dcdb6837200dbf3db729f528c01644",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/helpdesk": "*"
+                },
+                "time": "2014-03-07 14:10:43",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ArgentoMage2Cloud",
+                            "app/code/local/TM/ArgentoMage2Cloud"
+                        ],
+                        [
+                            "app/design/frontend/argento/mage2cloud",
+                            "app/design/frontend/argento/mage2cloud"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml",
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml"
+                        ],
+                        [
+                            "skin/frontend/argento/mage2cloud",
+                            "skin/frontend/argento/mage2cloud"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Mage2Cloud theme",
+                "homepage": "https://github.com/tmhub/argento"
+            }
+        },
         "tm/askit": {
             "dev-master": {
                 "name": "tm/askit",
@@ -930,12 +1157,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "af94ac8c626e1fa0a4d164f723982902655f0899"
+                    "reference": "ad85476ef301e4fb92804562b56df1f326b713fe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/af94ac8c626e1fa0a4d164f723982902655f0899",
-                    "reference": "af94ac8c626e1fa0a4d164f723982902655f0899",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/ad85476ef301e4fb92804562b56df1f326b713fe",
+                    "reference": "ad85476ef301e4fb92804562b56df1f326b713fe",
                     "shasum": ""
                 },
                 "require": {
@@ -943,7 +1170,7 @@
                     "tm/akismet": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-02-03 13:37:48",
+                "time": "2014-02-28 14:56:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1327,18 +1554,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/core.git",
-                    "reference": "31a76a4ac99ea8c14601e1d8af370e6efdab4672"
+                    "reference": "11b1e00f1d51884c3cc9a3221abce0ca1a1fb7b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/31a76a4ac99ea8c14601e1d8af370e6efdab4672",
-                    "reference": "31a76a4ac99ea8c14601e1d8af370e6efdab4672",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/11b1e00f1d51884c3cc9a3221abce0ca1a1fb7b0",
+                    "reference": "11b1e00f1d51884c3cc9a3221abce0ca1a1fb7b0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*"
                 },
-                "time": "2014-02-25 13:07:48",
+                "time": "2014-03-07 13:18:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1390,18 +1617,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "c9b34e9b605696f1ee3d910045702bbacbee3a31"
+                    "reference": "709d87210e36e8d73df053ae7551b83261985618"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/c9b34e9b605696f1ee3d910045702bbacbee3a31",
-                    "reference": "c9b34e9b605696f1ee3d910045702bbacbee3a31",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/709d87210e36e8d73df053ae7551b83261985618",
+                    "reference": "709d87210e36e8d73df053ae7551b83261985618",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-28 15:17:59",
+                "time": "2014-03-03 09:29:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2311,18 +2538,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "35d8075cc2328ebeca49c3082bef071633f42ff9"
+                    "reference": "8f7d4ceff7846445742c53ee0732e505c42209de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/35d8075cc2328ebeca49c3082bef071633f42ff9",
-                    "reference": "35d8075cc2328ebeca49c3082bef071633f42ff9",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8f7d4ceff7846445742c53ee0732e505c42209de",
+                    "reference": "8f7d4ceff7846445742c53ee0732e505c42209de",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-02-19 09:14:36",
+                "time": "2014-03-06 10:20:44",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2457,12 +2684,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "298954aca705303023d7139893e4a95b655e1eb4"
+                    "reference": "3c18baaa125b45509725c750ab4f19ce43007413"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/298954aca705303023d7139893e4a95b655e1eb4",
-                    "reference": "298954aca705303023d7139893e4a95b655e1eb4",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/3c18baaa125b45509725c750ab4f19ce43007413",
+                    "reference": "3c18baaa125b45509725c750ab4f19ce43007413",
                     "shasum": ""
                 },
                 "require": {
@@ -2471,7 +2698,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-02-25 13:49:26",
+                "time": "2014-03-07 08:37:54",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2557,7 +2784,7 @@
                         ],
                         [
                             "skin/frontend/base/default/images/tm/helpmate",
-                            "skin/frontend/base/default/images/tm/hepmate"
+                            "skin/frontend/base/default/images/tm/helpmate"
                         ],
                         [
                             "skin/frontend/base/default/images/tm/knowledgebase",
@@ -2591,18 +2818,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "d286252372981b83a3f6d8e6d59bf49b1a7651f7"
+                    "reference": "0b444128905694c63a820fbfb6f7185f682ee0e3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/d286252372981b83a3f6d8e6d59bf49b1a7651f7",
-                    "reference": "d286252372981b83a3f6d8e6d59bf49b1a7651f7",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/0b444128905694c63a820fbfb6f7185f682ee0e3",
+                    "reference": "0b444128905694c63a820fbfb6f7185f682ee0e3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-14 10:00:37",
+                "time": "2014-03-03 09:31:04",
                 "type": "magento-module",
                 "extra": {
                     "map": [
