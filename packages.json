@@ -1155,19 +1155,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_mage2cloud.git",
-                    "reference": "2a1b5e9e1245021868d4395a62bb219309ed71f1"
+                    "reference": "d29121c688bd4b9d7f61cb8a74db37bce25144f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/2a1b5e9e1245021868d4395a62bb219309ed71f1",
-                    "reference": "2a1b5e9e1245021868d4395a62bb219309ed71f1",
+                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/d29121c688bd4b9d7f61cb8a74db37bce25144f9",
+                    "reference": "d29121c688bd4b9d7f61cb8a74db37bce25144f9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*",
                     "tm/helpdesk": "*"
                 },
-                "time": "2014-03-11 14:35:46",
+                "time": "2014-03-11 14:49:53",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2258,19 +2258,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easytabs.git",
-                    "reference": "4908e5c45a3cf350a5a8638a75da0bf7174f45f8"
+                    "reference": "5e75125d61a2b2f7e3e1d3bbe81426caa752e3ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/4908e5c45a3cf350a5a8638a75da0bf7174f45f8",
-                    "reference": "4908e5c45a3cf350a5a8638a75da0bf7174f45f8",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5e75125d61a2b2f7e3e1d3bbe81426caa752e3ce",
+                    "reference": "5e75125d61a2b2f7e3e1d3bbe81426caa752e3ce",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-02-25 15:43:30",
+                "time": "2014-03-11 15:52:03",
                 "type": "magento-module",
                 "extra": {
                     "map": [
