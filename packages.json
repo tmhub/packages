@@ -832,6 +832,80 @@
             }
         },
         "tm/ajaxsearch": {
+            "1.4.0": {
+                "name": "tm/ajaxsearch",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "e108d78073b47ba5d27986cc042cd26812d269a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/e108d78073b47ba5d27986cc042cd26812d269a4",
+                    "reference": "e108d78073b47ba5d27986cc042cd26812d269a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-03-12 15:41:20",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxSearch",
+                            "app/code/local/TM/AjaxSearch"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxsearch.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxsearch.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxsearch",
+                            "app/design/frontend/base/default/template/tm/ajaxsearch"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxSearch.xml",
+                            "app/etc/modules/TM_AjaxSearch.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxSearch.csv",
+                            "app/locale/en_US/TM_AjaxSearch.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/ajaxsearch.css",
+                            "skin/frontend/base/default/css/tm/ajaxsearch.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/ajaxsearch",
+                            "skin/frontend/base/default/images/tm/ajaxsearch"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/ajaxsearch.js",
+                            "skin/frontend/base/default/js/tm/ajaxsearch.js"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/ajaxsearch/xregexp-all.js",
+                            "skin/frontend/base/default/js/tm/ajaxsearch/xregexp-all.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch"
+            },
             "dev-master": {
                 "name": "tm/ajaxsearch",
                 "version": "dev-master",
@@ -839,19 +913,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "1bdd8fdc43cbc34904f1c030a11c690f40bbaa58"
+                    "reference": "a9e599cdc2c9278722c5de1bf35ee3355b642c3f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1bdd8fdc43cbc34904f1c030a11c690f40bbaa58",
-                    "reference": "1bdd8fdc43cbc34904f1c030a11c690f40bbaa58",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/a9e599cdc2c9278722c5de1bf35ee3355b642c3f",
+                    "reference": "a9e599cdc2c9278722c5de1bf35ee3355b642c3f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-02-03 10:17:15",
+                "time": "2014-03-12 15:41:20",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2592,18 +2666,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "1311908911177a7ae6b459a7fc8530366b7ed674"
+                    "reference": "3d1b8e8d12905aca63a4868f5a6563d809029ed3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/1311908911177a7ae6b459a7fc8530366b7ed674",
-                    "reference": "1311908911177a7ae6b459a7fc8530366b7ed674",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3d1b8e8d12905aca63a4868f5a6563d809029ed3",
+                    "reference": "3d1b8e8d12905aca63a4868f5a6563d809029ed3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-11 09:37:18",
+                "time": "2014-03-12 13:28:26",
                 "type": "magento-module",
                 "extra": {
                     "map": [
