@@ -2738,12 +2738,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "3c18baaa125b45509725c750ab4f19ce43007413"
+                    "reference": "41b3a22aab8e64ab1773840a72b7bd366c79ace4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/3c18baaa125b45509725c750ab4f19ce43007413",
-                    "reference": "3c18baaa125b45509725c750ab4f19ce43007413",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/41b3a22aab8e64ab1773840a72b7bd366c79ace4",
+                    "reference": "41b3a22aab8e64ab1773840a72b7bd366c79ace4",
                     "shasum": ""
                 },
                 "require": {
@@ -2752,7 +2752,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-03-07 08:37:54",
+                "time": "2014-03-12 07:52:34",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3540,6 +3540,70 @@
                 "description": "Quick view popup for the product listing",
                 "homepage": "https://github.com/tmhub/quickshopping"
             },
+            "1.2.5": {
+                "name": "tm/quickshopping",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/quickshopping.git",
+                    "reference": "fedd4b2610209ff9349196c055419bdb8adaae72"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/fedd4b2610209ff9349196c055419bdb8adaae72",
+                    "reference": "fedd4b2610209ff9349196c055419bdb8adaae72",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-12 09:20:29",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/QuickShopping",
+                            "app/code/local/TM/QuickShopping"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/quickshopping.xml",
+                            "app/design/frontend/base/default/layout/tm/quickshopping.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/quickshopping",
+                            "app/design/frontend/base/default/template/tm/quickshopping"
+                        ],
+                        [
+                            "app/etc/modules/TM_QuickShopping.xml",
+                            "app/etc/modules/TM_QuickShopping.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_QuickShopping.csv",
+                            "app/locale/en_US/TM_QuickShopping.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/quickshopping",
+                            "skin/frontend/base/default/tm/quickshopping"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Quick view popup for the product listing",
+                "homepage": "https://github.com/tmhub/quickshopping"
+            },
             "dev-master": {
                 "name": "tm/quickshopping",
                 "version": "dev-master",
@@ -3547,18 +3611,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
-                    "reference": "3deecc0889d0724918c90f7f2b0f1586a4346491"
+                    "reference": "871f1fbe422bec66e677badb8a3cbb255d54d1fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/3deecc0889d0724918c90f7f2b0f1586a4346491",
-                    "reference": "3deecc0889d0724918c90f7f2b0f1586a4346491",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/871f1fbe422bec66e677badb8a3cbb255d54d1fb",
+                    "reference": "871f1fbe422bec66e677badb8a3cbb255d54d1fb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-02-03 13:18:54",
+                "time": "2014-03-12 09:20:29",
                 "type": "magento-module",
                 "extra": {
                     "map": [
