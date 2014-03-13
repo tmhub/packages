@@ -1745,18 +1745,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "709d87210e36e8d73df053ae7551b83261985618"
+                    "reference": "ec4890f9317cd69ab91c46457f542e4055192523"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/709d87210e36e8d73df053ae7551b83261985618",
-                    "reference": "709d87210e36e8d73df053ae7551b83261985618",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/ec4890f9317cd69ab91c46457f542e4055192523",
+                    "reference": "ec4890f9317cd69ab91c46457f542e4055192523",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-03 09:29:48",
+                "time": "2014-03-13 08:35:36",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1765,12 +1765,12 @@
                             "app/code/local/TM/EasyBanner"
                         ],
                         [
-                            "app/design/adminhtml/default/default/template/easybanner",
-                            "app/design/adminhtml/default/default/template/easybanner"
+                            "app/design/adminhtml/default/default/template/tm/easybanner",
+                            "app/design/adminhtml/default/default/template/tm/easybanner"
                         ],
                         [
-                            "app/design/frontend/default/default/template/easybanner",
-                            "app/design/frontend/default/default/template/easybanner"
+                            "app/design/frontend/base/default/template/tm/easybanner",
+                            "app/design/frontend/base/default/template/tm/easybanner"
                         ],
                         [
                             "app/etc/modules/TM_EasyBanner.xml",
@@ -1789,9 +1789,6 @@
                             "media/easybanner"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
                     "changelog": ""
                 },
                 "license": [
