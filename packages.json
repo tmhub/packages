@@ -1041,12 +1041,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf"
+                    "reference": "35b45c1712294060d347e3bd91a5d1f894a56435"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf",
-                    "reference": "7c56cd284eea72428cae40d03ddf3fcbbf7cb3cf",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/35b45c1712294060d347e3bd91a5d1f894a56435",
+                    "reference": "35b45c1712294060d347e3bd91a5d1f894a56435",
                     "shasum": ""
                 },
                 "require": {
@@ -1068,7 +1068,7 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-03-07 14:13:42",
+                "time": "2014-03-13 08:46:08",
                 "type": "magento-module",
                 "extra": {
                     "map": [
