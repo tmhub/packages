@@ -543,13 +543,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a"
+                    "reference": "c89689ff8060e0a7d3da4af24b4d925a4a0cf78b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
-                    "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/c89689ff8060e0a7d3da4af24b4d925a4a0cf78b",
+                    "reference": "c89689ff8060e0a7d3da4af24b4d925a4a0cf78b",
                     "shasum": ""
+                },
+                "archive": {
+                    "exclude": [
+                        "/tests/FullStackTest"
+                    ]
                 },
                 "require-dev": {
                     "composer/composer": "*",
@@ -559,7 +564,7 @@
                 "suggest": {
                     "magento-hackathon/composer-command-integrator": "*"
                 },
-                "time": "2014-02-26 13:13:09",
+                "time": "2014-03-27 19:14:43",
                 "type": "composer-installer",
                 "extra": {
                     "composer-command-registry": [
@@ -608,7 +613,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/2.0.0-beta1",
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             },
@@ -760,19 +765,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "e37ae510eb42a179300eed5fe91c729ac77d67c2"
+                    "reference": "6f995c9d2296086dade53da2b1f6d23f695c1b8a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/e37ae510eb42a179300eed5fe91c729ac77d67c2",
-                    "reference": "e37ae510eb42a179300eed5fe91c729ac77d67c2",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/6f995c9d2296086dade53da2b1f6d23f695c1b8a",
+                    "reference": "6f995c9d2296086dade53da2b1f6d23f695c1b8a",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-03-21 14:25:26",
+                "time": "2014-03-26 13:31:51",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -913,19 +918,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "5c2fff74687e0fe3db66dbde4c997e029e41f945"
+                    "reference": "4d07fade8d998cd4d28828368672e9c53cd65e0c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/5c2fff74687e0fe3db66dbde4c997e029e41f945",
-                    "reference": "5c2fff74687e0fe3db66dbde4c997e029e41f945",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/4d07fade8d998cd4d28828368672e9c53cd65e0c",
+                    "reference": "4d07fade8d998cd4d28828368672e9c53cd65e0c",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-03-18 10:50:50",
+                "time": "2014-03-26 10:27:49",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1573,6 +1578,58 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache"
             },
+            "1.1.3": {
+                "name": "tm/cache",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cache.git",
+                    "reference": "3e36b55cb85b99d03ff93a954df289ea474f88a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/3e36b55cb85b99d03ff93a954df289ea474f88a7",
+                    "reference": "3e36b55cb85b99d03ff93a954df289ea474f88a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-28 08:52:27",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Cache",
+                            "app/code/local/TM/Cache"
+                        ],
+                        [
+                            "app/etc/modules/TM_Cache.xml",
+                            "app/etc/modules/TM_Cache.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Cache.csv",
+                            "app/locale/en_US/TM_Cache.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Full page cache",
+                "homepage": "https://github.com/tmhub/cache"
+            },
             "dev-master": {
                 "name": "tm/cache",
                 "version": "dev-master",
@@ -1580,18 +1637,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "e5531707c9bcf8a3cb94b70b6895633e43168e1e"
+                    "reference": "b9e2cd35c3a20dd93f25461f516766cd750d6878"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/e5531707c9bcf8a3cb94b70b6895633e43168e1e",
-                    "reference": "e5531707c9bcf8a3cb94b70b6895633e43168e1e",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/b9e2cd35c3a20dd93f25461f516766cd750d6878",
+                    "reference": "b9e2cd35c3a20dd93f25461f516766cd750d6878",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-17 13:50:18",
+                "time": "2014-03-28 08:52:27",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2322,6 +2379,76 @@
                 "description": "Templates Master EasyTabs module",
                 "homepage": "https://github.com/tmhub/easytabs"
             },
+            "2.1.1": {
+                "name": "tm/easytabs",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easytabs.git",
+                    "reference": "90d67a6c4715c1ce80f4a7f73bb167a6f34902b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/90d67a6c4715c1ce80f4a7f73bb167a6f34902b1",
+                    "reference": "90d67a6c4715c1ce80f4a7f73bb167a6f34902b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-03-24 09:29:44",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs"
+            },
             "dev-master": {
                 "name": "tm/easytabs",
                 "version": "dev-master",
@@ -2329,19 +2456,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easytabs.git",
-                    "reference": "398dd5e7be50c4e9aa61c2900a68e7c9907d8bfe"
+                    "reference": "1451cc35aa9514fdc57512177655de82d94b29f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/398dd5e7be50c4e9aa61c2900a68e7c9907d8bfe",
-                    "reference": "398dd5e7be50c4e9aa61c2900a68e7c9907d8bfe",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/1451cc35aa9514fdc57512177655de82d94b29f0",
+                    "reference": "1451cc35aa9514fdc57512177655de82d94b29f0",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-03-24 09:18:55",
+                "time": "2014-03-24 09:29:44",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2656,6 +2783,150 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout"
             },
+            "2.5.4": {
+                "name": "tm/firecheckout",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "15fb306535694b8a2ffc95245258d111902966a2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/15fb306535694b8a2ffc95245258d111902966a2",
+                    "reference": "15fb306535694b8a2ffc95245258d111902966a2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-28 09:00:24",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/FireCheckout",
+                            "app/code/local/TM/FireCheckout"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/firecheckout.xml",
+                            "app/design/adminhtml/default/default/layout/tm/firecheckout.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/firecheckout",
+                            "app/design/adminhtml/default/default/template/tm/firecheckout"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/firecheckout",
+                            "app/design/frontend/base/default/layout/tm/firecheckout"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/firecheckout.xml",
+                            "app/design/frontend/base/default/layout/tm/firecheckout.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/firecheckout",
+                            "app/design/frontend/base/default/template/tm/firecheckout"
+                        ],
+                        [
+                            "app/etc/modules/TM_FireCheckout.xml",
+                            "app/etc/modules/TM_FireCheckout.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_FireCheckout.csv",
+                            "app/locale/en_US/TM_FireCheckout.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/firecheckout",
+                            "js/tm/adminhtml/firecheckout"
+                        ],
+                        [
+                            "lib/MaxMind",
+                            "lib/MaxMind"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/firecheckout.css",
+                            "skin/frontend/base/default/css/tm/firecheckout.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/firecheckout",
+                            "skin/frontend/base/default/images/tm/firecheckout"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/firecheckout-compatibility.js",
+                            "skin/frontend/base/default/js/tm/firecheckout-compatibility.js"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/firecheckout.js",
+                            "skin/frontend/base/default/js/tm/firecheckout.js"
+                        ],
+                        [
+                            "app/code/local/TM/CheckoutFields",
+                            "app/code/local/TM/CheckoutFields"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/checkoutfields.xml",
+                            "app/design/adminhtml/default/default/layout/tm/checkoutfields.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/checkoutfields",
+                            "app/design/adminhtml/default/default/template/tm/checkoutfields"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/checkoutfields.xml",
+                            "app/design/frontend/base/default/layout/tm/checkoutfields.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/checkoutfields",
+                            "app/design/frontend/base/default/template/tm/checkoutfields"
+                        ],
+                        [
+                            "app/etc/modules/TM_CheckoutFields.xml",
+                            "app/etc/modules/TM_CheckoutFields.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_CheckoutFields.csv",
+                            "app/locale/en_US/TM_CheckoutFields.csv"
+                        ],
+                        [
+                            "app/code/local/TM/CheckoutSuccess",
+                            "app/code/local/TM/CheckoutSuccess"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/checkoutsuccess.xml",
+                            "app/design/frontend/base/default/layout/tm/checkoutsuccess.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/checkoutsuccess",
+                            "app/design/frontend/base/default/template/tm/checkoutsuccess"
+                        ],
+                        [
+                            "app/etc/modules/TM_CheckoutSuccess.xml",
+                            "app/etc/modules/TM_CheckoutSuccess.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_CheckoutSuccess.csv",
+                            "app/locale/en_US/TM_CheckoutSuccess.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout"
+            },
             "dev-master": {
                 "name": "tm/firecheckout",
                 "version": "dev-master",
@@ -2663,18 +2934,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "3d1b8e8d12905aca63a4868f5a6563d809029ed3"
+                    "reference": "8afe68518ac5114d53bb4ae71b160ed2d4b4b158"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3d1b8e8d12905aca63a4868f5a6563d809029ed3",
-                    "reference": "3d1b8e8d12905aca63a4868f5a6563d809029ed3",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8afe68518ac5114d53bb4ae71b160ed2d4b4b158",
+                    "reference": "8afe68518ac5114d53bb4ae71b160ed2d4b4b158",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-12 13:28:26",
+                "time": "2014-03-28 09:00:24",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2809,12 +3080,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "9ff1b8a47725e08a786dc47a8c96209f35d8dc66"
+                    "reference": "7332a63a488c874d3fd817149fd22ac9fdcadee8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/9ff1b8a47725e08a786dc47a8c96209f35d8dc66",
-                    "reference": "9ff1b8a47725e08a786dc47a8c96209f35d8dc66",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/7332a63a488c874d3fd817149fd22ac9fdcadee8",
+                    "reference": "7332a63a488c874d3fd817149fd22ac9fdcadee8",
                     "shasum": ""
                 },
                 "require": {
@@ -2823,7 +3094,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-03-21 09:59:21",
+                "time": "2014-03-26 15:32:04",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3189,6 +3460,86 @@
             }
         },
         "tm/navigationpro": {
+            "1.3.1": {
+                "name": "tm/navigationpro",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "104618a097cffdd10dc140340452d6c4a12dec72"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/104618a097cffdd10dc140340452d6c4a12dec72",
+                    "reference": "104618a097cffdd10dc140340452d6c4a12dec72",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-28 08:56:33",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/NavigationPro",
+                            "app/code/local/TM/NavigationPro"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml",
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/navigationpro",
+                            "app/design/adminhtml/default/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml",
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/navigationpro",
+                            "app/design/frontend/base/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/etc/modules/TM_NavigationPro.xml",
+                            "app/etc/modules/TM_NavigationPro.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_NavigationPro.csv",
+                            "app/locale/en_US/TM_NavigationPro.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/navigationpro.css",
+                            "skin/frontend/base/default/css/tm/navigationpro.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/navigationpro",
+                            "skin/frontend/base/default/images/tm/navigationpro"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/navigationpro.js",
+                            "skin/frontend/base/default/js/tm/navigationpro.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro"
+            },
             "dev-master": {
                 "name": "tm/navigationpro",
                 "version": "dev-master",
@@ -3196,18 +3547,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "b1c2371f9e3a44aa06e3d1675c58751091c3bdb6"
+                    "reference": "0d86bcee59dc1824317a0dd04395c3791512f9f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/b1c2371f9e3a44aa06e3d1675c58751091c3bdb6",
-                    "reference": "b1c2371f9e3a44aa06e3d1675c58751091c3bdb6",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/0d86bcee59dc1824317a0dd04395c3791512f9f0",
+                    "reference": "0d86bcee59dc1824317a0dd04395c3791512f9f0",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-19 11:12:13",
+                "time": "2014-03-28 08:56:33",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3675,6 +4026,70 @@
                 "description": "Quick view popup for the product listing",
                 "homepage": "https://github.com/tmhub/quickshopping"
             },
+            "1.2.6": {
+                "name": "tm/quickshopping",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/quickshopping.git",
+                    "reference": "853215aea91537720da029a9a1d2742af7f66083"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/853215aea91537720da029a9a1d2742af7f66083",
+                    "reference": "853215aea91537720da029a9a1d2742af7f66083",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-28 08:47:06",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/QuickShopping",
+                            "app/code/local/TM/QuickShopping"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/quickshopping.xml",
+                            "app/design/frontend/base/default/layout/tm/quickshopping.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/quickshopping",
+                            "app/design/frontend/base/default/template/tm/quickshopping"
+                        ],
+                        [
+                            "app/etc/modules/TM_QuickShopping.xml",
+                            "app/etc/modules/TM_QuickShopping.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_QuickShopping.csv",
+                            "app/locale/en_US/TM_QuickShopping.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/quickshopping",
+                            "skin/frontend/base/default/tm/quickshopping"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Quick view popup for the product listing",
+                "homepage": "https://github.com/tmhub/quickshopping"
+            },
             "dev-master": {
                 "name": "tm/quickshopping",
                 "version": "dev-master",
@@ -3682,18 +4097,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
-                    "reference": "cbbf0dc1f75f4304774554ea3b9523529ef5a017"
+                    "reference": "65a58e838ad827568f3fdf311d662e1df17a7e7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/cbbf0dc1f75f4304774554ea3b9523529ef5a017",
-                    "reference": "cbbf0dc1f75f4304774554ea3b9523529ef5a017",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/65a58e838ad827568f3fdf311d662e1df17a7e7f",
+                    "reference": "65a58e838ad827568f3fdf311d662e1df17a7e7f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-19 11:09:24",
+                "time": "2014-03-28 08:47:06",
                 "type": "magento-module",
                 "extra": {
                     "map": [
