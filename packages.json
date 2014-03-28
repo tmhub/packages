@@ -3207,6 +3207,69 @@
             }
         },
         "tm/highlight": {
+            "2.4.1": {
+                "name": "tm/highlight",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "7bec930ccb722d3d35e100902fa9208b01acff15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/7bec930ccb722d3d35e100902fa9208b01acff15",
+                    "reference": "7bec930ccb722d3d35e100902fa9208b01acff15",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-03-28 14:58:33",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight"
+            },
             "dev-master": {
                 "name": "tm/highlight",
                 "version": "dev-master",
@@ -3214,18 +3277,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "0b444128905694c63a820fbfb6f7185f682ee0e3"
+                    "reference": "27ea7eb24b895197fc4da600cc88aaf12121dac1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/0b444128905694c63a820fbfb6f7185f682ee0e3",
-                    "reference": "0b444128905694c63a820fbfb6f7185f682ee0e3",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/27ea7eb24b895197fc4da600cc88aaf12121dac1",
+                    "reference": "27ea7eb24b895197fc4da600cc88aaf12121dac1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-03 09:31:04",
+                "time": "2014-03-28 14:58:33",
                 "type": "magento-module",
                 "extra": {
                     "map": [
