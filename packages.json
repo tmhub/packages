@@ -7,13 +7,13 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "6c98e3eb1a9020f3c2ab065e71dc951429a5682a"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "6bb14270f14b9025829b2b2a472c33df820210ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/6c98e3eb1a9020f3c2ab065e71dc951429a5682a",
-                    "reference": "6c98e3eb1a9020f3c2ab065e71dc951429a5682a",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/6bb14270f14b9025829b2b2a472c33df820210ba",
+                    "reference": "6bb14270f14b9025829b2b2a472c33df820210ba",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -70,11 +70,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.0",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.1": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -82,13 +78,13 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "1b1462324b34ec3f64f25bfc37148c3df5b7346c"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "45d5f657777bc46123069893b1f7052baae0269d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/1b1462324b34ec3f64f25bfc37148c3df5b7346c",
-                    "reference": "1b1462324b34ec3f64f25bfc37148c3df5b7346c",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/45d5f657777bc46123069893b1f7052baae0269d",
+                    "reference": "45d5f657777bc46123069893b1f7052baae0269d",
                     "shasum": ""
                 },
                 "require-dev": {
@@ -145,11 +141,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.1",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.2": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -157,13 +149,13 @@
                 "version_normalized": "1.2.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "09f82f814b2f8b1fb7062f40e166cf96dcdb3db9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/7919f7f2eecd07d5009e7143429e902b7698c616",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/09f82f814b2f8b1fb7062f40e166cf96dcdb3db9",
+                    "reference": "09f82f814b2f8b1fb7062f40e166cf96dcdb3db9",
                     "shasum": ""
                 },
                 "require": {
@@ -223,11 +215,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.3": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -235,13 +223,13 @@
                 "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616"
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
+                    "reference": "5c30c0b446a573a909c0a8ef292416c6202a43f6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/7919f7f2eecd07d5009e7143429e902b7698c616",
-                    "reference": "7919f7f2eecd07d5009e7143429e902b7698c616",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/5c30c0b446a573a909c0a8ef292416c6202a43f6",
+                    "reference": "5c30c0b446a573a909c0a8ef292416c6202a43f6",
                     "shasum": ""
                 },
                 "require": {
@@ -301,11 +289,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.3.1": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -313,7 +297,7 @@
                 "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "457c9732b4fbe36e64c3e73c3db918612630d7c0"
                 },
                 "dist": {
@@ -379,11 +363,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3.1",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "1.3.2": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -391,7 +371,7 @@
                 "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "5a4e95b44b5f5b845b7f982b14d932b372bc9645"
                 },
                 "dist": {
@@ -454,11 +434,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/1.3.2",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "2.0.0-beta1": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -466,7 +442,7 @@
                 "version_normalized": "2.0.0.0-beta1",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "cae33cfb2a5dadc13794cc3e14fadfaedda9b84a"
                 },
                 "dist": {
@@ -530,11 +506,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/2.0.0-beta1",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "dev-master": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -542,7 +514,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "c89689ff8060e0a7d3da4af24b4d925a4a0cf78b"
                 },
                 "dist": {
@@ -611,11 +583,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/master",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             },
             "dev-deploy-without-update": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -623,7 +591,7 @@
                 "version_normalized": "dev-deploy-without-update",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "0f979922c9f88b2e522a2e8a1ac062f71c8b1f03"
                 },
                 "dist": {
@@ -675,11 +643,7 @@
                         "email": "vinai@netzarbeiter.com"
                     }
                 ],
-                "description": "Composer installer for Magento modules",
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/deploy-without-update",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                "description": "Composer installer for Magento modules"
             },
             "dev-target": {
                 "name": "magento-hackathon/magento-composer-installer",
@@ -687,7 +651,7 @@
                 "version_normalized": "dev-target",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
+                    "url": "git@github.com:magento-hackathon/magento-composer-installer.git",
                     "reference": "dfde3853362f8843b8927d0a9ef488a7112c3740"
                 },
                 "dist": {
@@ -750,11 +714,7 @@
                 "keywords": [
                     "composer-installer",
                     "magento"
-                ],
-                "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/target",
-                    "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
-                }
+                ]
             }
         },
         "tm/ajaxpro": {
@@ -3530,18 +3490,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "104618a097cffdd10dc140340452d6c4a12dec72"
+                    "reference": "2eb4bd6d043e94880f07fb1ca83567f508268ca3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/104618a097cffdd10dc140340452d6c4a12dec72",
-                    "reference": "104618a097cffdd10dc140340452d6c4a12dec72",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/2eb4bd6d043e94880f07fb1ca83567f508268ca3",
+                    "reference": "2eb4bd6d043e94880f07fb1ca83567f508268ca3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-28 08:56:33",
+                "time": "2014-03-28 15:20:04",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3610,18 +3570,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "0d86bcee59dc1824317a0dd04395c3791512f9f0"
+                    "reference": "3de3c5bfa0f51ce4f234e909cff2f8be56ae8bdf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/0d86bcee59dc1824317a0dd04395c3791512f9f0",
-                    "reference": "0d86bcee59dc1824317a0dd04395c3791512f9f0",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/3de3c5bfa0f51ce4f234e909cff2f8be56ae8bdf",
+                    "reference": "3de3c5bfa0f51ce4f234e909cff2f8be56ae8bdf",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-28 08:56:33",
+                "time": "2014-03-28 15:20:04",
                 "type": "magento-module",
                 "extra": {
                     "map": [
