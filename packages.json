@@ -766,19 +766,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "6f995c9d2296086dade53da2b1f6d23f695c1b8a"
+                    "reference": "467017e2ce81b4fa502d455f2c77c32d34e32f4f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/6f995c9d2296086dade53da2b1f6d23f695c1b8a",
-                    "reference": "6f995c9d2296086dade53da2b1f6d23f695c1b8a",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/467017e2ce81b4fa502d455f2c77c32d34e32f4f",
+                    "reference": "467017e2ce81b4fa502d455f2c77c32d34e32f4f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-03-26 13:31:51",
+                "time": "2014-04-01 14:42:24",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1047,12 +1047,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "b9ae1b2153c72fd145087bbdf900ab24cf6d08e4"
+                    "reference": "1fde18debf041339868e4469e81aa0e5494cab3c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/b9ae1b2153c72fd145087bbdf900ab24cf6d08e4",
-                    "reference": "b9ae1b2153c72fd145087bbdf900ab24cf6d08e4",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/1fde18debf041339868e4469e81aa0e5494cab3c",
+                    "reference": "1fde18debf041339868e4469e81aa0e5494cab3c",
                     "shasum": ""
                 },
                 "require": {
@@ -1074,7 +1074,7 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-03-24 08:16:42",
+                "time": "2014-04-01 09:30:55",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1291,12 +1291,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "ad85476ef301e4fb92804562b56df1f326b713fe"
+                    "reference": "d8b5cec4405f622fb4cadb78f04b8bc9df491cab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/ad85476ef301e4fb92804562b56df1f326b713fe",
-                    "reference": "ad85476ef301e4fb92804562b56df1f326b713fe",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/d8b5cec4405f622fb4cadb78f04b8bc9df491cab",
+                    "reference": "d8b5cec4405f622fb4cadb78f04b8bc9df491cab",
                     "shasum": ""
                 },
                 "require": {
@@ -1304,7 +1304,7 @@
                     "tm/akismet": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-02-28 14:56:48",
+                "time": "2014-04-01 14:07:35",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3007,18 +3007,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "a40caf9596dbcc227a96d655d3558f52237561d0"
+                    "reference": "97c0961e7f9416b016eb24a30c114b062a0127bb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a40caf9596dbcc227a96d655d3558f52237561d0",
-                    "reference": "a40caf9596dbcc227a96d655d3558f52237561d0",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/97c0961e7f9416b016eb24a30c114b062a0127bb",
+                    "reference": "97c0961e7f9416b016eb24a30c114b062a0127bb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-03-28 11:14:08",
+                "time": "2014-04-01 13:17:36",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3287,18 +3287,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "009b9f3e408b468f002b220383f3d5c1ffd64c4c"
+                    "reference": "95d63c481ac0fe152e489c093f10ba4fc2fa1469"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/009b9f3e408b468f002b220383f3d5c1ffd64c4c",
-                    "reference": "009b9f3e408b468f002b220383f3d5c1ffd64c4c",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/95d63c481ac0fe152e489c093f10ba4fc2fa1469",
+                    "reference": "95d63c481ac0fe152e489c093f10ba4fc2fa1469",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-04-01 08:50:26",
+                "time": "2014-04-02 09:40:22",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3350,18 +3350,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "2f05866291d8e46b97152b1c281d1e58a4820957"
+                    "reference": "e92554dc8f645e1bf07d65a195fa89a676f0e8bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/2f05866291d8e46b97152b1c281d1e58a4820957",
-                    "reference": "2f05866291d8e46b97152b1c281d1e58a4820957",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/e92554dc8f645e1bf07d65a195fa89a676f0e8bf",
+                    "reference": "e92554dc8f645e1bf07d65a195fa89a676f0e8bf",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-04-01 08:50:26",
+                "time": "2014-04-02 09:40:22",
                 "type": "magento-module",
                 "extra": {
                     "map": [
