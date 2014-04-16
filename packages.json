@@ -1122,19 +1122,19 @@
             }
         },
         "tm/argento": {
-            "dev-master": {
+            "1.5.0": {
                 "name": "tm/argento",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "b97498cda3a182f502afaf98e152a486b00d0ce7"
+                    "reference": "8d47e604c25dbf052dbf35234b541c01e3870ee7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/b97498cda3a182f502afaf98e152a486b00d0ce7",
-                    "reference": "b97498cda3a182f502afaf98e152a486b00d0ce7",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/8d47e604c25dbf052dbf35234b541c01e3870ee7",
+                    "reference": "8d47e604c25dbf052dbf35234b541c01e3870ee7",
                     "shasum": ""
                 },
                 "require": {
@@ -1156,7 +1156,152 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-04-15 12:47:49",
+                "time": "2014-04-16 07:41:24",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Argento",
+                            "app/code/local/TM/Argento"
+                        ],
+                        [
+                            "app/code/local/TM/ArgentoArgento",
+                            "app/code/local/TM/ArgentoArgento"
+                        ],
+                        [
+                            "app/code/local/TM/ArgentoMall",
+                            "app/code/local/TM/ArgentoMall"
+                        ],
+                        [
+                            "app/code/local/TM/ArgentoPure",
+                            "app/code/local/TM/ArgentoPure"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/argento.xml",
+                            "app/design/adminhtml/default/default/layout/argento.xml"
+                        ],
+                        [
+                            "app/design/frontend/argento/argento",
+                            "app/design/frontend/argento/argento"
+                        ],
+                        [
+                            "app/design/frontend/argento/default",
+                            "app/design/frontend/argento/default"
+                        ],
+                        [
+                            "app/design/frontend/argento/mall",
+                            "app/design/frontend/argento/mall"
+                        ],
+                        [
+                            "app/design/frontend/argento/pure",
+                            "app/design/frontend/argento/pure"
+                        ],
+                        [
+                            "app/etc/modules/TM_Argento.xml",
+                            "app/etc/modules/TM_Argento.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoArgento.xml",
+                            "app/etc/modules/TM_ArgentoArgento.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoMall.xml",
+                            "app/etc/modules/TM_ArgentoMall.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoPure.xml",
+                            "app/etc/modules/TM_ArgentoPure.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Argento.csv",
+                            "app/locale/en_US/TM_Argento.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/argento",
+                            "js/tm/adminhtml/argento"
+                        ],
+                        [
+                            "media/argento/argento",
+                            "media/argento/argento"
+                        ],
+                        [
+                            "media/argento/pure",
+                            "media/argento/pure"
+                        ],
+                        [
+                            "media/easyslide/argento",
+                            "media/easyslide/argento"
+                        ],
+                        [
+                            "media/easybanner/argento",
+                            "media/easybanner/argento"
+                        ],
+                        [
+                            "skin/frontend/argento/argento",
+                            "skin/frontend/argento/argento"
+                        ],
+                        [
+                            "skin/frontend/argento/default",
+                            "skin/frontend/argento/default"
+                        ],
+                        [
+                            "skin/frontend/argento/mall",
+                            "skin/frontend/argento/mall"
+                        ],
+                        [
+                            "skin/frontend/argento/pure",
+                            "skin/frontend/argento/pure"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento"
+            },
+            "dev-master": {
+                "name": "tm/argento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento.git",
+                    "reference": "44fa4a7042a53abaaef948d071dab2f1d69af4a2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/44fa4a7042a53abaaef948d071dab2f1d69af4a2",
+                    "reference": "44fa4a7042a53abaaef948d071dab2f1d69af4a2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajaxpro": "*",
+                    "tm/ajaxsearch": "*",
+                    "tm/askit": "*",
+                    "tm/attributepages": "*",
+                    "tm/core": "*",
+                    "tm/easybanner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigationpro": "*",
+                    "tm/prolabels": "*",
+                    "tm/richsnippets": "*",
+                    "tm/soldtogether": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-04-16 07:41:24",
                 "type": "magento-module",
                 "extra": {
                     "map": [
