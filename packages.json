@@ -1444,12 +1444,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "a981cfbd32cefa0d68b69a1b563526a70717ce3a"
+                    "reference": "d015e680aafe8fd2938b15557037fedf0ab2849f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/a981cfbd32cefa0d68b69a1b563526a70717ce3a",
-                    "reference": "a981cfbd32cefa0d68b69a1b563526a70717ce3a",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/d015e680aafe8fd2938b15557037fedf0ab2849f",
+                    "reference": "d015e680aafe8fd2938b15557037fedf0ab2849f",
                     "shasum": ""
                 },
                 "require": {
@@ -1471,7 +1471,7 @@
                     "tm/soldtogether": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-04-29 13:39:57",
+                "time": "2014-04-30 07:32:21",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3541,18 +3541,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "938a56addca43310145c2cf7db7718ea70046bb0"
+                    "reference": "e8b1c398f660aae025db2cbc022bbd1f4996550d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/938a56addca43310145c2cf7db7718ea70046bb0",
-                    "reference": "938a56addca43310145c2cf7db7718ea70046bb0",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e8b1c398f660aae025db2cbc022bbd1f4996550d",
+                    "reference": "e8b1c398f660aae025db2cbc022bbd1f4996550d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-04-23 07:36:24",
+                "time": "2014-04-30 09:11:55",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3687,12 +3687,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "aed0b9e76d39936ec57d9208413503ce0f30286d"
+                    "reference": "d8d57ac48c7cf052b9885f323ca91aaed3d57e39"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/aed0b9e76d39936ec57d9208413503ce0f30286d",
-                    "reference": "aed0b9e76d39936ec57d9208413503ce0f30286d",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/d8d57ac48c7cf052b9885f323ca91aaed3d57e39",
+                    "reference": "d8d57ac48c7cf052b9885f323ca91aaed3d57e39",
                     "shasum": ""
                 },
                 "require": {
@@ -3701,7 +3701,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-04-29 13:27:33",
+                "time": "2014-04-29 15:03:15",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4210,25 +4210,25 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro"
             },
-            "dev-master": {
+            "1.3.2": {
                 "name": "tm/navigationpro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "08316d4ab128f7d21cda4dc89383a080bec8f01c"
+                    "reference": "9d5ed66191f3396facfed970544dae14f56fc047"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/08316d4ab128f7d21cda4dc89383a080bec8f01c",
-                    "reference": "08316d4ab128f7d21cda4dc89383a080bec8f01c",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/9d5ed66191f3396facfed970544dae14f56fc047",
+                    "reference": "9d5ed66191f3396facfed970544dae14f56fc047",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-04-16 13:03:55",
+                "time": "2014-04-30 11:46:38",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4273,9 +4273,83 @@
                             "skin/frontend/base/default/js/tm/navigationpro.js"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro"
+            },
+            "dev-master": {
+                "name": "tm/navigationpro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "b385f2a2d8f1d4f7533142d337e55e76d9a2f6dd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/b385f2a2d8f1d4f7533142d337e55e76d9a2f6dd",
+                    "reference": "b385f2a2d8f1d4f7533142d337e55e76d9a2f6dd",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-04-30 11:46:38",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/NavigationPro",
+                            "app/code/local/TM/NavigationPro"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml",
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/navigationpro",
+                            "app/design/adminhtml/default/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml",
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/navigationpro",
+                            "app/design/frontend/base/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/etc/modules/TM_NavigationPro.xml",
+                            "app/etc/modules/TM_NavigationPro.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_NavigationPro.csv",
+                            "app/locale/en_US/TM_NavigationPro.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/navigationpro.css",
+                            "skin/frontend/base/default/css/tm/navigationpro.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/navigationpro",
+                            "skin/frontend/base/default/images/tm/navigationpro"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/navigationpro.js",
+                            "skin/frontend/base/default/js/tm/navigationpro.js"
+                        ]
+                    ],
                     "changelog": ""
                 },
                 "license": [
