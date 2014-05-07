@@ -3059,6 +3059,76 @@
                 "description": "Templates Master EasyTabs module",
                 "homepage": "https://github.com/tmhub/easytabs"
             },
+            "2.2.0": {
+                "name": "tm/easytabs",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easytabs.git",
+                    "reference": "2e9e76167ba919098fb38aecbeaf1f6cae5e5ead"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2e9e76167ba919098fb38aecbeaf1f6cae5e5ead",
+                    "reference": "2e9e76167ba919098fb38aecbeaf1f6cae5e5ead",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-05-07 09:36:20",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs"
+            },
             "dev-master": {
                 "name": "tm/easytabs",
                 "version": "dev-master",
@@ -3066,19 +3136,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easytabs.git",
-                    "reference": "776c471d3b1b0a1b3da7e246440cd03c62f5863d"
+                    "reference": "f02ff79b41e6626f7927d5b77bbd0c95d3defd3c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/776c471d3b1b0a1b3da7e246440cd03c62f5863d",
-                    "reference": "776c471d3b1b0a1b3da7e246440cd03c62f5863d",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/f02ff79b41e6626f7927d5b77bbd0c95d3defd3c",
+                    "reference": "f02ff79b41e6626f7927d5b77bbd0c95d3defd3c",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-05-07 08:31:46",
+                "time": "2014-05-07 09:36:20",
                 "type": "magento-module",
                 "extra": {
                     "map": [
