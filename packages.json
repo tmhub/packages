@@ -4750,18 +4750,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
-                    "reference": "97a10e502b285fefc9d0dc03b76d61b48b617a66"
+                    "reference": "1d79cecf11f69420fdc576d5ae128d5fa13b88dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/97a10e502b285fefc9d0dc03b76d61b48b617a66",
-                    "reference": "97a10e502b285fefc9d0dc03b76d61b48b617a66",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/1d79cecf11f69420fdc576d5ae128d5fa13b88dd",
+                    "reference": "1d79cecf11f69420fdc576d5ae128d5fa13b88dd",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-13 13:36:23",
+                "time": "2014-05-14 13:13:35",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4774,12 +4774,12 @@
                             "app/design/adminhtml/default/default/template/prolabels"
                         ],
                         [
-                            "app/design/frontend/default/default/layout/prolabels.xml",
-                            "app/design/frontend/default/default/layout/prolabels.xml"
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
                         ],
                         [
-                            "app/design/frontend/default/default/template/prolabels",
-                            "app/design/frontend/default/default/template/prolabels"
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
                         ],
                         [
                             "app/etc/modules/TM_ProLabels.xml",
@@ -4794,17 +4794,26 @@
                             "js/tm/adminhtml/prolabels"
                         ],
                         [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
                             "media/prolabel",
                             "media/prolabel"
                         ],
                         [
-                            "skin/frontend/default/default/css/prolabel.css",
-                            "skin/frontend/default/default/css/prolabel.css"
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
                     "changelog": ""
                 },
                 "license": [
