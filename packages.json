@@ -5915,19 +5915,19 @@
                 ],
                 "homepage": "https://github.com/tmhub/templatem001"
             },
-            "dev-master": {
+            "1.3.0": {
                 "name": "tm/templatem001",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/templatem001.git",
-                    "reference": "ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517"
+                    "reference": "25bf9b6bc1174ea9cc3785e3ad3c9e4e715665ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517",
-                    "reference": "ca81eaeb34bd4bfb95f3ea52edd28e556cd0d517",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/25bf9b6bc1174ea9cc3785e3ad3c9e4e715665ab",
+                    "reference": "25bf9b6bc1174ea9cc3785e3ad3c9e4e715665ab",
                     "shasum": ""
                 },
                 "require": {
@@ -5936,7 +5936,7 @@
                     "tm/highlight": "*",
                     "tm/mobileswitcher": "*"
                 },
-                "time": "2014-01-17 12:38:49",
+                "time": "2014-05-15 11:51:48",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -5961,9 +5961,65 @@
                             "skin/frontend/default/m001"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/templatem001"
+            },
+            "dev-master": {
+                "name": "tm/templatem001",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/templatem001.git",
+                    "reference": "c422b636d0b196a966ca7d8f89797db5709cae8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/c422b636d0b196a966ca7d8f89797db5709cae8f",
+                    "reference": "c422b636d0b196a966ca7d8f89797db5709cae8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easyslide": "*",
+                    "tm/highlight": "*",
+                    "tm/mobileswitcher": "*"
+                },
+                "time": "2014-05-15 11:51:48",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Templatem001",
+                            "app/code/local/TM/Templatem001"
+                        ],
+                        [
+                            "app/design/frontend/default/m001",
+                            "app/design/frontend/default/m001"
+                        ],
+                        [
+                            "app/etc/modules/TM_Templatem001.xml",
+                            "app/etc/modules/TM_Templatem001.xml"
+                        ],
+                        [
+                            "media/easyslide/m001",
+                            "media/easyslide/m001"
+                        ],
+                        [
+                            "skin/frontend/default/m001",
+                            "skin/frontend/default/m001"
+                        ]
+                    ],
                     "changelog": ""
                 },
                 "license": [
