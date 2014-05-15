@@ -3914,6 +3914,147 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout"
             },
+            "2.5.5.1": {
+                "name": "tm/firecheckout",
+                "version": "2.5.5.1",
+                "version_normalized": "2.5.5.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "3bb19687a4b06dc80064037f24867044fa9f1376"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3bb19687a4b06dc80064037f24867044fa9f1376",
+                    "reference": "3bb19687a4b06dc80064037f24867044fa9f1376",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-15 14:22:30",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/FireCheckout",
+                            "app/code/local/TM/FireCheckout"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/firecheckout.xml",
+                            "app/design/adminhtml/default/default/layout/tm/firecheckout.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/firecheckout",
+                            "app/design/adminhtml/default/default/template/tm/firecheckout"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/firecheckout",
+                            "app/design/frontend/base/default/layout/tm/firecheckout"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/firecheckout.xml",
+                            "app/design/frontend/base/default/layout/tm/firecheckout.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/firecheckout",
+                            "app/design/frontend/base/default/template/tm/firecheckout"
+                        ],
+                        [
+                            "app/etc/modules/TM_FireCheckout.xml",
+                            "app/etc/modules/TM_FireCheckout.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_FireCheckout.csv",
+                            "app/locale/en_US/TM_FireCheckout.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/firecheckout",
+                            "js/tm/adminhtml/firecheckout"
+                        ],
+                        [
+                            "lib/MaxMind",
+                            "lib/MaxMind"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/firecheckout.css",
+                            "skin/frontend/base/default/css/tm/firecheckout.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/firecheckout",
+                            "skin/frontend/base/default/images/tm/firecheckout"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/firecheckout-compatibility.js",
+                            "skin/frontend/base/default/js/tm/firecheckout-compatibility.js"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/firecheckout.js",
+                            "skin/frontend/base/default/js/tm/firecheckout.js"
+                        ],
+                        [
+                            "app/code/local/TM/CheckoutFields",
+                            "app/code/local/TM/CheckoutFields"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/checkoutfields.xml",
+                            "app/design/adminhtml/default/default/layout/tm/checkoutfields.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/checkoutfields",
+                            "app/design/adminhtml/default/default/template/tm/checkoutfields"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/checkoutfields.xml",
+                            "app/design/frontend/base/default/layout/tm/checkoutfields.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/checkoutfields",
+                            "app/design/frontend/base/default/template/tm/checkoutfields"
+                        ],
+                        [
+                            "app/etc/modules/TM_CheckoutFields.xml",
+                            "app/etc/modules/TM_CheckoutFields.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_CheckoutFields.csv",
+                            "app/locale/en_US/TM_CheckoutFields.csv"
+                        ],
+                        [
+                            "app/code/local/TM/CheckoutSuccess",
+                            "app/code/local/TM/CheckoutSuccess"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/checkoutsuccess.xml",
+                            "app/design/frontend/base/default/layout/tm/checkoutsuccess.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/checkoutsuccess",
+                            "app/design/frontend/base/default/template/tm/checkoutsuccess"
+                        ],
+                        [
+                            "app/etc/modules/TM_CheckoutSuccess.xml",
+                            "app/etc/modules/TM_CheckoutSuccess.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_CheckoutSuccess.csv",
+                            "app/locale/en_US/TM_CheckoutSuccess.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout"
+            },
             "dev-master": {
                 "name": "tm/firecheckout",
                 "version": "dev-master",
@@ -3921,18 +4062,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "518e1a3de61ace0c9620f25805c05782be8edb99"
+                    "reference": "6697ee94eff6d0ea16c8445bd0e10777d1e49850"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/518e1a3de61ace0c9620f25805c05782be8edb99",
-                    "reference": "518e1a3de61ace0c9620f25805c05782be8edb99",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/6697ee94eff6d0ea16c8445bd0e10777d1e49850",
+                    "reference": "6697ee94eff6d0ea16c8445bd0e10777d1e49850",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-13 12:56:46",
+                "time": "2014-05-15 13:35:17",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4064,12 +4205,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "841cc4e6bd6fcfff4b09ab008f45902aa3a3709c"
+                    "reference": "99ea6c8f26a5c6f1dbf7c730903ce07bda7b2a60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/841cc4e6bd6fcfff4b09ab008f45902aa3a3709c",
-                    "reference": "841cc4e6bd6fcfff4b09ab008f45902aa3a3709c",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/99ea6c8f26a5c6f1dbf7c730903ce07bda7b2a60",
+                    "reference": "99ea6c8f26a5c6f1dbf7c730903ce07bda7b2a60",
                     "shasum": ""
                 },
                 "require": {
@@ -4078,7 +4219,7 @@
                     "tm/core": "*",
                     "tm/purify": "*"
                 },
-                "time": "2014-05-13 12:52:49",
+                "time": "2014-05-15 13:23:08",
                 "type": "magento-module",
                 "extra": {
                     "map": [
