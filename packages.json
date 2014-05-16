@@ -4395,25 +4395,25 @@
                 ],
                 "homepage": "https://github.com/tmhub/highlight"
             },
-            "dev-master": {
+            "2.4.2": {
                 "name": "tm/highlight",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "f41d80b2b5cc0fc186c0dfa4cc0d072530c5dd6b"
+                    "reference": "82523625c2f8912480a2827962c15d8ae0c120c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/f41d80b2b5cc0fc186c0dfa4cc0d072530c5dd6b",
-                    "reference": "f41d80b2b5cc0fc186c0dfa4cc0d072530c5dd6b",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/82523625c2f8912480a2827962c15d8ae0c120c4",
+                    "reference": "82523625c2f8912480a2827962c15d8ae0c120c4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-04-14 11:47:15",
+                "time": "2014-05-16 12:57:29",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4442,9 +4442,66 @@
                             "skin/frontend/base/default/css/tm/highlight.css"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight"
+            },
+            "dev-master": {
+                "name": "tm/highlight",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "f343472a386c2fda38d94ac9a7aa67ec617969f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/f343472a386c2fda38d94ac9a7aa67ec617969f4",
+                    "reference": "f343472a386c2fda38d94ac9a7aa67ec617969f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-16 12:57:29",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
                     "changelog": ""
                 },
                 "license": [
@@ -4805,6 +4862,83 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro"
             },
+            "1.3.2.1": {
+                "name": "tm/navigationpro",
+                "version": "1.3.2.1",
+                "version_normalized": "1.3.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "e1a751354d365e77002edf009a5af4eebc0f2c82"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/e1a751354d365e77002edf009a5af4eebc0f2c82",
+                    "reference": "e1a751354d365e77002edf009a5af4eebc0f2c82",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-16 12:58:57",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/NavigationPro",
+                            "app/code/local/TM/NavigationPro"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml",
+                            "app/design/adminhtml/default/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/navigationpro",
+                            "app/design/adminhtml/default/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml",
+                            "app/design/frontend/base/default/layout/tm/navigationpro.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/navigationpro",
+                            "app/design/frontend/base/default/template/tm/navigationpro"
+                        ],
+                        [
+                            "app/etc/modules/TM_NavigationPro.xml",
+                            "app/etc/modules/TM_NavigationPro.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_NavigationPro.csv",
+                            "app/locale/en_US/TM_NavigationPro.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/navigationpro.css",
+                            "skin/frontend/base/default/css/tm/navigationpro.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/navigationpro",
+                            "skin/frontend/base/default/images/tm/navigationpro"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/navigationpro.js",
+                            "skin/frontend/base/default/js/tm/navigationpro.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro"
+            },
             "dev-master": {
                 "name": "tm/navigationpro",
                 "version": "dev-master",
@@ -4812,18 +4946,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "de321699fc2906f97f44f2f16357c210f7b6cd1f"
+                    "reference": "50c65b8ae6a658a7915f36a9943a29d737e4c98d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/de321699fc2906f97f44f2f16357c210f7b6cd1f",
-                    "reference": "de321699fc2906f97f44f2f16357c210f7b6cd1f",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/50c65b8ae6a658a7915f36a9943a29d737e4c98d",
+                    "reference": "50c65b8ae6a658a7915f36a9943a29d737e4c98d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-07 08:52:27",
+                "time": "2014-05-16 12:58:57",
                 "type": "magento-module",
                 "extra": {
                     "map": [
