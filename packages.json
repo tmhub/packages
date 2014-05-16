@@ -944,12 +944,12 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/magento-hackathon/magento-composer-installer.git",
-                    "reference": "a4f0fe7a0360882dca0760e25ace71c70aa2062d"
+                    "reference": "8836a365efc3978be77dcbcbd3ab799bef90c3ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/a4f0fe7a0360882dca0760e25ace71c70aa2062d",
-                    "reference": "a4f0fe7a0360882dca0760e25ace71c70aa2062d",
+                    "url": "https://api.github.com/repos/magento-hackathon/magento-composer-installer/zipball/8836a365efc3978be77dcbcbd3ab799bef90c3ca",
+                    "reference": "8836a365efc3978be77dcbcbd3ab799bef90c3ca",
                     "shasum": ""
                 },
                 "archive": {
@@ -972,7 +972,7 @@
                     "theseer/autoload": "~1.14",
                     "zetacomponents/console-tools": "dev-master"
                 },
-                "time": "2014-05-10 13:36:26",
+                "time": "2014-05-15 22:20:48",
                 "type": "composer-plugin",
                 "extra": {
                     "composer-command-registry": [
@@ -1021,7 +1021,7 @@
                     "magento"
                 ],
                 "support": {
-                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/2.0.0-beta4",
+                    "source": "https://github.com/magento-hackathon/magento-composer-installer/tree/plugin-rewrite",
                     "issues": "https://github.com/magento-hackathon/magento-composer-installer/issues"
                 }
             },
@@ -3921,18 +3921,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "ab82a05edab58acd5a5bca1693f612fab6411eb8"
+                    "reference": "e346cbbabc4e5d9d95ef662948f139237d6c65e3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/ab82a05edab58acd5a5bca1693f612fab6411eb8",
-                    "reference": "ab82a05edab58acd5a5bca1693f612fab6411eb8",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e346cbbabc4e5d9d95ef662948f139237d6c65e3",
+                    "reference": "e346cbbabc4e5d9d95ef662948f139237d6c65e3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-15 14:22:30",
+                "time": "2014-05-16 07:46:28",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -4062,18 +4062,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "8d6214752c52c27b39431ff902da38b26b35f47a"
+                    "reference": "54bd7f1c4285c37510d01795e079eeba267b3b7c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8d6214752c52c27b39431ff902da38b26b35f47a",
-                    "reference": "8d6214752c52c27b39431ff902da38b26b35f47a",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/54bd7f1c4285c37510d01795e079eeba267b3b7c",
+                    "reference": "54bd7f1c4285c37510d01795e079eeba267b3b7c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-15 14:22:30",
+                "time": "2014-05-16 07:46:28",
                 "type": "magento-module",
                 "extra": {
                     "map": [
