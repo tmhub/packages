@@ -2846,6 +2846,67 @@
             }
         },
         "tm/easynavigation": {
+            "1.3.0": {
+                "name": "tm/easynavigation",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easynavigation.git",
+                    "reference": "57ea4162038b4094c24dde5545178f184bc11ddc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/57ea4162038b4094c24dde5545178f184bc11ddc",
+                    "reference": "57ea4162038b4094c24dde5545178f184bc11ddc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-20 09:36:49",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/EasyNavigation",
+                            "app/code/local/TM/EasyNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easynavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/easynavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easynavigation",
+                            "app/design/frontend/base/default/template/tm/easynavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyNavigation.xml",
+                            "app/etc/modules/TM_EasyNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyNavigation.csv",
+                            "app/locale/en_US/TM_EasyNavigation.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/easynavigation",
+                            "skin/frontend/base/default/tm/easynavigation"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Multicolumn and sidebar navigation",
+                "homepage": "https://github.com/tmhub/easynavigation"
+            },
             "dev-master": {
                 "name": "tm/easynavigation",
                 "version": "dev-master",
@@ -2853,18 +2914,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easynavigation.git",
-                    "reference": "ee84007e08840a1f86d14c01960516f0a6c0e2c7"
+                    "reference": "4823d208422ffa5a5a8b65f26928df7dc8f53b9a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/ee84007e08840a1f86d14c01960516f0a6c0e2c7",
-                    "reference": "ee84007e08840a1f86d14c01960516f0a6c0e2c7",
+                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/4823d208422ffa5a5a8b65f26928df7dc8f53b9a",
+                    "reference": "4823d208422ffa5a5a8b65f26928df7dc8f53b9a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-19 14:27:59",
+                "time": "2014-05-20 09:36:49",
                 "type": "magento-module",
                 "extra": {
                     "map": [
