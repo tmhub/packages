@@ -1869,12 +1869,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "e79fd738fa47e7edac332171ff9b534095d99dc9"
+                    "reference": "6ee43b64479bcebbe11540a40f0ed3ca11197ff2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/e79fd738fa47e7edac332171ff9b534095d99dc9",
-                    "reference": "e79fd738fa47e7edac332171ff9b534095d99dc9",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/6ee43b64479bcebbe11540a40f0ed3ca11197ff2",
+                    "reference": "6ee43b64479bcebbe11540a40f0ed3ca11197ff2",
                     "shasum": ""
                 },
                 "require": {
@@ -1882,7 +1882,7 @@
                     "tm/akismet": "*",
                     "tm/core": "*"
                 },
-                "time": "2014-05-06 09:43:37",
+                "time": "2014-05-19 12:53:10",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2412,18 +2412,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "187004e13c3677aa9f78fa1b75c21226004a6d66"
+                    "reference": "408c177f36435249d3ce97c5768a31587b0c06eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/187004e13c3677aa9f78fa1b75c21226004a6d66",
-                    "reference": "187004e13c3677aa9f78fa1b75c21226004a6d66",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/408c177f36435249d3ce97c5768a31587b0c06eb",
+                    "reference": "408c177f36435249d3ce97c5768a31587b0c06eb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-12 09:44:22",
+                "time": "2014-05-19 08:39:10",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2779,18 +2779,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easylightbox.git",
-                    "reference": "48e0198da70e88766976c6f0ef3b6a77116cea31"
+                    "reference": "64e6ebfbffd000da9e5997ac94e06e4a66bea7c1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/48e0198da70e88766976c6f0ef3b6a77116cea31",
-                    "reference": "48e0198da70e88766976c6f0ef3b6a77116cea31",
+                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/64e6ebfbffd000da9e5997ac94e06e4a66bea7c1",
+                    "reference": "64e6ebfbffd000da9e5997ac94e06e4a66bea7c1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-23 08:06:59",
+                "time": "2014-05-19 09:27:36",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2843,6 +2843,69 @@
                 ],
                 "description": "Lightbox library integration",
                 "homepage": "https://github.com/tmhub/easylightbox"
+            }
+        },
+        "tm/easynavigation": {
+            "dev-master": {
+                "name": "tm/easynavigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easynavigation.git",
+                    "reference": "ee84007e08840a1f86d14c01960516f0a6c0e2c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/ee84007e08840a1f86d14c01960516f0a6c0e2c7",
+                    "reference": "ee84007e08840a1f86d14c01960516f0a6c0e2c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-19 14:27:59",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/EasyNavigation",
+                            "app/code/local/TM/EasyNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easynavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/easynavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easynavigation",
+                            "app/design/frontend/base/default/template/tm/easynavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyNavigation.xml",
+                            "app/etc/modules/TM_EasyNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyNavigation.csv",
+                            "app/locale/en_US/TM_EasyNavigation.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/easynavigation",
+                            "skin/frontend/base/default/tm/easynavigation"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Multicolumn and sidebar navigation",
+                "homepage": "https://github.com/tmhub/easynavigation"
             }
         },
         "tm/easyslide": {
@@ -3012,25 +3075,25 @@
                 ],
                 "homepage": "https://github.com/tmhub/easyslide"
             },
-            "dev-master": {
+            "2.2.1": {
                 "name": "tm/easyslide",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "daea372c1893284f0fb4927628f2249f9e897991"
+                    "reference": "9a1ac1cc25cc2fef51cfb707b2b0db2f0ff14e3b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/daea372c1893284f0fb4927628f2249f9e897991",
-                    "reference": "daea372c1893284f0fb4927628f2249f9e897991",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/9a1ac1cc25cc2fef51cfb707b2b0db2f0ff14e3b",
+                    "reference": "9a1ac1cc25cc2fef51cfb707b2b0db2f0ff14e3b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-01-29 14:02:42",
+                "time": "2014-05-19 08:36:14",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -3067,9 +3130,74 @@
                             "skin/frontend/base/default/tm/easyslide"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/easyslide"
+            },
+            "dev-master": {
+                "name": "tm/easyslide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "86021ab63fd2605ff331fb06c9b0d74bc926ff67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/86021ab63fd2605ff331fb06c9b0d74bc926ff67",
+                    "reference": "86021ab63fd2605ff331fb06c9b0d74bc926ff67",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-19 08:36:14",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Easyslide",
+                            "app/code/local/TM/Easyslide"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/tm/easyslide",
+                            "app/design/adminhtml/default/default/template/tm/easyslide"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easyslide.xml",
+                            "app/design/frontend/base/default/layout/tm/easyslide.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easyslide",
+                            "app/design/frontend/base/default/template/tm/easyslide"
+                        ],
+                        [
+                            "app/etc/modules/TM_Easyslide.xml",
+                            "app/etc/modules/TM_Easyslide.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Easyslide.csv",
+                            "app/locale/en_US/TM_Easyslide.csv"
+                        ],
+                        [
+                            "media/easyslide/.hidden",
+                            "media/easyslide/.hidden"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/easyslide",
+                            "skin/frontend/base/default/tm/easyslide"
+                        ]
+                    ],
                     "changelog": ""
                 },
                 "license": [
@@ -5025,18 +5153,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
-                    "reference": "1d79cecf11f69420fdc576d5ae128d5fa13b88dd"
+                    "reference": "2e6795f5049f785f019ca79ddc038ce7d7ade3b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/1d79cecf11f69420fdc576d5ae128d5fa13b88dd",
-                    "reference": "1d79cecf11f69420fdc576d5ae128d5fa13b88dd",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/2e6795f5049f785f019ca79ddc038ce7d7ade3b2",
+                    "reference": "2e6795f5049f785f019ca79ddc038ce7d7ade3b2",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-05-14 13:13:35",
+                "time": "2014-05-19 09:23:25",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -5827,26 +5955,26 @@
             }
         },
         "tm/smartsuggest": {
-            "dev-master": {
+            "1.3.2": {
                 "name": "tm/smartsuggest",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/smartsuggest.git",
-                    "reference": "f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b"
+                    "reference": "86a49f109cb4a0b40dd30a2b36c973c3d56334a1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b",
-                    "reference": "f9ccc256e0baae15cdbe1b69bdf46fe9da28f11b",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/86a49f109cb4a0b40dd30a2b36c973c3d56334a1",
+                    "reference": "86a49f109cb4a0b40dd30a2b36c973c3d56334a1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2014-01-17 15:10:42",
+                "time": "2014-05-19 09:22:09",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -5883,9 +6011,76 @@
                             "skin/frontend/base/default/js/tm/smartsuggest.js"
                         ]
                     ],
-                    "magento-root-dir": ".",
-                    "magento-deploystrategy": "copy",
-                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest"
+            },
+            "dev-master": {
+                "name": "tm/smartsuggest",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "52cbc495baffd09ca4743c4dbc1544dd96927e07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/52cbc495baffd09ca4743c4dbc1544dd96927e07",
+                    "reference": "52cbc495baffd09ca4743c4dbc1544dd96927e07",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-05-19 09:22:09",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SmartSuggest",
+                            "app/code/local/TM/SmartSuggest"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml",
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/smartsuggest",
+                            "app/design/frontend/base/default/template/tm/smartsuggest"
+                        ],
+                        [
+                            "app/etc/modules/TM_SmartSuggest.xml",
+                            "app/etc/modules/TM_SmartSuggest.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SmartSuggest.csv",
+                            "app/locale/en_US/TM_SmartSuggest.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/smartsuggest.css",
+                            "skin/frontend/base/default/css/tm/smartsuggest.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/smartsuggest",
+                            "skin/frontend/base/default/images/tm/smartsuggest"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/smartsuggest.js",
+                            "skin/frontend/base/default/js/tm/smartsuggest.js"
+                        ]
+                    ],
                     "changelog": ""
                 },
                 "license": [
