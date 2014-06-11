@@ -42,7 +42,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
         <div id="hd">
             <h1>Templates Master Packages Composer Repository</h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2014-06-11T08:54:35+0000">Wed, 11 Jun 2014 08:54:35 +0000</time>
+                Last updated: <time datetime="2014-06-11T12:32:59+0000">Wed, 11 Jun 2014 12:32:59 +0000</time>
             </div>
         </div>
         <div id="bd">
@@ -81,7 +81,10 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             <tr>
                                 <th>Required by</th>
                                 <td>
-                                                                                                        </td>
+                                                                                                                <ul>
+                                                                                            <li><a href="#tm/core">tm/core</a></li>
+                                                                                    </ul>
+                                                                    </td>
                             </tr>
                         </table>
                     </div>
@@ -430,7 +433,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/core/zipball/b896e166fc4b87999652c2a7622d89af9de488f7" title="b896e166fc4b87999652c2a7622d89af9de488f7">dev-master</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/core/zipball/4cea9f04734404e0319e2f1a7107299f0652d1a0" title="4cea9f04734404e0319e2f1a7107299f0652d1a0">dev-master</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -1307,7 +1310,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-06-11T08:54:35+0000</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2014-06-11T12:32:59+0000</small></p>
         </div>
     </div>
 
@@ -1356,7 +1359,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2014-06-11T08:54:35+0000').fromNow());
+            $lastUpdate.text(moment('2014-06-11T12:32:59+0000').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
