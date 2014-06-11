@@ -2,6 +2,7 @@
     "name": "Templates Master Packages",
     "homepage": "http://tmhub.github.io/packages/",
     "repositories": [
+        {"type": "vcs", "url": "git@github.com:magento-hackathon/composer-command-integrator.git"},
         {"type": "vcs", "url": "git@github.com:magento-hackathon/magento-composer-installer.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/ajaxpro.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/ajaxsearch.git"},
