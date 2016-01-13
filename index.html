@@ -40,9 +40,11 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
 
     <div id="doc" class="yui-t7">
         <div id="hd">
-            <h1>Templates Master Packages Composer Repository</h1>
+            <h1>
+                                    Templates Master Packages
+                            </h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2016-01-13T14:55:18+0200">Wed, 13 Jan 2016 14:55:18 +0200</time>
+                Last updated: <time datetime="2016-01-13T08:09:02-0800">Wed, 13 Jan 2016 08:09:02 -0800</time>
             </div>
         </div>
         <div id="bd">
@@ -60,6 +62,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                 Filter by package name:
                 <input type="text" id="search" autocomplete="off" autofocus />
 
+                <div id="package-list">
                                     <div>
                         <h3 id="tm/abandoned">tm/abandoned</h3>
                                                     <p>Templates Master Abandoned Cart module</p>
@@ -409,7 +412,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/argento_swissup/zipball/73137984905acc613fe15e8dad1c4ea875d12942" title="73137984905acc613fe15e8dad1c4ea875d12942">dev-master</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/argento_swissup/zipball/e49ca6f822935825803a1e860c756e480aa57c58" title="e49ca6f822935825803a1e860c756e480aa57c58">dev-master</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -866,7 +869,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/swissup/demo-deployer/zipball/0977600f07408d139721b27c09fea8c79ee6eb98" title="0977600f07408d139721b27c09fea8c79ee6eb98">dev-master</a>                                </td>
+                                    <a href="https://api.github.com/repos/swissup/demo-deployer/zipball/cd2db497b9273eb2de6b00c6571684b72edb5298" title="cd2db497b9273eb2de6b00c6571684b72edb5298">dev-master</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2443,7 +2446,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/templatef002/tree/2.0.0">https://github.com/tmhub/templatef002/tree/2.0.0</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/templatef002/tree/master">https://github.com/tmhub/templatef002/tree/master</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/templatef002/issues">https://github.com/tmhub/templatef002/issues</a></li>
                                                                         </ul>
                                 </tr>
@@ -2540,10 +2543,11 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </tr>
                         </table>
                     </div>
-                            </div>
+                                </div>
+            </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-01-13T14:55:18+0200</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-01-13T08:09:02-0800</small></p>
         </div>
     </div>
 
@@ -2567,10 +2571,12 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
             var ms = 350; // milliseconds
             var needle = $(this).val().toLowerCase(), show;
             timer = setTimeout(function() {
+                $('#package-list').hide();
                 packages.each(function(){
                     show = $(this).text().toLowerCase().indexOf(needle) != -1;
                     $(this).parent().toggle(show);
                 });
+                $('#package-list').show();
             }, ms);
         }).focus();
         $('input#search').change(function(){
@@ -2592,7 +2598,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2016-01-13T14:55:18+0200').fromNow());
+            $lastUpdate.text(moment('2016-01-13T08:09:02-0800').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
