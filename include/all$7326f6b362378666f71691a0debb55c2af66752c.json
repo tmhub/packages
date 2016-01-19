@@ -7047,18 +7047,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/facebooklb.git",
-                    "reference": "bcd6226967bde73e3bb059551184809ee58913c5"
+                    "reference": "0581a3b9e3fe424c3043a5fd9fe6388d4d497a69"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/bcd6226967bde73e3bb059551184809ee58913c5",
-                    "reference": "bcd6226967bde73e3bb059551184809ee58913c5",
+                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/0581a3b9e3fe424c3043a5fd9fe6388d4d497a69",
+                    "reference": "0581a3b9e3fe424c3043a5fd9fe6388d4d497a69",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-19 07:32:31",
+                "time": "2016-01-19 16:05:33",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -7075,8 +7075,8 @@
                             "app/design/frontend/base/default/template/facebooklb"
                         ],
                         [
-                            "app/etc/modules/TM_FaceBookLB.xml",
-                            "app/etc/modules/TM_FaceBookLB.xml"
+                            "app/etc/modules/TM_FacebookLB.xml",
+                            "app/etc/modules/TM_FacebookLB.xml"
                         ],
                         [
                             "app/locale/en_US/TM_FacebookLB.csv",
