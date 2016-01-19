@@ -2610,18 +2610,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_swissup.git",
-                    "reference": "fa17c92f283190787a0928acea26641edb10874f"
+                    "reference": "c54f69d18078760325bc247179690d652b489ffb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento_swissup/zipball/fa17c92f283190787a0928acea26641edb10874f",
-                    "reference": "fa17c92f283190787a0928acea26641edb10874f",
+                    "url": "https://api.github.com/repos/tmhub/argento_swissup/zipball/c54f69d18078760325bc247179690d652b489ffb",
+                    "reference": "c54f69d18078760325bc247179690d652b489ffb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-01-18 10:08:51",
+                "time": "2016-01-18 15:59:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4427,18 +4427,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
-                    "reference": "539457da5e893a92d08fc0d8e414dfb424bda9ea"
+                    "reference": "c7bd96b8028ccf794aa4c94a19e13a7ac5215247"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/539457da5e893a92d08fc0d8e414dfb424bda9ea",
-                    "reference": "539457da5e893a92d08fc0d8e414dfb424bda9ea",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/c7bd96b8028ccf794aa4c94a19e13a7ac5215247",
+                    "reference": "c7bd96b8028ccf794aa4c94a19e13a7ac5215247",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-15 13:25:53",
+                "time": "2016-01-18 13:21:53",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4452,7 +4452,7 @@
                 "description": "CountDown Timer module",
                 "homepage": "https://github.com/tmhub/countdowntimer",
                 "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.0.0",
+                    "source": "https://github.com/tmhub/countdowntimer/tree/master",
                     "issues": "https://github.com/tmhub/countdowntimer/issues"
                 }
             }
@@ -4578,15 +4578,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "e9a03e1824ee62b444ddb250242e2bc479364b32"
+                    "reference": "051f3802c2597cd4750b327c5676a2c74ae6c9c2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/e9a03e1824ee62b444ddb250242e2bc479364b32",
-                    "reference": "e9a03e1824ee62b444ddb250242e2bc479364b32",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/051f3802c2597cd4750b327c5676a2c74ae6c9c2",
+                    "reference": "051f3802c2597cd4750b327c5676a2c74ae6c9c2",
                     "shasum": ""
                 },
-                "time": "2016-01-18 13:15:02",
+                "time": "2016-01-18 15:24:06",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5472,7 +5472,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
+                    "source": "https://github.com/tmhub/easyflags/tree/master",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -9004,19 +9004,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "df9da411847e5780866d56af746ac9bdb0534455"
+                    "reference": "0b406b7eabd887fedefbb2b7f3722bae2c25defe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/df9da411847e5780866d56af746ac9bdb0534455",
-                    "reference": "df9da411847e5780866d56af746ac9bdb0534455",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/0b406b7eabd887fedefbb2b7f3722bae2c25defe",
+                    "reference": "0b406b7eabd887fedefbb2b7f3722bae2c25defe",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-01-18 09:19:48",
+                "time": "2016-01-18 15:10:14",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11437,7 +11437,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
+                    "source": "https://github.com/tmhub/notifier/tree/master",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -15834,7 +15834,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -15871,7 +15871,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
