@@ -40,11 +40,9 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
 
     <div id="doc" class="yui-t7">
         <div id="hd">
-            <h1>
-                                    Templates Master Packages
-                            </h1>
+            <h1>Templates Master Packages Composer Repository</h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2016-01-19T00:46:39-0800">Tue, 19 Jan 2016 00:46:39 -0800</time>
+                Last updated: <time datetime="2016-01-19T12:15:46+0200">Tue, 19 Jan 2016 12:15:46 +0200</time>
             </div>
         </div>
         <div id="bd">
@@ -62,7 +60,6 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                 Filter by package name:
                 <input type="text" id="search" autocomplete="off" autofocus />
 
-                <div id="package-list">
                                     <div>
                         <h3 id="tm/abandoned">tm/abandoned</h3>
                                                     <p>Templates Master Abandoned Cart module</p>
@@ -869,7 +866,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/swissup/demo-deployer/zipball/051f3802c2597cd4750b327c5676a2c74ae6c9c2" title="051f3802c2597cd4750b327c5676a2c74ae6c9c2">dev-master</a>                                </td>
+                                    <a href="https://api.github.com/repos/swissup/demo-deployer/zipball/c49612d2932b3cbae27c71e272ebbf9ed6035379" title="c49612d2932b3cbae27c71e272ebbf9ed6035379">dev-master</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2446,7 +2443,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/templatef002/tree/master">https://github.com/tmhub/templatef002/tree/master</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/templatef002/tree/2.0.0">https://github.com/tmhub/templatef002/tree/2.0.0</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/templatef002/issues">https://github.com/tmhub/templatef002/issues</a></li>
                                                                         </ul>
                                 </tr>
@@ -2543,11 +2540,10 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </tr>
                         </table>
                     </div>
-                                </div>
-            </div>
+                            </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-01-19T00:46:39-0800</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-01-19T12:15:46+0200</small></p>
         </div>
     </div>
 
@@ -2571,12 +2567,10 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
             var ms = 350; // milliseconds
             var needle = $(this).val().toLowerCase(), show;
             timer = setTimeout(function() {
-                $('#package-list').hide();
                 packages.each(function(){
                     show = $(this).text().toLowerCase().indexOf(needle) != -1;
                     $(this).parent().toggle(show);
                 });
-                $('#package-list').show();
             }, ms);
         }).focus();
         $('input#search').change(function(){
@@ -2598,7 +2592,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2016-01-19T00:46:39-0800').fromNow());
+            $lastUpdate.text(moment('2016-01-19T12:15:46+0200').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
