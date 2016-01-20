@@ -1141,9 +1141,9 @@
                 }
             }
         },
-        "tm/ajaxsearch": {
+        "tm/ajax-search": {
             "1.4.0": {
-                "name": "tm/ajaxsearch",
+                "name": "tm/ajax-search",
                 "version": "1.4.0",
                 "version_normalized": "1.4.0.0",
                 "source": {
@@ -1221,7 +1221,7 @@
                 }
             },
             "1.5.1": {
-                "name": "tm/ajaxsearch",
+                "name": "tm/ajax-search",
                 "version": "1.5.1",
                 "version_normalized": "1.5.1.0",
                 "source": {
@@ -1258,7 +1258,7 @@
                 }
             },
             "1.5.2": {
-                "name": "tm/ajaxsearch",
+                "name": "tm/ajax-search",
                 "version": "1.5.2",
                 "version_normalized": "1.5.2.0",
                 "source": {
@@ -1295,25 +1295,25 @@
                 }
             },
             "dev-master": {
-                "name": "tm/ajaxsearch",
+                "name": "tm/ajax-search",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "ad737fc9c3e4f64056c27397f741c0e528e012c5"
+                    "reference": "324b33a370fd16c056497c6d201b23b4f0789de5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/ad737fc9c3e4f64056c27397f741c0e528e012c5",
-                    "reference": "ad737fc9c3e4f64056c27397f741c0e528e012c5",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/324b33a370fd16c056497c6d201b23b4f0789de5",
+                    "reference": "324b33a370fd16c056497c6d201b23b4f0789de5",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2015-12-15 09:00:32",
+                "time": "2016-01-20 13:11:04",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2573,12 +2573,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_swissup.git",
-                    "reference": "1aa459e766dba9fbfdf0db151495c12e5ac77a2c"
+                    "reference": "c2cee9c27cf9bd417d6dd2d7db88cc9acc1fb5d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento_swissup/zipball/1aa459e766dba9fbfdf0db151495c12e5ac77a2c",
-                    "reference": "1aa459e766dba9fbfdf0db151495c12e5ac77a2c",
+                    "url": "https://api.github.com/repos/tmhub/argento_swissup/zipball/c2cee9c27cf9bd417d6dd2d7db88cc9acc1fb5d2",
+                    "reference": "c2cee9c27cf9bd417d6dd2d7db88cc9acc1fb5d2",
                     "shasum": ""
                 },
                 "require": {
@@ -2595,7 +2595,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-01-20 11:37:09",
+                "time": "2016-01-20 12:54:21",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14983,18 +14983,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/subscription.git",
-                    "reference": "e6b3ae55f777a039d32105fad8051e955fac5e8f"
+                    "reference": "7e74242069ce379cc7c10a4d9b4762bb55b7a9fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/subscription/zipball/e6b3ae55f777a039d32105fad8051e955fac5e8f",
-                    "reference": "e6b3ae55f777a039d32105fad8051e955fac5e8f",
+                    "url": "https://api.github.com/repos/tmhub/subscription/zipball/7e74242069ce379cc7c10a4d9b4762bb55b7a9fb",
+                    "reference": "7e74242069ce379cc7c10a4d9b4762bb55b7a9fb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-20 11:19:30",
+                "time": "2016-01-20 12:54:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
