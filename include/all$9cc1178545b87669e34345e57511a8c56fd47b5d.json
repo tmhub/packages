@@ -4552,15 +4552,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "4584a600f149e340edb20d69a1d79a35f7381bcc"
+                    "reference": "14d10f7edcfd3e1ac55ab44cfbf83959ee0becbe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/4584a600f149e340edb20d69a1d79a35f7381bcc",
-                    "reference": "4584a600f149e340edb20d69a1d79a35f7381bcc",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/14d10f7edcfd3e1ac55ab44cfbf83959ee0becbe",
+                    "reference": "14d10f7edcfd3e1ac55ab44cfbf83959ee0becbe",
                     "shasum": ""
                 },
-                "time": "2016-01-20 15:46:53",
+                "time": "2016-01-20 15:53:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5446,7 +5446,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
+                    "source": "https://github.com/tmhub/easyflags/tree/master",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -6816,18 +6816,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "8509fef41c3cec0aff291c57bd75286bacb95256"
+                    "reference": "9a7b6921e15def74f011a44a928fa941ee7db2a9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8509fef41c3cec0aff291c57bd75286bacb95256",
-                    "reference": "8509fef41c3cec0aff291c57bd75286bacb95256",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/9a7b6921e15def74f011a44a928fa941ee7db2a9",
+                    "reference": "9a7b6921e15def74f011a44a928fa941ee7db2a9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-15 15:39:12",
+                "time": "2016-01-20 16:03:45",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11448,7 +11448,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
+                    "source": "https://github.com/tmhub/notifier/tree/master",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -15784,7 +15784,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -15821,7 +15821,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
