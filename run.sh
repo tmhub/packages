@@ -18,8 +18,8 @@ fi
     echo 'rm -rf include/*'
     rm -rf include/*
 } && {
-    echo 'satis build satis.json .'
-    satis build satis.json .
+    echo 'satis build satis.json . '$PACKAGE
+    satis build satis.json . $PACKAGE
 } && {
     echo 'git add --all'
     git add --all
