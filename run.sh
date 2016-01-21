@@ -5,6 +5,12 @@ if ! which satis >/dev/null; then
     exit
 fi
 
+if [ ! "$1" = "" ] ; then
+    PACKAGE=$1
+else
+    PACKAGE=''
+fi
+
 {
     echo 'git pull'
     git pull
