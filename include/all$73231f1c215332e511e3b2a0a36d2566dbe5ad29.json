@@ -4552,15 +4552,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "cd9fc3b05a1244a7c9a13e278b3e084f95b8ad68"
+                    "reference": "6b162e43dab1a8c4ab19614deba1bb11209b52f2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/cd9fc3b05a1244a7c9a13e278b3e084f95b8ad68",
-                    "reference": "cd9fc3b05a1244a7c9a13e278b3e084f95b8ad68",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/6b162e43dab1a8c4ab19614deba1bb11209b52f2",
+                    "reference": "6b162e43dab1a8c4ab19614deba1bb11209b52f2",
                     "shasum": ""
                 },
-                "time": "2016-01-21 15:18:07",
+                "time": "2016-01-21 15:25:34",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5446,7 +5446,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
+                    "source": "https://github.com/tmhub/easyflags/tree/master",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -11448,7 +11448,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
+                    "source": "https://github.com/tmhub/notifier/tree/master",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -15784,7 +15784,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -15821,7 +15821,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
+                    "source": "https://github.com/tmhub/templatef002/tree/master",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
