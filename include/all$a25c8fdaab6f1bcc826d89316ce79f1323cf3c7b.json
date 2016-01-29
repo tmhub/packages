@@ -4858,18 +4858,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "c712a5df8596e40ca2973bb17f84719fd2954427"
+                    "reference": "0b4cb3a747b17f0be7c10b2b79fb8764224fec7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/c712a5df8596e40ca2973bb17f84719fd2954427",
-                    "reference": "c712a5df8596e40ca2973bb17f84719fd2954427",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/0b4cb3a747b17f0be7c10b2b79fb8764224fec7f",
+                    "reference": "0b4cb3a747b17f0be7c10b2b79fb8764224fec7f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-20 10:45:54",
+                "time": "2016-01-28 09:43:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5445,7 +5445,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -6815,18 +6815,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "2c62ae7549fb317df1ad212a27c2ce3d092128dc"
+                    "reference": "38c1667146081f5b9400f84d5bd303fd000c0f7d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2c62ae7549fb317df1ad212a27c2ce3d092128dc",
-                    "reference": "2c62ae7549fb317df1ad212a27c2ce3d092128dc",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/38c1667146081f5b9400f84d5bd303fd000c0f7d",
+                    "reference": "38c1667146081f5b9400f84d5bd303fd000c0f7d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-27 15:34:12",
+                "time": "2016-01-28 08:57:09",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6890,18 +6890,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "f5dc6e39cd9a692b819dff33868eee555397237f"
+                    "reference": "8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/f5dc6e39cd9a692b819dff33868eee555397237f",
-                    "reference": "f5dc6e39cd9a692b819dff33868eee555397237f",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3",
+                    "reference": "8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-15 11:31:05",
+                "time": "2016-01-28 13:21:43",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10476,26 +10476,26 @@
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             },
-            "dev-master": {
+            "1.1.4": {
                 "name": "tm/lightboxpro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "bb9dfb14425823563a9ac3c328428eefad2f94b1"
+                    "reference": "4a1586c63710f267f39384f6a07e8060e2ab9a68"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/bb9dfb14425823563a9ac3c328428eefad2f94b1",
-                    "reference": "bb9dfb14425823563a9ac3c328428eefad2f94b1",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/4a1586c63710f267f39384f6a07e8060e2ab9a68",
+                    "reference": "4a1586c63710f267f39384f6a07e8060e2ab9a68",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-01-11 12:20:49",
+                "time": "2016-01-29 09:41:04",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10509,7 +10509,44 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/1.1.4",
+                    "issues": "https://github.com/tmhub/lightboxpro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/lightboxpro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/lightboxpro.git",
+                    "reference": "4a1586c63710f267f39384f6a07e8060e2ab9a68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/4a1586c63710f267f39384f6a07e8060e2ab9a68",
+                    "reference": "4a1586c63710f267f39384f6a07e8060e2ab9a68",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-01-29 09:41:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master LightboxPro module",
+                "homepage": "https://github.com/tmhub/lightboxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/lightboxpro/tree/1.1.4",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
@@ -11447,7 +11484,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/master",
+                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -15783,7 +15820,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -15820,7 +15857,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
