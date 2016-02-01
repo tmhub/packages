@@ -769,6 +769,42 @@
                     "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
+            },
+            "dev-integration-dailydeals": {
+                "name": "tm/ajax-layered-navigation",
+                "version": "dev-integration-dailydeals",
+                "version_normalized": "dev-integration-dailydeals",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "e6584f694ff2fc1dcd9cd9554a05933e797a4e8f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/e6584f694ff2fc1dcd9cd9554a05933e797a4e8f",
+                    "reference": "e6584f694ff2fc1dcd9cd9554a05933e797a4e8f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-01-29 16:22:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/integration-dailydeals",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
             }
         },
         "tm/ajax-pro": {
@@ -4512,19 +4548,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "5c9062345a9548fcc58b1a97384343b4f32525fd"
+                    "reference": "de4f5f36a0e71a86727c1354863915867bfd51a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/5c9062345a9548fcc58b1a97384343b4f32525fd",
-                    "reference": "5c9062345a9548fcc58b1a97384343b4f32525fd",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/de4f5f36a0e71a86727c1354863915867bfd51a3",
+                    "reference": "de4f5f36a0e71a86727c1354863915867bfd51a3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-01-11 14:30:29",
+                "time": "2016-01-31 20:40:56",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4551,15 +4587,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "1989e2a8411738de6c43efa4e005f16c2653bbe1"
+                    "reference": "8c19b4c1fc8ffb398a62d22606948c2aac33813d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/1989e2a8411738de6c43efa4e005f16c2653bbe1",
-                    "reference": "1989e2a8411738de6c43efa4e005f16c2653bbe1",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/8c19b4c1fc8ffb398a62d22606948c2aac33813d",
+                    "reference": "8c19b4c1fc8ffb398a62d22606948c2aac33813d",
                     "shasum": ""
                 },
-                "time": "2016-01-29 15:49:31",
+                "time": "2016-02-01 09:02:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5445,7 +5481,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -11484,7 +11520,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/master",
+                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -15820,7 +15856,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -15857,7 +15893,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
