@@ -2542,6 +2542,64 @@
                     "issues": "https://github.com/tmhub/argento_mage2cloud/issues"
                 }
             },
+            "1.0.1": {
+                "name": "tm/argento_mage2cloud",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento_mage2cloud.git",
+                    "reference": "f8cea61ebe003d47a9af28c928b7d86a30efee7c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/f8cea61ebe003d47a9af28c928b7d86a30efee7c",
+                    "reference": "f8cea61ebe003d47a9af28c928b7d86a30efee7c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/helpdesk": "*"
+                },
+                "time": "2016-02-19 09:45:42",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ArgentoMage2Cloud",
+                            "app/code/local/TM/ArgentoMage2Cloud"
+                        ],
+                        [
+                            "app/design/frontend/argento/mage2cloud",
+                            "app/design/frontend/argento/mage2cloud"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml",
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml"
+                        ],
+                        [
+                            "skin/frontend/argento/mage2cloud",
+                            "skin/frontend/argento/mage2cloud"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Mage2Cloud theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/tmhub/argento_mage2cloud/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/argento_mage2cloud/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/argento_mage2cloud",
                 "version": "dev-master",
@@ -2549,19 +2607,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_mage2cloud.git",
-                    "reference": "666a570e12fa7e3e152355c06e539aa566720c20"
+                    "reference": "f8cea61ebe003d47a9af28c928b7d86a30efee7c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/666a570e12fa7e3e152355c06e539aa566720c20",
-                    "reference": "666a570e12fa7e3e152355c06e539aa566720c20",
+                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/f8cea61ebe003d47a9af28c928b7d86a30efee7c",
+                    "reference": "f8cea61ebe003d47a9af28c928b7d86a30efee7c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*",
                     "tm/helpdesk": "*"
                 },
-                "time": "2016-02-19 09:21:18",
+                "time": "2016-02-19 09:45:42",
                 "type": "magento-module",
                 "extra": {
                     "map": [
