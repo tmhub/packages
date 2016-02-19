@@ -2549,19 +2549,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_mage2cloud.git",
-                    "reference": "67d099d26a200abcdd346248aca354f14e3396e7"
+                    "reference": "666a570e12fa7e3e152355c06e539aa566720c20"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/67d099d26a200abcdd346248aca354f14e3396e7",
-                    "reference": "67d099d26a200abcdd346248aca354f14e3396e7",
+                    "url": "https://api.github.com/repos/tmhub/argento_mage2cloud/zipball/666a570e12fa7e3e152355c06e539aa566720c20",
+                    "reference": "666a570e12fa7e3e152355c06e539aa566720c20",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*",
                     "tm/helpdesk": "*"
                 },
-                "time": "2016-01-29 16:01:42",
+                "time": "2016-02-19 09:21:18",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -2596,7 +2596,7 @@
                 "description": "Mage2Cloud theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/tmhub/argento_mage2cloud/tree/master",
+                    "source": "https://github.com/tmhub/argento_mage2cloud/tree/1.0.1",
                     "issues": "https://github.com/tmhub/argento_mage2cloud/issues"
                 }
             }
@@ -4220,18 +4220,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "ae178cb75330778c6c137617db10dd3bc4e37b18"
+                    "reference": "4a0f46ef403d1b78691c133655de77e69da3d67e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/ae178cb75330778c6c137617db10dd3bc4e37b18",
-                    "reference": "ae178cb75330778c6c137617db10dd3bc4e37b18",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/4a0f46ef403d1b78691c133655de77e69da3d67e",
+                    "reference": "4a0f46ef403d1b78691c133655de77e69da3d67e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-15 14:28:55",
+                "time": "2016-02-19 09:13:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11461,18 +11461,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/newsletterbooster.git",
-                    "reference": "77e39b22671cb22ca37f6157e0ae2ed2549bf07c"
+                    "reference": "9eef0302acf6bf85e802e626dbf96972f1b87bf9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/77e39b22671cb22ca37f6157e0ae2ed2549bf07c",
-                    "reference": "77e39b22671cb22ca37f6157e0ae2ed2549bf07c",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/9eef0302acf6bf85e802e626dbf96972f1b87bf9",
+                    "reference": "9eef0302acf6bf85e802e626dbf96972f1b87bf9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-29 09:46:40",
+                "time": "2016-02-18 13:37:38",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
