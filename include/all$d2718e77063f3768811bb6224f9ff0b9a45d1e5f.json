@@ -5594,7 +5594,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -11707,7 +11707,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/master",
+                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -12074,25 +12074,25 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
-            "dev-master": {
+            "1.1.0": {
                 "name": "tm/pagespeed",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "cc876a674812626f883c05799b4ac582f1b41cb2"
+                    "reference": "88107fa9658367d501c9a838298b36326687dd78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/cc876a674812626f883c05799b4ac582f1b41cb2",
-                    "reference": "cc876a674812626f883c05799b4ac582f1b41cb2",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/88107fa9658367d501c9a838298b36326687dd78",
+                    "reference": "88107fa9658367d501c9a838298b36326687dd78",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-15 14:37:19",
+                "time": "2016-03-07 12:08:49",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12106,7 +12106,43 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/pagespeed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "88107fa9658367d501c9a838298b36326687dd78"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/88107fa9658367d501c9a838298b36326687dd78",
+                    "reference": "88107fa9658367d501c9a838298b36326687dd78",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-03-07 12:08:49",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.1.0",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
@@ -16080,7 +16116,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -16117,7 +16153,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
