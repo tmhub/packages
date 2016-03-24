@@ -1061,7 +1061,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -1326,7 +1326,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -3854,7 +3854,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -4471,22 +4471,22 @@
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
-            "dev-master": {
+            "1.3.4": {
                 "name": "tm/core",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "c8d91913d1ea13ee969dc12814b7a95381fd00ad"
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/c8d91913d1ea13ee969dc12814b7a95381fd00ad",
-                    "reference": "c8d91913d1ea13ee969dc12814b7a95381fd00ad",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/019e9bc7274a243afbc63faf75dfcf985311b2a4",
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4",
                     "shasum": ""
                 },
-                "time": "2016-01-18 08:18:54",
+                "time": "2016-03-24 08:56:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4500,7 +4500,40 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/master",
+                    "source": "https://github.com/tmhub/core/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/019e9bc7274a243afbc63faf75dfcf985311b2a4",
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4",
+                    "shasum": ""
+                },
+                "time": "2016-03-24 08:56:18",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.4",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -4613,7 +4646,7 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/1.0.0",
+                    "source": "https://github.com/tmhub/dailydeals/tree/master",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             },
@@ -4687,7 +4720,7 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/1.0.2",
+                    "source": "https://github.com/tmhub/dailydeals/tree/master",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             },
@@ -5631,7 +5664,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -11565,7 +11598,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -11744,7 +11777,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/master",
+                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -14249,18 +14282,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "2c2dccad3a197e569382c6db9979826c140bb8ae"
+                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/2c2dccad3a197e569382c6db9979826c140bb8ae",
-                    "reference": "2c2dccad3a197e569382c6db9979826c140bb8ae",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/15e2e49b860238108b88758fbb3cb1ee59a40e8d",
+                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-02-10 09:46:38",
+                "time": "2016-03-24 09:20:28",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -14860,18 +14893,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "3b6922987f7f4257ed1a6fe533b7d033586e2194"
+                    "reference": "ea7655eebd369ae199c176a73ceb75176ad067e4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/3b6922987f7f4257ed1a6fe533b7d033586e2194",
-                    "reference": "3b6922987f7f4257ed1a6fe533b7d033586e2194",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/ea7655eebd369ae199c176a73ceb75176ad067e4",
+                    "reference": "ea7655eebd369ae199c176a73ceb75176ad067e4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-22 15:27:44",
+                "time": "2016-03-24 08:36:59",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -14921,7 +14954,7 @@
                 ],
                 "homepage": "https://github.com/tmhub/socialsuite",
                 "support": {
-                    "source": "https://github.com/tmhub/socialsuite/tree/master",
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.6.4",
                     "issues": "https://github.com/tmhub/socialsuite/issues"
                 }
             }
@@ -15339,7 +15372,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
@@ -16153,7 +16186,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -16190,7 +16223,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
