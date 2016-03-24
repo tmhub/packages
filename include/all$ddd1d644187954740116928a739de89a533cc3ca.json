@@ -14275,6 +14275,91 @@
             }
         },
         "tm/richsnippets": {
+            "2.0.1": {
+                "name": "tm/richsnippets",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/15e2e49b860238108b88758fbb3cb1ee59a40e8d",
+                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-03-24 09:20:28",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/RichSnippets",
+                            "app/code/local/TM/RichSnippets"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/richsnippets",
+                            "app/design/frontend/base/default/template/tm/richsnippets"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/richsnippets.css",
+                            "skin/frontend/base/default/css/tm/richsnippets.css"
+                        ],
+                        [
+                            "app/etc/modules/TM_RichSnippets.xml",
+                            "app/etc/modules/TM_RichSnippets.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_RichSnippets.csv",
+                            "app/locale/en_US/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_RichSnippets.csv",
+                            "app/locale/es_ES/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_RichSnippets.csv",
+                            "app/locale/fr_FR/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_RichSnippets.csv",
+                            "app/locale/it_IT/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_RichSnippets.csv",
+                            "app/locale/nl_NL/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_RichSnippets.csv",
+                            "app/locale/pt_PT/TM_RichSnippets.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/master",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/richsnippets",
                 "version": "dev-master",
