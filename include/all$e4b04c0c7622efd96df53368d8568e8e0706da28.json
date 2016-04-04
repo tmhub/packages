@@ -2508,18 +2508,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "e8e10d8dbf50e57e830fc301034fbc650652c44f"
+                    "reference": "4159c786b5dea56ddef2e110acb375e63d7093c5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/e8e10d8dbf50e57e830fc301034fbc650652c44f",
-                    "reference": "e8e10d8dbf50e57e830fc301034fbc650652c44f",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/4159c786b5dea56ddef2e110acb375e63d7093c5",
+                    "reference": "4159c786b5dea56ddef2e110acb375e63d7093c5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-03-05 11:31:23",
+                "time": "2016-03-29 12:19:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4582,18 +4582,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
-                    "reference": "71089a8f588fab6d53c1dc800494e2f313cbfd9b"
+                    "reference": "cb3b90d1d81f34ef094373167bca161afc8cc47d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/71089a8f588fab6d53c1dc800494e2f313cbfd9b",
-                    "reference": "71089a8f588fab6d53c1dc800494e2f313cbfd9b",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/cb3b90d1d81f34ef094373167bca161afc8cc47d",
+                    "reference": "cb3b90d1d81f34ef094373167bca161afc8cc47d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-08 19:33:01",
+                "time": "2016-04-03 15:30:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4731,19 +4731,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "ba9bade3bf60fe62415531789bc23b5eff4e136e"
+                    "reference": "a2c9dca403e12757497f40214358807cb8277b31"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/ba9bade3bf60fe62415531789bc23b5eff4e136e",
-                    "reference": "ba9bade3bf60fe62415531789bc23b5eff4e136e",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/a2c9dca403e12757497f40214358807cb8277b31",
+                    "reference": "a2c9dca403e12757497f40214358807cb8277b31",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-03-18 15:02:56",
+                "time": "2016-04-03 20:30:42",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5529,18 +5529,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "ade2d3cc32501ebbc57e0b823220500ee487e230"
+                    "reference": "c6fdb720d9e49a94bf0ae1e534a13ceed40df4b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/ade2d3cc32501ebbc57e0b823220500ee487e230",
-                    "reference": "ade2d3cc32501ebbc57e0b823220500ee487e230",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/c6fdb720d9e49a94bf0ae1e534a13ceed40df4b4",
+                    "reference": "c6fdb720d9e49a94bf0ae1e534a13ceed40df4b4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-01 14:47:35",
+                "time": "2016-03-31 14:27:11",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -5664,7 +5664,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -7145,18 +7145,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3"
+                    "reference": "c80c0288c90304e1c3bea64f1618bd7f726196ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3",
-                    "reference": "8fef4aac0621c1bb151e9c8c2da7bacc4a1081f3",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/c80c0288c90304e1c3bea64f1618bd7f726196ac",
+                    "reference": "c80c0288c90304e1c3bea64f1618bd7f726196ac",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-28 13:21:43",
+                "time": "2016-04-04 07:42:49",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7170,7 +7170,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/master",
+                    "source": "https://github.com/tmhub/email/tree/1.1.2",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
@@ -9343,19 +9343,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "aa81461ac6589490d7f12323286eeb92303b642d"
+                    "reference": "a640eee462c9e82cf582755d02458019928d895e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/aa81461ac6589490d7f12323286eeb92303b642d",
-                    "reference": "aa81461ac6589490d7f12323286eeb92303b642d",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a640eee462c9e82cf582755d02458019928d895e",
+                    "reference": "a640eee462c9e82cf582755d02458019928d895e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-03-14 13:22:34",
+                "time": "2016-04-01 07:31:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10627,18 +10627,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/license.git",
-                    "reference": "0af72a0119cc62de734aa17a70fd424a62704f4b"
+                    "reference": "dcdc0653d888c82f395c4270241019a11709cd5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/license/zipball/0af72a0119cc62de734aa17a70fd424a62704f4b",
-                    "reference": "0af72a0119cc62de734aa17a70fd424a62704f4b",
+                    "url": "https://api.github.com/repos/tmhub/license/zipball/dcdc0653d888c82f395c4270241019a11709cd5e",
+                    "reference": "dcdc0653d888c82f395c4270241019a11709cd5e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-08 09:13:11",
+                "time": "2016-03-25 14:00:36",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11813,7 +11813,7 @@
                 "description": "Templates Master news writer",
                 "homepage": "https://github.com/tmhub/notifier",
                 "support": {
-                    "source": "https://github.com/tmhub/notifier/tree/master",
+                    "source": "https://github.com/tmhub/notifier/tree/1.2.0",
                     "issues": "https://github.com/tmhub/notifier/issues"
                 }
             },
@@ -12223,18 +12223,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "ade6cf02069a2ef9d64226b6563eaf2a9d7a65d3"
+                    "reference": "bf3a27382a3fd9bf62866a8915468fe32c18e1c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/ade6cf02069a2ef9d64226b6563eaf2a9d7a65d3",
-                    "reference": "ade6cf02069a2ef9d64226b6563eaf2a9d7a65d3",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/bf3a27382a3fd9bf62866a8915468fe32c18e1c6",
+                    "reference": "bf3a27382a3fd9bf62866a8915468fe32c18e1c6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-16 14:01:54",
+                "time": "2016-03-30 08:10:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16307,7 +16307,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             },
@@ -16344,7 +16344,7 @@
                 "description": "Free Classic theme",
                 "homepage": "https://github.com/tmhub/templatef002",
                 "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/master",
+                    "source": "https://github.com/tmhub/templatef002/tree/2.0.0",
                     "issues": "https://github.com/tmhub/templatef002/issues"
                 }
             }
