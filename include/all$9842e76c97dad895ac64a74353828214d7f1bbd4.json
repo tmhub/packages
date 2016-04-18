@@ -16757,6 +16757,87 @@
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             },
+            "1.0.3": {
+                "name": "tm/testimonials",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/testimonials.git",
+                    "reference": "638da83c62f18e339714bb6fa836cda2d5010692"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/638da83c62f18e339714bb6fa836cda2d5010692",
+                    "reference": "638da83c62f18e339714bb6fa836cda2d5010692",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-04-18 08:20:58",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Testimonials",
+                            "app/code/local/TM/Testimonials"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/testimonials.xml",
+                            "app/design/adminhtml/default/default/layout/tm/testimonials.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/testimonials.xml",
+                            "app/design/frontend/base/default/layout/tm/testimonials.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/testimonials",
+                            "app/design/frontend/base/default/template/tm/testimonials"
+                        ],
+                        [
+                            "app/etc/modules/TM_Testimonials.xml",
+                            "app/etc/modules/TM_Testimonials.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Testimonials.csv",
+                            "app/locale/en_US/TM_Testimonials.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/testimonials_admin_notification.html",
+                            "app/locale/en_US/template/email/testimonials_admin_notification.html"
+                        ],
+                        [
+                            "media/testimonials",
+                            "media/testimonials"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/testimonials.css",
+                            "skin/frontend/base/default/css/tm/testimonials.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/testimonials.js",
+                            "skin/frontend/base/default/js/tm/testimonials.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/testimonials",
+                "support": {
+                    "source": "https://github.com/tmhub/testimonials/tree/1.0.3",
+                    "issues": "https://github.com/tmhub/testimonials/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/testimonials",
                 "version": "dev-master",
