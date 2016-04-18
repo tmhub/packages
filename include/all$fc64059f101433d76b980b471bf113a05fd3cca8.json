@@ -77,6 +77,103 @@
             }
         },
         "tm/affiliate-suite": {
+            "1.2.4": {
+                "name": "tm/affiliate-suite",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/affiliatesuite.git",
+                    "reference": "4dce7dadf00f1cb935cedc3a73125118ba787b68"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/4dce7dadf00f1cb935cedc3a73125118ba787b68",
+                    "reference": "4dce7dadf00f1cb935cedc3a73125118ba787b68",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-04-18 08:45:01",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AffiliateSuite",
+                            "app/code/local/TM/AffiliateSuite"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/affiliatesuite.xml",
+                            "app/design/adminhtml/default/default/layout/affiliatesuite.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/affiliatesuite",
+                            "app/design/adminhtml/default/default/template/affiliatesuite"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/affiliatesuite.xml",
+                            "app/design/frontend/base/default/layout/affiliatesuite.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/affiliatesuite",
+                            "app/design/frontend/base/default/template/affiliatesuite"
+                        ],
+                        [
+                            "app/etc/modules/TM_AffiliateSuite.xml",
+                            "app/etc/modules/TM_AffiliateSuite.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AffiliateSuite.csv",
+                            "app/locale/en_US/TM_AffiliateSuite.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/affiliatesuite_account_new.html",
+                            "app/locale/en_US/template/email/affiliatesuite_account_new.html"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/affiliatesuite_forgotpassword.html",
+                            "app/locale/en_US/template/email/affiliatesuite_forgotpassword.html"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/affiliatesuite_tabstrip.css",
+                            "skin/frontend/base/default/css/affiliatesuite_tabstrip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/afiliatesuite_proframe.css",
+                            "skin/frontend/base/default/css/afiliatesuite_proframe.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/afiliatesuite_showhide.css",
+                            "skin/frontend/base/default/css/afiliatesuite_showhide.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/affiliatesuite_tabstrip.js",
+                            "skin/frontend/base/default/js/affiliatesuite_tabstrip.js"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/afiliatesuite_showhide.js",
+                            "skin/frontend/base/default/js/afiliatesuite_showhide.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/affiliatesuite",
+                "support": {
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "issues": "https://github.com/tmhub/affiliatesuite/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/affiliate-suite",
                 "version": "dev-master",
