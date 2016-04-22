@@ -4428,25 +4428,25 @@
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
-            "dev-master": {
+            "1.4.4": {
                 "name": "tm/cache",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "3e4a8d293d831186fbd03e970b7f4a53259c3851"
+                    "reference": "b46d74952fe42342a6c710715d05201a153362dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/3e4a8d293d831186fbd03e970b7f4a53259c3851",
-                    "reference": "3e4a8d293d831186fbd03e970b7f4a53259c3851",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/b46d74952fe42342a6c710715d05201a153362dc",
+                    "reference": "b46d74952fe42342a6c710715d05201a153362dc",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-21 15:57:33",
+                "time": "2016-04-22 14:48:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4460,7 +4460,43 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.4.4",
+                    "issues": "https://github.com/tmhub/cache/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cache.git",
+                    "reference": "b46d74952fe42342a6c710715d05201a153362dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/b46d74952fe42342a6c710715d05201a153362dc",
+                    "reference": "b46d74952fe42342a6c710715d05201a153362dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-04-22 14:48:07",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Full page cache",
+                "homepage": "https://github.com/tmhub/cache",
+                "support": {
+                    "source": "https://github.com/tmhub/cache/tree/1.4.4",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             }
@@ -12584,18 +12620,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "47a3c4334c84b012ff3aef1f698ce3be38b15017"
+                    "reference": "d9b555618f3e6950794d376083de0f7005067a5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/47a3c4334c84b012ff3aef1f698ce3be38b15017",
-                    "reference": "47a3c4334c84b012ff3aef1f698ce3be38b15017",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/d9b555618f3e6950794d376083de0f7005067a5a",
+                    "reference": "d9b555618f3e6950794d376083de0f7005067a5a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-04-12 11:58:51",
+                "time": "2016-04-22 11:20:05",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13665,18 +13701,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
-                    "reference": "ae2ea01b3f466c108f98d20f34026a4f86f20c60"
+                    "reference": "0753259971c89202e864bb32d3fc1625a92c5dfe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/ae2ea01b3f466c108f98d20f34026a4f86f20c60",
-                    "reference": "ae2ea01b3f466c108f98d20f34026a4f86f20c60",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/0753259971c89202e864bb32d3fc1625a92c5dfe",
+                    "reference": "0753259971c89202e864bb32d3fc1625a92c5dfe",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-18 13:03:16",
+                "time": "2016-04-22 09:37:46",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
