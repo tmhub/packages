@@ -2732,19 +2732,19 @@
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
-            "dev-master": {
+            "1.7.3.1": {
                 "name": "tm/argento",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.3.1",
+                "version_normalized": "1.7.3.1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "46a856c57e2f6ac333695ad31da45a0104d0028f"
+                    "reference": "e69929d30956452a0903c51e6f30b1cf48a05e4f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/46a856c57e2f6ac333695ad31da45a0104d0028f",
-                    "reference": "46a856c57e2f6ac333695ad31da45a0104d0028f",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e69929d30956452a0903c51e6f30b1cf48a05e4f",
+                    "reference": "e69929d30956452a0903c51e6f30b1cf48a05e4f",
                     "shasum": ""
                 },
                 "require": {
@@ -2769,7 +2769,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-04-20 12:13:11",
+                "time": "2016-05-06 14:00:33",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2783,7 +2783,62 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.3",
+                    "source": "https://github.com/argento/argento/tree/1.7.3.1",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "e69929d30956452a0903c51e6f30b1cf48a05e4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e69929d30956452a0903c51e6f30b1cf48a05e4f",
+                    "reference": "e69929d30956452a0903c51e6f30b1cf48a05e4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/richsnippets": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2016-05-06 14:00:33",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/1.7.3.1",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             }
@@ -14800,18 +14855,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "d1834e69072ee2fbd4404047dee46e0c8897c761"
+                    "reference": "f901617e050148f97726de36dc50dad35b2509ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/d1834e69072ee2fbd4404047dee46e0c8897c761",
-                    "reference": "d1834e69072ee2fbd4404047dee46e0c8897c761",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/f901617e050148f97726de36dc50dad35b2509ce",
+                    "reference": "f901617e050148f97726de36dc50dad35b2509ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-05-06 13:06:43",
+                "time": "2016-05-06 13:46:44",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -14885,18 +14940,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "d1834e69072ee2fbd4404047dee46e0c8897c761"
+                    "reference": "f901617e050148f97726de36dc50dad35b2509ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/d1834e69072ee2fbd4404047dee46e0c8897c761",
-                    "reference": "d1834e69072ee2fbd4404047dee46e0c8897c761",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/f901617e050148f97726de36dc50dad35b2509ce",
+                    "reference": "f901617e050148f97726de36dc50dad35b2509ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-05-06 13:06:43",
+                "time": "2016-05-06 13:46:44",
                 "type": "magento-module",
                 "extra": {
                     "map": [
