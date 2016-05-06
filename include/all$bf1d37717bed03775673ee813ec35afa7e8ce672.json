@@ -973,18 +973,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "b1bcc47025a56db4ab3fadab4d0f50fffb76ad6c"
+                    "reference": "04f22ca71e9f80a3c9cc387be69d1c840170ebac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/b1bcc47025a56db4ab3fadab4d0f50fffb76ad6c",
-                    "reference": "b1bcc47025a56db4ab3fadab4d0f50fffb76ad6c",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/04f22ca71e9f80a3c9cc387be69d1c840170ebac",
+                    "reference": "04f22ca71e9f80a3c9cc387be69d1c840170ebac",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-04-19 07:34:47",
+                "time": "2016-05-06 08:25:26",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5055,19 +5055,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "c3435a953a316f196f847dcacdb33d24f4c86418"
+                    "reference": "f46f02b08098a194726e08d465b97e36d5022bcd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/c3435a953a316f196f847dcacdb33d24f4c86418",
-                    "reference": "c3435a953a316f196f847dcacdb33d24f4c86418",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/f46f02b08098a194726e08d465b97e36d5022bcd",
+                    "reference": "f46f02b08098a194726e08d465b97e36d5022bcd",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-04-28 21:05:04",
+                "time": "2016-05-04 21:24:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9740,19 +9740,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "be02513a26a693b109595c5114da092d2f66dde7"
+                    "reference": "6329de4dfd860e0b095f61d5371d3e0802b54516"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/be02513a26a693b109595c5114da092d2f66dde7",
-                    "reference": "be02513a26a693b109595c5114da092d2f66dde7",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/6329de4dfd860e0b095f61d5371d3e0802b54516",
+                    "reference": "6329de4dfd860e0b095f61d5371d3e0802b54516",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-04-29 08:34:42",
+                "time": "2016-05-05 11:41:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12472,18 +12472,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/orderattachment.git",
-                    "reference": "4070375ba50cce5521b63d86da703743774dbbe9"
+                    "reference": "7f8f467520464e3dee7adc06a9bc75bf0c40be4d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/orderattachment/zipball/4070375ba50cce5521b63d86da703743774dbbe9",
-                    "reference": "4070375ba50cce5521b63d86da703743774dbbe9",
+                    "url": "https://api.github.com/repos/tmhub/orderattachment/zipball/7f8f467520464e3dee7adc06a9bc75bf0c40be4d",
+                    "reference": "7f8f467520464e3dee7adc06a9bc75bf0c40be4d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-04 07:41:50",
+                "time": "2016-05-04 14:01:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12497,7 +12497,7 @@
                 "description": "Magento order attachments",
                 "homepage": "https://github.com/tmhub/orderattachment",
                 "support": {
-                    "source": "https://github.com/tmhub/orderattachment/tree/1.1.3",
+                    "source": "https://github.com/tmhub/orderattachment/tree/master",
                     "issues": "https://github.com/tmhub/orderattachment/issues"
                 }
             }
@@ -14793,25 +14793,25 @@
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
-            "dev-master": {
+            "2.0.2": {
                 "name": "tm/richsnippets",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d"
+                    "reference": "0b95772273fdaebdc276f0f1fed035503d79ed83"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/15e2e49b860238108b88758fbb3cb1ee59a40e8d",
-                    "reference": "15e2e49b860238108b88758fbb3cb1ee59a40e8d",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/0b95772273fdaebdc276f0f1fed035503d79ed83",
+                    "reference": "0b95772273fdaebdc276f0f1fed035503d79ed83",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-24 09:20:28",
+                "time": "2016-05-06 06:42:17",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -14874,7 +14874,92 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/master",
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.2",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/richsnippets",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "0b95772273fdaebdc276f0f1fed035503d79ed83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/0b95772273fdaebdc276f0f1fed035503d79ed83",
+                    "reference": "0b95772273fdaebdc276f0f1fed035503d79ed83",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-05-06 06:42:17",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/RichSnippets",
+                            "app/code/local/TM/RichSnippets"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/richsnippets",
+                            "app/design/frontend/base/default/template/tm/richsnippets"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/richsnippets.css",
+                            "skin/frontend/base/default/css/tm/richsnippets.css"
+                        ],
+                        [
+                            "app/etc/modules/TM_RichSnippets.xml",
+                            "app/etc/modules/TM_RichSnippets.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_RichSnippets.csv",
+                            "app/locale/en_US/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_RichSnippets.csv",
+                            "app/locale/es_ES/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_RichSnippets.csv",
+                            "app/locale/fr_FR/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_RichSnippets.csv",
+                            "app/locale/it_IT/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_RichSnippets.csv",
+                            "app/locale/nl_NL/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_RichSnippets.csv",
+                            "app/locale/pt_PT/TM_RichSnippets.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.2",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             }
@@ -15411,18 +15496,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "ea7655eebd369ae199c176a73ceb75176ad067e4"
+                    "reference": "c3216df820c9f3a302e50ab69ac51bf914724509"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/ea7655eebd369ae199c176a73ceb75176ad067e4",
-                    "reference": "ea7655eebd369ae199c176a73ceb75176ad067e4",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/c3216df820c9f3a302e50ab69ac51bf914724509",
+                    "reference": "c3216df820c9f3a302e50ab69ac51bf914724509",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-03-24 08:36:59",
+                "time": "2016-05-05 14:16:33",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -15472,7 +15557,7 @@
                 ],
                 "homepage": "https://github.com/tmhub/socialsuite",
                 "support": {
-                    "source": "https://github.com/tmhub/socialsuite/tree/1.6.4",
+                    "source": "https://github.com/tmhub/socialsuite/tree/master",
                     "issues": "https://github.com/tmhub/socialsuite/issues"
                 }
             }
