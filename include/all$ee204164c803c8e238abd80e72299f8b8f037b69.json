@@ -3065,12 +3065,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "ee78a46bd9dbfa39a1f05cbc3d7a4659c693ed11"
+                    "reference": "e8818cd0b5ea0783d934d79a2e2f89ea818fd98f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/ee78a46bd9dbfa39a1f05cbc3d7a4659c693ed11",
-                    "reference": "ee78a46bd9dbfa39a1f05cbc3d7a4659c693ed11",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/e8818cd0b5ea0783d934d79a2e2f89ea818fd98f",
+                    "reference": "e8818cd0b5ea0783d934d79a2e2f89ea818fd98f",
                     "shasum": ""
                 },
                 "require": {
@@ -3086,7 +3086,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-03-24 14:09:34",
+                "time": "2016-05-10 14:59:44",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3975,6 +3975,44 @@
                 }
             }
         },
+        "tm/botprotection": {
+            "dev-master": {
+                "name": "tm/botprotection",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/botprotection.git",
+                    "reference": "e337c2bde5b2eabcfc717c41a5fa44c9eef7ff1a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/e337c2bde5b2eabcfc717c41a5fa44c9eef7ff1a",
+                    "reference": "e337c2bde5b2eabcfc717c41a5fa44c9eef7ff1a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-05-10 15:01:22",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module to protect magento from bots and spiders",
+                "homepage": "https://github.com/tmhub/botprotection",
+                "support": {
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "issues": "https://github.com/tmhub/botprotection/issues"
+                }
+            }
+        },
         "tm/cache": {
             "1.1.2": {
                 "name": "tm/cache",
@@ -4712,18 +4750,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "e1caf556c6654e7649cd9209522e46371d34b4f1"
+                    "reference": "b3be1044abdae6b0ffc66b7459d5c72908db729e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/e1caf556c6654e7649cd9209522e46371d34b4f1",
-                    "reference": "e1caf556c6654e7649cd9209522e46371d34b4f1",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/b3be1044abdae6b0ffc66b7459d5c72908db729e",
+                    "reference": "b3be1044abdae6b0ffc66b7459d5c72908db729e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-04-19 13:42:39",
+                "time": "2016-05-10 10:50:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
