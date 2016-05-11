@@ -44,7 +44,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                     Templates Master Packages
                             </h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2016-05-11T04:56:25-0700">Wed, 11 May 2016 04:56:25 -0700</time>
+                Last updated: <time datetime="2016-05-11T05:34:19-0700">Wed, 11 May 2016 05:34:19 -0700</time>
             </div>
         </div>
         <div id="bd">
@@ -62,6 +62,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                 Filter by package name:
                 <input type="text" id="search" autocomplete="off" autofocus />
 
+                <div id="package-list">
                                     <div>
                         <h3 id="tm/abandoned">tm/abandoned</h3>
                                                     <p>Templates Master Abandoned Cart module</p>
@@ -121,7 +122,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/affiliatesuite/tree/master">https://github.com/tmhub/affiliatesuite/tree/master</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/affiliatesuite/tree/1.2.4">https://github.com/tmhub/affiliatesuite/tree/1.2.4</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/affiliatesuite/issues">https://github.com/tmhub/affiliatesuite/issues</a></li>
                                                                         </ul>
                                 </tr>
@@ -607,7 +608,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/botprotection/zipball/e337c2bde5b2eabcfc717c41a5fa44c9eef7ff1a" title="e337c2bde5b2eabcfc717c41a5fa44c9eef7ff1a">dev-master</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/botprotection/zipball/11f9e588d1fab1736e4efe01ceeb98fc4d00afb1" title="11f9e588d1fab1736e4efe01ceeb98fc4d00afb1">dev-master</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2646,10 +2647,11 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                             </tr>
                         </table>
                     </div>
-                            </div>
+                                </div>
+            </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-05-11T04:56:25-0700</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-05-11T05:34:19-0700</small></p>
         </div>
     </div>
 
@@ -2673,10 +2675,12 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
             var ms = 350; // milliseconds
             var needle = $(this).val().toLowerCase(), show;
             timer = setTimeout(function() {
+                $('#package-list').hide();
                 packages.each(function(){
                     show = $(this).text().toLowerCase().indexOf(needle) != -1;
                     $(this).parent().toggle(show);
                 });
+                $('#package-list').show();
             }, ms);
         }).focus();
         $('input#search').change(function(){
@@ -2698,7 +2702,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2016-05-11T04:56:25-0700').fromNow());
+            $lastUpdate.text(moment('2016-05-11T05:34:19-0700').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
