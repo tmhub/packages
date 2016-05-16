@@ -45,19 +45,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "e4bf1adcff72f780290272a7640b3d621436c295"
+                    "reference": "81dca1646d272c38defd2c7253e056451d0fb7c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/e4bf1adcff72f780290272a7640b3d621436c295",
-                    "reference": "e4bf1adcff72f780290272a7640b3d621436c295",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/81dca1646d272c38defd2c7253e056451d0fb7c6",
+                    "reference": "81dca1646d272c38defd2c7253e056451d0fb7c6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-05-16 06:41:44",
+                "time": "2016-05-16 07:57:31",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
