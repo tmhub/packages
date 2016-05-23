@@ -34,7 +34,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -207,7 +207,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -999,7 +999,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -1294,7 +1294,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -1596,7 +1596,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -4308,7 +4308,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -5903,25 +5903,25 @@
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
-            "dev-master": {
+            "2.3.4.1": {
                 "name": "tm/easycatalogimg",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.3.4.1",
+                "version_normalized": "2.3.4.1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easycatalogimg.git",
-                    "reference": "b71e1e8df21c7a6592089eb80fdfd5ef64e4dc5d"
+                    "reference": "3d71f207153b5a20463308dba864fc5b4a27368d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/b71e1e8df21c7a6592089eb80fdfd5ef64e4dc5d",
-                    "reference": "b71e1e8df21c7a6592089eb80fdfd5ef64e4dc5d",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/3d71f207153b5a20463308dba864fc5b4a27368d",
+                    "reference": "3d71f207153b5a20463308dba864fc5b4a27368d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-06 13:37:35",
+                "time": "2016-05-23 12:53:54",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5935,7 +5935,43 @@
                 "description": "Subcategories listing with images",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.3.4.1",
+                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycatalogimg",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easycatalogimg.git",
+                    "reference": "3d71f207153b5a20463308dba864fc5b4a27368d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/3d71f207153b5a20463308dba864fc5b4a27368d",
+                    "reference": "3d71f207153b5a20463308dba864fc5b4a27368d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-05-23 12:53:54",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Subcategories listing with images",
+                "homepage": "https://github.com/tmhub/easycatalogimg",
+                "support": {
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.3.4.1",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             }
@@ -6195,25 +6231,25 @@
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
-            "dev-master": {
+            "2.1.0.1": {
                 "name": "tm/easyflags",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.0.1",
+                "version_normalized": "2.1.0.1",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "25fecdfcda248a0699a164944cd0d7ae9e793b2e"
+                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/25fecdfcda248a0699a164944cd0d7ae9e793b2e",
-                    "reference": "25fecdfcda248a0699a164944cd0d7ae9e793b2e",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/776d275db1e99d0153f3ff763695846d8eb1b096",
+                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-06 13:39:36",
+                "time": "2016-05-23 12:40:33",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6227,7 +6263,43 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/master",
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0.1",
+                    "issues": "https://github.com/tmhub/easyflags/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easyflags",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easyflags.git",
+                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/776d275db1e99d0153f3ff763695846d8eb1b096",
+                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-05-23 12:40:33",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "EasyFlags",
+                "homepage": "https://github.com/tmhub/easyflags",
+                "support": {
+                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0.1",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             }
@@ -6307,26 +6379,26 @@
                     "issues": "https://github.com/tmhub/easylightbox/issues"
                 }
             },
-            "dev-master": {
+            "3.1.2": {
                 "name": "tm/easylightbox",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easylightbox.git",
-                    "reference": "01088ac2758b3c2b9b5011ca7a40d86a426a57bd"
+                    "reference": "0b8ddb09e866ca64289ca8139dec95c52dc11c53"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/01088ac2758b3c2b9b5011ca7a40d86a426a57bd",
-                    "reference": "01088ac2758b3c2b9b5011ca7a40d86a426a57bd",
+                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/0b8ddb09e866ca64289ca8139dec95c52dc11c53",
+                    "reference": "0b8ddb09e866ca64289ca8139dec95c52dc11c53",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-01-06 13:39:58",
+                "time": "2016-05-23 12:47:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6340,7 +6412,44 @@
                 "description": "Lightbox library integration",
                 "homepage": "https://github.com/tmhub/easylightbox",
                 "support": {
-                    "source": "https://github.com/tmhub/easylightbox/tree/master",
+                    "source": "https://github.com/tmhub/easylightbox/tree/3.1.2",
+                    "issues": "https://github.com/tmhub/easylightbox/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easylightbox",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easylightbox.git",
+                    "reference": "0b8ddb09e866ca64289ca8139dec95c52dc11c53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/0b8ddb09e866ca64289ca8139dec95c52dc11c53",
+                    "reference": "0b8ddb09e866ca64289ca8139dec95c52dc11c53",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-05-23 12:47:59",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Lightbox library integration",
+                "homepage": "https://github.com/tmhub/easylightbox",
+                "support": {
+                    "source": "https://github.com/tmhub/easylightbox/tree/3.1.2",
                     "issues": "https://github.com/tmhub/easylightbox/issues"
                 }
             }
@@ -7820,25 +7929,25 @@
                     "issues": "https://github.com/tmhub/facebooklb/issues"
                 }
             },
-            "dev-master": {
+            "2.0.2": {
                 "name": "tm/facebooklb",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/facebooklb.git",
-                    "reference": "0581a3b9e3fe424c3043a5fd9fe6388d4d497a69"
+                    "reference": "9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/0581a3b9e3fe424c3043a5fd9fe6388d4d497a69",
-                    "reference": "0581a3b9e3fe424c3043a5fd9fe6388d4d497a69",
+                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7",
+                    "reference": "9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-19 16:05:33",
+                "time": "2016-05-23 12:44:24",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -7897,7 +8006,88 @@
                 "description": "Facebook Like Button integration",
                 "homepage": "https://github.com/tmhub/facebooklb",
                 "support": {
-                    "source": "https://github.com/tmhub/facebooklb/tree/master",
+                    "source": "https://github.com/tmhub/facebooklb/tree/2.0.2",
+                    "issues": "https://github.com/tmhub/facebooklb/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/facebooklb",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/facebooklb.git",
+                    "reference": "9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/facebooklb/zipball/9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7",
+                    "reference": "9f381ae2a4ad4b578fc64bf141ef311c9f0b38c7",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-05-23 12:44:24",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/FacebookLB",
+                            "app/code/community/TM/FacebookLB"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/FacebookLB.xml",
+                            "app/design/frontend/base/default/layout/FacebookLB.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/facebooklb",
+                            "app/design/frontend/base/default/template/facebooklb"
+                        ],
+                        [
+                            "app/etc/modules/TM_FacebookLB.xml",
+                            "app/etc/modules/TM_FacebookLB.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_FacebookLB.csv",
+                            "app/locale/en_US/TM_FacebookLB.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_FacebookLB.csv",
+                            "app/locale/es_ES/TM_FacebookLB.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_FacebookLB.csv",
+                            "app/locale/fr_FR/TM_FacebookLB.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_FacebookLB.csv",
+                            "app/locale/it_IT/TM_FacebookLB.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_FacebookLB.csv",
+                            "app/locale/nl_NL/TM_FacebookLB.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_FacebookLB.csv",
+                            "app/locale/pt_PT/TM_FacebookLB.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook Like Button integration",
+                "homepage": "https://github.com/tmhub/facebooklb",
+                "support": {
+                    "source": "https://github.com/tmhub/facebooklb/tree/2.0.2",
                     "issues": "https://github.com/tmhub/facebooklb/issues"
                 }
             }
@@ -12273,7 +12463,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -13792,18 +13982,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
-                    "reference": "92f0037bc52b1908d8885ef3950ce5c9729798e5"
+                    "reference": "80e17eea63d7f450c220bc06a23089260e4ec360"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/92f0037bc52b1908d8885ef3950ce5c9729798e5",
-                    "reference": "92f0037bc52b1908d8885ef3950ce5c9729798e5",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/80e17eea63d7f450c220bc06a23089260e4ec360",
+                    "reference": "80e17eea63d7f450c220bc06a23089260e4ec360",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-22 15:27:01",
+                "time": "2016-05-23 08:40:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16254,7 +16444,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
