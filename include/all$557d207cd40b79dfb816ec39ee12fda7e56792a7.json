@@ -10283,19 +10283,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "34f320129469cba7de4327f27314cdd354e38922"
+                    "reference": "eb17fdf9c1fb54f6cfcbb2be1fbe06870f4d226a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/34f320129469cba7de4327f27314cdd354e38922",
-                    "reference": "34f320129469cba7de4327f27314cdd354e38922",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/eb17fdf9c1fb54f6cfcbb2be1fbe06870f4d226a",
+                    "reference": "eb17fdf9c1fb54f6cfcbb2be1fbe06870f4d226a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-06-01 07:13:51",
+                "time": "2016-06-08 13:12:30",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
