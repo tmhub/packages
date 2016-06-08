@@ -2,6 +2,8 @@
     "name": "Templates Master Packages",
     "homepage": "http://tmhub.github.io/packages/",
     "repositories": [
+        {"type": "vcs", "url": "git@github.com:tmhub/cryozonic-stripe.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/abandoned.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/affiliatesuite.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/ajaxlayerednavigation.git"},
