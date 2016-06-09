@@ -3214,12 +3214,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "567161cdbe444acad24504924936916c302fe28e"
+                    "reference": "a280b9519b4242f5c82fa70f0769bcb899116cd2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/567161cdbe444acad24504924936916c302fe28e",
-                    "reference": "567161cdbe444acad24504924936916c302fe28e",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/a280b9519b4242f5c82fa70f0769bcb899116cd2",
+                    "reference": "a280b9519b4242f5c82fa70f0769bcb899116cd2",
                     "shasum": ""
                 },
                 "require": {
@@ -3236,7 +3236,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-05-27 12:13:09",
+                "time": "2016-06-09 12:15:29",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
