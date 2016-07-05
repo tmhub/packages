@@ -146,7 +146,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
+                    "source": "https://github.com/tmhub/abandoned/tree/master",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -422,18 +422,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/affiliatesuite.git",
-                    "reference": "163e0889e5586c3dcbb72f09acbc63624d5110a4"
+                    "reference": "d463ac507ee84c52e3bee3bfd2c5894dc13c7d2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/163e0889e5586c3dcbb72f09acbc63624d5110a4",
-                    "reference": "163e0889e5586c3dcbb72f09acbc63624d5110a4",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/d463ac507ee84c52e3bee3bfd2c5894dc13c7d2f",
+                    "reference": "d463ac507ee84c52e3bee3bfd2c5894dc13c7d2f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-30 07:18:10",
+                "time": "2016-07-05 06:57:33",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -1203,7 +1203,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -1498,7 +1498,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -1800,30 +1800,30 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
-            "dev-master": {
+            "1.5.3": {
                 "name": "tm/ajax-search",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "5547fceda6827e883ba10ed257bd230a8ffb5442"
+                    "reference": "62eba0579f51762f03b650da5ba82dcd6799164f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/5547fceda6827e883ba10ed257bd230a8ffb5442",
-                    "reference": "5547fceda6827e883ba10ed257bd230a8ffb5442",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/62eba0579f51762f03b650da5ba82dcd6799164f",
+                    "reference": "62eba0579f51762f03b650da5ba82dcd6799164f",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-03-21 14:49:14",
+                "time": "2016-07-05 08:03:35",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1837,7 +1837,44 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.3",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-search",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "62eba0579f51762f03b650da5ba82dcd6799164f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/62eba0579f51762f03b650da5ba82dcd6799164f",
+                    "reference": "62eba0579f51762f03b650da5ba82dcd6799164f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-07-05 08:03:35",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.3",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             }
@@ -3092,18 +3129,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "45575e0bbe5af7ed1a199dfa5f02eb3e57bce4a5"
+                    "reference": "7b6085895dd6ab39dbadad98564ce3aefbcc95a0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/45575e0bbe5af7ed1a199dfa5f02eb3e57bce4a5",
-                    "reference": "45575e0bbe5af7ed1a199dfa5f02eb3e57bce4a5",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/7b6085895dd6ab39dbadad98564ce3aefbcc95a0",
+                    "reference": "7b6085895dd6ab39dbadad98564ce3aefbcc95a0",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-04-27 14:16:25",
+                "time": "2016-07-05 06:54:08",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4333,18 +4370,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "2088cf4cd47ab93be550d40af16da30b91e61d62"
+                    "reference": "63b077da1a67fd5778da145e9e93033e3bbf456a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/2088cf4cd47ab93be550d40af16da30b91e61d62",
-                    "reference": "2088cf4cd47ab93be550d40af16da30b91e61d62",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/63b077da1a67fd5778da145e9e93033e3bbf456a",
+                    "reference": "63b077da1a67fd5778da145e9e93033e3bbf456a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-30 12:56:38",
+                "time": "2016-07-04 13:25:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4358,7 +4395,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.1",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -4585,7 +4622,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
+                    "source": "https://github.com/tmhub/cache/tree/master",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -10523,12 +10560,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "d90a2cb5b2c1a98fa2714637cc852de099c74a31"
+                    "reference": "a3c1bb8923c19a1c6763adf9c34002bec3967122"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/d90a2cb5b2c1a98fa2714637cc852de099c74a31",
-                    "reference": "d90a2cb5b2c1a98fa2714637cc852de099c74a31",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a3c1bb8923c19a1c6763adf9c34002bec3967122",
+                    "reference": "a3c1bb8923c19a1c6763adf9c34002bec3967122",
                     "shasum": ""
                 },
                 "require": {
@@ -10536,7 +10573,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-06-29 04:36:45",
+                "time": "2016-07-05 07:43:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12854,7 +12891,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -15492,18 +15529,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/recaptcha.git",
-                    "reference": "f0893c507c8c1f870aeae6f7a60b1b8c2ab14e4b"
+                    "reference": "cccf46a8428959d237a099f3135935a6b38145a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/f0893c507c8c1f870aeae6f7a60b1b8c2ab14e4b",
-                    "reference": "f0893c507c8c1f870aeae6f7a60b1b8c2ab14e4b",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/cccf46a8428959d237a099f3135935a6b38145a7",
+                    "reference": "cccf46a8428959d237a099f3135935a6b38145a7",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-30 12:38:25",
+                "time": "2016-06-30 13:05:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17050,7 +17087,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
+                    "source": "https://github.com/tmhub/soldtogether/tree/master",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
