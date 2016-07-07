@@ -411,7 +411,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -3072,12 +3072,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "e4edf230b18576748a6a485208d9da4cf04b1695"
+                    "reference": "7f00339c47e9e788240e1268091eb45cc5ea5d2a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/e4edf230b18576748a6a485208d9da4cf04b1695",
-                    "reference": "e4edf230b18576748a6a485208d9da4cf04b1695",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/7f00339c47e9e788240e1268091eb45cc5ea5d2a",
+                    "reference": "7f00339c47e9e788240e1268091eb45cc5ea5d2a",
                     "shasum": ""
                 },
                 "require": {
@@ -3102,7 +3102,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-06-02 11:12:35",
+                "time": "2016-07-07 07:03:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3129,18 +3129,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "ce24d8a801b01b25033da593f56b0fde273a9fd0"
+                    "reference": "63b93a0d91f1ead2e748c0385e8c45107359291e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/ce24d8a801b01b25033da593f56b0fde273a9fd0",
-                    "reference": "ce24d8a801b01b25033da593f56b0fde273a9fd0",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/63b93a0d91f1ead2e748c0385e8c45107359291e",
+                    "reference": "63b93a0d91f1ead2e748c0385e8c45107359291e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-07-05 13:14:03",
+                "time": "2016-07-07 07:57:09",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3343,12 +3343,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "8ff7c8734721e87aecd2a445e4ad3c14ad2c3fac"
+                    "reference": "3967c4359be0c635aea9af4bad348ace762806fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/8ff7c8734721e87aecd2a445e4ad3c14ad2c3fac",
-                    "reference": "8ff7c8734721e87aecd2a445e4ad3c14ad2c3fac",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/3967c4359be0c635aea9af4bad348ace762806fb",
+                    "reference": "3967c4359be0c635aea9af4bad348ace762806fb",
                     "shasum": ""
                 },
                 "require": {
@@ -3365,7 +3365,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-06-09 13:14:03",
+                "time": "2016-07-07 07:57:57",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3431,12 +3431,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-tm.git",
-                    "reference": "24bac03b6cbf45e3732a864cfa46fa184e855467"
+                    "reference": "e46cda0f69ac07aebdbef8c5199bd0c2d116a689"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-tm/zipball/24bac03b6cbf45e3732a864cfa46fa184e855467",
-                    "reference": "24bac03b6cbf45e3732a864cfa46fa184e855467",
+                    "url": "https://api.github.com/repos/argento/argento-tm/zipball/e46cda0f69ac07aebdbef8c5199bd0c2d116a689",
+                    "reference": "e46cda0f69ac07aebdbef8c5199bd0c2d116a689",
                     "shasum": ""
                 },
                 "require": {
@@ -3446,7 +3446,7 @@
                     "tm/notifier": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-01-29 16:03:09",
+                "time": "2016-07-07 07:58:15",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10560,12 +10560,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "a3c1bb8923c19a1c6763adf9c34002bec3967122"
+                    "reference": "7194a4024a6d95c099718f41ffffee8a6874b9d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a3c1bb8923c19a1c6763adf9c34002bec3967122",
-                    "reference": "a3c1bb8923c19a1c6763adf9c34002bec3967122",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/7194a4024a6d95c099718f41ffffee8a6874b9d2",
+                    "reference": "7194a4024a6d95c099718f41ffffee8a6874b9d2",
                     "shasum": ""
                 },
                 "require": {
@@ -10573,7 +10573,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-07-05 07:43:02",
+                "time": "2016-07-07 07:08:06",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
