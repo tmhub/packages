@@ -1917,25 +1917,25 @@
             }
         },
         "tm/akismet": {
-            "dev-master": {
+            "1.0.0": {
                 "name": "tm/akismet",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/akismet.git",
-                    "reference": "47e2036a582e85927dee4dc3059a6fd33fa9fa1f"
+                    "reference": "b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/akismet/zipball/47e2036a582e85927dee4dc3059a6fd33fa9fa1f",
-                    "reference": "47e2036a582e85927dee4dc3059a6fd33fa9fa1f",
+                    "url": "https://api.github.com/repos/tmhub/akismet/zipball/b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9",
+                    "reference": "b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-12-15 14:09:22",
+                "time": "2016-07-20 12:28:51",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1949,7 +1949,43 @@
                 "description": "Templates Master Akismet integration module",
                 "homepage": "https://github.com/tmhub/akismet",
                 "support": {
-                    "source": "https://github.com/tmhub/akismet/tree/master",
+                    "source": "https://github.com/tmhub/akismet/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/akismet/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/akismet",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/akismet.git",
+                    "reference": "b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/akismet/zipball/b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9",
+                    "reference": "b03adc0b9e30fdae2f2fc43cfc4e1a64931ef4e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-07-20 12:28:51",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Akismet integration module",
+                "homepage": "https://github.com/tmhub/akismet",
+                "support": {
+                    "source": "https://github.com/tmhub/akismet/tree/1.0.0",
                     "issues": "https://github.com/tmhub/akismet/issues"
                 }
             }
