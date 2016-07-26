@@ -146,7 +146,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -448,7 +448,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -1240,7 +1240,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -1535,7 +1535,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -1837,7 +1837,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -4733,7 +4733,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -5759,15 +5759,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "02960852df65e9ce685fb07776374666abc81999"
+                    "reference": "e5f9111d9410c42e396cbb9ef21a7c45fd1305bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/02960852df65e9ce685fb07776374666abc81999",
-                    "reference": "02960852df65e9ce685fb07776374666abc81999",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/e5f9111d9410c42e396cbb9ef21a7c45fd1305bf",
+                    "reference": "e5f9111d9410c42e396cbb9ef21a7c45fd1305bf",
                     "shasum": ""
                 },
-                "time": "2016-07-25 13:19:33",
+                "time": "2016-07-25 14:46:36",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6655,25 +6655,25 @@
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             },
-            "dev-master": {
+            "2.1.2": {
                 "name": "tm/easycolorswatches",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "2014ed056f334bc5a96378430debcd3b9ea3160a"
+                    "reference": "61a30b1d7bfb69397421c8ba1dc35d24b0ecc318"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/2014ed056f334bc5a96378430debcd3b9ea3160a",
-                    "reference": "2014ed056f334bc5a96378430debcd3b9ea3160a",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/61a30b1d7bfb69397421c8ba1dc35d24b0ecc318",
+                    "reference": "61a30b1d7bfb69397421c8ba1dc35d24b0ecc318",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-07-11 10:30:49",
+                "time": "2016-07-26 08:42:00",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -6759,7 +6759,115 @@
                 ],
                 "homepage": "https://github.com/tmhub/easycolorswatches",
                 "support": {
-                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.1",
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.2",
+                    "issues": "https://github.com/tmhub/easycolorswatches/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycolorswatches",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easycolorswatches.git",
+                    "reference": "61a30b1d7bfb69397421c8ba1dc35d24b0ecc318"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/61a30b1d7bfb69397421c8ba1dc35d24b0ecc318",
+                    "reference": "61a30b1d7bfb69397421c8ba1dc35d24b0ecc318",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-07-26 08:42:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/EasyColorSwatches",
+                            "app/code/local/TM/EasyColorSwatches"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/easycolorswatches.xml",
+                            "app/design/adminhtml/default/default/layout/easycolorswatches.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/easycolorswatches",
+                            "app/design/adminhtml/default/default/template/easycolorswatches"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easycolorswatches.xml",
+                            "app/design/frontend/base/default/layout/tm/easycolorswatches.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easycolorswatches",
+                            "app/design/frontend/base/default/template/tm/easycolorswatches"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyColorSwatches.xml",
+                            "app/etc/modules/TM_EasyColorSwatches.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyColorSwatches.csv",
+                            "app/locale/en_US/TM_EasyColorSwatches.csv"
+                        ],
+                        [
+                            "js/tm/easycolorswatches",
+                            "js/tm/easycolorswatches"
+                        ],
+                        [
+                            "media/easycolorswatches",
+                            "media/easycolorswatches"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/images/easycolorswatches",
+                            "skin/adminhtml/default/default/images/easycolorswatches"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/colorPicker.css",
+                            "skin/adminhtml/default/default/colorPicker.css"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/easycolorswatch.css",
+                            "skin/adminhtml/default/default/easycolorswatch.css"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/easycolorswatches_attribute.css",
+                            "skin/adminhtml/default/default/easycolorswatches_attribute.css"
+                        ],
+                        [
+                            "skin/adminhtml/default/default/jColorpicker.css",
+                            "skin/adminhtml/default/default/jColorpicker.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/ecs/easycolorswatches.css",
+                            "skin/frontend/base/default/css/tm/ecs/easycolorswatches.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/easycolorswatch",
+                            "skin/frontend/base/default/images/easycolorswatch"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/ecs",
+                            "skin/frontend/base/default/js/tm/ecs"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/easycolorswatches",
+                "support": {
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.2",
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             }
@@ -12363,19 +12471,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "4b5fe043ef6898e1c8e290f289ba60f458f080c5"
+                    "reference": "eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/4b5fe043ef6898e1c8e290f289ba60f458f080c5",
-                    "reference": "4b5fe043ef6898e1c8e290f289ba60f458f080c5",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934",
+                    "reference": "eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-07-21 12:43:56",
+                "time": "2016-07-25 19:54:17",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12389,7 +12497,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.1.5",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             },
@@ -13185,7 +13293,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -17417,7 +17525,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
