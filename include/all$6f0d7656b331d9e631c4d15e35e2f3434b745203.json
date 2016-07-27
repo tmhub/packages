@@ -3919,12 +3919,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "ed9031577485e3b11ef9b4a4efdb823024c0d522"
+                    "reference": "c01ae5036ac16280865c2421d4f335f4e673fd24"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/ed9031577485e3b11ef9b4a4efdb823024c0d522",
-                    "reference": "ed9031577485e3b11ef9b4a4efdb823024c0d522",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/c01ae5036ac16280865c2421d4f335f4e673fd24",
+                    "reference": "c01ae5036ac16280865c2421d4f335f4e673fd24",
                     "shasum": ""
                 },
                 "require": {
@@ -3932,7 +3932,7 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-07-26 12:28:18",
+                "time": "2016-07-27 12:40:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4474,25 +4474,25 @@
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
-            "dev-master": {
+            "1.0.2": {
                 "name": "tm/bot-protection",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "537dae3b9fd74143dc0178f1fb1fc247afd1a806"
+                    "reference": "a4f9c280f285b4139a25965650e714dd2154e9ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/537dae3b9fd74143dc0178f1fb1fc247afd1a806",
-                    "reference": "537dae3b9fd74143dc0178f1fb1fc247afd1a806",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/a4f9c280f285b4139a25965650e714dd2154e9ce",
+                    "reference": "a4f9c280f285b4139a25965650e714dd2154e9ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-07-13 11:01:37",
+                "time": "2016-07-27 13:40:34",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4506,7 +4506,43 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.2",
+                    "issues": "https://github.com/tmhub/botprotection/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/bot-protection",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/botprotection.git",
+                    "reference": "a4f9c280f285b4139a25965650e714dd2154e9ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/a4f9c280f285b4139a25965650e714dd2154e9ce",
+                    "reference": "a4f9c280f285b4139a25965650e714dd2154e9ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-07-27 13:40:34",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module to protect magento from bots and spiders",
+                "homepage": "https://github.com/tmhub/botprotection",
+                "support": {
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.2",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -5759,15 +5795,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:swissup/demo-deployer.git",
-                    "reference": "e5f9111d9410c42e396cbb9ef21a7c45fd1305bf"
+                    "reference": "1ab6a1d3f60810ab06e0ea094cd535df14205466"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/e5f9111d9410c42e396cbb9ef21a7c45fd1305bf",
-                    "reference": "e5f9111d9410c42e396cbb9ef21a7c45fd1305bf",
+                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/1ab6a1d3f60810ab06e0ea094cd535df14205466",
+                    "reference": "1ab6a1d3f60810ab06e0ea094cd535df14205466",
                     "shasum": ""
                 },
-                "time": "2016-07-25 14:46:36",
+                "time": "2016-07-26 13:31:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11711,12 +11747,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "6ceedbd7e65a4f4ecf0240251b95652bb733f1eb"
+                    "reference": "28729acdffb826f167fba6bdadb980fc3888d339"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/6ceedbd7e65a4f4ecf0240251b95652bb733f1eb",
-                    "reference": "6ceedbd7e65a4f4ecf0240251b95652bb733f1eb",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/28729acdffb826f167fba6bdadb980fc3888d339",
+                    "reference": "28729acdffb826f167fba6bdadb980fc3888d339",
                     "shasum": ""
                 },
                 "require": {
@@ -11725,7 +11761,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-07-19 06:39:09",
+                "time": "2016-07-27 11:34:58",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12507,19 +12543,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934"
+                    "reference": "943224d177207a331ab2275627cb4c1d7d69ca2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934",
-                    "reference": "eb9bf830cd2354dd9a0fa9af51c0a7bbdeb72934",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/943224d177207a331ab2275627cb4c1d7d69ca2f",
+                    "reference": "943224d177207a331ab2275627cb4c1d7d69ca2f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-07-25 19:54:17",
+                "time": "2016-07-26 21:16:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
