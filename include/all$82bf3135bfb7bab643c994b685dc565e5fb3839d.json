@@ -5172,18 +5172,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
-                    "reference": "de8952ef6e4fc892c5b23c1bb9b4661c477cb109"
+                    "reference": "3bee6a6353a7310b607a232e28357d19b1376fb9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/de8952ef6e4fc892c5b23c1bb9b4661c477cb109",
-                    "reference": "de8952ef6e4fc892c5b23c1bb9b4661c477cb109",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/3bee6a6353a7310b607a232e28357d19b1376fb9",
+                    "reference": "3bee6a6353a7310b607a232e28357d19b1376fb9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-04-05 15:43:15",
+                "time": "2016-07-27 14:26:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6102,18 +6102,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "0b4cb3a747b17f0be7c10b2b79fb8764224fec7f"
+                    "reference": "834c9ebc655cc3bd17734ab3dcf66d366820b15c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/0b4cb3a747b17f0be7c10b2b79fb8764224fec7f",
-                    "reference": "0b4cb3a747b17f0be7c10b2b79fb8764224fec7f",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/834c9ebc655cc3bd17734ab3dcf66d366820b15c",
+                    "reference": "834c9ebc655cc3bd17734ab3dcf66d366820b15c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-01-28 09:43:40",
+                "time": "2016-07-27 14:10:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12543,19 +12543,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "943224d177207a331ab2275627cb4c1d7d69ca2f"
+                    "reference": "9f00d8ea7392458975a4221e2e57c47c487c5f12"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/943224d177207a331ab2275627cb4c1d7d69ca2f",
-                    "reference": "943224d177207a331ab2275627cb4c1d7d69ca2f",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/9f00d8ea7392458975a4221e2e57c47c487c5f12",
+                    "reference": "9f00d8ea7392458975a4221e2e57c47c487c5f12",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-07-26 21:16:02",
+                "time": "2016-07-27 14:27:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
