@@ -12536,6 +12536,43 @@
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             },
+            "1.2.0": {
+                "name": "tm/lightboxpro",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/lightboxpro.git",
+                    "reference": "9f00d8ea7392458975a4221e2e57c47c487c5f12"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/9f00d8ea7392458975a4221e2e57c47c487c5f12",
+                    "reference": "9f00d8ea7392458975a4221e2e57c47c487c5f12",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-07-27 14:27:52",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master LightboxPro module",
+                "homepage": "https://github.com/tmhub/lightboxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
+                    "issues": "https://github.com/tmhub/lightboxpro/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/lightboxpro",
                 "version": "dev-master",
