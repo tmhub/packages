@@ -5091,25 +5091,25 @@
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
-            "dev-master": {
+            "1.4.5": {
                 "name": "tm/cache",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "8bc18e108c1bb58f2bf2175ddee709054ce113b0"
+                    "reference": "ece6ce864471442d82905ed86f63a327ca279991"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/8bc18e108c1bb58f2bf2175ddee709054ce113b0",
-                    "reference": "8bc18e108c1bb58f2bf2175ddee709054ce113b0",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/ece6ce864471442d82905ed86f63a327ca279991",
+                    "reference": "ece6ce864471442d82905ed86f63a327ca279991",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-07-28 10:21:48",
+                "time": "2016-07-29 06:35:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5123,7 +5123,43 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.4.5",
+                    "issues": "https://github.com/tmhub/cache/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cache.git",
+                    "reference": "ece6ce864471442d82905ed86f63a327ca279991"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/ece6ce864471442d82905ed86f63a327ca279991",
+                    "reference": "ece6ce864471442d82905ed86f63a327ca279991",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-07-29 06:35:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Full page cache",
+                "homepage": "https://github.com/tmhub/cache",
+                "support": {
+                    "source": "https://github.com/tmhub/cache/tree/1.4.5",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             }
@@ -19186,18 +19222,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "264012d5359bf555b0d58db9e78aa008bd5fd0e9"
+                    "reference": "adf630e7436c45e99c9c6b97488363cc41946aa5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/264012d5359bf555b0d58db9e78aa008bd5fd0e9",
-                    "reference": "264012d5359bf555b0d58db9e78aa008bd5fd0e9",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/adf630e7436c45e99c9c6b97488363cc41946aa5",
+                    "reference": "adf630e7436c45e99c9c6b97488363cc41946aa5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-07-27 20:50:07",
+                "time": "2016-07-28 19:19:42",
                 "type": "magento-module",
                 "extra": {
                     "map": [
