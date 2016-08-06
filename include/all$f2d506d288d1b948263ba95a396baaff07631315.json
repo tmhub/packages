@@ -4049,12 +4049,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "313fbfb465af32edd4633c34f7bf873d8c2fc26d"
+                    "reference": "b222480cfe1016706b69aed6f322ef3e0c3f99ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/313fbfb465af32edd4633c34f7bf873d8c2fc26d",
-                    "reference": "313fbfb465af32edd4633c34f7bf873d8c2fc26d",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/b222480cfe1016706b69aed6f322ef3e0c3f99ca",
+                    "reference": "b222480cfe1016706b69aed6f322ef3e0c3f99ca",
                     "shasum": ""
                 },
                 "require": {
@@ -4062,7 +4062,7 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-08-03 14:13:10",
+                "time": "2016-08-06 10:08:41",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4076,7 +4076,7 @@
                 "description": "Templates Master Askit module",
                 "homepage": "https://github.com/tmhub/askit",
                 "support": {
-                    "source": "https://github.com/tmhub/askit/tree/2.3.0",
+                    "source": "https://github.com/tmhub/askit/tree/master",
                     "issues": "https://github.com/tmhub/askit/issues"
                 }
             }
@@ -5446,18 +5446,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
-                    "reference": "fafd4fd938cd55afc6fa656581c87b2bd692d13b"
+                    "reference": "69f6b9551163de61b2992198a7cefac6fd73d1c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/fafd4fd938cd55afc6fa656581c87b2bd692d13b",
-                    "reference": "fafd4fd938cd55afc6fa656581c87b2bd692d13b",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/69f6b9551163de61b2992198a7cefac6fd73d1c4",
+                    "reference": "69f6b9551163de61b2992198a7cefac6fd73d1c4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-03 13:28:40",
+                "time": "2016-08-05 13:32:54",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5471,7 +5471,7 @@
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
                 "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
                 "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.1",
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/master",
                     "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
                 }
             }
@@ -6063,19 +6063,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "5c443e7e6c485d8a6e37531c41caaa559dc604da"
+                    "reference": "11dfcd61fcaa1e0cc09cd78804a35004b9e0afb5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/5c443e7e6c485d8a6e37531c41caaa559dc604da",
-                    "reference": "5c443e7e6c485d8a6e37531c41caaa559dc604da",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/11dfcd61fcaa1e0cc09cd78804a35004b9e0afb5",
+                    "reference": "11dfcd61fcaa1e0cc09cd78804a35004b9e0afb5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-07-29 13:03:27",
+                "time": "2016-08-05 14:40:28",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
