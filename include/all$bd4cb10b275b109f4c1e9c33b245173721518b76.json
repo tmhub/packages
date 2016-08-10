@@ -3563,12 +3563,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "929985d4db71fffb01783cabef9016b92006a58f"
+                    "reference": "78a408f735a8b2961bce1597556a7188973498a1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/929985d4db71fffb01783cabef9016b92006a58f",
-                    "reference": "929985d4db71fffb01783cabef9016b92006a58f",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/78a408f735a8b2961bce1597556a7188973498a1",
+                    "reference": "78a408f735a8b2961bce1597556a7188973498a1",
                     "shasum": ""
                 },
                 "require": {
@@ -3585,7 +3585,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-07-13 11:45:25",
+                "time": "2016-08-09 14:42:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4774,18 +4774,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "fc31f86dae44567c04675d5a4f7792ae3cceb01a"
+                    "reference": "0a668f89f02e84a6a16a1d0e47542226b8cd477e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/fc31f86dae44567c04675d5a4f7792ae3cceb01a",
-                    "reference": "fc31f86dae44567c04675d5a4f7792ae3cceb01a",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/0a668f89f02e84a6a16a1d0e47542226b8cd477e",
+                    "reference": "0a668f89f02e84a6a16a1d0e47542226b8cd477e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-09 12:42:11",
+                "time": "2016-08-09 15:06:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5613,18 +5613,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "b3be1044abdae6b0ffc66b7459d5c72908db729e"
+                    "reference": "da64d207d212999bb1dab580d622a9b3b8e7e8b3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/b3be1044abdae6b0ffc66b7459d5c72908db729e",
-                    "reference": "b3be1044abdae6b0ffc66b7459d5c72908db729e",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/da64d207d212999bb1dab580d622a9b3b8e7e8b3",
+                    "reference": "da64d207d212999bb1dab580d622a9b3b8e7e8b3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-05-10 10:50:48",
+                "time": "2016-08-10 06:33:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5638,7 +5638,7 @@
                 "description": "Templates Master CDN module",
                 "homepage": "https://github.com/tmhub/cdn",
                 "support": {
-                    "source": "https://github.com/tmhub/cdn/tree/master",
+                    "source": "https://github.com/tmhub/cdn/tree/1.1.2",
                     "issues": "https://github.com/tmhub/cdn/issues"
                 }
             }
@@ -8188,18 +8188,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "c71d83338d511d20121c75c1d8b1081460745072"
+                    "reference": "b6806f39b660c51093495666f0ccddef83aa911d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/c71d83338d511d20121c75c1d8b1081460745072",
-                    "reference": "c71d83338d511d20121c75c1d8b1081460745072",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/b6806f39b660c51093495666f0ccddef83aa911d",
+                    "reference": "b6806f39b660c51093495666f0ccddef83aa911d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-08 20:33:18",
+                "time": "2016-08-09 19:57:59",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17411,19 +17411,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "63a5be15dd39834522c22d2732294b4eba4a4173"
+                    "reference": "53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/63a5be15dd39834522c22d2732294b4eba4a4173",
-                    "reference": "63a5be15dd39834522c22d2732294b4eba4a4173",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e",
+                    "reference": "53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-07-28 12:16:08",
+                "time": "2016-08-09 14:46:33",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
