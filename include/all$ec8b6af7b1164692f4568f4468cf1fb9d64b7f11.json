@@ -5606,6 +5606,42 @@
                     "issues": "https://github.com/tmhub/cdn/issues"
                 }
             },
+            "1.1.2": {
+                "name": "tm/cdn",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cdn.git",
+                    "reference": "722b47a840fff282ca34e0b9e54177c46749ba93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/722b47a840fff282ca34e0b9e54177c46749ba93",
+                    "reference": "722b47a840fff282ca34e0b9e54177c46749ba93",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-10 06:57:32",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master CDN module",
+                "homepage": "https://github.com/tmhub/cdn",
+                "support": {
+                    "source": "https://github.com/tmhub/cdn/tree/1.1.2",
+                    "issues": "https://github.com/tmhub/cdn/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/cdn",
                 "version": "dev-master",
@@ -5613,18 +5649,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "da64d207d212999bb1dab580d622a9b3b8e7e8b3"
+                    "reference": "722b47a840fff282ca34e0b9e54177c46749ba93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/da64d207d212999bb1dab580d622a9b3b8e7e8b3",
-                    "reference": "da64d207d212999bb1dab580d622a9b3b8e7e8b3",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/722b47a840fff282ca34e0b9e54177c46749ba93",
+                    "reference": "722b47a840fff282ca34e0b9e54177c46749ba93",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-10 06:33:48",
+                "time": "2016-08-10 06:57:32",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
