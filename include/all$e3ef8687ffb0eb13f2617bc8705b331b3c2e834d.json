@@ -3292,12 +3292,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "eb458ebe1ec1341fe1ce2e47a7027027583e2ed7"
+                    "reference": "9bf66c4c60174a42bdedf63c486dda8d9177f9c4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/eb458ebe1ec1341fe1ce2e47a7027027583e2ed7",
-                    "reference": "eb458ebe1ec1341fe1ce2e47a7027027583e2ed7",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/9bf66c4c60174a42bdedf63c486dda8d9177f9c4",
+                    "reference": "9bf66c4c60174a42bdedf63c486dda8d9177f9c4",
                     "shasum": ""
                 },
                 "require": {
@@ -3322,7 +3322,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-08-08 12:18:40",
+                "time": "2016-08-10 08:12:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4774,18 +4774,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "0a668f89f02e84a6a16a1d0e47542226b8cd477e"
+                    "reference": "32ecba86b96a35fb67349b23b17cf9b53e7707b8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/0a668f89f02e84a6a16a1d0e47542226b8cd477e",
-                    "reference": "0a668f89f02e84a6a16a1d0e47542226b8cd477e",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/32ecba86b96a35fb67349b23b17cf9b53e7707b8",
+                    "reference": "32ecba86b96a35fb67349b23b17cf9b53e7707b8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-09 15:06:40",
+                "time": "2016-08-10 08:56:47",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17440,26 +17440,26 @@
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             },
-            "dev-master": {
+            "2.1.2": {
                 "name": "tm/secure",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e"
+                    "reference": "67705941fe75ff538bc7fefd9cac8057a0db047c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e",
-                    "reference": "53ec5e07ec56fc6ef154a6719d5f8d15ed6bca1e",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/67705941fe75ff538bc7fefd9cac8057a0db047c",
+                    "reference": "67705941fe75ff538bc7fefd9cac8057a0db047c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-08-09 14:46:33",
+                "time": "2016-08-10 08:56:11",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17473,7 +17473,44 @@
                 "description": "Templates Master Admin Secure module",
                 "homepage": "https://github.com/tmhub/secure",
                 "support": {
-                    "source": "https://github.com/tmhub/secure/tree/master",
+                    "source": "https://github.com/tmhub/secure/tree/2.1.2",
+                    "issues": "https://github.com/tmhub/secure/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/secure",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/secure.git",
+                    "reference": "67705941fe75ff538bc7fefd9cac8057a0db047c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/67705941fe75ff538bc7fefd9cac8057a0db047c",
+                    "reference": "67705941fe75ff538bc7fefd9cac8057a0db047c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-08-10 08:56:11",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Admin Secure module",
+                "homepage": "https://github.com/tmhub/secure",
+                "support": {
+                    "source": "https://github.com/tmhub/secure/tree/2.1.2",
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             }
