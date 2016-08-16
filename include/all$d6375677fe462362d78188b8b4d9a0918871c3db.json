@@ -16387,25 +16387,25 @@
             }
         },
         "tm/purify": {
-            "dev-master": {
+            "1.0.0": {
                 "name": "tm/purify",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/purify.git",
-                    "reference": "2f4334298d2b7546fea8e3de9159e5e686509e3a"
+                    "reference": "636b1af8fa80d667769149ccb469ba1f67d810da"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/purify/zipball/2f4334298d2b7546fea8e3de9159e5e686509e3a",
-                    "reference": "2f4334298d2b7546fea8e3de9159e5e686509e3a",
+                    "url": "https://api.github.com/repos/tmhub/purify/zipball/636b1af8fa80d667769149ccb469ba1f67d810da",
+                    "reference": "636b1af8fa80d667769149ccb469ba1f67d810da",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-07 10:22:08",
+                "time": "2016-08-16 13:19:11",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16419,7 +16419,43 @@
                 "description": "Templates Master Purify module(HTMLPurifier magento integrator)",
                 "homepage": "https://github.com/tmhub/purify",
                 "support": {
-                    "source": "https://github.com/tmhub/purify/tree/master",
+                    "source": "https://github.com/tmhub/purify/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/purify/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/purify",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/purify.git",
+                    "reference": "636b1af8fa80d667769149ccb469ba1f67d810da"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/purify/zipball/636b1af8fa80d667769149ccb469ba1f67d810da",
+                    "reference": "636b1af8fa80d667769149ccb469ba1f67d810da",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-16 13:19:11",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Purify module(HTMLPurifier magento integrator)",
+                "homepage": "https://github.com/tmhub/purify",
+                "support": {
+                    "source": "https://github.com/tmhub/purify/tree/1.0.0",
                     "issues": "https://github.com/tmhub/purify/issues"
                 }
             }
