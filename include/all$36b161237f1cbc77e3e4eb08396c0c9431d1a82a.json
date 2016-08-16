@@ -12363,21 +12363,22 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "9ad3210ca1bb4d9194cc3c4ab056b62b3f72f1a2"
+                    "reference": "5346f1c495902e96457bb805564297f17f5e0c09"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/9ad3210ca1bb4d9194cc3c4ab056b62b3f72f1a2",
-                    "reference": "9ad3210ca1bb4d9194cc3c4ab056b62b3f72f1a2",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5346f1c495902e96457bb805564297f17f5e0c09",
+                    "reference": "5346f1c495902e96457bb805564297f17f5e0c09",
                     "shasum": ""
                 },
                 "require": {
                     "tm/akismet": "*",
                     "tm/core": "*",
                     "tm/email": "*",
+                    "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-08-15 13:03:03",
+                "time": "2016-08-16 09:58:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12937,12 +12938,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "abf75f1c6eef90b081458a2d7cbf1f70a78aba6b"
+                    "reference": "5de63fe257b5324b31f213ec4e9bcb43684a14b4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/abf75f1c6eef90b081458a2d7cbf1f70a78aba6b",
-                    "reference": "abf75f1c6eef90b081458a2d7cbf1f70a78aba6b",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/5de63fe257b5324b31f213ec4e9bcb43684a14b4",
+                    "reference": "5de63fe257b5324b31f213ec4e9bcb43684a14b4",
                     "shasum": ""
                 },
                 "require": {
@@ -12951,7 +12952,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-08-16 08:09:33",
+                "time": "2016-08-16 09:56:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
