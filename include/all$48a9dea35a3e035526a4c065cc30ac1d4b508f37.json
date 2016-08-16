@@ -3237,12 +3237,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "ac88155c0960c0788ea53abf3ddc2bc2a354eda0"
+                    "reference": "ca56e3d2a2d26fce132700d9b79df07aec8c4b16"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/ac88155c0960c0788ea53abf3ddc2bc2a354eda0",
-                    "reference": "ac88155c0960c0788ea53abf3ddc2bc2a354eda0",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/ca56e3d2a2d26fce132700d9b79df07aec8c4b16",
+                    "reference": "ca56e3d2a2d26fce132700d9b79df07aec8c4b16",
                     "shasum": ""
                 },
                 "require": {
@@ -3267,7 +3267,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-08-03 15:07:34",
+                "time": "2016-08-16 12:06:52",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3281,7 +3281,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -3349,18 +3349,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "0330edb6b8e4e4445181815dc2c78666c3ef593e"
+                    "reference": "835b1b6bfdae4c74a57ec55c6ea585776b74b673"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/0330edb6b8e4e4445181815dc2c78666c3ef593e",
-                    "reference": "0330edb6b8e4e4445181815dc2c78666c3ef593e",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/835b1b6bfdae4c74a57ec55c6ea585776b74b673",
+                    "reference": "835b1b6bfdae4c74a57ec55c6ea585776b74b673",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-08-15 10:25:09",
+                "time": "2016-08-16 11:29:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12363,12 +12363,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "5346f1c495902e96457bb805564297f17f5e0c09"
+                    "reference": "bf5a727b78c76c171f0bce1d4906391938e13da9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5346f1c495902e96457bb805564297f17f5e0c09",
-                    "reference": "5346f1c495902e96457bb805564297f17f5e0c09",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/bf5a727b78c76c171f0bce1d4906391938e13da9",
+                    "reference": "bf5a727b78c76c171f0bce1d4906391938e13da9",
                     "shasum": ""
                 },
                 "require": {
@@ -12378,7 +12378,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-08-16 09:58:40",
+                "time": "2016-08-16 12:08:15",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12931,19 +12931,19 @@
             }
         },
         "tm/knowledge-base": {
-            "dev-master": {
+            "1.6.4": {
                 "name": "tm/knowledge-base",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.4",
+                "version_normalized": "1.6.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "5de63fe257b5324b31f213ec4e9bcb43684a14b4"
+                    "reference": "375c0dd64cfed62ad927f7e69b1986369ce10409"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/5de63fe257b5324b31f213ec4e9bcb43684a14b4",
-                    "reference": "5de63fe257b5324b31f213ec4e9bcb43684a14b4",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/375c0dd64cfed62ad927f7e69b1986369ce10409",
+                    "reference": "375c0dd64cfed62ad927f7e69b1986369ce10409",
                     "shasum": ""
                 },
                 "require": {
@@ -12952,7 +12952,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-08-16 09:56:48",
+                "time": "2016-08-16 12:07:15",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12966,7 +12966,46 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.4",
+                    "issues": "https://github.com/tmhub/knowledge-base/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/knowledge-base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/knowledge-base.git",
+                    "reference": "375c0dd64cfed62ad927f7e69b1986369ce10409"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/375c0dd64cfed62ad927f7e69b1986369ce10409",
+                    "reference": "375c0dd64cfed62ad927f7e69b1986369ce10409",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2016-08-16 12:07:15",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Knowledge Base module",
+                "homepage": "https://github.com/tmhub/knowledge-base",
+                "support": {
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.4",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
