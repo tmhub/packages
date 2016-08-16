@@ -8296,18 +8296,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "927df9c5e31c99a7908222cf5cbea80a63d71ba4"
+                    "reference": "78941501539abc99d5870c1fa33ef3dbff98ed3b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/927df9c5e31c99a7908222cf5cbea80a63d71ba4",
-                    "reference": "927df9c5e31c99a7908222cf5cbea80a63d71ba4",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/78941501539abc99d5870c1fa33ef3dbff98ed3b",
+                    "reference": "78941501539abc99d5870c1fa33ef3dbff98ed3b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2015-10-30 07:48:03",
+                "time": "2016-08-14 20:17:46",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -8321,7 +8321,7 @@
                 "description": "Configurable sliders",
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/2.3.2",
+                    "source": "https://github.com/tmhub/easyslide/tree/js-improvment",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             },
