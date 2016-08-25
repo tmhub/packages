@@ -3293,7 +3293,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -6018,15 +6018,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "d938a55adea4092c01ce3b1cefb091ef15796fe9"
+                    "reference": "86acbc61cb032a1507412066870857f98dc9d311"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/d938a55adea4092c01ce3b1cefb091ef15796fe9",
-                    "reference": "d938a55adea4092c01ce3b1cefb091ef15796fe9",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/86acbc61cb032a1507412066870857f98dc9d311",
+                    "reference": "86acbc61cb032a1507412066870857f98dc9d311",
                     "shasum": ""
                 },
-                "time": "2016-08-03 17:19:26",
+                "time": "2016-08-25 09:13:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6040,7 +6040,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.3.5",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
