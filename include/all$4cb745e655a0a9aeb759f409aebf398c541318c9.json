@@ -323,25 +323,25 @@
                     "issues": "https://github.com/tmhub/address-autocomplete/issues"
                 }
             },
-            "dev-master": {
+            "1.1.1": {
                 "name": "tm/address-autocomplete",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/address-autocomplete.git",
-                    "reference": "33ece453f369532bf27eb09283558e0e36019fdb"
+                    "reference": "6d33da850d41d1418932d85e7c8c0c0b174ae430"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/address-autocomplete/zipball/33ece453f369532bf27eb09283558e0e36019fdb",
-                    "reference": "33ece453f369532bf27eb09283558e0e36019fdb",
+                    "url": "https://api.github.com/repos/tmhub/address-autocomplete/zipball/6d33da850d41d1418932d85e7c8c0c0b174ae430",
+                    "reference": "6d33da850d41d1418932d85e7c8c0c0b174ae430",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-21 14:01:41",
+                "time": "2016-08-25 07:03:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -349,7 +349,37 @@
                 "description": "Address autocompletion",
                 "homepage": "https://github.com/tmhub/address-autocomplete",
                 "support": {
-                    "source": "https://github.com/tmhub/address-autocomplete/tree/1.1.0",
+                    "source": "https://github.com/tmhub/address-autocomplete/tree/1.1.1",
+                    "issues": "https://github.com/tmhub/address-autocomplete/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/address-autocomplete",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/address-autocomplete.git",
+                    "reference": "6d33da850d41d1418932d85e7c8c0c0b174ae430"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/address-autocomplete/zipball/6d33da850d41d1418932d85e7c8c0c0b174ae430",
+                    "reference": "6d33da850d41d1418932d85e7c8c0c0b174ae430",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-25 07:03:25",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Address autocompletion",
+                "homepage": "https://github.com/tmhub/address-autocomplete",
+                "support": {
+                    "source": "https://github.com/tmhub/address-autocomplete/tree/1.1.1",
                     "issues": "https://github.com/tmhub/address-autocomplete/issues"
                 }
             }
@@ -1959,19 +1989,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "f20da9f7804c5a94d2e00844bceac8024438f710"
+                    "reference": "d01a49b399745d15f71c7dc5fac6145720bcee29"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/f20da9f7804c5a94d2e00844bceac8024438f710",
-                    "reference": "f20da9f7804c5a94d2e00844bceac8024438f710",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/d01a49b399745d15f71c7dc5fac6145720bcee29",
+                    "reference": "d01a49b399745d15f71c7dc5fac6145720bcee29",
                     "shasum": ""
                 },
                 "require": {
                     "magento-hackathon/magento-composer-installer": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-08-22 20:33:05",
+                "time": "2016-08-24 21:07:03",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3263,7 +3293,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -3319,6 +3349,61 @@
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
                     "source": "https://github.com/argento/argento/tree/master",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
+            "dev-ajaxsearch-js-impr": {
+                "name": "tm/argento",
+                "version": "dev-ajaxsearch-js-impr",
+                "version_normalized": "dev-ajaxsearch-js-impr",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "8c5be2d4fba20cea2d8f4a319606608d657917aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/8c5be2d4fba20cea2d8f4a319606608d657917aa",
+                    "reference": "8c5be2d4fba20cea2d8f4a319606608d657917aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/richsnippets": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2016-08-24 21:01:25",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/ajaxsearch-js-impr",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -3386,18 +3471,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "efa70e3f0ed835e71e40deb0ec9c1c222dfe5b43"
+                    "reference": "06713cd2b81c6594e69a16a0ca56df31ea48cd04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/efa70e3f0ed835e71e40deb0ec9c1c222dfe5b43",
-                    "reference": "efa70e3f0ed835e71e40deb0ec9c1c222dfe5b43",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/06713cd2b81c6594e69a16a0ca56df31ea48cd04",
+                    "reference": "06713cd2b81c6594e69a16a0ca56df31ea48cd04",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-08-23 13:55:26",
+                "time": "2016-08-24 01:46:43",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6227,19 +6312,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "7c42f406ef49dfe7fe033f944932fbe74ea99b3b"
+                    "reference": "499d1c26720e4158216a5eb47b4fc04876c9ad82"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/7c42f406ef49dfe7fe033f944932fbe74ea99b3b",
-                    "reference": "7c42f406ef49dfe7fe033f944932fbe74ea99b3b",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/499d1c26720e4158216a5eb47b4fc04876c9ad82",
+                    "reference": "499d1c26720e4158216a5eb47b4fc04876c9ad82",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-08-18 08:32:51",
+                "time": "2016-08-23 14:58:03",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6253,7 +6338,7 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/master",
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.2",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             }
@@ -8431,42 +8516,6 @@
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
                     "source": "https://github.com/tmhub/easyslide/tree/2.4.0",
-                    "issues": "https://github.com/tmhub/easyslide/issues"
-                }
-            },
-            "dev-js-improvment": {
-                "name": "tm/easyslide",
-                "version": "dev-js-improvment",
-                "version_normalized": "dev-js-improvment",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "78941501539abc99d5870c1fa33ef3dbff98ed3b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/78941501539abc99d5870c1fa33ef3dbff98ed3b",
-                    "reference": "78941501539abc99d5870c1fa33ef3dbff98ed3b",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2016-08-14 20:17:46",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Configurable sliders",
-                "homepage": "https://github.com/tmhub/easyslide",
-                "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/js-improvment",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             }
@@ -13042,25 +13091,25 @@
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             },
-            "dev-master": {
+            "2.6.0": {
                 "name": "tm/highlight",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "2b990520a3239fa9f306df5cf58b7fe0b8c5e464"
+                    "reference": "00a022f8772be3d17814eb777f529d6a02e20e98"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/2b990520a3239fa9f306df5cf58b7fe0b8c5e464",
-                    "reference": "2b990520a3239fa9f306df5cf58b7fe0b8c5e464",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/00a022f8772be3d17814eb777f529d6a02e20e98",
+                    "reference": "00a022f8772be3d17814eb777f529d6a02e20e98",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-03 13:38:59",
+                "time": "2016-08-23 15:10:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13074,7 +13123,43 @@
                 "description": "Custom product collections with flexible filters",
                 "homepage": "https://github.com/tmhub/highlight",
                 "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/2.5.3",
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.0",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/highlight",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "00a022f8772be3d17814eb777f529d6a02e20e98"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/00a022f8772be3d17814eb777f529d6a02e20e98",
+                    "reference": "00a022f8772be3d17814eb777f529d6a02e20e98",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-23 15:10:18",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.0",
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             }
