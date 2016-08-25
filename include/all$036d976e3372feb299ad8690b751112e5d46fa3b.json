@@ -3304,12 +3304,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "8a8c6be67cc7582ffedda9cb7603059a12edd9de"
+                    "reference": "20a622017fb2f5fdc047ebc2c09d36265903e477"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/8a8c6be67cc7582ffedda9cb7603059a12edd9de",
-                    "reference": "8a8c6be67cc7582ffedda9cb7603059a12edd9de",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/20a622017fb2f5fdc047ebc2c09d36265903e477",
+                    "reference": "20a622017fb2f5fdc047ebc2c09d36265903e477",
                     "shasum": ""
                 },
                 "require": {
@@ -3334,7 +3334,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-08-18 10:58:12",
+                "time": "2016-08-25 11:57:20",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3404,61 +3404,6 @@
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
                     "source": "https://github.com/argento/argento/tree/ajaxsearch-js-impr",
-                    "issues": "https://github.com/argento/argento/issues"
-                }
-            },
-            "dev-bootstrap": {
-                "name": "tm/argento",
-                "version": "dev-bootstrap",
-                "version_normalized": "dev-bootstrap",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:argento/argento.git",
-                    "reference": "0efdbe6fc9e324c8af56c02ba5fe1043ff05aff1"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/0efdbe6fc9e324c8af56c02ba5fe1043ff05aff1",
-                    "reference": "0efdbe6fc9e324c8af56c02ba5fe1043ff05aff1",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/ajax-pro": "*",
-                    "tm/ajax-search": "*",
-                    "tm/ask-it": "*",
-                    "tm/attributepages": "*",
-                    "tm/catalog-configurable-swatches": "*",
-                    "tm/core": "*",
-                    "tm/easy-banner": "*",
-                    "tm/easycatalogimg": "*",
-                    "tm/easyslide": "*",
-                    "tm/easytabs": "*",
-                    "tm/facebooklb": "*",
-                    "tm/highlight": "*",
-                    "tm/lightboxpro": "*",
-                    "tm/navigation-pro": "*",
-                    "tm/pro-labels": "*",
-                    "tm/review-reminder": "*",
-                    "tm/richsnippets": "*",
-                    "tm/sold-together": "*",
-                    "tm/suggestpage": "*",
-                    "tm/testimonials": "*"
-                },
-                "time": "2016-08-15 11:17:16",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Argento theme",
-                "homepage": "https://github.com/tmhub/argento",
-                "support": {
-                    "source": "https://github.com/argento/argento/tree/bootstrap",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             }
@@ -6082,6 +6027,42 @@
                     "issues": "https://github.com/tmhub/countdowntimer/issues"
                 }
             },
+            "1.2.1": {
+                "name": "tm/countdowntimer",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "reference": "06149765e55dd005e8aa387805a579fb176dbd06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/06149765e55dd005e8aa387805a579fb176dbd06",
+                    "reference": "06149765e55dd005e8aa387805a579fb176dbd06",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-25 12:02:02",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "CountDown Timer module",
+                "homepage": "https://github.com/tmhub/countdowntimer",
+                "support": {
+                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/countdowntimer/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/countdowntimer",
                 "version": "dev-master",
@@ -6089,18 +6070,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
-                    "reference": "7913b62bc41283bcac9f5b6e9ec6de9c2b6af842"
+                    "reference": "06149765e55dd005e8aa387805a579fb176dbd06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/7913b62bc41283bcac9f5b6e9ec6de9c2b6af842",
-                    "reference": "7913b62bc41283bcac9f5b6e9ec6de9c2b6af842",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/06149765e55dd005e8aa387805a579fb176dbd06",
+                    "reference": "06149765e55dd005e8aa387805a579fb176dbd06",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-23 13:53:36",
+                "time": "2016-08-25 12:02:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
