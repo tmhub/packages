@@ -3293,7 +3293,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -6305,6 +6305,43 @@
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             },
+            "1.1.2": {
+                "name": "tm/dailydeals",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/dailydeals.git",
+                    "reference": "131e095fb63e23fbc3e8d38c4a15f553fa007d95"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/131e095fb63e23fbc3e8d38c4a15f553fa007d95",
+                    "reference": "131e095fb63e23fbc3e8d38c4a15f553fa007d95",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/countdowntimer": "*"
+                },
+                "time": "2016-08-25 11:38:27",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module deals managment",
+                "homepage": "https://github.com/tmhub/dailydeals",
+                "support": {
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.2",
+                    "issues": "https://github.com/tmhub/dailydeals/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/dailydeals",
                 "version": "dev-master",
@@ -6312,19 +6349,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "499d1c26720e4158216a5eb47b4fc04876c9ad82"
+                    "reference": "131e095fb63e23fbc3e8d38c4a15f553fa007d95"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/499d1c26720e4158216a5eb47b4fc04876c9ad82",
-                    "reference": "499d1c26720e4158216a5eb47b4fc04876c9ad82",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/131e095fb63e23fbc3e8d38c4a15f553fa007d95",
+                    "reference": "131e095fb63e23fbc3e8d38c4a15f553fa007d95",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2016-08-23 14:58:03",
+                "time": "2016-08-25 11:38:27",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
