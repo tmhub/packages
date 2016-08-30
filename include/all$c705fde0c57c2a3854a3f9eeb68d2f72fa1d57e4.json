@@ -112,6 +112,35 @@
                 }
             }
         },
+        "fishpig/wordpress": {
+            "dev-master": {
+                "name": "fishpig/wordpress",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/fishpig-wordpress.git",
+                    "reference": "1c078c192fd98d0fa112d3461967b681324fdb2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/fishpig-wordpress/zipball/1c078c192fd98d0fa112d3461967b681324fdb2e",
+                    "reference": "1c078c192fd98d0fa112d3461967b681324fdb2e",
+                    "shasum": ""
+                },
+                "time": "2016-08-30 07:46:13",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Wordpress Integration by Fishpig",
+                "homepage": "http://fishpig.co.uk/magento/wordpress-integration/",
+                "support": {
+                    "source": "https://github.com/tmhub/fishpig-wordpress/tree/master",
+                    "issues": "https://github.com/tmhub/fishpig-wordpress/issues"
+                }
+            }
+        },
         "tm/abandoned": {
             "1.0.0": {
                 "name": "tm/abandoned",
@@ -3328,7 +3357,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
