@@ -4283,19 +4283,19 @@
                     "issues": "https://github.com/tmhub/askit/issues"
                 }
             },
-            "dev-master": {
+            "2.3.1": {
                 "name": "tm/ask-it",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "27fe96a525455d9f922afcbc7d1159fffa33468a"
+                    "reference": "05148b4b7ff29a527ff59ed7136314bcc2d7e706"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/27fe96a525455d9f922afcbc7d1159fffa33468a",
-                    "reference": "27fe96a525455d9f922afcbc7d1159fffa33468a",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/05148b4b7ff29a527ff59ed7136314bcc2d7e706",
+                    "reference": "05148b4b7ff29a527ff59ed7136314bcc2d7e706",
                     "shasum": ""
                 },
                 "require": {
@@ -4303,7 +4303,45 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-08-30 12:27:04",
+                "time": "2016-08-30 13:08:18",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Askit module",
+                "homepage": "https://github.com/tmhub/askit",
+                "support": {
+                    "source": "https://github.com/tmhub/askit/tree/2.3.1",
+                    "issues": "https://github.com/tmhub/askit/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ask-it",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/askit.git",
+                    "reference": "05148b4b7ff29a527ff59ed7136314bcc2d7e706"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/05148b4b7ff29a527ff59ed7136314bcc2d7e706",
+                    "reference": "05148b4b7ff29a527ff59ed7136314bcc2d7e706",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-08-30 13:08:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
