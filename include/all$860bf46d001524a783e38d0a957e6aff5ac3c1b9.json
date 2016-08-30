@@ -3804,12 +3804,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "78a408f735a8b2961bce1597556a7188973498a1"
+                    "reference": "ac6db8633233ec73926f3e644c460a5990a033d7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/78a408f735a8b2961bce1597556a7188973498a1",
-                    "reference": "78a408f735a8b2961bce1597556a7188973498a1",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/ac6db8633233ec73926f3e644c460a5990a033d7",
+                    "reference": "ac6db8633233ec73926f3e644c460a5990a033d7",
                     "shasum": ""
                 },
                 "require": {
@@ -3826,7 +3826,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-08-09 14:42:18",
+                "time": "2016-08-30 09:01:29",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12071,20 +12071,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "fb3d37b7047655ed64ec69501075ba8685629551"
+                    "reference": "668e2d9257ba57f984d5bcd3160145d022d5564b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/fb3d37b7047655ed64ec69501075ba8685629551",
-                    "reference": "fb3d37b7047655ed64ec69501075ba8685629551",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/668e2d9257ba57f984d5bcd3160145d022d5564b",
+                    "reference": "668e2d9257ba57f984d5bcd3160145d022d5564b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/address-autocomplete": "*",
+                    "tm/checkout-success": "*",
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-08-29 11:38:39",
+                "time": "2016-08-30 09:05:53",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
