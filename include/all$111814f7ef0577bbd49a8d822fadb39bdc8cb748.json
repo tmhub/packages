@@ -260,19 +260,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "59bf23f1d7a1dca0de1238e82506ad25163c6d41"
+                    "reference": "ccdbadb36df6fc47c25386c953ae64d1995afb76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/59bf23f1d7a1dca0de1238e82506ad25163c6d41",
-                    "reference": "59bf23f1d7a1dca0de1238e82506ad25163c6d41",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/ccdbadb36df6fc47c25386c953ae64d1995afb76",
+                    "reference": "ccdbadb36df6fc47c25386c953ae64d1995afb76",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-08-23 07:17:34",
+                "time": "2016-09-13 14:45:28",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -507,29 +507,29 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
-            "dev-master": {
+            "1.3.0": {
                 "name": "tm/affiliate-suite",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/affiliatesuite.git",
-                    "reference": "86e55c91fc28b320466e83d7aeda07357a70bfbd"
+                    "reference": "8f9220995068e5ea7cdbba534f3e021cc632ea6a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/86e55c91fc28b320466e83d7aeda07357a70bfbd",
-                    "reference": "86e55c91fc28b320466e83d7aeda07357a70bfbd",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/8f9220995068e5ea7cdbba534f3e021cc632ea6a",
+                    "reference": "8f9220995068e5ea7cdbba534f3e021cc632ea6a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-07-26 12:43:21",
+                "time": "2016-09-14 12:56:44",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -604,7 +604,104 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.0",
+                    "issues": "https://github.com/tmhub/affiliatesuite/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/affiliate-suite",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/affiliatesuite.git",
+                    "reference": "8f9220995068e5ea7cdbba534f3e021cc632ea6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/8f9220995068e5ea7cdbba534f3e021cc632ea6a",
+                    "reference": "8f9220995068e5ea7cdbba534f3e021cc632ea6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-14 12:56:44",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AffiliateSuite",
+                            "app/code/local/TM/AffiliateSuite"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/affiliatesuite.xml",
+                            "app/design/adminhtml/default/default/layout/affiliatesuite.xml"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/affiliatesuite",
+                            "app/design/adminhtml/default/default/template/affiliatesuite"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/affiliatesuite.xml",
+                            "app/design/frontend/base/default/layout/affiliatesuite.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/affiliatesuite",
+                            "app/design/frontend/base/default/template/affiliatesuite"
+                        ],
+                        [
+                            "app/etc/modules/TM_AffiliateSuite.xml",
+                            "app/etc/modules/TM_AffiliateSuite.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AffiliateSuite.csv",
+                            "app/locale/en_US/TM_AffiliateSuite.csv"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/affiliatesuite_account_new.html",
+                            "app/locale/en_US/template/email/affiliatesuite_account_new.html"
+                        ],
+                        [
+                            "app/locale/en_US/template/email/affiliatesuite_forgotpassword.html",
+                            "app/locale/en_US/template/email/affiliatesuite_forgotpassword.html"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/affiliatesuite_tabstrip.css",
+                            "skin/frontend/base/default/css/affiliatesuite_tabstrip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/afiliatesuite_proframe.css",
+                            "skin/frontend/base/default/css/afiliatesuite_proframe.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/afiliatesuite_showhide.css",
+                            "skin/frontend/base/default/css/afiliatesuite_showhide.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/affiliatesuite_tabstrip.js",
+                            "skin/frontend/base/default/js/affiliatesuite_tabstrip.js"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/afiliatesuite_showhide.js",
+                            "skin/frontend/base/default/js/afiliatesuite_showhide.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/affiliatesuite",
+                "support": {
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.0",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             }
@@ -1753,19 +1850,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "c51ae8c9e01e009b44781a9f387b01bdc9be9721"
+                    "reference": "aa6232759aae0a5b7db3af0467546bded0e2da1b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/c51ae8c9e01e009b44781a9f387b01bdc9be9721",
-                    "reference": "c51ae8c9e01e009b44781a9f387b01bdc9be9721",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/aa6232759aae0a5b7db3af0467546bded0e2da1b",
+                    "reference": "aa6232759aae0a5b7db3af0467546bded0e2da1b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-09-07 12:41:54",
+                "time": "2016-09-14 11:51:16",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3478,12 +3575,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "ea1beb31775e118206ea48a9f8e34fd609757647"
+                    "reference": "5e7c67e09aa7cec3cd58154e10599235a726dbd6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/ea1beb31775e118206ea48a9f8e34fd609757647",
-                    "reference": "ea1beb31775e118206ea48a9f8e34fd609757647",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/5e7c67e09aa7cec3cd58154e10599235a726dbd6",
+                    "reference": "5e7c67e09aa7cec3cd58154e10599235a726dbd6",
                     "shasum": ""
                 },
                 "require": {
@@ -3508,7 +3605,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-09-06 11:01:21",
+                "time": "2016-09-14 08:26:53",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3533,12 +3630,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "ad06795e13b4b213a7e0f014fe7da448a8fb3eec"
+                    "reference": "eb18c3971452b5c2ca168939a1141550709f6693"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/ad06795e13b4b213a7e0f014fe7da448a8fb3eec",
-                    "reference": "ad06795e13b4b213a7e0f014fe7da448a8fb3eec",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/eb18c3971452b5c2ca168939a1141550709f6693",
+                    "reference": "eb18c3971452b5c2ca168939a1141550709f6693",
                     "shasum": ""
                 },
                 "require": {
@@ -3563,7 +3660,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-09-08 13:52:32",
+                "time": "2016-09-14 11:55:15",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3804,12 +3901,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-swissup.git",
-                    "reference": "a57552a222136192ecd055e55f57321180dd45b1"
+                    "reference": "93610849f2118b7dfab80cfd92c5c521789a238b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/a57552a222136192ecd055e55f57321180dd45b1",
-                    "reference": "a57552a222136192ecd055e55f57321180dd45b1",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/93610849f2118b7dfab80cfd92c5c521789a238b",
+                    "reference": "93610849f2118b7dfab80cfd92c5c521789a238b",
                     "shasum": ""
                 },
                 "require": {
@@ -3826,7 +3923,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2016-08-30 11:33:57",
+                "time": "2016-09-13 13:33:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6146,18 +6243,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "bd961c2bbe1de49d7de2479de7ff21dc877669d7"
+                    "reference": "74dc461fe8d6492e0a7e59f49fd582a082c0885e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/bd961c2bbe1de49d7de2479de7ff21dc877669d7",
-                    "reference": "bd961c2bbe1de49d7de2479de7ff21dc877669d7",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/74dc461fe8d6492e0a7e59f49fd582a082c0885e",
+                    "reference": "74dc461fe8d6492e0a7e59f49fd582a082c0885e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-08 14:17:51",
+                "time": "2016-09-12 12:42:08",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9604,18 +9701,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "169b446cd9585e865f7e01e5f2c919bcc5b515c9"
+                    "reference": "dbc9b561aaba76bc6e40352ac30e63fd4ef5f915"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/169b446cd9585e865f7e01e5f2c919bcc5b515c9",
-                    "reference": "169b446cd9585e865f7e01e5f2c919bcc5b515c9",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/dbc9b561aaba76bc6e40352ac30e63fd4ef5f915",
+                    "reference": "dbc9b561aaba76bc6e40352ac30e63fd4ef5f915",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-06 07:42:19",
+                "time": "2016-09-09 08:37:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19262,19 +19359,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/soldtogether.git",
-                    "reference": "450d990ccbf9d4d5f788770bce3a24eb2ccd2441"
+                    "reference": "083245d41340f406128a68124761902d6694b5a9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/450d990ccbf9d4d5f788770bce3a24eb2ccd2441",
-                    "reference": "450d990ccbf9d4d5f788770bce3a24eb2ccd2441",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/083245d41340f406128a68124761902d6694b5a9",
+                    "reference": "083245d41340f406128a68124761902d6694b5a9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2016-05-11 11:54:24",
+                "time": "2016-09-14 08:58:51",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
