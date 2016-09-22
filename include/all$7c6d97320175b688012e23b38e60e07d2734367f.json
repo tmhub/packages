@@ -6279,18 +6279,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "d850aa07dbcaf3ade53dec0e7bf59078d16a6fa9"
+                    "reference": "463b3ce97c4d61a8d9354807ffe7c85cd497777e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/d850aa07dbcaf3ade53dec0e7bf59078d16a6fa9",
-                    "reference": "d850aa07dbcaf3ade53dec0e7bf59078d16a6fa9",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/463b3ce97c4d61a8d9354807ffe7c85cd497777e",
+                    "reference": "463b3ce97c4d61a8d9354807ffe7c85cd497777e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-22 11:57:15",
+                "time": "2016-09-22 13:29:20",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6933,12 +6933,12 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:swissup/demo-deployer.git",
+                    "url": "git@github.com:tmhub/demo-deployer.git",
                     "reference": "78fce5a8f7185cf10a3ba13b533e5686ff5510bd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/swissup/demo-deployer/zipball/78fce5a8f7185cf10a3ba13b533e5686ff5510bd",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/78fce5a8f7185cf10a3ba13b533e5686ff5510bd",
                     "reference": "78fce5a8f7185cf10a3ba13b533e5686ff5510bd",
                     "shasum": ""
                 },
@@ -6956,8 +6956,8 @@
                 "description": "swissup demo deployer tool/module",
                 "homepage": "https://github.com/swissup/demo-deployer",
                 "support": {
-                    "source": "https://github.com/swissup/demo-deployer/tree/master",
-                    "issues": "https://github.com/swissup/demo-deployer/issues"
+                    "source": "https://github.com/tmhub/demo-deployer/tree/master",
+                    "issues": "https://github.com/tmhub/demo-deployer/issues"
                 }
             }
         },
