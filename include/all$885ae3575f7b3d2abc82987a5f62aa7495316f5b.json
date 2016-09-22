@@ -6888,6 +6888,44 @@
                 }
             }
         },
+        "tm/defer-js": {
+            "dev-master": {
+                "name": "tm/defer-js",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/defer-js.git",
+                    "reference": "7a1c7453dcede6a1a9d17e5cf9aa8b743cc87954"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/7a1c7453dcede6a1a9d17e5cf9aa8b743cc87954",
+                    "reference": "7a1c7453dcede6a1a9d17e5cf9aa8b743cc87954",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-22 12:51:35",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Defer javascript module",
+                "homepage": "https://github.com/tmhub/defer-js",
+                "support": {
+                    "source": "https://github.com/tmhub/defer-js/tree/master",
+                    "issues": "https://github.com/tmhub/defer-js/issues"
+                }
+            }
+        },
         "tm/demo-deployer": {
             "dev-master": {
                 "name": "tm/demo-deployer",
@@ -15001,18 +15039,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "da88eb866dcab4b5d438cc472c25b5ae2bedf443"
+                    "reference": "df9bf31a67319b3a4f58ba6b42a0758a450b9003"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/da88eb866dcab4b5d438cc472c25b5ae2bedf443",
-                    "reference": "da88eb866dcab4b5d438cc472c25b5ae2bedf443",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/df9bf31a67319b3a4f58ba6b42a0758a450b9003",
+                    "reference": "df9bf31a67319b3a4f58ba6b42a0758a450b9003",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-15 13:20:36",
+                "time": "2016-09-22 13:11:17",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
