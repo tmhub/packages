@@ -6021,18 +6021,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
-                    "reference": "16cd5bb0f1981d2dd8e6be49c195b3c808d50a04"
+                    "reference": "b8831c2dedbefd62b1b599b44166b8763aeca565"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/16cd5bb0f1981d2dd8e6be49c195b3c808d50a04",
-                    "reference": "16cd5bb0f1981d2dd8e6be49c195b3c808d50a04",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/b8831c2dedbefd62b1b599b44166b8763aeca565",
+                    "reference": "b8831c2dedbefd62b1b599b44166b8763aeca565",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-25 13:46:33",
+                "time": "2016-09-26 14:47:21",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6046,7 +6046,7 @@
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
                 "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
                 "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.2",
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/master",
                     "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
                 }
             }
@@ -6279,18 +6279,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "cc0a1984d5b61c38a2fafd94d96f3f18e81163a9"
+                    "reference": "1ec9a42cc455a5cb8468d391664d5ff08ff6c060"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/cc0a1984d5b61c38a2fafd94d96f3f18e81163a9",
-                    "reference": "cc0a1984d5b61c38a2fafd94d96f3f18e81163a9",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/1ec9a42cc455a5cb8468d391664d5ff08ff6c060",
+                    "reference": "1ec9a42cc455a5cb8468d391664d5ff08ff6c060",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-26 11:17:02",
+                "time": "2016-09-26 15:15:26",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6994,6 +6994,84 @@
                 "support": {
                     "source": "https://github.com/tmhub/demo-deployer/tree/master",
                     "issues": "https://github.com/tmhub/demo-deployer/issues"
+                }
+            }
+        },
+        "tm/demo-deployer-metapackage": {
+            "dev-master": {
+                "name": "tm/demo-deployer-metapackage",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/demo-deployer-metapackage.git",
+                    "reference": "25f1538f905dc289f1ceec10f14c7f1b24ae1c2a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer-metapackage/zipball/25f1538f905dc289f1ceec10f14c7f1b24ae1c2a",
+                    "reference": "25f1538f905dc289f1ceec10f14c7f1b24ae1c2a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/abandoned": "*",
+                    "tm/address-autocomplete": "*",
+                    "tm/affiliate-suite": "*",
+                    "tm/ajax-layered-navigation": "*",
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/bot-protection": "*",
+                    "tm/cache": "*",
+                    "tm/cdn": "*",
+                    "tm/dailydeals": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easycolorswatches": "*",
+                    "tm/easyflags": "*",
+                    "tm/easylightbox": "*",
+                    "tm/easynavigation": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/email": "*",
+                    "tm/facebooklb": "*",
+                    "tm/helpdesk": "*",
+                    "tm/highlight": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/newsletterbooster": "*",
+                    "tm/pagespeed": "*",
+                    "tm/pro-labels": "*",
+                    "tm/productvideos": "*",
+                    "tm/prozoom": "*",
+                    "tm/quickshopping": "*",
+                    "tm/recaptcha": "*",
+                    "tm/review-reminder": "*",
+                    "tm/richsnippets": "*",
+                    "tm/secure": "*",
+                    "tm/smartsuggest": "*",
+                    "tm/socialsuite": "*",
+                    "tm/sold-together": "*",
+                    "tm/templatem001": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2016-09-27 06:38:22",
+                "type": "magento-module-metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master deployer metapackage module",
+                "homepage": "https://github.com/tmhub/demo-deployer-metapackage",
+                "support": {
+                    "source": "https://github.com/tmhub/demo-deployer-metapackage/tree/master",
+                    "issues": "https://github.com/tmhub/demo-deployer-metapackage/issues"
                 }
             }
         },
@@ -16862,6 +16940,42 @@
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
                     "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            "dev-js-impr": {
+                "name": "tm/pro-labels",
+                "version": "dev-js-impr",
+                "version_normalized": "dev-js-impr",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "bdf7f2927945badbe6514ab3708ebd76c239ed43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/bdf7f2927945badbe6514ab3708ebd76c239ed43",
+                    "reference": "bdf7f2927945badbe6514ab3708ebd76c239ed43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-26 20:56:36",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/js-impr",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             }
