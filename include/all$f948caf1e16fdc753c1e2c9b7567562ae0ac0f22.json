@@ -507,7 +507,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -2150,18 +2150,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "b7616f23708096f84bd2fab958a5ed3505070ead"
+                    "reference": "5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/b7616f23708096f84bd2fab958a5ed3505070ead",
-                    "reference": "b7616f23708096f84bd2fab958a5ed3505070ead",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce",
+                    "reference": "5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-26 08:39:47",
+                "time": "2016-09-29 08:56:14",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3490,7 +3490,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -3604,6 +3604,61 @@
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
+            "1.8.2": {
+                "name": "tm/argento",
+                "version": "1.8.2",
+                "version_normalized": "1.8.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "4b2f131d347ed0b0aca0bcd81420c6900f6531d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/4b2f131d347ed0b0aca0bcd81420c6900f6531d5",
+                    "reference": "4b2f131d347ed0b0aca0bcd81420c6900f6531d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/richsnippets": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2016-09-29 13:37:25",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/1.8.2",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/argento",
                 "version": "dev-master",
@@ -3611,12 +3666,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "360916d7310a2121afb8f2fa72ae811f973ff7a7"
+                    "reference": "4b2f131d347ed0b0aca0bcd81420c6900f6531d5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/360916d7310a2121afb8f2fa72ae811f973ff7a7",
-                    "reference": "360916d7310a2121afb8f2fa72ae811f973ff7a7",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/4b2f131d347ed0b0aca0bcd81420c6900f6531d5",
+                    "reference": "4b2f131d347ed0b0aca0bcd81420c6900f6531d5",
                     "shasum": ""
                 },
                 "require": {
@@ -3641,7 +3696,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-09-23 07:34:11",
+                "time": "2016-09-29 13:37:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3655,62 +3710,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
-                    "issues": "https://github.com/argento/argento/issues"
-                }
-            },
-            "dev-bootstrap-flat": {
-                "name": "tm/argento",
-                "version": "dev-bootstrap-flat",
-                "version_normalized": "dev-bootstrap-flat",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:argento/argento.git",
-                    "reference": "e53199be0880a708fe39b087891987e343efc5e0"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/e53199be0880a708fe39b087891987e343efc5e0",
-                    "reference": "e53199be0880a708fe39b087891987e343efc5e0",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/ajax-pro": "*",
-                    "tm/ajax-search": "*",
-                    "tm/ask-it": "*",
-                    "tm/attributepages": "*",
-                    "tm/catalog-configurable-swatches": "*",
-                    "tm/core": "*",
-                    "tm/easy-banner": "*",
-                    "tm/easycatalogimg": "*",
-                    "tm/easyslide": "*",
-                    "tm/easytabs": "*",
-                    "tm/facebooklb": "*",
-                    "tm/highlight": "*",
-                    "tm/lightboxpro": "*",
-                    "tm/navigation-pro": "*",
-                    "tm/pro-labels": "*",
-                    "tm/review-reminder": "*",
-                    "tm/richsnippets": "*",
-                    "tm/sold-together": "*",
-                    "tm/suggestpage": "*",
-                    "tm/testimonials": "*"
-                },
-                "time": "2016-09-22 09:01:21",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Argento theme",
-                "homepage": "https://github.com/tmhub/argento",
-                "support": {
-                    "source": "https://github.com/argento/argento/tree/bootstrap-flat",
+                    "source": "https://github.com/argento/argento/tree/1.8.2",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             }
@@ -3723,18 +3723,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "25996b3e76733913e5e52e1ed56f4a0d176ff1ac"
+                    "reference": "53723e8f22eb434bd4ff3fdb54c40181846d763b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/25996b3e76733913e5e52e1ed56f4a0d176ff1ac",
-                    "reference": "25996b3e76733913e5e52e1ed56f4a0d176ff1ac",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/53723e8f22eb434bd4ff3fdb54c40181846d763b",
+                    "reference": "53723e8f22eb434bd4ff3fdb54c40181846d763b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-09-26 09:21:45",
+                "time": "2016-09-29 13:11:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3748,7 +3748,7 @@
                 "description": "Argento theme for Argentotheme.com",
                 "homepage": "https://github.com/tmhub/argento_argentotheme",
                 "support": {
-                    "source": "https://github.com/argento/argento-argentotheme/tree/0.1.0",
+                    "source": "https://github.com/argento/argento-argentotheme/tree/master",
                     "issues": "https://github.com/argento/argento-argentotheme/issues"
                 }
             }
@@ -14346,26 +14346,26 @@
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             },
-            "dev-master": {
+            "1.2.1": {
                 "name": "tm/lightboxpro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "817acea31079ef37ac2bc7f361ca117fe087117d"
+                    "reference": "2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/817acea31079ef37ac2bc7f361ca117fe087117d",
-                    "reference": "817acea31079ef37ac2bc7f361ca117fe087117d",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce",
+                    "reference": "2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-09-23 07:35:54",
+                "time": "2016-09-29 09:21:32",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14379,7 +14379,44 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/lightboxpro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/lightboxpro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/lightboxpro.git",
+                    "reference": "2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce",
+                    "reference": "2c9b0c7a2ec1fa9578e1ee4cddfba385d37978ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-09-29 09:21:32",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master LightboxPro module",
+                "homepage": "https://github.com/tmhub/lightboxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/lightboxpro/tree/1.2.1",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
