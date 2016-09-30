@@ -2143,25 +2143,25 @@
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
-            "dev-master": {
+            "1.6.0.1": {
                 "name": "tm/ajax-search",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.0.1",
+                "version_normalized": "1.6.0.1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce"
+                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce",
-                    "reference": "5ed5c2cf8b0ec9e4feccd05fe504c90742e541ce",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
+                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-29 08:56:14",
+                "time": "2016-09-30 07:19:44",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2175,7 +2175,43 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.0.1",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-search",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
+                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30 07:19:44",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.0.1",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -3723,18 +3759,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "53723e8f22eb434bd4ff3fdb54c40181846d763b"
+                    "reference": "155da116ad725cee9d2b15674e16e5aa89a71072"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/53723e8f22eb434bd4ff3fdb54c40181846d763b",
-                    "reference": "53723e8f22eb434bd4ff3fdb54c40181846d763b",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/155da116ad725cee9d2b15674e16e5aa89a71072",
+                    "reference": "155da116ad725cee9d2b15674e16e5aa89a71072",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2016-09-29 13:11:39",
+                "time": "2016-09-30 06:53:37",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19648,26 +19684,26 @@
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             },
-            "dev-master": {
+            "1.4.1": {
                 "name": "tm/sold-together",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/soldtogether.git",
-                    "reference": "b1340955b491321d00b17ccb44d380e93a305a12"
+                    "reference": "6e80c1d6b970713796cba9d31c761760bbcf7b61"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/b1340955b491321d00b17ccb44d380e93a305a12",
-                    "reference": "b1340955b491321d00b17ccb44d380e93a305a12",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/6e80c1d6b970713796cba9d31c761760bbcf7b61",
+                    "reference": "6e80c1d6b970713796cba9d31c761760bbcf7b61",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2016-09-23 07:13:50",
+                "time": "2016-09-29 15:11:50",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19681,7 +19717,44 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.1",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/sold-together",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "6e80c1d6b970713796cba9d31c761760bbcf7b61"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/6e80c1d6b970713796cba9d31c761760bbcf7b61",
+                    "reference": "6e80c1d6b970713796cba9d31c761760bbcf7b61",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-09-29 15:11:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.1",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             },
