@@ -507,7 +507,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -1886,19 +1886,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "aa6232759aae0a5b7db3af0467546bded0e2da1b"
+                    "reference": "d5a87f498faa9bda32c6d2d6eaa4ac73f99d0dd8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/aa6232759aae0a5b7db3af0467546bded0e2da1b",
-                    "reference": "aa6232759aae0a5b7db3af0467546bded0e2da1b",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/d5a87f498faa9bda32c6d2d6eaa4ac73f99d0dd8",
+                    "reference": "d5a87f498faa9bda32c6d2d6eaa4ac73f99d0dd8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-09-14 11:51:16",
+                "time": "2016-09-30 12:34:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1912,7 +1912,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.4",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -2143,25 +2143,25 @@
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
-            "1.6.0.1": {
+            "1.6.1": {
                 "name": "tm/ajax-search",
-                "version": "1.6.0.1",
-                "version_normalized": "1.6.0.1",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749"
+                    "reference": "f6253014e4c0af28d065648231f76b8349723d1b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
-                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/f6253014e4c0af28d065648231f76b8349723d1b",
+                    "reference": "f6253014e4c0af28d065648231f76b8349723d1b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-30 07:19:44",
+                "time": "2016-09-30 12:47:23",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2175,7 +2175,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.0.1",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.1",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -2211,7 +2211,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.0.1",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -3526,7 +3526,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -6050,6 +6050,42 @@
                     "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
                 }
             },
+            "1.0.3": {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/8c3008259d1f6a9848530a55ffd6e34a9346cd43",
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30 13:07:08",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.3",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/catalog-configurable-swatches",
                 "version": "dev-master",
@@ -6562,15 +6598,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "86acbc61cb032a1507412066870857f98dc9d311"
+                    "reference": "6f6d1a23b337fc1a8a0ae21c3fa4d762270a61c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/86acbc61cb032a1507412066870857f98dc9d311",
-                    "reference": "86acbc61cb032a1507412066870857f98dc9d311",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/6f6d1a23b337fc1a8a0ae21c3fa4d762270a61c8",
+                    "reference": "6f6d1a23b337fc1a8a0ae21c3fa4d762270a61c8",
                     "shasum": ""
                 },
-                "time": "2016-08-25 09:13:50",
+                "time": "2016-09-30 13:11:22",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6584,7 +6620,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/master",
+                    "source": "https://github.com/tmhub/core/tree/1.3.6",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -9174,25 +9210,25 @@
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             },
-            "dev-master": {
+            "2.4.1": {
                 "name": "tm/easyslide",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "abc40aa8a45a299396988757af84fc5578cccde0"
+                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/abc40aa8a45a299396988757af84fc5578cccde0",
-                    "reference": "abc40aa8a45a299396988757af84fc5578cccde0",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
+                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-22 19:33:15",
+                "time": "2016-09-30 13:25:24",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9206,7 +9242,43 @@
                 "description": "Configurable sliders",
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/master",
+                    "source": "https://github.com/tmhub/easyslide/tree/2.4.1",
+                    "issues": "https://github.com/tmhub/easyslide/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easyslide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
+                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30 13:25:24",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Configurable sliders",
+                "homepage": "https://github.com/tmhub/easyslide",
+                "support": {
+                    "source": "https://github.com/tmhub/easyslide/tree/2.4.1",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             }
@@ -9876,25 +9948,25 @@
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
-            "dev-master": {
+            "2.3.7": {
                 "name": "tm/easytabs",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.3.7",
+                "version_normalized": "2.3.7.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "dbc9b561aaba76bc6e40352ac30e63fd4ef5f915"
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/dbc9b561aaba76bc6e40352ac30e63fd4ef5f915",
-                    "reference": "dbc9b561aaba76bc6e40352ac30e63fd4ef5f915",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a898966bf50a533b5ecd2161dba6c11486df8f1e",
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-09 08:37:02",
+                "time": "2016-09-30 13:20:11",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9908,7 +9980,43 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.7",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easytabs",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a898966bf50a533b5ecd2161dba6c11486df8f1e",
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30 13:20:11",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.7",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
@@ -9994,18 +10102,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "1c02b7da21f576e4202a73f67f8afa0627b03e5e"
+                    "reference": "d00ebed714d8e92104c6536064a628056af5d8af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/1c02b7da21f576e4202a73f67f8afa0627b03e5e",
-                    "reference": "1c02b7da21f576e4202a73f67f8afa0627b03e5e",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/d00ebed714d8e92104c6536064a628056af5d8af",
+                    "reference": "d00ebed714d8e92104c6536064a628056af5d8af",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-08 12:59:53",
+                "time": "2016-09-30 13:01:42",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10019,7 +10127,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/master",
+                    "source": "https://github.com/tmhub/email/tree/1.1.4",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
@@ -15184,18 +15292,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "df9bf31a67319b3a4f58ba6b42a0758a450b9003"
+                    "reference": "2b0823799a65009b6b94d6375f0ce9e60f664a19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/df9bf31a67319b3a4f58ba6b42a0758a450b9003",
-                    "reference": "df9bf31a67319b3a4f58ba6b42a0758a450b9003",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/2b0823799a65009b6b94d6375f0ce9e60f664a19",
+                    "reference": "2b0823799a65009b6b94d6375f0ce9e60f664a19",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-22 13:11:17",
+                "time": "2016-09-30 13:36:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15209,7 +15317,7 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/master",
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.4.6",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
