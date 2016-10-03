@@ -507,7 +507,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -1923,19 +1923,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "5d57112ad7f82bd3dccd35108048d02b1ccd7d91"
+                    "reference": "796a81339f8dc21c0f47384f736e671e336bc9c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/5d57112ad7f82bd3dccd35108048d02b1ccd7d91",
-                    "reference": "5d57112ad7f82bd3dccd35108048d02b1ccd7d91",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/796a81339f8dc21c0f47384f736e671e336bc9c8",
+                    "reference": "796a81339f8dc21c0f47384f736e671e336bc9c8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2016-09-30 14:33:55",
+                "time": "2016-10-03 12:06:37",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1949,7 +1949,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.4",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -2248,7 +2248,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.0.1",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -3563,7 +3563,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -12943,6 +12943,44 @@
                 "support": {
                     "source": "https://github.com/tmhub/firecheckout/tree/integration-phoenix_wirecardcheckoutpage",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
+                }
+            }
+        },
+        "tm/ga-plugin-customevents": {
+            "dev-master": {
+                "name": "tm/ga-plugin-customevents",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/ga-plugin-customevents.git",
+                    "reference": "2e94c439b3da446c1c47c6e7c66474e089019e7a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ga-plugin-customevents/zipball/2e94c439b3da446c1c47c6e7c66474e089019e7a",
+                    "reference": "2e94c439b3da446c1c47c6e7c66474e089019e7a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-03 12:01:39",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google Analytics plugin to send custom events",
+                "homepage": "https://github.com/tmhub/ga-plugin-customevents",
+                "support": {
+                    "source": "https://github.com/tmhub/ga-plugin-customevents/tree/master",
+                    "issues": "https://github.com/tmhub/ga-plugin-customevents/issues"
                 }
             }
         },
