@@ -2223,18 +2223,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749"
+                    "reference": "f6253014e4c0af28d065648231f76b8349723d1b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
-                    "reference": "d6c27a1b6f57288cf551322d305cd0b9c6e4b749",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/f6253014e4c0af28d065648231f76b8349723d1b",
+                    "reference": "f6253014e4c0af28d065648231f76b8349723d1b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-30 07:19:44",
+                "time": "2016-09-30 12:47:23",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2248,7 +2248,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.1",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -6130,18 +6130,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
-                    "reference": "b8831c2dedbefd62b1b599b44166b8763aeca565"
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/b8831c2dedbefd62b1b599b44166b8763aeca565",
-                    "reference": "b8831c2dedbefd62b1b599b44166b8763aeca565",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/8c3008259d1f6a9848530a55ffd6e34a9346cd43",
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-26 14:47:21",
+                "time": "2016-09-30 13:07:08",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -6155,7 +6155,7 @@
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
                 "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
                 "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/master",
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.3",
                     "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
                 }
             }
@@ -7110,18 +7110,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "1c3d158f710e85ccb517c2e8de921cba2e066ed7"
+                    "reference": "fd10370291e4dd3cea4e77e232fea7a406c25fd9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/1c3d158f710e85ccb517c2e8de921cba2e066ed7",
-                    "reference": "1c3d158f710e85ccb517c2e8de921cba2e066ed7",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/fd10370291e4dd3cea4e77e232fea7a406c25fd9",
+                    "reference": "fd10370291e4dd3cea4e77e232fea7a406c25fd9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-23 10:02:59",
+                "time": "2016-10-03 12:47:11",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7135,7 +7135,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/1.0.0",
+                    "source": "https://github.com/tmhub/defer-js/tree/master",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
@@ -12946,26 +12946,26 @@
                 }
             }
         },
-        "tm/ga-plugin-customevents": {
+        "tm/ga-plugin-events": {
             "dev-master": {
-                "name": "tm/ga-plugin-customevents",
+                "name": "tm/ga-plugin-events",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/ga-plugin-customevents.git",
-                    "reference": "2e94c439b3da446c1c47c6e7c66474e089019e7a"
+                    "url": "https://github.com/tmhub/ga-plugin-events.git",
+                    "reference": "b1a88e8030d9fd96873dfb790b97ec023c2f3add"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ga-plugin-customevents/zipball/2e94c439b3da446c1c47c6e7c66474e089019e7a",
-                    "reference": "2e94c439b3da446c1c47c6e7c66474e089019e7a",
+                    "url": "https://api.github.com/repos/tmhub/ga-plugin-events/zipball/b1a88e8030d9fd96873dfb790b97ec023c2f3add",
+                    "reference": "b1a88e8030d9fd96873dfb790b97ec023c2f3add",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-03 12:01:39",
+                "time": "2016-10-03 12:49:10",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12976,11 +12976,11 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "description": "Google Analytics plugin to send custom events",
-                "homepage": "https://github.com/tmhub/ga-plugin-customevents",
+                "description": "Google Analytics plugin to send additional events",
+                "homepage": "https://github.com/tmhub/ga-plugin-events",
                 "support": {
-                    "source": "https://github.com/tmhub/ga-plugin-customevents/tree/master",
-                    "issues": "https://github.com/tmhub/ga-plugin-customevents/issues"
+                    "source": "https://github.com/tmhub/ga-plugin-events/tree/master",
+                    "issues": "https://github.com/tmhub/ga-plugin-events/issues"
                 }
             }
         },
