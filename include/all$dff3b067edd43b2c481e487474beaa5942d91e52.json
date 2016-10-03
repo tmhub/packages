@@ -507,7 +507,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -3563,7 +3563,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -12954,18 +12954,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/ga-plugin-events.git",
-                    "reference": "b1a88e8030d9fd96873dfb790b97ec023c2f3add"
+                    "reference": "414b7217c124bc3ce363f5249c923764d819da65"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ga-plugin-events/zipball/b1a88e8030d9fd96873dfb790b97ec023c2f3add",
-                    "reference": "b1a88e8030d9fd96873dfb790b97ec023c2f3add",
+                    "url": "https://api.github.com/repos/tmhub/ga-plugin-events/zipball/414b7217c124bc3ce363f5249c923764d819da65",
+                    "reference": "414b7217c124bc3ce363f5249c923764d819da65",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-03 12:49:10",
+                "time": "2016-10-03 13:00:41",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19308,18 +19308,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/slick-carousel.git",
-                    "reference": "2818d459b5ff2f0244ba4b5a9208dca88bf66aec"
+                    "reference": "89005bb11bee9e8c55c38102ceacb8f49d7c80ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/2818d459b5ff2f0244ba4b5a9208dca88bf66aec",
-                    "reference": "2818d459b5ff2f0244ba4b5a9208dca88bf66aec",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/89005bb11bee9e8c55c38102ceacb8f49d7c80ab",
+                    "reference": "89005bb11bee9e8c55c38102ceacb8f49d7c80ab",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-03 11:26:23",
+                "time": "2016-10-03 13:16:25",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
