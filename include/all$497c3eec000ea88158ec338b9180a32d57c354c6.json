@@ -3739,12 +3739,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "a570204c3a75aa4906100f9a16db243e84d9f540"
+                    "reference": "118fa458e0d23c921109ffcbbeaba4b3732e8649"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/a570204c3a75aa4906100f9a16db243e84d9f540",
-                    "reference": "a570204c3a75aa4906100f9a16db243e84d9f540",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/118fa458e0d23c921109ffcbbeaba4b3732e8649",
+                    "reference": "118fa458e0d23c921109ffcbbeaba4b3732e8649",
                     "shasum": ""
                 },
                 "require": {
@@ -3769,7 +3769,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-10-04 14:30:04",
+                "time": "2016-10-11 13:23:28",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17972,6 +17972,44 @@
                 }
             }
         },
+        "tm/qty-switcher": {
+            "dev-master": {
+                "name": "tm/qty-switcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/qty-switcher.git",
+                    "reference": "e313d883efcdd9175e71d838d99d3eec924ff472"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/e313d883efcdd9175e71d838d99d3eec924ff472",
+                    "reference": "e313d883efcdd9175e71d838d99d3eec924ff472",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-11 13:12:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity",
+                "homepage": "https://github.com/tmhub/qty-switcher",
+                "support": {
+                    "source": "https://github.com/tmhub/qty-switcher/tree/master",
+                    "issues": "https://github.com/tmhub/qty-switcher/issues"
+                }
+            }
+        },
         "tm/quickshopping": {
             "1.2.4": {
                 "name": "tm/quickshopping",
@@ -19421,18 +19459,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/slick-carousel.git",
-                    "reference": "de1766b6d380bbb2235ff13530ed80c8465f1a89"
+                    "reference": "91ba098dbb69196565a7c3e0405d9b3074193fea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/de1766b6d380bbb2235ff13530ed80c8465f1a89",
-                    "reference": "de1766b6d380bbb2235ff13530ed80c8465f1a89",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/91ba098dbb69196565a7c3e0405d9b3074193fea",
+                    "reference": "91ba098dbb69196565a7c3e0405d9b3074193fea",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-05 13:49:36",
+                "time": "2016-10-11 13:12:28",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
