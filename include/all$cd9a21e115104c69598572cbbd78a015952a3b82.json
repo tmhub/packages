@@ -507,7 +507,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -19524,25 +19524,25 @@
             }
         },
         "tm/slick-carousel": {
-            "dev-master": {
+            "1.0.0": {
                 "name": "tm/slick-carousel",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/slick-carousel.git",
-                    "reference": "91ba098dbb69196565a7c3e0405d9b3074193fea"
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/91ba098dbb69196565a7c3e0405d9b3074193fea",
-                    "reference": "91ba098dbb69196565a7c3e0405d9b3074193fea",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-11 13:12:28",
+                "time": "2016-10-12 12:27:55",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19556,7 +19556,43 @@
                 "description": "the last carousel you'll ever need for magento",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/slick-carousel/tree/master",
+                    "source": "https://github.com/tmhub/slick-carousel/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/slick-carousel/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/slick-carousel",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/slick-carousel.git",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-12 12:27:55",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "the last carousel you'll ever need for magento",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/slick-carousel/tree/1.0.0",
                     "issues": "https://github.com/tmhub/slick-carousel/issues"
                 }
             }
