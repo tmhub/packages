@@ -35,6 +35,9 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
 #lastupdate { text-align: right; }
 #lastupdate time { font-weight: bold; }
 .abandoned { border: 1px solid #800; background: #fee; text-align: center; padding: 5px; margin: 20px 0; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.package-title .anchor { display: inline-block; padding-right: 2px; margin-left: -18px; }
+.package-title .anchor .octicon-link { vertical-align: middle; visibility: hidden; }
+.package-title:hover .anchor .octicon-link { visibility: visible; }
     </style>
 </head>
 <body>
@@ -45,7 +48,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                     Templates Master Packages
                             </h1>
                         <div id="lastupdate">
-                Last updated: <time datetime="2016-10-20T16:36:48+0300">Thu, 20 Oct 2016 16:36:48 +0300</time>
+                Last updated: <time datetime="2016-10-24T17:18:56+0300">Mon, 24 Oct 2016 17:18:56 +0300</time>
             </div>
         </div>
         <div id="bd">
@@ -65,7 +68,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
 
                 <div id="package-list">
                                     <div>
-                        <h3 id="cryozonic/stripe">cryozonic/stripe</h3>
+                        <h3 id="cryozonic/stripe" class="package-title"><a href="#cryozonic/stripe" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>cryozonic/stripe</h3>
                                                                             <p>Stripe Payments</p>
                                                 <table>
                                                             <tr>
@@ -98,7 +101,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="cryozonic/stripe-subscriptions">cryozonic/stripe-subscriptions</h3>
+                        <h3 id="cryozonic/stripe-subscriptions" class="package-title"><a href="#cryozonic/stripe-subscriptions" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>cryozonic/stripe-subscriptions</h3>
                                                                             <p>Stripe Subscriptions</p>
                                                 <table>
                                                             <tr>
@@ -131,7 +134,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="fishpig/wordpress">fishpig/wordpress</h3>
+                        <h3 id="fishpig/wordpress" class="package-title"><a href="#fishpig/wordpress" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>fishpig/wordpress</h3>
                                                                             <p>Wordpress Integration by Fishpig</p>
                                                 <table>
                                                             <tr>
@@ -164,7 +167,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/abandoned">tm/abandoned</h3>
+                        <h3 id="tm/abandoned" class="package-title"><a href="#tm/abandoned" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/abandoned</h3>
                                                                             <p>Templates Master Abandoned Cart module</p>
                                                 <table>
                                                             <tr>
@@ -205,7 +208,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/address-autocomplete">tm/address-autocomplete</h3>
+                        <h3 id="tm/address-autocomplete" class="package-title"><a href="#tm/address-autocomplete" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/address-autocomplete</h3>
                                                                             <p>Address autocompletion</p>
                                                 <table>
                                                             <tr>
@@ -220,7 +223,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/address-autocomplete/tree/master">https://github.com/tmhub/address-autocomplete/tree/master</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/address-autocomplete/tree/1.1.2">https://github.com/tmhub/address-autocomplete/tree/1.1.2</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/address-autocomplete/issues">https://github.com/tmhub/address-autocomplete/issues</a></li>
                                                                         </ul>
                                 </td>
@@ -228,7 +231,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/9bfbd2ef790c89ed53dcebf6f25a215a797990f3" title="9bfbd2ef790c89ed53dcebf6f25a215a797990f3">dev-master</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/6d33da850d41d1418932d85e7c8c0c0b174ae430" title="6d33da850d41d1418932d85e7c8c0c0b174ae430">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/33ece453f369532bf27eb09283558e0e36019fdb" title="33ece453f369532bf27eb09283558e0e36019fdb">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/58552adc1d5a7aee11c46bf59f953cc038eaa12c" title="58552adc1d5a7aee11c46bf59f953cc038eaa12c">1.0.0</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/a9bb95c933d9eacefc3bd3ec50e66444d74bcc46" title="a9bb95c933d9eacefc3bd3ec50e66444d74bcc46">dev-master</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/a9bb95c933d9eacefc3bd3ec50e66444d74bcc46" title="a9bb95c933d9eacefc3bd3ec50e66444d74bcc46">1.1.2</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/6d33da850d41d1418932d85e7c8c0c0b174ae430" title="6d33da850d41d1418932d85e7c8c0c0b174ae430">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/33ece453f369532bf27eb09283558e0e36019fdb" title="33ece453f369532bf27eb09283558e0e36019fdb">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/address-autocomplete/zipball/58552adc1d5a7aee11c46bf59f953cc038eaa12c" title="58552adc1d5a7aee11c46bf59f953cc038eaa12c">1.0.0</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -241,7 +244,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/affiliate-suite">tm/affiliate-suite</h3>
+                        <h3 id="tm/affiliate-suite" class="package-title"><a href="#tm/affiliate-suite" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/affiliate-suite</h3>
                                                                             <p>Customer testimonials</p>
                                                 <table>
                                                             <tr>
@@ -279,7 +282,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ajax-layered-navigation">tm/ajax-layered-navigation</h3>
+                        <h3 id="tm/ajax-layered-navigation" class="package-title"><a href="#tm/ajax-layered-navigation" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ajax-layered-navigation</h3>
                                                                             <p>Advanced catalog filters with ajax and seo support</p>
                                                 <table>
                                                             <tr>
@@ -317,7 +320,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ajax-pro">tm/ajax-pro</h3>
+                        <h3 id="tm/ajax-pro" class="package-title"><a href="#tm/ajax-pro" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ajax-pro</h3>
                                                                             <p>Templates Master AjaxPro module</p>
                                                 <table>
                                                             <tr>
@@ -358,7 +361,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ajax-search">tm/ajax-search</h3>
+                        <h3 id="tm/ajax-search" class="package-title"><a href="#tm/ajax-search" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ajax-search</h3>
                                                                             <p>Templates Master AjaxSearch module</p>
                                                 <table>
                                                             <tr>
@@ -399,7 +402,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/akismet">tm/akismet</h3>
+                        <h3 id="tm/akismet" class="package-title"><a href="#tm/akismet" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/akismet</h3>
                                                                             <p>Templates Master Akismet integration module</p>
                                                 <table>
                                                             <tr>
@@ -442,7 +445,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/argento">tm/argento</h3>
+                        <h3 id="tm/argento" class="package-title"><a href="#tm/argento" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/argento</h3>
                                                                             <p>Argento theme</p>
                                                 <table>
                                                             <tr>
@@ -465,7 +468,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/argento/argento/zipball/a0b34260173eaded8fa3eaeef097eb91d7afa884" title="a0b34260173eaded8fa3eaeef097eb91d7afa884">dev-master</a>, <a href="https://api.github.com/repos/argento/argento/zipball/43e56da7aef4570702e6a7be90a35ceebd9c5ba1" title="43e56da7aef4570702e6a7be90a35ceebd9c5ba1">1.8.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e952a9c2174a4f9b8bf1016076a6e773988d8a2a" title="e952a9c2174a4f9b8bf1016076a6e773988d8a2a">1.8.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e956f70e39c0d68eb50ffb2b0589e4610c612096" title="e956f70e39c0d68eb50ffb2b0589e4610c612096">1.8.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/4fce904261cbf1887720f08ad80ccfd3865269a1" title="4fce904261cbf1887720f08ad80ccfd3865269a1">1.8.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/ac88155c0960c0788ea53abf3ddc2bc2a354eda0" title="ac88155c0960c0788ea53abf3ddc2bc2a354eda0">1.7.4</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e69929d30956452a0903c51e6f30b1cf48a05e4f" title="e69929d30956452a0903c51e6f30b1cf48a05e4f">1.7.3.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/46a856c57e2f6ac333695ad31da45a0104d0028f" title="46a856c57e2f6ac333695ad31da45a0104d0028f">1.7.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/64f5f27111f576895449eb210ed21549683e8f7c" title="64f5f27111f576895449eb210ed21549683e8f7c">1.7.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/4f3db37f69733041bec1fd66dba8c3ad823031b5" title="4f3db37f69733041bec1fd66dba8c3ad823031b5">1.7.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/2e27667a2136953cb7c5e4a4b69c5d8ae7db3b85" title="2e27667a2136953cb7c5e4a4b69c5d8ae7db3b85">1.7.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/5fa575c941cc8e994783c905c738cffcb6078fa5" title="5fa575c941cc8e994783c905c738cffcb6078fa5">1.6.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/7276f05e9d30b9a637ec46de945454a28d37a246" title="7276f05e9d30b9a637ec46de945454a28d37a246">1.6.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/0bdc3050c80a9cac29f779ccfed236bf7528346e" title="0bdc3050c80a9cac29f779ccfed236bf7528346e">1.6.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/746ae56548de2c2d6e86c74ed3f074d85a81c247" title="746ae56548de2c2d6e86c74ed3f074d85a81c247">1.5.4</a>, <a href="https://api.github.com/repos/argento/argento/zipball/7269f10cfcac6450bef8539383b19e69fbf01bf7" title="7269f10cfcac6450bef8539383b19e69fbf01bf7">1.5.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e764894374dcc82535bfaed9920be2901ff796c5" title="e764894374dcc82535bfaed9920be2901ff796c5">1.5.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e88a98f9640ad6e6b1a0932efe84e7e460ef44bd" title="e88a98f9640ad6e6b1a0932efe84e7e460ef44bd">1.5.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/5862f134800992808ed32151959d19aefb53356d" title="5862f134800992808ed32151959d19aefb53356d">1.5.0</a>                                </td>
+                                    <a href="https://api.github.com/repos/argento/argento/zipball/b2926b06d8d12210779002ed716c9c7088d95600" title="b2926b06d8d12210779002ed716c9c7088d95600">dev-master</a>, <a href="https://api.github.com/repos/argento/argento/zipball/43e56da7aef4570702e6a7be90a35ceebd9c5ba1" title="43e56da7aef4570702e6a7be90a35ceebd9c5ba1">1.8.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e952a9c2174a4f9b8bf1016076a6e773988d8a2a" title="e952a9c2174a4f9b8bf1016076a6e773988d8a2a">1.8.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e956f70e39c0d68eb50ffb2b0589e4610c612096" title="e956f70e39c0d68eb50ffb2b0589e4610c612096">1.8.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/4fce904261cbf1887720f08ad80ccfd3865269a1" title="4fce904261cbf1887720f08ad80ccfd3865269a1">1.8.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/ac88155c0960c0788ea53abf3ddc2bc2a354eda0" title="ac88155c0960c0788ea53abf3ddc2bc2a354eda0">1.7.4</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e69929d30956452a0903c51e6f30b1cf48a05e4f" title="e69929d30956452a0903c51e6f30b1cf48a05e4f">1.7.3.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/46a856c57e2f6ac333695ad31da45a0104d0028f" title="46a856c57e2f6ac333695ad31da45a0104d0028f">1.7.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/64f5f27111f576895449eb210ed21549683e8f7c" title="64f5f27111f576895449eb210ed21549683e8f7c">1.7.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/4f3db37f69733041bec1fd66dba8c3ad823031b5" title="4f3db37f69733041bec1fd66dba8c3ad823031b5">1.7.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/2e27667a2136953cb7c5e4a4b69c5d8ae7db3b85" title="2e27667a2136953cb7c5e4a4b69c5d8ae7db3b85">1.7.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/5fa575c941cc8e994783c905c738cffcb6078fa5" title="5fa575c941cc8e994783c905c738cffcb6078fa5">1.6.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/7276f05e9d30b9a637ec46de945454a28d37a246" title="7276f05e9d30b9a637ec46de945454a28d37a246">1.6.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/0bdc3050c80a9cac29f779ccfed236bf7528346e" title="0bdc3050c80a9cac29f779ccfed236bf7528346e">1.6.0</a>, <a href="https://api.github.com/repos/argento/argento/zipball/746ae56548de2c2d6e86c74ed3f074d85a81c247" title="746ae56548de2c2d6e86c74ed3f074d85a81c247">1.5.4</a>, <a href="https://api.github.com/repos/argento/argento/zipball/7269f10cfcac6450bef8539383b19e69fbf01bf7" title="7269f10cfcac6450bef8539383b19e69fbf01bf7">1.5.3</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e764894374dcc82535bfaed9920be2901ff796c5" title="e764894374dcc82535bfaed9920be2901ff796c5">1.5.2</a>, <a href="https://api.github.com/repos/argento/argento/zipball/e88a98f9640ad6e6b1a0932efe84e7e460ef44bd" title="e88a98f9640ad6e6b1a0932efe84e7e460ef44bd">1.5.1</a>, <a href="https://api.github.com/repos/argento/argento/zipball/5862f134800992808ed32151959d19aefb53356d" title="5862f134800992808ed32151959d19aefb53356d">1.5.0</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -481,7 +484,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/argento_argentotheme">tm/argento_argentotheme</h3>
+                        <h3 id="tm/argento_argentotheme" class="package-title"><a href="#tm/argento_argentotheme" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/argento_argentotheme</h3>
                                                                             <p>Argento theme for Argentotheme.com</p>
                                                 <table>
                                                             <tr>
@@ -519,7 +522,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/argento_mage2cloud">tm/argento_mage2cloud</h3>
+                        <h3 id="tm/argento_mage2cloud" class="package-title"><a href="#tm/argento_mage2cloud" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/argento_mage2cloud</h3>
                                                                             <p>Mage2Cloud theme</p>
                                                 <table>
                                                             <tr>
@@ -557,7 +560,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/argento_swissup">tm/argento_swissup</h3>
+                        <h3 id="tm/argento_swissup" class="package-title"><a href="#tm/argento_swissup" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/argento_swissup</h3>
                                                                             <p>Swissup theme for swissuplabs.com</p>
                                                 <table>
                                                             <tr>
@@ -595,7 +598,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/argento_tm">tm/argento_tm</h3>
+                        <h3 id="tm/argento_tm" class="package-title"><a href="#tm/argento_tm" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/argento_tm</h3>
                                                                             <p>Templates-Master theme</p>
                                                 <table>
                                                             <tr>
@@ -633,7 +636,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ask-it">tm/ask-it</h3>
+                        <h3 id="tm/ask-it" class="package-title"><a href="#tm/ask-it" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ask-it</h3>
                                                                             <p>Templates Master Askit module</p>
                                                 <table>
                                                             <tr>
@@ -674,7 +677,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/attributepages">tm/attributepages</h3>
+                        <h3 id="tm/attributepages" class="package-title"><a href="#tm/attributepages" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/attributepages</h3>
                                                                             <p>Attribute and brand based pages</p>
                                                 <table>
                                                             <tr>
@@ -715,7 +718,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/bot-protection">tm/bot-protection</h3>
+                        <h3 id="tm/bot-protection" class="package-title"><a href="#tm/bot-protection" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/bot-protection</h3>
                                                                             <p>Module to protect magento from bots and spiders</p>
                                                 <table>
                                                             <tr>
@@ -753,7 +756,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/cache">tm/cache</h3>
+                        <h3 id="tm/cache" class="package-title"><a href="#tm/cache" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/cache</h3>
                                                                             <p>Full page cache</p>
                                                 <table>
                                                             <tr>
@@ -794,7 +797,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/catalog-configurable-swatches">tm/catalog-configurable-swatches</h3>
+                        <h3 id="tm/catalog-configurable-swatches" class="package-title"><a href="#tm/catalog-configurable-swatches" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/catalog-configurable-swatches</h3>
                                                                             <p>Magento 1.9.1 ConfigurableSwatches integration module</p>
                                                 <table>
                                                             <tr>
@@ -843,7 +846,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/cdn">tm/cdn</h3>
+                        <h3 id="tm/cdn" class="package-title"><a href="#tm/cdn" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/cdn</h3>
                                                                             <p>Templates Master CDN module</p>
                                                 <table>
                                                             <tr>
@@ -884,7 +887,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/checkout-success">tm/checkout-success</h3>
+                        <h3 id="tm/checkout-success" class="package-title"><a href="#tm/checkout-success" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/checkout-success</h3>
                                                                             <p>Checkout Success Page module</p>
                                                 <table>
                                                             <tr>
@@ -925,7 +928,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/core">tm/core</h3>
+                        <h3 id="tm/core" class="package-title"><a href="#tm/core" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/core</h3>
                                                                             <p>Templates Master core functionality module</p>
                                                 <table>
                                                             <tr>
@@ -1032,7 +1035,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/countdowntimer">tm/countdowntimer</h3>
+                        <h3 id="tm/countdowntimer" class="package-title"><a href="#tm/countdowntimer" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/countdowntimer</h3>
                                                                             <p>CountDown Timer module</p>
                                                 <table>
                                                             <tr>
@@ -1073,7 +1076,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/dailydeals">tm/dailydeals</h3>
+                        <h3 id="tm/dailydeals" class="package-title"><a href="#tm/dailydeals" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/dailydeals</h3>
                                                                             <p>Module deals managment</p>
                                                 <table>
                                                             <tr>
@@ -1111,7 +1114,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/defer-js">tm/defer-js</h3>
+                        <h3 id="tm/defer-js" class="package-title"><a href="#tm/defer-js" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/defer-js</h3>
                                                                             <p>Templates Master Defer javascript module</p>
                                                 <table>
                                                             <tr>
@@ -1152,7 +1155,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/demo-deployer">tm/demo-deployer</h3>
+                        <h3 id="tm/demo-deployer" class="package-title"><a href="#tm/demo-deployer" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/demo-deployer</h3>
                                                                             <p>swissup demo deployer tool/module</p>
                                                 <table>
                                                             <tr>
@@ -1193,7 +1196,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/downloadable">tm/downloadable</h3>
+                        <h3 id="tm/downloadable" class="package-title"><a href="#tm/downloadable" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/downloadable</h3>
                                                                             <p>Downloadable products for templates-master.com and argentotheme.com</p>
                                                 <table>
                                                             <tr>
@@ -1231,7 +1234,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easy-banner">tm/easy-banner</h3>
+                        <h3 id="tm/easy-banner" class="package-title"><a href="#tm/easy-banner" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easy-banner</h3>
                                                                             <p>Banner management extension</p>
                                                 <table>
                                                             <tr>
@@ -1272,7 +1275,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easycatalogimg">tm/easycatalogimg</h3>
+                        <h3 id="tm/easycatalogimg" class="package-title"><a href="#tm/easycatalogimg" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easycatalogimg</h3>
                                                                             <p>Subcategories listing with images</p>
                                                 <table>
                                                             <tr>
@@ -1313,7 +1316,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easycolorswatches">tm/easycolorswatches</h3>
+                        <h3 id="tm/easycolorswatches" class="package-title"><a href="#tm/easycolorswatches" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easycolorswatches</h3>
                                                                         <table>
                                                             <tr>
                                     <th>Homepage</th>
@@ -1350,7 +1353,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easyflags">tm/easyflags</h3>
+                        <h3 id="tm/easyflags" class="package-title"><a href="#tm/easyflags" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easyflags</h3>
                                                                             <p>EasyFlags</p>
                                                 <table>
                                                             <tr>
@@ -1388,7 +1391,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easylightbox">tm/easylightbox</h3>
+                        <h3 id="tm/easylightbox" class="package-title"><a href="#tm/easylightbox" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easylightbox</h3>
                                                                             <p>Lightbox library integration</p>
                                                 <table>
                                                             <tr>
@@ -1426,7 +1429,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easynavigation">tm/easynavigation</h3>
+                        <h3 id="tm/easynavigation" class="package-title"><a href="#tm/easynavigation" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easynavigation</h3>
                                                                             <p>Multicolumn and sidebar navigation</p>
                                                 <table>
                                                             <tr>
@@ -1464,7 +1467,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easyslide">tm/easyslide</h3>
+                        <h3 id="tm/easyslide" class="package-title"><a href="#tm/easyslide" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easyslide</h3>
                                                                             <p>Configurable sliders</p>
                                                 <table>
                                                             <tr>
@@ -1506,7 +1509,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/easytabs">tm/easytabs</h3>
+                        <h3 id="tm/easytabs" class="package-title"><a href="#tm/easytabs" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/easytabs</h3>
                                                                             <p>Tabs for product page</p>
                                                 <table>
                                                             <tr>
@@ -1534,7 +1537,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f11b0881c8b3bf125152efe94e27823b7bb82109" title="f11b0881c8b3bf125152efe94e27823b7bb82109">dev-master</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f11b0881c8b3bf125152efe94e27823b7bb82109" title="f11b0881c8b3bf125152efe94e27823b7bb82109">2.3.8</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/a898966bf50a533b5ecd2161dba6c11486df8f1e" title="a898966bf50a533b5ecd2161dba6c11486df8f1e">2.3.7</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/8a46cdb80b2dc529c5f848946aef54556af295cc" title="8a46cdb80b2dc529c5f848946aef54556af295cc">2.3.6</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/60a9311caafef5ca6f730824321976a3818a4b83" title="60a9311caafef5ca6f730824321976a3818a4b83">2.3.5</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/b77bbbc648686c34df46ee49a283d18ccee0e976" title="b77bbbc648686c34df46ee49a283d18ccee0e976">2.3.4</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/403e7b9fa841a8730f39a22a62849252ce888654" title="403e7b9fa841a8730f39a22a62849252ce888654">2.3.3</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/110da931d56f02b5134ad8b64585e0039142f196" title="110da931d56f02b5134ad8b64585e0039142f196">2.3.2</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f751d50455c6040f41947552e1b5e05374fa934a" title="f751d50455c6040f41947552e1b5e05374fa934a">2.3.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/6085c29c975e059cb13ec0cb493c34b05460fbe1" title="6085c29c975e059cb13ec0cb493c34b05460fbe1">2.3.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/341395bd145eaeea254b65489610c9821eb23d94" title="341395bd145eaeea254b65489610c9821eb23d94">2.2.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f02ff79b41e6626f7927d5b77bbd0c95d3defd3c" title="f02ff79b41e6626f7927d5b77bbd0c95d3defd3c">2.2.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/1451cc35aa9514fdc57512177655de82d94b29f0" title="1451cc35aa9514fdc57512177655de82d94b29f0">2.1.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/4908e5c45a3cf350a5a8638a75da0bf7174f45f8" title="4908e5c45a3cf350a5a8638a75da0bf7174f45f8">2.1.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/9dac3747a7fa296f868c38d04d2860b52721baf4" title="9dac3747a7fa296f868c38d04d2860b52721baf4">dev-dev</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f11b0881c8b3bf125152efe94e27823b7bb82109" title="f11b0881c8b3bf125152efe94e27823b7bb82109">dev-master</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f11b0881c8b3bf125152efe94e27823b7bb82109" title="f11b0881c8b3bf125152efe94e27823b7bb82109">2.3.8</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/a898966bf50a533b5ecd2161dba6c11486df8f1e" title="a898966bf50a533b5ecd2161dba6c11486df8f1e">2.3.7</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/8a46cdb80b2dc529c5f848946aef54556af295cc" title="8a46cdb80b2dc529c5f848946aef54556af295cc">2.3.6</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/60a9311caafef5ca6f730824321976a3818a4b83" title="60a9311caafef5ca6f730824321976a3818a4b83">2.3.5</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/b77bbbc648686c34df46ee49a283d18ccee0e976" title="b77bbbc648686c34df46ee49a283d18ccee0e976">2.3.4</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/403e7b9fa841a8730f39a22a62849252ce888654" title="403e7b9fa841a8730f39a22a62849252ce888654">2.3.3</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/110da931d56f02b5134ad8b64585e0039142f196" title="110da931d56f02b5134ad8b64585e0039142f196">2.3.2</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f751d50455c6040f41947552e1b5e05374fa934a" title="f751d50455c6040f41947552e1b5e05374fa934a">2.3.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/6085c29c975e059cb13ec0cb493c34b05460fbe1" title="6085c29c975e059cb13ec0cb493c34b05460fbe1">2.3.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/341395bd145eaeea254b65489610c9821eb23d94" title="341395bd145eaeea254b65489610c9821eb23d94">2.2.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/f02ff79b41e6626f7927d5b77bbd0c95d3defd3c" title="f02ff79b41e6626f7927d5b77bbd0c95d3defd3c">2.2.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/1451cc35aa9514fdc57512177655de82d94b29f0" title="1451cc35aa9514fdc57512177655de82d94b29f0">2.1.1</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/4908e5c45a3cf350a5a8638a75da0bf7174f45f8" title="4908e5c45a3cf350a5a8638a75da0bf7174f45f8">2.1.0</a>, <a href="https://api.github.com/repos/tmhub/easytabs/zipball/76af52ee7519c797062ce1d8d6de683d37d04376" title="76af52ee7519c797062ce1d8d6de683d37d04376">dev-dev</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -1547,7 +1550,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/email">tm/email</h3>
+                        <h3 id="tm/email" class="package-title"><a href="#tm/email" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/email</h3>
                                                                             <p>Templates Master Email module</p>
                                                 <table>
                                                             <tr>
@@ -1592,7 +1595,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/facebooklb">tm/facebooklb</h3>
+                        <h3 id="tm/facebooklb" class="package-title"><a href="#tm/facebooklb" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/facebooklb</h3>
                                                                             <p>Facebook Like Button integration</p>
                                                 <table>
                                                             <tr>
@@ -1633,7 +1636,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/firecheckout">tm/firecheckout</h3>
+                        <h3 id="tm/firecheckout" class="package-title"><a href="#tm/firecheckout" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/firecheckout</h3>
                                                                             <p>One step checkout module</p>
                                                 <table>
                                                             <tr>
@@ -1653,7 +1656,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/firecheckout/tree/master">https://github.com/tmhub/firecheckout/tree/master</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/firecheckout/tree/3.8.0">https://github.com/tmhub/firecheckout/tree/3.8.0</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/firecheckout/issues">https://github.com/tmhub/firecheckout/issues</a></li>
                                                                         </ul>
                                 </td>
@@ -1661,7 +1664,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/a6c6a546b7d4488948f8dfcdc025c0fb7caf7fa2" title="a6c6a546b7d4488948f8dfcdc025c0fb7caf7fa2">dev-master</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/30b56d958c68d8ddc6ea3bdbbb20d2362844924d" title="30b56d958c68d8ddc6ea3bdbbb20d2362844924d">3.7.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/b0d32dc92f4eda26a9b4a7179a9ffc04cb360191" title="b0d32dc92f4eda26a9b4a7179a9ffc04cb360191">3.7.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/278e3adf74fc0d9a97747c8322acee8621d8d3dc" title="278e3adf74fc0d9a97747c8322acee8621d8d3dc">3.6.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/a586d251be8ea7df6b2249baddfb4010992e1fea" title="a586d251be8ea7df6b2249baddfb4010992e1fea">3.6.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/0ee3c9aa8680b0a530f0a0474a0ab3c62575a10d" title="0ee3c9aa8680b0a530f0a0474a0ab3c62575a10d">3.6.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/20789e08aaeaea6a8d44b44ade0f8ce51b7d7900" title="20789e08aaeaea6a8d44b44ade0f8ce51b7d7900">3.5.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f653463f414f3ffdf9505eec174572d8db71a232" title="f653463f414f3ffdf9505eec174572d8db71a232">3.4.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/606ab4ef3a697d495df4032e60f20d53567c3412" title="606ab4ef3a697d495df4032e60f20d53567c3412">3.3.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/ab4577b824d19347362153f98585f804df2ad0b7" title="ab4577b824d19347362153f98585f804df2ad0b7">3.2.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/01f91ef7469a413a1de1b01823fe72b448fd1197" title="01f91ef7469a413a1de1b01823fe72b448fd1197">3.1.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/b1b6fe8eaba66b3f448a29802dba3336354450e7" title="b1b6fe8eaba66b3f448a29802dba3336354450e7">3.0.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/6d0815dc6408314841e1d8ced3653e0fd7cd0556" title="6d0815dc6408314841e1d8ced3653e0fd7cd0556">2.7.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/0d639c5db052974592cbe497bd5bc3a7a0e87a9f" title="0d639c5db052974592cbe497bd5bc3a7a0e87a9f">2.7.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/5004d7d1f49d9a7f00c2c07973e8f02a9ab61fab" title="5004d7d1f49d9a7f00c2c07973e8f02a9ab61fab">2.7.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/1ba1312788013e889f7c4fc117b3a34bf7973fe4" title="1ba1312788013e889f7c4fc117b3a34bf7973fe4">2.6.3</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f58b1c5a0d0238e817b7527ac4f8cec97f136f41" title="f58b1c5a0d0238e817b7527ac4f8cec97f136f41">2.6.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/c3fbbc8705594bbe5036b6f73a525761318b6de1" title="c3fbbc8705594bbe5036b6f73a525761318b6de1">2.6.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/5163d5ef70aa4406eb0569f8d1728f841e3abd83" title="5163d5ef70aa4406eb0569f8d1728f841e3abd83">2.6.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/724595f25fb88ab43ef7b33899ed3f96ec5e9187" title="724595f25fb88ab43ef7b33899ed3f96ec5e9187">2.5.8</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/d2a0850fd7ed02ddec039a5511a2361572b99062" title="d2a0850fd7ed02ddec039a5511a2361572b99062">2.5.7</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/ab78965614eeda7b318dc264f91817c661095933" title="ab78965614eeda7b318dc264f91817c661095933">2.5.6</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/54bd7f1c4285c37510d01795e079eeba267b3b7c" title="54bd7f1c4285c37510d01795e079eeba267b3b7c">2.5.5.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f10c33d19ce65ec139739b2f5c99e8d352d367e3" title="f10c33d19ce65ec139739b2f5c99e8d352d367e3">2.5.5</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/a40caf9596dbcc227a96d655d3558f52237561d0" title="a40caf9596dbcc227a96d655d3558f52237561d0">2.5.4</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/3b884adb1617dd5679a477a87063518defb03ebe" title="3b884adb1617dd5679a477a87063518defb03ebe">2.5.3</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/fc2bcbed4a85f56ce2c6dc99f363c4737a2af24b" title="fc2bcbed4a85f56ce2c6dc99f363c4737a2af24b">dev-integration-phoenix_wirecardcheckoutpage</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/4f8b6c2c050ad077cc9a26173e7fdfa33f3a7e0c" title="4f8b6c2c050ad077cc9a26173e7fdfa33f3a7e0c">dev-master</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/4f8b6c2c050ad077cc9a26173e7fdfa33f3a7e0c" title="4f8b6c2c050ad077cc9a26173e7fdfa33f3a7e0c">3.8.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/30b56d958c68d8ddc6ea3bdbbb20d2362844924d" title="30b56d958c68d8ddc6ea3bdbbb20d2362844924d">3.7.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/b0d32dc92f4eda26a9b4a7179a9ffc04cb360191" title="b0d32dc92f4eda26a9b4a7179a9ffc04cb360191">3.7.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/278e3adf74fc0d9a97747c8322acee8621d8d3dc" title="278e3adf74fc0d9a97747c8322acee8621d8d3dc">3.6.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/a586d251be8ea7df6b2249baddfb4010992e1fea" title="a586d251be8ea7df6b2249baddfb4010992e1fea">3.6.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/0ee3c9aa8680b0a530f0a0474a0ab3c62575a10d" title="0ee3c9aa8680b0a530f0a0474a0ab3c62575a10d">3.6.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/20789e08aaeaea6a8d44b44ade0f8ce51b7d7900" title="20789e08aaeaea6a8d44b44ade0f8ce51b7d7900">3.5.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f653463f414f3ffdf9505eec174572d8db71a232" title="f653463f414f3ffdf9505eec174572d8db71a232">3.4.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/606ab4ef3a697d495df4032e60f20d53567c3412" title="606ab4ef3a697d495df4032e60f20d53567c3412">3.3.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/ab4577b824d19347362153f98585f804df2ad0b7" title="ab4577b824d19347362153f98585f804df2ad0b7">3.2.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/01f91ef7469a413a1de1b01823fe72b448fd1197" title="01f91ef7469a413a1de1b01823fe72b448fd1197">3.1.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/b1b6fe8eaba66b3f448a29802dba3336354450e7" title="b1b6fe8eaba66b3f448a29802dba3336354450e7">3.0.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/6d0815dc6408314841e1d8ced3653e0fd7cd0556" title="6d0815dc6408314841e1d8ced3653e0fd7cd0556">2.7.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/0d639c5db052974592cbe497bd5bc3a7a0e87a9f" title="0d639c5db052974592cbe497bd5bc3a7a0e87a9f">2.7.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/5004d7d1f49d9a7f00c2c07973e8f02a9ab61fab" title="5004d7d1f49d9a7f00c2c07973e8f02a9ab61fab">2.7.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/1ba1312788013e889f7c4fc117b3a34bf7973fe4" title="1ba1312788013e889f7c4fc117b3a34bf7973fe4">2.6.3</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f58b1c5a0d0238e817b7527ac4f8cec97f136f41" title="f58b1c5a0d0238e817b7527ac4f8cec97f136f41">2.6.2</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/c3fbbc8705594bbe5036b6f73a525761318b6de1" title="c3fbbc8705594bbe5036b6f73a525761318b6de1">2.6.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/5163d5ef70aa4406eb0569f8d1728f841e3abd83" title="5163d5ef70aa4406eb0569f8d1728f841e3abd83">2.6.0</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/724595f25fb88ab43ef7b33899ed3f96ec5e9187" title="724595f25fb88ab43ef7b33899ed3f96ec5e9187">2.5.8</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/d2a0850fd7ed02ddec039a5511a2361572b99062" title="d2a0850fd7ed02ddec039a5511a2361572b99062">2.5.7</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/ab78965614eeda7b318dc264f91817c661095933" title="ab78965614eeda7b318dc264f91817c661095933">2.5.6</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/54bd7f1c4285c37510d01795e079eeba267b3b7c" title="54bd7f1c4285c37510d01795e079eeba267b3b7c">2.5.5.1</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/f10c33d19ce65ec139739b2f5c99e8d352d367e3" title="f10c33d19ce65ec139739b2f5c99e8d352d367e3">2.5.5</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/a40caf9596dbcc227a96d655d3558f52237561d0" title="a40caf9596dbcc227a96d655d3558f52237561d0">2.5.4</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/3b884adb1617dd5679a477a87063518defb03ebe" title="3b884adb1617dd5679a477a87063518defb03ebe">2.5.3</a>, <a href="https://api.github.com/repos/tmhub/firecheckout/zipball/fc2bcbed4a85f56ce2c6dc99f363c4737a2af24b" title="fc2bcbed4a85f56ce2c6dc99f363c4737a2af24b">dev-integration-phoenix_wirecardcheckoutpage</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -1675,7 +1678,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ga-plugin-events">tm/ga-plugin-events</h3>
+                        <h3 id="tm/ga-plugin-events" class="package-title"><a href="#tm/ga-plugin-events" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ga-plugin-events</h3>
                                                                             <p>Google Analytics plugin to send additional events</p>
                                                 <table>
                                                             <tr>
@@ -1713,7 +1716,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/ga-plugin-scrolldepth">tm/ga-plugin-scrolldepth</h3>
+                        <h3 id="tm/ga-plugin-scrolldepth" class="package-title"><a href="#tm/ga-plugin-scrolldepth" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/ga-plugin-scrolldepth</h3>
                                                                             <p>Google Analytics plugin Scroll Depth</p>
                                                 <table>
                                                             <tr>
@@ -1751,7 +1754,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/helpdesk">tm/helpdesk</h3>
+                        <h3 id="tm/helpdesk" class="package-title"><a href="#tm/helpdesk" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/helpdesk</h3>
                                                                             <p>Templates Master Helpdesk module</p>
                                                 <table>
                                                             <tr>
@@ -1794,7 +1797,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/highlight">tm/highlight</h3>
+                        <h3 id="tm/highlight" class="package-title"><a href="#tm/highlight" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/highlight</h3>
                                                                             <p>Custom product collections with flexible filters</p>
                                                 <table>
                                                             <tr>
@@ -1836,7 +1839,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/knowledge-base">tm/knowledge-base</h3>
+                        <h3 id="tm/knowledge-base" class="package-title"><a href="#tm/knowledge-base" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/knowledge-base</h3>
                                                                             <p>Templates Master Knowledge Base module</p>
                                                 <table>
                                                             <tr>
@@ -1877,7 +1880,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/lazyload">tm/lazyload</h3>
+                        <h3 id="tm/lazyload" class="package-title"><a href="#tm/lazyload" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/lazyload</h3>
                                                                             <p>Templates Master Image lazy load module</p>
                                                 <table>
                                                             <tr>
@@ -1918,7 +1921,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/license">tm/license</h3>
+                        <h3 id="tm/license" class="package-title"><a href="#tm/license" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/license</h3>
                                                                             <p>License checker for argentotheme.com and swissuplabs.com</p>
                                                 <table>
                                                             <tr>
@@ -1959,7 +1962,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/lightboxpro">tm/lightboxpro</h3>
+                        <h3 id="tm/lightboxpro" class="package-title"><a href="#tm/lightboxpro" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/lightboxpro</h3>
                                                                             <p>Templates Master LightboxPro module</p>
                                                 <table>
                                                             <tr>
@@ -2000,7 +2003,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/mobileswitcher">tm/mobileswitcher</h3>
+                        <h3 id="tm/mobileswitcher" class="package-title"><a href="#tm/mobileswitcher" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/mobileswitcher</h3>
                                                                         <table>
                                                             <tr>
                                     <th>Homepage</th>
@@ -2040,7 +2043,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/navigation-pro">tm/navigation-pro</h3>
+                        <h3 id="tm/navigation-pro" class="package-title"><a href="#tm/navigation-pro" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/navigation-pro</h3>
                                                                             <p>Flexible navigation customization module</p>
                                                 <table>
                                                             <tr>
@@ -2081,7 +2084,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/newsletterbooster">tm/newsletterbooster</h3>
+                        <h3 id="tm/newsletterbooster" class="package-title"><a href="#tm/newsletterbooster" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/newsletterbooster</h3>
                                                                             <p>Newsletterbooster</p>
                                                 <table>
                                                             <tr>
@@ -2119,7 +2122,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/notifier">tm/notifier</h3>
+                        <h3 id="tm/notifier" class="package-title"><a href="#tm/notifier" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/notifier</h3>
                                                                             <p>Templates-Master news writer</p>
                                                 <table>
                                                             <tr>
@@ -2160,7 +2163,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/orderattachment">tm/orderattachment</h3>
+                        <h3 id="tm/orderattachment" class="package-title"><a href="#tm/orderattachment" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/orderattachment</h3>
                                                                             <p>Magento order attachments</p>
                                                 <table>
                                                             <tr>
@@ -2171,16 +2174,11 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                     <th>License</th>
                                     <td>OSL-3.0</td>
                                 </tr>
-                                                                                        <tr>
-                                    <th>Authors</th>
-                                    <td>
-                                        Template Masters Team                                    </td>
-                                </tr>
-                                                                                    <tr>
+                                                                                                                <tr>
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/orderattachment/tree/master">https://github.com/tmhub/orderattachment/tree/master</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/orderattachment/tree/1.1.4">https://github.com/tmhub/orderattachment/tree/1.1.4</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/orderattachment/issues">https://github.com/tmhub/orderattachment/issues</a></li>
                                                                         </ul>
                                 </td>
@@ -2188,7 +2186,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/a4430adab953c2b0116eadebb199f2f52ec11c91" title="a4430adab953c2b0116eadebb199f2f52ec11c91">dev-master</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/4070375ba50cce5521b63d86da703743774dbbe9" title="4070375ba50cce5521b63d86da703743774dbbe9">1.1.3</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/555d4f50f1139c85ef5ab74fc7636baa3d16d367" title="555d4f50f1139c85ef5ab74fc7636baa3d16d367">1.1.2</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/d556ac266bb0af69b2ca7214d379f49f8ce6c2cb" title="d556ac266bb0af69b2ca7214d379f49f8ce6c2cb">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/fdb86eac885f4ed99fd8fa50b38b27fcb0c276c7" title="fdb86eac885f4ed99fd8fa50b38b27fcb0c276c7">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/b5332fac61f978d8238f518d9b9482463d06e9df" title="b5332fac61f978d8238f518d9b9482463d06e9df">1.0.0</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/aac22a491f855e237c06fa8e33e983d2dbf7fe46" title="aac22a491f855e237c06fa8e33e983d2dbf7fe46">dev-master</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/aac22a491f855e237c06fa8e33e983d2dbf7fe46" title="aac22a491f855e237c06fa8e33e983d2dbf7fe46">1.1.4</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/4070375ba50cce5521b63d86da703743774dbbe9" title="4070375ba50cce5521b63d86da703743774dbbe9">1.1.3</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/555d4f50f1139c85ef5ab74fc7636baa3d16d367" title="555d4f50f1139c85ef5ab74fc7636baa3d16d367">1.1.2</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/d556ac266bb0af69b2ca7214d379f49f8ce6c2cb" title="d556ac266bb0af69b2ca7214d379f49f8ce6c2cb">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/fdb86eac885f4ed99fd8fa50b38b27fcb0c276c7" title="fdb86eac885f4ed99fd8fa50b38b27fcb0c276c7">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/orderattachment/zipball/b5332fac61f978d8238f518d9b9482463d06e9df" title="b5332fac61f978d8238f518d9b9482463d06e9df">1.0.0</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2201,7 +2199,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/pagespeed">tm/pagespeed</h3>
+                        <h3 id="tm/pagespeed" class="package-title"><a href="#tm/pagespeed" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/pagespeed</h3>
                                                                             <p>Templates Master Pagespeed module</p>
                                                 <table>
                                                             <tr>
@@ -2242,7 +2240,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/pro-labels">tm/pro-labels</h3>
+                        <h3 id="tm/pro-labels" class="package-title"><a href="#tm/pro-labels" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/pro-labels</h3>
                                                                             <p>Product labels and badges</p>
                                                 <table>
                                                             <tr>
@@ -2262,7 +2260,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                 <th>Support</th>
                                 <td>
                                     <ul>
-                                                                            <li>Source: <a href="https://github.com/tmhub/prolabels/tree/2.7.4">https://github.com/tmhub/prolabels/tree/2.7.4</a></li>
+                                                                            <li>Source: <a href="https://github.com/tmhub/prolabels/tree/master">https://github.com/tmhub/prolabels/tree/master</a></li>
                                                                             <li>Issues: <a href="https://github.com/tmhub/prolabels/issues">https://github.com/tmhub/prolabels/issues</a></li>
                                                                         </ul>
                                 </td>
@@ -2270,7 +2268,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/prolabels/zipball/f42eb3cbffc4f06cf5ebe98a574902c53603ad71" title="f42eb3cbffc4f06cf5ebe98a574902c53603ad71">dev-master</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/f42eb3cbffc4f06cf5ebe98a574902c53603ad71" title="f42eb3cbffc4f06cf5ebe98a574902c53603ad71">2.7.4</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/790dbda771e70e83c356585a50dc7082542ea82e" title="790dbda771e70e83c356585a50dc7082542ea82e">2.7.3</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/568ce42332a58000be7a9dfa8dcfc44e847cf9e2" title="568ce42332a58000be7a9dfa8dcfc44e847cf9e2">2.7.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/fea007d3c7be79242199d5357a1face902cb3f02" title="fea007d3c7be79242199d5357a1face902cb3f02">2.7.1</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/1b8f58631dbbbc1622a4388daa7703512969a31e" title="1b8f58631dbbbc1622a4388daa7703512969a31e">2.6.5</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2" title="3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2">2.6.4</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/bb0c76bc6da42d07fd2630813818c37376d0cb54" title="bb0c76bc6da42d07fd2630813818c37376d0cb54">2.6.3</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4" title="5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4">2.6.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/ab852e410f9fe85f200e754934308c247f1a51f8" title="ab852e410f9fe85f200e754934308c247f1a51f8">2.5.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/30f3c990e0c82985c4074a7db58fc7b81bfaef18" title="30f3c990e0c82985c4074a7db58fc7b81bfaef18">2.5.1</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/2e6795f5049f785f019ca79ddc038ce7d7ade3b2" title="2e6795f5049f785f019ca79ddc038ce7d7ade3b2">2.5.0</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/prolabels/zipball/d3351fac0de8bf0432fe3a63d5530252c17188c9" title="d3351fac0de8bf0432fe3a63d5530252c17188c9">dev-master</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/f42eb3cbffc4f06cf5ebe98a574902c53603ad71" title="f42eb3cbffc4f06cf5ebe98a574902c53603ad71">2.7.4</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/790dbda771e70e83c356585a50dc7082542ea82e" title="790dbda771e70e83c356585a50dc7082542ea82e">2.7.3</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/568ce42332a58000be7a9dfa8dcfc44e847cf9e2" title="568ce42332a58000be7a9dfa8dcfc44e847cf9e2">2.7.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/fea007d3c7be79242199d5357a1face902cb3f02" title="fea007d3c7be79242199d5357a1face902cb3f02">2.7.1</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/1b8f58631dbbbc1622a4388daa7703512969a31e" title="1b8f58631dbbbc1622a4388daa7703512969a31e">2.6.5</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2" title="3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2">2.6.4</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/bb0c76bc6da42d07fd2630813818c37376d0cb54" title="bb0c76bc6da42d07fd2630813818c37376d0cb54">2.6.3</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4" title="5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4">2.6.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/ab852e410f9fe85f200e754934308c247f1a51f8" title="ab852e410f9fe85f200e754934308c247f1a51f8">2.5.2</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/30f3c990e0c82985c4074a7db58fc7b81bfaef18" title="30f3c990e0c82985c4074a7db58fc7b81bfaef18">2.5.1</a>, <a href="https://api.github.com/repos/tmhub/prolabels/zipball/2e6795f5049f785f019ca79ddc038ce7d7ade3b2" title="2e6795f5049f785f019ca79ddc038ce7d7ade3b2">2.5.0</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2283,7 +2281,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/productvideos">tm/productvideos</h3>
+                        <h3 id="tm/productvideos" class="package-title"><a href="#tm/productvideos" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/productvideos</h3>
                                                                             <p>Product videos</p>
                                                 <table>
                                                             <tr>
@@ -2321,7 +2319,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/prozoom">tm/prozoom</h3>
+                        <h3 id="tm/prozoom" class="package-title"><a href="#tm/prozoom" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/prozoom</h3>
                                                                             <p>JQZoom Evolution on prototype&amp;scriptaculous</p>
                                                 <table>
                                                             <tr>
@@ -2359,7 +2357,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/purify">tm/purify</h3>
+                        <h3 id="tm/purify" class="package-title"><a href="#tm/purify" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/purify</h3>
                                                                             <p>Templates Master Purify module(HTMLPurifier magento integrator)</p>
                                                 <table>
                                                             <tr>
@@ -2401,7 +2399,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/qty-switcher">tm/qty-switcher</h3>
+                        <h3 id="tm/qty-switcher" class="package-title"><a href="#tm/qty-switcher" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/qty-switcher</h3>
                                                                             <p>Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity</p>
                                                 <table>
                                                             <tr>
@@ -2439,7 +2437,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/quickshopping">tm/quickshopping</h3>
+                        <h3 id="tm/quickshopping" class="package-title"><a href="#tm/quickshopping" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/quickshopping</h3>
                                                                             <p>Quick view popup for the product listing</p>
                                                 <table>
                                                             <tr>
@@ -2477,7 +2475,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/recaptcha">tm/recaptcha</h3>
+                        <h3 id="tm/recaptcha" class="package-title"><a href="#tm/recaptcha" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/recaptcha</h3>
                                                                             <p>reCAPTCHA for Magento 1.x e-commerce</p>
                                                 <table>
                                                             <tr>
@@ -2515,7 +2513,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/recurring">tm/recurring</h3>
+                        <h3 id="tm/recurring" class="package-title"><a href="#tm/recurring" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/recurring</h3>
                                                                             <p>Recurring module modification to swap regular and initial purchases</p>
                                                 <table>
                                                             <tr>
@@ -2553,7 +2551,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/review-reminder">tm/review-reminder</h3>
+                        <h3 id="tm/review-reminder" class="package-title"><a href="#tm/review-reminder" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/review-reminder</h3>
                                                                             <p>Review Reminder</p>
                                                 <table>
                                                             <tr>
@@ -2581,7 +2579,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/0fc8b8ee3b0266ce7560d49ea61ae210d638f298" title="0fc8b8ee3b0266ce7560d49ea61ae210d638f298">dev-master</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/ebc36c14566b22b78138927d56ed88cfe8c4fe3b" title="ebc36c14566b22b78138927d56ed88cfe8c4fe3b">1.0.3</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/2a59be09944b3d9d40ff93e5d00d15601981f1a3" title="2a59be09944b3d9d40ff93e5d00d15601981f1a3">1.0.2</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/f926b3eb54f5702f68cecc946998493b98f80938" title="f926b3eb54f5702f68cecc946998493b98f80938">1.0.1</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/ca45c9acd004148a8d9a1748ac97f8568ad59767" title="ca45c9acd004148a8d9a1748ac97f8568ad59767">1.0.0</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/428a33ccb16ef68c60a53c77b58a9dca9b987758" title="428a33ccb16ef68c60a53c77b58a9dca9b987758">dev-master</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/ebc36c14566b22b78138927d56ed88cfe8c4fe3b" title="ebc36c14566b22b78138927d56ed88cfe8c4fe3b">1.0.3</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/2a59be09944b3d9d40ff93e5d00d15601981f1a3" title="2a59be09944b3d9d40ff93e5d00d15601981f1a3">1.0.2</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/f926b3eb54f5702f68cecc946998493b98f80938" title="f926b3eb54f5702f68cecc946998493b98f80938">1.0.1</a>, <a href="https://api.github.com/repos/tmhub/reviewreminder/zipball/ca45c9acd004148a8d9a1748ac97f8568ad59767" title="ca45c9acd004148a8d9a1748ac97f8568ad59767">1.0.0</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -2594,7 +2592,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/reward">tm/reward</h3>
+                        <h3 id="tm/reward" class="package-title"><a href="#tm/reward" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/reward</h3>
                                                                             <p>Templates Master Reward module</p>
                                                 <table>
                                                             <tr>
@@ -2632,7 +2630,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/richsnippets">tm/richsnippets</h3>
+                        <h3 id="tm/richsnippets" class="package-title"><a href="#tm/richsnippets" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/richsnippets</h3>
                                                                             <p>Google richsnippets integration</p>
                                                 <table>
                                                             <tr>
@@ -2673,7 +2671,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/secure">tm/secure</h3>
+                        <h3 id="tm/secure" class="package-title"><a href="#tm/secure" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/secure</h3>
                                                                             <p>Templates Master Admin Secure module</p>
                                                 <table>
                                                             <tr>
@@ -2714,7 +2712,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/slick-carousel">tm/slick-carousel</h3>
+                        <h3 id="tm/slick-carousel" class="package-title"><a href="#tm/slick-carousel" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/slick-carousel</h3>
                                                                             <p>the last carousel you&#039;ll ever need for magento</p>
                                                 <table>
                                                             <tr>
@@ -2755,7 +2753,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/smartsuggest">tm/smartsuggest</h3>
+                        <h3 id="tm/smartsuggest" class="package-title"><a href="#tm/smartsuggest" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/smartsuggest</h3>
                                                                             <p>Personalized products recommendations based on recent activity</p>
                                                 <table>
                                                             <tr>
@@ -2793,7 +2791,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/socialsuite">tm/socialsuite</h3>
+                        <h3 id="tm/socialsuite" class="package-title"><a href="#tm/socialsuite" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/socialsuite</h3>
                                                                         <table>
                                                             <tr>
                                     <th>Homepage</th>
@@ -2833,7 +2831,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/sold-together">tm/sold-together</h3>
+                        <h3 id="tm/sold-together" class="package-title"><a href="#tm/sold-together" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/sold-together</h3>
                                                                             <p>Frequently bought together and Customer who bought this also bought blocks</p>
                                                 <table>
                                                             <tr>
@@ -2874,7 +2872,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/subscription">tm/subscription</h3>
+                        <h3 id="tm/subscription" class="package-title"><a href="#tm/subscription" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/subscription</h3>
                                                                             <p>Module for Swissuplabs.com that allows to link downloadable products to the virtual subscription</p>
                                                 <table>
                                                             <tr>
@@ -2915,7 +2913,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/subscription-checker">tm/subscription-checker</h3>
+                        <h3 id="tm/subscription-checker" class="package-title"><a href="#tm/subscription-checker" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/subscription-checker</h3>
                                                                             <p>Client subscription validation module</p>
                                                 <table>
                                                             <tr>
@@ -2953,7 +2951,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/suggestpage">tm/suggestpage</h3>
+                        <h3 id="tm/suggestpage" class="package-title"><a href="#tm/suggestpage" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/suggestpage</h3>
                                                                             <p>Page that can be shown after client adds product to the shopping cart</p>
                                                 <table>
                                                             <tr>
@@ -2996,7 +2994,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/templatef001">tm/templatef001</h3>
+                        <h3 id="tm/templatef001" class="package-title"><a href="#tm/templatef001" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/templatef001</h3>
                                                                             <p>Free Absolute theme</p>
                                                 <table>
                                                             <tr>
@@ -3034,7 +3032,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/templatef002">tm/templatef002</h3>
+                        <h3 id="tm/templatef002" class="package-title"><a href="#tm/templatef002" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/templatef002</h3>
                                                                             <p>Free Classic theme</p>
                                                 <table>
                                                             <tr>
@@ -3072,7 +3070,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/templatem001">tm/templatem001</h3>
+                        <h3 id="tm/templatem001" class="package-title"><a href="#tm/templatem001" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/templatem001</h3>
                                                                             <p>Mobile Star theme</p>
                                                 <table>
                                                             <tr>
@@ -3110,7 +3108,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                         </table>
                     </div>
                                     <div>
-                        <h3 id="tm/testimonials">tm/testimonials</h3>
+                        <h3 id="tm/testimonials" class="package-title"><a href="#tm/testimonials" class="anchor"><svg class="octicon-link" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>tm/testimonials</h3>
                                                                             <p>Customer testimonials</p>
                                                 <table>
                                                             <tr>
@@ -3138,7 +3136,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
                                                         <tr>
                                 <th>Releases</th>
                                 <td>
-                                    <a href="https://api.github.com/repos/tmhub/testimonials/zipball/4f7bc78c2c6856309b9796293fff16f7750edbe8" title="4f7bc78c2c6856309b9796293fff16f7750edbe8">dev-master</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/661c772db606b426ba9116fb4a113c520188ef7f" title="661c772db606b426ba9116fb4a113c520188ef7f">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/5ac475ede37fb3abf1cb6052c99cd28dfaa6d424" title="5ac475ede37fb3abf1cb6052c99cd28dfaa6d424">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/8fa0dd4d52fe2f7bec0313e7222d7706184b9f3b" title="8fa0dd4d52fe2f7bec0313e7222d7706184b9f3b">1.0.4</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/638da83c62f18e339714bb6fa836cda2d5010692" title="638da83c62f18e339714bb6fa836cda2d5010692">1.0.3</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/60a90aa6aed53455305c9dd9050a906a52c614d1" title="60a90aa6aed53455305c9dd9050a906a52c614d1">1.0.1</a>                                </td>
+                                    <a href="https://api.github.com/repos/tmhub/testimonials/zipball/d0464fca46a663d95795a56f6852540f2b172adb" title="d0464fca46a663d95795a56f6852540f2b172adb">dev-master</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/661c772db606b426ba9116fb4a113c520188ef7f" title="661c772db606b426ba9116fb4a113c520188ef7f">1.1.1</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/5ac475ede37fb3abf1cb6052c99cd28dfaa6d424" title="5ac475ede37fb3abf1cb6052c99cd28dfaa6d424">1.1.0</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/8fa0dd4d52fe2f7bec0313e7222d7706184b9f3b" title="8fa0dd4d52fe2f7bec0313e7222d7706184b9f3b">1.0.4</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/638da83c62f18e339714bb6fa836cda2d5010692" title="638da83c62f18e339714bb6fa836cda2d5010692">1.0.3</a>, <a href="https://api.github.com/repos/tmhub/testimonials/zipball/60a90aa6aed53455305c9dd9050a906a52c614d1" title="60a90aa6aed53455305c9dd9050a906a52c614d1">1.0.1</a>                                </td>
                             </tr>
                             <tr>
                                 <th>Required by</th>
@@ -3155,7 +3153,7 @@ input#search { font-size: 20px; margin: 5px 0; padding: 4px 5px; width: 100%; bo
             </div>
         </div>
         <div id="ft">
-            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-10-20T16:36:48+0300</small></p>
+            <p><small>This Composer Repository is proudly powered by <a href="https://github.com/composer/satis">Satis</a> 1.0.0-dev - Last updated:  2016-10-24T17:18:56+0300</small></p>
         </div>
     </div>
 
@@ -3206,7 +3204,7 @@ if(x.isFunction(n))while(r=o[i++])"+"===r[0]?(r=r.slice(1)||"*",(e[r]=e[r]||[]).
         $(window).trigger("hashchange");
         var $lastUpdate = $('#lastupdate time');
         function updateDate() {
-            $lastUpdate.text(moment('2016-10-20T16:36:48+0300').fromNow());
+            $lastUpdate.text(moment('2016-10-24T17:18:56+0300').fromNow());
         }
         setInterval(updateDate, 5000);
         updateDate();
