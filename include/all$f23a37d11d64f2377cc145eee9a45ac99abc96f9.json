@@ -4083,12 +4083,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "394866de8f538717f5aa54328e551aa6d154cfd9"
+                    "reference": "a30841730a143de43e1e9f198fb122580ca7d16f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/394866de8f538717f5aa54328e551aa6d154cfd9",
-                    "reference": "394866de8f538717f5aa54328e551aa6d154cfd9",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/a30841730a143de43e1e9f198fb122580ca7d16f",
+                    "reference": "a30841730a143de43e1e9f198fb122580ca7d16f",
                     "shasum": ""
                 },
                 "require": {
@@ -4114,7 +4114,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-12-06 14:46:36",
+                "time": "2016-12-07 14:04:41",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9103,18 +9103,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "465ccb7cbc5a6b389922278155ed4eb88ea9dc29"
+                    "reference": "4372f005aeb8fca3e5c928a6956a87352c1309a5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/465ccb7cbc5a6b389922278155ed4eb88ea9dc29",
-                    "reference": "465ccb7cbc5a6b389922278155ed4eb88ea9dc29",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/4372f005aeb8fca3e5c928a6956a87352c1309a5",
+                    "reference": "4372f005aeb8fca3e5c928a6956a87352c1309a5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-06 14:42:26",
+                "time": "2016-12-07 12:46:02",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13484,12 +13484,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "ca29bc66039ceb6b118bbd062853d54a5feb32e4"
+                    "reference": "3f2cdaf945e17fa692b4dbbacc4aec9af75616f9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/ca29bc66039ceb6b118bbd062853d54a5feb32e4",
-                    "reference": "ca29bc66039ceb6b118bbd062853d54a5feb32e4",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3f2cdaf945e17fa692b4dbbacc4aec9af75616f9",
+                    "reference": "3f2cdaf945e17fa692b4dbbacc4aec9af75616f9",
                     "shasum": ""
                 },
                 "require": {
@@ -13498,7 +13498,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2016-12-07 09:27:27",
+                "time": "2016-12-07 14:42:37",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19020,18 +19020,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/qty-switcher.git",
-                    "reference": "d3f3958f4cf425cd6f518d95314e19ecf0ad306b"
+                    "reference": "c98c947996b24ba07ce3162981cf02bb0ec74cbe"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/d3f3958f4cf425cd6f518d95314e19ecf0ad306b",
-                    "reference": "d3f3958f4cf425cd6f518d95314e19ecf0ad306b",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/c98c947996b24ba07ce3162981cf02bb0ec74cbe",
+                    "reference": "c98c947996b24ba07ce3162981cf02bb0ec74cbe",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-11-03 14:53:46",
+                "time": "2016-12-07 14:35:57",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19045,7 +19045,7 @@
                 "description": "Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity",
                 "homepage": "https://github.com/tmhub/qty-switcher",
                 "support": {
-                    "source": "https://github.com/tmhub/qty-switcher/tree/1.0.0",
+                    "source": "https://github.com/tmhub/qty-switcher/tree/master",
                     "issues": "https://github.com/tmhub/qty-switcher/issues"
                 }
             }
