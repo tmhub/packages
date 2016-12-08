@@ -2608,6 +2608,41 @@
                 }
             }
         },
+        "tm/amp": {
+            "dev-master": {
+                "name": "tm/amp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/amp.git",
+                    "reference": "3c1967a9a295d8a323ab778ad5006f544d199dbc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/3c1967a9a295d8a323ab778ad5006f544d199dbc",
+                    "reference": "3c1967a9a295d8a323ab778ad5006f544d199dbc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-12-08 09:15:10",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Accelerated Mobile Pages for Magento",
+                "keywords": [
+                    "accelerated mobile pages",
+                    "amp"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/amp/tree/master",
+                    "issues": "https://github.com/tmhub/amp/issues"
+                }
+            }
+        },
         "tm/argento": {
             "1.5.0": {
                 "name": "tm/argento",
@@ -4083,12 +4118,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "a30841730a143de43e1e9f198fb122580ca7d16f"
+                    "reference": "04f2e7bfa281762bf8c5d2d0691156597f2f5694"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/a30841730a143de43e1e9f198fb122580ca7d16f",
-                    "reference": "a30841730a143de43e1e9f198fb122580ca7d16f",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/04f2e7bfa281762bf8c5d2d0691156597f2f5694",
+                    "reference": "04f2e7bfa281762bf8c5d2d0691156597f2f5694",
                     "shasum": ""
                 },
                 "require": {
@@ -4114,7 +4149,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-12-07 14:04:41",
+                "time": "2016-12-07 15:35:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
