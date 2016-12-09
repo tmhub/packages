@@ -2616,18 +2616,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "011d155c24d464222d7bdbf630a3f457d595186d"
+                    "reference": "01c05174079cad300de423f0d2b8810e0b04f733"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/011d155c24d464222d7bdbf630a3f457d595186d",
-                    "reference": "011d155c24d464222d7bdbf630a3f457d595186d",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/01c05174079cad300de423f0d2b8810e0b04f733",
+                    "reference": "01c05174079cad300de423f0d2b8810e0b04f733",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-09 08:24:37",
+                "time": "2016-12-09 09:10:18",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19192,25 +19192,25 @@
                     "issues": "https://github.com/tmhub/qty-switcher/issues"
                 }
             },
-            "dev-master": {
+            "1.0.1": {
                 "name": "tm/qty-switcher",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/qty-switcher.git",
-                    "reference": "c98c947996b24ba07ce3162981cf02bb0ec74cbe"
+                    "reference": "eee23d58f683c94de3c0186f7e1edff300cbed0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/c98c947996b24ba07ce3162981cf02bb0ec74cbe",
-                    "reference": "c98c947996b24ba07ce3162981cf02bb0ec74cbe",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/eee23d58f683c94de3c0186f7e1edff300cbed0e",
+                    "reference": "eee23d58f683c94de3c0186f7e1edff300cbed0e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-07 14:35:57",
+                "time": "2016-12-09 09:26:47",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19224,7 +19224,43 @@
                 "description": "Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity",
                 "homepage": "https://github.com/tmhub/qty-switcher",
                 "support": {
-                    "source": "https://github.com/tmhub/qty-switcher/tree/master",
+                    "source": "https://github.com/tmhub/qty-switcher/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/qty-switcher/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/qty-switcher",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/qty-switcher.git",
+                    "reference": "eee23d58f683c94de3c0186f7e1edff300cbed0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/eee23d58f683c94de3c0186f7e1edff300cbed0e",
+                    "reference": "eee23d58f683c94de3c0186f7e1edff300cbed0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-12-09 09:26:47",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity",
+                "homepage": "https://github.com/tmhub/qty-switcher",
+                "support": {
+                    "source": "https://github.com/tmhub/qty-switcher/tree/1.0.1",
                     "issues": "https://github.com/tmhub/qty-switcher/issues"
                 }
             }
