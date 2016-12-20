@@ -14684,19 +14684,19 @@
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
-            "dev-master": {
+            "1.6.6": {
                 "name": "tm/helpdesk",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.6",
+                "version_normalized": "1.6.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "91d8da3698b7caf7c8afdb308372b0bf9e904411"
+                    "reference": "d4c434b8d03b858726d6bd99cf43683047eb9309"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/91d8da3698b7caf7c8afdb308372b0bf9e904411",
-                    "reference": "91d8da3698b7caf7c8afdb308372b0bf9e904411",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/d4c434b8d03b858726d6bd99cf43683047eb9309",
+                    "reference": "d4c434b8d03b858726d6bd99cf43683047eb9309",
                     "shasum": ""
                 },
                 "require": {
@@ -14706,7 +14706,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-09-21 08:37:19",
+                "time": "2016-12-20 13:05:42",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14720,7 +14720,47 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.6.6",
+                    "issues": "https://github.com/tmhub/helpdesk/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/helpdesk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/helpdesk.git",
+                    "reference": "d4c434b8d03b858726d6bd99cf43683047eb9309"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/d4c434b8d03b858726d6bd99cf43683047eb9309",
+                    "reference": "d4c434b8d03b858726d6bd99cf43683047eb9309",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/knowledge-base": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2016-12-20 13:05:42",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Helpdesk module",
+                "homepage": "https://github.com/tmhub/helpdesk",
+                "support": {
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.6.6",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
@@ -15370,19 +15410,19 @@
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             },
-            "dev-master": {
+            "1.6.6": {
                 "name": "tm/knowledge-base",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.6",
+                "version_normalized": "1.6.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "5797a27c75bc58a57146b74e773cf7c22168b35e"
+                    "reference": "0b84497844f99e0b433e581b893d9b62416c947e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/5797a27c75bc58a57146b74e773cf7c22168b35e",
-                    "reference": "5797a27c75bc58a57146b74e773cf7c22168b35e",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/0b84497844f99e0b433e581b893d9b62416c947e",
+                    "reference": "0b84497844f99e0b433e581b893d9b62416c947e",
                     "shasum": ""
                 },
                 "require": {
@@ -15391,7 +15431,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2016-09-01 07:28:56",
+                "time": "2016-12-20 13:09:33",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15405,7 +15445,46 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.6",
+                    "issues": "https://github.com/tmhub/knowledge-base/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/knowledge-base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/knowledge-base.git",
+                    "reference": "0b84497844f99e0b433e581b893d9b62416c947e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/0b84497844f99e0b433e581b893d9b62416c947e",
+                    "reference": "0b84497844f99e0b433e581b893d9b62416c947e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2016-12-20 13:09:33",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Knowledge Base module",
+                "homepage": "https://github.com/tmhub/knowledge-base",
+                "support": {
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.6",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
@@ -21023,26 +21102,26 @@
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             },
-            "dev-master": {
+            "2.1.3": {
                 "name": "tm/secure",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "0c3a255a5edf0f19aefcb1e4c931e00be55f6cd4"
+                    "reference": "1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/0c3a255a5edf0f19aefcb1e4c931e00be55f6cd4",
-                    "reference": "0c3a255a5edf0f19aefcb1e4c931e00be55f6cd4",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382",
+                    "reference": "1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-11-15 08:23:22",
+                "time": "2016-12-20 13:16:55",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21056,7 +21135,44 @@
                 "description": "Templates Master Admin Secure module",
                 "homepage": "https://github.com/tmhub/secure",
                 "support": {
-                    "source": "https://github.com/tmhub/secure/tree/master",
+                    "source": "https://github.com/tmhub/secure/tree/2.1.3",
+                    "issues": "https://github.com/tmhub/secure/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/secure",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/secure.git",
+                    "reference": "1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382",
+                    "reference": "1ea003a2d1aed8e15f47901e99f3c1ffbb6ac382",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-12-20 13:16:55",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Admin Secure module",
+                "homepage": "https://github.com/tmhub/secure",
+                "support": {
+                    "source": "https://github.com/tmhub/secure/tree/2.1.3",
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             }
@@ -21284,64 +21400,27 @@
                     "issues": "https://github.com/tmhub/smartsuggest/issues"
                 }
             },
-            "dev-master": {
+            "1.3.4": {
                 "name": "tm/smartsuggest",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/smartsuggest.git",
-                    "reference": "c7408d5499265d89cbd5310e8483b228e9a8a251"
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/c7408d5499265d89cbd5310e8483b228e9a8a251",
-                    "reference": "c7408d5499265d89cbd5310e8483b228e9a8a251",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2015-05-12 06:47:15",
+                "time": "2016-12-20 13:20:48",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/SmartSuggest",
-                            "app/code/local/TM/SmartSuggest"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml",
-                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/smartsuggest",
-                            "app/design/frontend/base/default/template/tm/smartsuggest"
-                        ],
-                        [
-                            "app/etc/modules/TM_SmartSuggest.xml",
-                            "app/etc/modules/TM_SmartSuggest.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_SmartSuggest.csv",
-                            "app/locale/en_US/TM_SmartSuggest.csv"
-                        ],
-                        [
-                            "skin/frontend/base/default/css/tm/smartsuggest.css",
-                            "skin/frontend/base/default/css/tm/smartsuggest.css"
-                        ],
-                        [
-                            "skin/frontend/base/default/images/tm/smartsuggest",
-                            "skin/frontend/base/default/images/tm/smartsuggest"
-                        ],
-                        [
-                            "skin/frontend/base/default/js/tm/smartsuggest.js",
-                            "skin/frontend/base/default/js/tm/smartsuggest.js"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -21354,7 +21433,44 @@
                 "description": "Personalized products recommendations based on recent activity",
                 "homepage": "https://github.com/tmhub/smartsuggest",
                 "support": {
-                    "source": "https://github.com/tmhub/smartsuggest/tree/master",
+                    "source": "https://github.com/tmhub/smartsuggest/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/smartsuggest/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/smartsuggest",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-12-20 13:20:48",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest",
+                "support": {
+                    "source": "https://github.com/tmhub/smartsuggest/tree/1.3.4",
                     "issues": "https://github.com/tmhub/smartsuggest/issues"
                 }
             }
