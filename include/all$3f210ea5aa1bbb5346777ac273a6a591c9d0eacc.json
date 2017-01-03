@@ -638,7 +638,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -1603,25 +1603,25 @@
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
-            "dev-master": {
+            "2.6.0": {
                 "name": "tm/ajax-layered-navigation",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "82a534cf1831c553faa089b95e7f0828a259b731"
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/82a534cf1831c553faa089b95e7f0828a259b731",
-                    "reference": "82a534cf1831c553faa089b95e7f0828a259b731",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/286abda236b6099150e2ae3ad47da43a9a6a69f5",
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-01 09:50:22",
+                "time": "2016-12-30 14:21:05",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1635,7 +1635,43 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.0",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-layered-navigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/286abda236b6099150e2ae3ad47da43a9a6a69f5",
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-12-30 14:21:05",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.0",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             }
@@ -9404,18 +9440,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "aa7ea06083e319114d10ba568d54471d655f1267"
+                    "reference": "5b8e8ce2b10b37f5950569993a30ece306cb445b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/aa7ea06083e319114d10ba568d54471d655f1267",
-                    "reference": "aa7ea06083e319114d10ba568d54471d655f1267",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/5b8e8ce2b10b37f5950569993a30ece306cb445b",
+                    "reference": "5b8e8ce2b10b37f5950569993a30ece306cb445b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-26 14:01:21",
+                "time": "2016-12-30 15:19:31",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16986,18 +17022,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "8415f7951891acd10a4d6d93128164d4bd25fe38"
+                    "reference": "7824c89e3b0daa2a87cad2cb7a03baadd162bc14"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/8415f7951891acd10a4d6d93128164d4bd25fe38",
-                    "reference": "8415f7951891acd10a4d6d93128164d4bd25fe38",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/7824c89e3b0daa2a87cad2cb7a03baadd162bc14",
+                    "reference": "7824c89e3b0daa2a87cad2cb7a03baadd162bc14",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-28 16:03:49",
+                "time": "2016-12-30 08:02:55",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
