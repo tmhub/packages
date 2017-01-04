@@ -638,7 +638,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -2239,12 +2239,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "44213f69c05be39be078f84fbd0329625c694c37"
+                    "reference": "edace7e573447e77bcf3a26397ae6bf1e5b256d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/44213f69c05be39be078f84fbd0329625c694c37",
-                    "reference": "44213f69c05be39be078f84fbd0329625c694c37",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/edace7e573447e77bcf3a26397ae6bf1e5b256d2",
+                    "reference": "edace7e573447e77bcf3a26397ae6bf1e5b256d2",
                     "shasum": ""
                 },
                 "require": {
@@ -2252,7 +2252,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2016-12-02 08:43:22",
+                "time": "2017-01-03 15:50:39",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2266,7 +2266,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.7",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -3915,7 +3915,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5902,18 +5902,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "9ab639aa86c06c38c621317b9cb7dd9865aa664a"
+                    "reference": "f0270f0a2cf544e5409c5347c49a3862527ffdf5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/9ab639aa86c06c38c621317b9cb7dd9865aa664a",
-                    "reference": "9ab639aa86c06c38c621317b9cb7dd9865aa664a",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/f0270f0a2cf544e5409c5347c49a3862527ffdf5",
+                    "reference": "f0270f0a2cf544e5409c5347c49a3862527ffdf5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-29 11:47:28",
+                "time": "2017-01-04 08:48:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9397,25 +9397,25 @@
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
-            "dev-master": {
+            "3.0.0": {
                 "name": "tm/easyflags",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096"
+                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/776d275db1e99d0153f3ff763695846d8eb1b096",
-                    "reference": "776d275db1e99d0153f3ff763695846d8eb1b096",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
+                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-05-23 12:40:33",
+                "time": "2017-01-04 09:54:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9429,7 +9429,43 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/2.1.0.1",
+                    "source": "https://github.com/tmhub/easyflags/tree/3.0.0",
+                    "issues": "https://github.com/tmhub/easyflags/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easyflags",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easyflags.git",
+                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
+                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-01-04 09:54:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "EasyFlags",
+                "homepage": "https://github.com/tmhub/easyflags",
+                "support": {
+                    "source": "https://github.com/tmhub/easyflags/tree/3.0.0",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             },
@@ -9440,18 +9476,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "5b8e8ce2b10b37f5950569993a30ece306cb445b"
+                    "reference": "b9312dd1cf6158a87fb28d0eb20d766c6cd14d53"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/5b8e8ce2b10b37f5950569993a30ece306cb445b",
-                    "reference": "5b8e8ce2b10b37f5950569993a30ece306cb445b",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/b9312dd1cf6158a87fb28d0eb20d766c6cd14d53",
+                    "reference": "b9312dd1cf6158a87fb28d0eb20d766c6cd14d53",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-30 15:19:31",
+                "time": "2017-01-03 14:17:05",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
