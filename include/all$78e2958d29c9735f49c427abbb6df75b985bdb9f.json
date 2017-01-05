@@ -5162,12 +5162,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "d510a73b3e8dc8b3e0334073df2f3874e08ff0b9"
+                    "reference": "db7133e05291bee9252869b5a4301c8653a954b6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/d510a73b3e8dc8b3e0334073df2f3874e08ff0b9",
-                    "reference": "d510a73b3e8dc8b3e0334073df2f3874e08ff0b9",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/db7133e05291bee9252869b5a4301c8653a954b6",
+                    "reference": "db7133e05291bee9252869b5a4301c8653a954b6",
                     "shasum": ""
                 },
                 "require": {
@@ -5175,7 +5175,7 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2016-12-29 12:53:34",
+                "time": "2017-01-05 10:28:48",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5933,25 +5933,25 @@
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
-            "dev-master": {
+            "1.0.5": {
                 "name": "tm/bot-protection",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "f0270f0a2cf544e5409c5347c49a3862527ffdf5"
+                    "reference": "449c625ef9bd96a4e7e9d358091c98c64bac51ba"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/f0270f0a2cf544e5409c5347c49a3862527ffdf5",
-                    "reference": "f0270f0a2cf544e5409c5347c49a3862527ffdf5",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/449c625ef9bd96a4e7e9d358091c98c64bac51ba",
+                    "reference": "449c625ef9bd96a4e7e9d358091c98c64bac51ba",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-04 08:48:00",
+                "time": "2017-01-05 12:29:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5965,7 +5965,43 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.5",
+                    "issues": "https://github.com/tmhub/botprotection/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/bot-protection",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/botprotection.git",
+                    "reference": "449c625ef9bd96a4e7e9d358091c98c64bac51ba"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/449c625ef9bd96a4e7e9d358091c98c64bac51ba",
+                    "reference": "449c625ef9bd96a4e7e9d358091c98c64bac51ba",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-01-05 12:29:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module to protect magento from bots and spiders",
+                "homepage": "https://github.com/tmhub/botprotection",
+                "support": {
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.5",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
