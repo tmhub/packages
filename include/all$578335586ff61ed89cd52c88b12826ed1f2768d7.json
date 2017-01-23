@@ -2315,12 +2315,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "deb82604d9888ad1beaddd7ff71134141224bd51"
+                    "reference": "e16dd4c5106ce383b91ea1b62804262bddcfec40"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/deb82604d9888ad1beaddd7ff71134141224bd51",
-                    "reference": "deb82604d9888ad1beaddd7ff71134141224bd51",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/e16dd4c5106ce383b91ea1b62804262bddcfec40",
+                    "reference": "e16dd4c5106ce383b91ea1b62804262bddcfec40",
                     "shasum": ""
                 },
                 "require": {
@@ -2328,7 +2328,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2017-01-20 13:19:20",
+                "time": "2017-01-23 09:54:46",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2342,7 +2342,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.9",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -2801,18 +2801,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "86b585ade3164f191a67af8e819364291d3e2127"
+                    "reference": "3016f515d5d4024ddbc68dd230feb586e34ad0cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/86b585ade3164f191a67af8e819364291d3e2127",
-                    "reference": "86b585ade3164f191a67af8e819364291d3e2127",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/3016f515d5d4024ddbc68dd230feb586e34ad0cd",
+                    "reference": "3016f515d5d4024ddbc68dd230feb586e34ad0cd",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-20 14:55:59",
+                "time": "2017-01-23 10:41:16",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4027,7 +4027,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
