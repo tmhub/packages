@@ -202,7 +202,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
+                    "source": "https://github.com/tmhub/abandoned/tree/master",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -638,7 +638,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.2.4",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
@@ -1527,7 +1527,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -1930,7 +1930,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -2496,7 +2496,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -6468,7 +6468,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
+                    "source": "https://github.com/tmhub/cache/tree/master",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -8379,15 +8379,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "0abc9cc1fbebbb622b037ad73b2e151af0f1a66a"
+                    "reference": "17b70bae0a0ae58dc71ce9c924d0fdf700b28323"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/0abc9cc1fbebbb622b037ad73b2e151af0f1a66a",
-                    "reference": "0abc9cc1fbebbb622b037ad73b2e151af0f1a66a",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/17b70bae0a0ae58dc71ce9c924d0fdf700b28323",
+                    "reference": "17b70bae0a0ae58dc71ce9c924d0fdf700b28323",
                     "shasum": ""
                 },
-                "time": "2017-01-05 15:29:13",
+                "time": "2017-01-24 14:15:12",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9172,18 +9172,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easycatalogimg.git",
-                    "reference": "19f3a9922488f230cb2f96d8722bb070c16be08a"
+                    "reference": "78847ccff4fed285e23d76d2c12e886daacf3440"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/19f3a9922488f230cb2f96d8722bb070c16be08a",
-                    "reference": "19f3a9922488f230cb2f96d8722bb070c16be08a",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/78847ccff4fed285e23d76d2c12e886daacf3440",
+                    "reference": "78847ccff4fed285e23d76d2c12e886daacf3440",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-24 09:35:12",
+                "time": "2017-01-24 13:28:40",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10698,18 +10698,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6"
+                    "reference": "66a0f82b8d60c50415c1ed71b431feeda623a0e2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
-                    "reference": "3bc110d2a88159d2bedf1c62cce2dc1f3645d1a6",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/66a0f82b8d60c50415c1ed71b431feeda623a0e2",
+                    "reference": "66a0f82b8d60c50415c1ed71b431feeda623a0e2",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-09-30 13:25:24",
+                "time": "2017-01-24 13:29:57",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10723,7 +10723,7 @@
                 "description": "Configurable sliders",
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/2.4.1",
+                    "source": "https://github.com/tmhub/easyslide/tree/master",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             }
@@ -17505,7 +17505,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -22817,7 +22817,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
+                    "source": "https://github.com/tmhub/soldtogether/tree/master",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
