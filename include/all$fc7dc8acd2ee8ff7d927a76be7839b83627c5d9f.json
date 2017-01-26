@@ -2801,12 +2801,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "f22218cfdaee077e6a4d8d6c6065818f50b124eb"
+                    "reference": "0c22a9a8e424f0343e9d9e533eb763a6faff79b9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/f22218cfdaee077e6a4d8d6c6065818f50b124eb",
-                    "reference": "f22218cfdaee077e6a4d8d6c6065818f50b124eb",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/0c22a9a8e424f0343e9d9e533eb763a6faff79b9",
+                    "reference": "0c22a9a8e424f0343e9d9e533eb763a6faff79b9",
                     "shasum": ""
                 },
                 "require": {
@@ -2814,8 +2814,16 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2017-01-26 11:18:14",
+                "time": "2017-01-26 14:04:18",
                 "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/amp/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/amp/changelog/"
+                        }
+                    }
+                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -4029,7 +4037,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -4356,12 +4364,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "bb1e8e50106b1cf6e9714dfe995b6a1d080d91f8"
+                    "reference": "71d55234818d541ce782f093d6cf644bd1c94ac6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/bb1e8e50106b1cf6e9714dfe995b6a1d080d91f8",
-                    "reference": "bb1e8e50106b1cf6e9714dfe995b6a1d080d91f8",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/71d55234818d541ce782f093d6cf644bd1c94ac6",
+                    "reference": "71d55234818d541ce782f093d6cf644bd1c94ac6",
                     "shasum": ""
                 },
                 "require": {
@@ -4388,8 +4396,19 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-01-26 09:00:55",
+                "time": "2017-01-26 14:03:57",
                 "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "purchase_code": "TM_ArgentoArgento",
+                        "links": {
+                            "download": "https://argentotheme.com/downloadable/customer/products/",
+                            "identity_key": "https://argentotheme.com/license/customer/activation/",
+                            "docs": "http://docs.swissuplabs.com/m1/argento/",
+                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
+                        }
+                    }
+                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -7900,15 +7919,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "f2bcebf2710742702cae7cc0a70fc36f781362a4"
+                    "reference": "0afa3a4086194c0069c0d6ab7d8800caf2cafdf2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/f2bcebf2710742702cae7cc0a70fc36f781362a4",
-                    "reference": "f2bcebf2710742702cae7cc0a70fc36f781362a4",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/0afa3a4086194c0069c0d6ab7d8800caf2cafdf2",
+                    "reference": "0afa3a4086194c0069c0d6ab7d8800caf2cafdf2",
                     "shasum": ""
                 },
-                "time": "2017-01-20 13:34:23",
+                "time": "2017-01-26 14:02:54",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7922,7 +7941,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.4.1",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -9752,18 +9771,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "db3b31815a8cd2f9cc6b0aeb28facbc5a3fe40cc"
+                    "reference": "54dd6341dfb50b7b8bc0135e1f2c005c469a87d8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/db3b31815a8cd2f9cc6b0aeb28facbc5a3fe40cc",
-                    "reference": "db3b31815a8cd2f9cc6b0aeb28facbc5a3fe40cc",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/54dd6341dfb50b7b8bc0135e1f2c005c469a87d8",
+                    "reference": "54dd6341dfb50b7b8bc0135e1f2c005c469a87d8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-15 13:50:05",
+                "time": "2017-01-26 12:50:47",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -9849,7 +9868,7 @@
                 ],
                 "homepage": "https://github.com/tmhub/easycolorswatches",
                 "support": {
-                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.3",
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/master",
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             }
@@ -15441,12 +15460,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "5aa3b99c392eb95538a2162230095c0e76835640"
+                    "reference": "94fc62fbda4edd0ebbd0ce27cd3cc6e772a18504"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5aa3b99c392eb95538a2162230095c0e76835640",
-                    "reference": "5aa3b99c392eb95538a2162230095c0e76835640",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/94fc62fbda4edd0ebbd0ce27cd3cc6e772a18504",
+                    "reference": "94fc62fbda4edd0ebbd0ce27cd3cc6e772a18504",
                     "shasum": ""
                 },
                 "require": {
@@ -15456,7 +15475,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-01-25 15:04:19",
+                "time": "2017-01-26 12:54:07",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
