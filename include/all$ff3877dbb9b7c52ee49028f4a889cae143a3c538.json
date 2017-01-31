@@ -2837,19 +2837,19 @@
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             },
-            "dev-master": {
+            "1.0.1": {
                 "name": "tm/amp",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "fa5407c9664b11c31d9aa74af681361c1d87eb1d"
+                    "reference": "442223e926ef7d13f0c2c42c5f5f0a5be85b641f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/fa5407c9664b11c31d9aa74af681361c1d87eb1d",
-                    "reference": "fa5407c9664b11c31d9aa74af681361c1d87eb1d",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/442223e926ef7d13f0c2c42c5f5f0a5be85b641f",
+                    "reference": "442223e926ef7d13f0c2c42c5f5f0a5be85b641f",
                     "shasum": ""
                 },
                 "require": {
@@ -2857,7 +2857,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2017-01-30T14:30:24+00:00",
+                "time": "2017-01-31T08:53:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -2876,7 +2876,50 @@
                     "amp"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/amp/tree/1.0.0",
+                    "source": "https://github.com/tmhub/amp/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/amp/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/amp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/amp.git",
+                    "reference": "442223e926ef7d13f0c2c42c5f5f0a5be85b641f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/442223e926ef7d13f0c2c42c5f5f0a5be85b641f",
+                    "reference": "442223e926ef7d13f0c2c42c5f5f0a5be85b641f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*"
+                },
+                "time": "2017-01-31T08:53:02+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/amp/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/amp/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Accelerated Mobile Pages for Magento",
+                "keywords": [
+                    "accelerated mobile pages",
+                    "amp"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/amp/tree/1.0.1",
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             }
@@ -8546,18 +8589,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "2ce85321fa71e35c2f6e87fdefecac76968303c3"
+                    "reference": "b9833a454e1c48c7428bc0a829890dc853e31126"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/2ce85321fa71e35c2f6e87fdefecac76968303c3",
-                    "reference": "2ce85321fa71e35c2f6e87fdefecac76968303c3",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/b9833a454e1c48c7428bc0a829890dc853e31126",
+                    "reference": "b9833a454e1c48c7428bc0a829890dc853e31126",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-24T15:17:28+00:00",
+                "time": "2017-01-30T14:42:22+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -8571,7 +8614,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/1.0.1",
+                    "source": "https://github.com/tmhub/defer-js/tree/master",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
@@ -10101,18 +10144,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999"
+                    "reference": "144e22040db0438d012edf443b3dfbb4a27be62d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
-                    "reference": "09ccc36d9b7d9ac565cdd7f6a1d412461f7f6999",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/144e22040db0438d012edf443b3dfbb4a27be62d",
+                    "reference": "144e22040db0438d012edf443b3dfbb4a27be62d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-04T09:54:00+00:00",
+                "time": "2017-01-30T14:37:05+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10126,7 +10169,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/3.0.0",
+                    "source": "https://github.com/tmhub/easyflags/tree/master",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             }
