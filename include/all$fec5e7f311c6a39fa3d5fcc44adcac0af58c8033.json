@@ -22382,19 +22382,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-suite-metapackage.git",
-                    "reference": "dd9e85ca150bb0c39a0b12f29b87be84c64507e4"
+                    "reference": "f0bcc6037fc19466b664d192171b20d5af093491"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite-metapackage/zipball/dd9e85ca150bb0c39a0b12f29b87be84c64507e4",
-                    "reference": "dd9e85ca150bb0c39a0b12f29b87be84c64507e4",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite-metapackage/zipball/f0bcc6037fc19466b664d192171b20d5af093491",
+                    "reference": "f0bcc6037fc19466b664d192171b20d5af093491",
                     "shasum": ""
                 },
                 "require": {
+                    "tm/seo-html-sitemap": "*",
                     "tm/seo-templates": "*",
                     "tm/seo-xml-sitemap": "*"
                 },
-                "time": "2017-02-07T12:12:28+00:00",
+                "time": "2017-02-07T14:56:32+00:00",
                 "type": "metapackage",
                 "license": [
                     "OSL-3.0"
