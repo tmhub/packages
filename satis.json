@@ -80,7 +80,12 @@
         {"type": "vcs", "url": "git@github.com:tmhub/templatef001.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/templatef002.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/templatem001.git"},
-        {"type": "vcs", "url": "git@github.com:tmhub/testimonials.git"}
+        {"type": "vcs", "url": "git@github.com:tmhub/testimonials.git"},
+
+        {"type": "vcs", "url": "git@github.com:tmhub/seo-core.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/seo-templates.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/seo-xml-sitemap.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/seo-suite-metapackage.git"}
     ],
     "require-all": true
 }
