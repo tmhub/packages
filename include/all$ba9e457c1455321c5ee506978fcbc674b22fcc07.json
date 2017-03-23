@@ -11760,25 +11760,25 @@
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             },
-            "dev-master": {
+            "3.0.2": {
                 "name": "tm/easyslide",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "c47e6e30d853f000e3c9e350cc7728a59579cbbe"
+                    "reference": "c9f13c9c3bda64f129452b031c03b69fade303ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/c47e6e30d853f000e3c9e350cc7728a59579cbbe",
-                    "reference": "c47e6e30d853f000e3c9e350cc7728a59579cbbe",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/c9f13c9c3bda64f129452b031c03b69fade303ca",
+                    "reference": "c9f13c9c3bda64f129452b031c03b69fade303ca",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-03-21T08:45:51+00:00",
+                "time": "2017-03-23T08:59:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11792,7 +11792,43 @@
                 "description": "Configurable sliders",
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/3.0.1",
+                    "source": "https://github.com/tmhub/easyslide/tree/3.0.2",
+                    "issues": "https://github.com/tmhub/easyslide/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easyslide",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "c9f13c9c3bda64f129452b031c03b69fade303ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/c9f13c9c3bda64f129452b031c03b69fade303ca",
+                    "reference": "c9f13c9c3bda64f129452b031c03b69fade303ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-23T08:59:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Configurable sliders",
+                "homepage": "https://github.com/tmhub/easyslide",
+                "support": {
+                    "source": "https://github.com/tmhub/easyslide/tree/3.0.2",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             }
@@ -23629,18 +23665,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-templates.git",
-                    "reference": "c543fe3c6ab3ae0744f8be8841a0bb8a2946c466"
+                    "reference": "b5a0d13c21d9557143caae3b2c91b65c5d97c820"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/c543fe3c6ab3ae0744f8be8841a0bb8a2946c466",
-                    "reference": "c543fe3c6ab3ae0744f8be8841a0bb8a2946c466",
+                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/b5a0d13c21d9557143caae3b2c91b65c5d97c820",
+                    "reference": "b5a0d13c21d9557143caae3b2c91b65c5d97c820",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2017-03-22T15:01:59+00:00",
+                "time": "2017-03-22T16:01:06+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
