@@ -9456,18 +9456,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-css.git",
-                    "reference": "01ac0534708c35292828c80fa8e90ffed33598fb"
+                    "reference": "c71db9b153cfd0a48d6e795d314184955224db40"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/01ac0534708c35292828c80fa8e90ffed33598fb",
-                    "reference": "01ac0534708c35292828c80fa8e90ffed33598fb",
+                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/c71db9b153cfd0a48d6e795d314184955224db40",
+                    "reference": "c71db9b153cfd0a48d6e795d314184955224db40",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-07T11:46:56+00:00",
+                "time": "2017-04-08T08:54:54+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9492,18 +9492,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-css.git",
-                    "reference": "01ac0534708c35292828c80fa8e90ffed33598fb"
+                    "reference": "c71db9b153cfd0a48d6e795d314184955224db40"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/01ac0534708c35292828c80fa8e90ffed33598fb",
-                    "reference": "01ac0534708c35292828c80fa8e90ffed33598fb",
+                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/c71db9b153cfd0a48d6e795d314184955224db40",
+                    "reference": "c71db9b153cfd0a48d6e795d314184955224db40",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-07T11:46:56+00:00",
+                "time": "2017-04-08T08:54:54+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16339,12 +16339,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "ce6e8c790db1cc50f3694488bd71b37161414f3b"
+                    "reference": "71d93c876bfc22475f5c50d52a8d69a2be8c2ea6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/ce6e8c790db1cc50f3694488bd71b37161414f3b",
-                    "reference": "ce6e8c790db1cc50f3694488bd71b37161414f3b",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/71d93c876bfc22475f5c50d52a8d69a2be8c2ea6",
+                    "reference": "71d93c876bfc22475f5c50d52a8d69a2be8c2ea6",
                     "shasum": ""
                 },
                 "require": {
@@ -16353,7 +16353,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2017-04-07T08:38:28+00:00",
+                "time": "2017-04-07T14:11:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -18318,18 +18318,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
-                    "reference": "6dfb6b10fcd46abc09b0816961f5ce5fbeaf2459"
+                    "reference": "55e8090bec60f3f5a361dd2e35c8164b5667c5e7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/6dfb6b10fcd46abc09b0816961f5ce5fbeaf2459",
-                    "reference": "6dfb6b10fcd46abc09b0816961f5ce5fbeaf2459",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/55e8090bec60f3f5a361dd2e35c8164b5667c5e7",
+                    "reference": "55e8090bec60f3f5a361dd2e35c8164b5667c5e7",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-06T14:48:16+00:00",
+                "time": "2017-04-07T14:11:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20745,20 +20745,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "62c46fb76ab29f697810760d6441a65ff6451ffb"
+                    "reference": "73e1c1887ea909875ab0233c076d3e59b35e49fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/62c46fb76ab29f697810760d6441a65ff6451ffb",
-                    "reference": "62c46fb76ab29f697810760d6441a65ff6451ffb",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/73e1c1887ea909875ab0233c076d3e59b35e49fc",
+                    "reference": "73e1c1887ea909875ab0233c076d3e59b35e49fc",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
+                    "tm/defer-css": "*",
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2017-03-31T13:35:36+00:00",
+                "time": "2017-04-07T14:39:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
