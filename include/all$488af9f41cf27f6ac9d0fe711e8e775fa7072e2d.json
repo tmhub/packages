@@ -16339,12 +16339,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "d5cef4743b4cd560aa14f1c3e726c44a7fa33006"
+                    "reference": "9951ecfc176bc0db200ef076bbd0f8b378e75dc7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/d5cef4743b4cd560aa14f1c3e726c44a7fa33006",
-                    "reference": "d5cef4743b4cd560aa14f1c3e726c44a7fa33006",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/9951ecfc176bc0db200ef076bbd0f8b378e75dc7",
+                    "reference": "9951ecfc176bc0db200ef076bbd0f8b378e75dc7",
                     "shasum": ""
                 },
                 "require": {
@@ -16353,7 +16353,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2017-04-19T13:47:35+00:00",
+                "time": "2017-04-19T14:37:18+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -19788,18 +19788,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "72c3db64d944438b15d04ddb14699a674d123623"
+                    "reference": "353c4595977893114da9aedfc66a3dc932763061"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/72c3db64d944438b15d04ddb14699a674d123623",
-                    "reference": "72c3db64d944438b15d04ddb14699a674d123623",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/353c4595977893114da9aedfc66a3dc932763061",
+                    "reference": "353c4595977893114da9aedfc66a3dc932763061",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-06T08:12:32+00:00",
+                "time": "2017-04-20T08:22:27+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20826,19 +20826,19 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
-            "dev-master": {
+            "1.2.6": {
                 "name": "tm/pagespeed",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "4d7abb475d09f312eb6fbfacd861b84ef5f969ff"
+                    "reference": "77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/4d7abb475d09f312eb6fbfacd861b84ef5f969ff",
-                    "reference": "4d7abb475d09f312eb6fbfacd861b84ef5f969ff",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0",
+                    "reference": "77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0",
                     "shasum": ""
                 },
                 "require": {
@@ -20847,7 +20847,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2017-04-10T09:10:09+00:00",
+                "time": "2017-04-20T08:44:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -20870,7 +20870,55 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.6",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/pagespeed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0",
+                    "reference": "77f4d6c44d28e28d8d0fb1c8b5d111c367a3bae0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2017-04-20T08:44:45+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.6",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
