@@ -24245,25 +24245,25 @@
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
-            "dev-master": {
+            "2.0.6": {
                 "name": "tm/richsnippets",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "5241a8cc10de59fa00dbdd5dd6e645f893f9df33"
+                    "reference": "f032577c3c38416ef3405012706a49f337cdedb6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/5241a8cc10de59fa00dbdd5dd6e645f893f9df33",
-                    "reference": "5241a8cc10de59fa00dbdd5dd6e645f893f9df33",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/f032577c3c38416ef3405012706a49f337cdedb6",
+                    "reference": "f032577c3c38416ef3405012706a49f337cdedb6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-09T07:46:08+00:00",
+                "time": "2017-04-25T14:32:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -24326,7 +24326,92 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.5",
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.6",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/richsnippets",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "f032577c3c38416ef3405012706a49f337cdedb6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/f032577c3c38416ef3405012706a49f337cdedb6",
+                    "reference": "f032577c3c38416ef3405012706a49f337cdedb6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-04-25T14:32:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/RichSnippets",
+                            "app/code/local/TM/RichSnippets"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
+                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/richsnippets",
+                            "app/design/frontend/base/default/template/tm/richsnippets"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/richsnippets.css",
+                            "skin/frontend/base/default/css/tm/richsnippets.css"
+                        ],
+                        [
+                            "app/etc/modules/TM_RichSnippets.xml",
+                            "app/etc/modules/TM_RichSnippets.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_RichSnippets.csv",
+                            "app/locale/en_US/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_RichSnippets.csv",
+                            "app/locale/es_ES/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_RichSnippets.csv",
+                            "app/locale/fr_FR/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_RichSnippets.csv",
+                            "app/locale/it_IT/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_RichSnippets.csv",
+                            "app/locale/nl_NL/TM_RichSnippets.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_RichSnippets.csv",
+                            "app/locale/pt_PT/TM_RichSnippets.csv"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.6",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
@@ -24654,18 +24739,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-core.git",
-                    "reference": "2dc16daa906d396df3173f3498ec8e80bc0018e9"
+                    "reference": "c9864498aba7829b0e38e491ff4aac99980e8f79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-core/zipball/2dc16daa906d396df3173f3498ec8e80bc0018e9",
-                    "reference": "2dc16daa906d396df3173f3498ec8e80bc0018e9",
+                    "url": "https://api.github.com/repos/tmhub/seo-core/zipball/c9864498aba7829b0e38e491ff4aac99980e8f79",
+                    "reference": "c9864498aba7829b0e38e491ff4aac99980e8f79",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-02-09T15:31:21+00:00",
+                "time": "2017-04-25T14:34:18+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24679,7 +24764,7 @@
                 "description": "SEO Core for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-core",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-core/tree/master",
+                    "source": "https://github.com/tmhub/seo-core/tree/1.0.0",
                     "issues": "https://github.com/tmhub/seo-core/issues"
                 }
             },
@@ -24690,18 +24775,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-core.git",
-                    "reference": "2dc16daa906d396df3173f3498ec8e80bc0018e9"
+                    "reference": "c9864498aba7829b0e38e491ff4aac99980e8f79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-core/zipball/2dc16daa906d396df3173f3498ec8e80bc0018e9",
-                    "reference": "2dc16daa906d396df3173f3498ec8e80bc0018e9",
+                    "url": "https://api.github.com/repos/tmhub/seo-core/zipball/c9864498aba7829b0e38e491ff4aac99980e8f79",
+                    "reference": "c9864498aba7829b0e38e491ff4aac99980e8f79",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-02-09T15:31:21+00:00",
+                "time": "2017-04-25T14:34:18+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24715,7 +24800,7 @@
                 "description": "SEO Core for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-core",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-core/tree/master",
+                    "source": "https://github.com/tmhub/seo-core/tree/1.0.0",
                     "issues": "https://github.com/tmhub/seo-core/issues"
                 }
             }
