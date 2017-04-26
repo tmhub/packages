@@ -5064,12 +5064,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "6d724fa807361b9aa658494d829e066ff7b0861a"
+                    "reference": "735d319747b738a78f57185dfbd082ccc63328d8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/6d724fa807361b9aa658494d829e066ff7b0861a",
-                    "reference": "6d724fa807361b9aa658494d829e066ff7b0861a",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/735d319747b738a78f57185dfbd082ccc63328d8",
+                    "reference": "735d319747b738a78f57185dfbd082ccc63328d8",
                     "shasum": ""
                 },
                 "require": {
@@ -5098,7 +5098,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-04-26T10:26:50+00:00",
+                "time": "2017-04-26T11:55:57+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24924,12 +24924,12 @@
                 "version_normalized": "0.5.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite-metapackage.git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
                     "reference": "aed9356b79d93b04088818526aa5cbdca0290ace"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite-metapackage/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
                     "reference": "aed9356b79d93b04088818526aa5cbdca0290ace",
                     "shasum": ""
                 },
@@ -24945,8 +24945,8 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite-metapackage/tree/0.5.0",
-                    "issues": "https://github.com/tmhub/seo-suite-metapackage/issues"
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.5.0",
+                    "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
             "dev-master": {
@@ -24955,12 +24955,12 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite-metapackage.git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
                     "reference": "aed9356b79d93b04088818526aa5cbdca0290ace"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite-metapackage/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
                     "reference": "aed9356b79d93b04088818526aa5cbdca0290ace",
                     "shasum": ""
                 },
@@ -24976,8 +24976,8 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite-metapackage/tree/0.5.0",
-                    "issues": "https://github.com/tmhub/seo-suite-metapackage/issues"
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.5.0",
+                    "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
         },
