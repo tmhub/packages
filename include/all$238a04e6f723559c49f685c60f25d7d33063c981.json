@@ -24368,68 +24368,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "ac551dee35ca1e95220f0655898fb53a6d3e1423"
+                    "reference": "804ab4fdc5720576c85a808b6ecc6dbff158833f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/ac551dee35ca1e95220f0655898fb53a6d3e1423",
-                    "reference": "ac551dee35ca1e95220f0655898fb53a6d3e1423",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/804ab4fdc5720576c85a808b6ecc6dbff158833f",
+                    "reference": "804ab4fdc5720576c85a808b6ecc6dbff158833f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-26T13:20:10+00:00",
+                "time": "2017-04-26T13:58:03+00:00",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/RichSnippets",
-                            "app/code/local/TM/RichSnippets"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
-                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/richsnippets",
-                            "app/design/frontend/base/default/template/tm/richsnippets"
-                        ],
-                        [
-                            "skin/frontend/base/default/css/tm/richsnippets.css",
-                            "skin/frontend/base/default/css/tm/richsnippets.css"
-                        ],
-                        [
-                            "app/etc/modules/TM_RichSnippets.xml",
-                            "app/etc/modules/TM_RichSnippets.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_RichSnippets.csv",
-                            "app/locale/en_US/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/es_ES/TM_RichSnippets.csv",
-                            "app/locale/es_ES/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/fr_FR/TM_RichSnippets.csv",
-                            "app/locale/fr_FR/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/it_IT/TM_RichSnippets.csv",
-                            "app/locale/it_IT/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/nl_NL/TM_RichSnippets.csv",
-                            "app/locale/nl_NL/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/pt_PT/TM_RichSnippets.csv",
-                            "app/locale/pt_PT/TM_RichSnippets.csv"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -24453,68 +24404,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "ac551dee35ca1e95220f0655898fb53a6d3e1423"
+                    "reference": "804ab4fdc5720576c85a808b6ecc6dbff158833f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/ac551dee35ca1e95220f0655898fb53a6d3e1423",
-                    "reference": "ac551dee35ca1e95220f0655898fb53a6d3e1423",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/804ab4fdc5720576c85a808b6ecc6dbff158833f",
+                    "reference": "804ab4fdc5720576c85a808b6ecc6dbff158833f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-26T13:20:10+00:00",
+                "time": "2017-04-26T13:58:03+00:00",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/RichSnippets",
-                            "app/code/local/TM/RichSnippets"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/richsnippets.xml",
-                            "app/design/frontend/base/default/layout/tm/richsnippets.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/richsnippets",
-                            "app/design/frontend/base/default/template/tm/richsnippets"
-                        ],
-                        [
-                            "skin/frontend/base/default/css/tm/richsnippets.css",
-                            "skin/frontend/base/default/css/tm/richsnippets.css"
-                        ],
-                        [
-                            "app/etc/modules/TM_RichSnippets.xml",
-                            "app/etc/modules/TM_RichSnippets.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_RichSnippets.csv",
-                            "app/locale/en_US/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/es_ES/TM_RichSnippets.csv",
-                            "app/locale/es_ES/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/fr_FR/TM_RichSnippets.csv",
-                            "app/locale/fr_FR/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/it_IT/TM_RichSnippets.csv",
-                            "app/locale/it_IT/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/nl_NL/TM_RichSnippets.csv",
-                            "app/locale/nl_NL/TM_RichSnippets.csv"
-                        ],
-                        [
-                            "app/locale/pt_PT/TM_RichSnippets.csv",
-                            "app/locale/pt_PT/TM_RichSnippets.csv"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
