@@ -3402,12 +3402,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "50f5c64fff5dcafa9446aac0dd6053bf2217d6f5"
+                    "reference": "166de05b0279b932357379e8d4251b7f0d0ac981"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/50f5c64fff5dcafa9446aac0dd6053bf2217d6f5",
-                    "reference": "50f5c64fff5dcafa9446aac0dd6053bf2217d6f5",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/166de05b0279b932357379e8d4251b7f0d0ac981",
+                    "reference": "166de05b0279b932357379e8d4251b7f0d0ac981",
                     "shasum": ""
                 },
                 "require": {
@@ -3415,7 +3415,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2017-05-10T07:14:25+00:00",
+                "time": "2017-05-10T08:18:46+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -9854,18 +9854,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "9b6fa6a707b3116e64d5b1776d31a95cfcb4a54d"
+                    "reference": "d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/9b6fa6a707b3116e64d5b1776d31a95cfcb4a54d",
-                    "reference": "9b6fa6a707b3116e64d5b1776d31a95cfcb4a54d",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a",
+                    "reference": "d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-02-16T15:20:03+00:00",
+                "time": "2017-05-10T08:26:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9890,18 +9890,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "af408ef92d5f22fed9b91efdfcafd3687df43b33"
+                    "reference": "d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/af408ef92d5f22fed9b91efdfcafd3687df43b33",
-                    "reference": "af408ef92d5f22fed9b91efdfcafd3687df43b33",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a",
+                    "reference": "d8cc96ec639c6a0a0ab91c0d095bbe4d1395dd1a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-02-16T14:55:25+00:00",
+                "time": "2017-05-10T08:26:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9915,7 +9915,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/master",
+                    "source": "https://github.com/tmhub/defer-js/tree/1.0.2",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
