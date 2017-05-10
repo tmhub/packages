@@ -21447,6 +21447,54 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
+            "1.2.7": {
+                "name": "tm/pagespeed",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "86411a9b5f13af178cb22a83e8eb5837e4c09ac3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/86411a9b5f13af178cb22a83e8eb5837e4c09ac3",
+                    "reference": "86411a9b5f13af178cb22a83e8eb5837e4c09ac3",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2017-04-25T11:50:26+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/pagespeed",
                 "version": "dev-master",
