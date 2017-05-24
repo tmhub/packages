@@ -18173,12 +18173,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "b77219f9ae69e062cb6d3c861b7ba354bd010876"
+                    "reference": "bf8b4e6278b84ceec370d6799a0be9180d25c3fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/b77219f9ae69e062cb6d3c861b7ba354bd010876",
-                    "reference": "b77219f9ae69e062cb6d3c861b7ba354bd010876",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/bf8b4e6278b84ceec370d6799a0be9180d25c3fd",
+                    "reference": "bf8b4e6278b84ceec370d6799a0be9180d25c3fd",
                     "shasum": ""
                 },
                 "require": {
@@ -18188,7 +18188,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-05-16T10:28:36+00:00",
+                "time": "2017-05-24T14:48:56+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
