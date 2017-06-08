@@ -1706,6 +1706,42 @@
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
+            "2.6.1": {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-08T13:20:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.1",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/ajax-layered-navigation",
                 "version": "dev-master",
@@ -1713,18 +1749,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "6fbeff3c4f50c15160475398fb429016f7e4af5c"
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/6fbeff3c4f50c15160475398fb429016f7e4af5c",
-                    "reference": "6fbeff3c4f50c15160475398fb429016f7e4af5c",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-06-08T12:55:29+00:00",
+                "time": "2017-06-08T13:20:16+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20111,19 +20147,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "2d899e82f88340786c53b485f1ac713412e5e4c4"
+                    "reference": "3ebde0b64935edacccad557558ab59a0b5a0e9a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/2d899e82f88340786c53b485f1ac713412e5e4c4",
-                    "reference": "2d899e82f88340786c53b485f1ac713412e5e4c4",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/3ebde0b64935edacccad557558ab59a0b5a0e9a3",
+                    "reference": "3ebde0b64935edacccad557558ab59a0b5a0e9a3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2017-06-08T12:51:16+00:00",
+                "time": "2017-06-08T13:18:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20148,19 +20184,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "2d899e82f88340786c53b485f1ac713412e5e4c4"
+                    "reference": "3ebde0b64935edacccad557558ab59a0b5a0e9a3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/2d899e82f88340786c53b485f1ac713412e5e4c4",
-                    "reference": "2d899e82f88340786c53b485f1ac713412e5e4c4",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/3ebde0b64935edacccad557558ab59a0b5a0e9a3",
+                    "reference": "3ebde0b64935edacccad557558ab59a0b5a0e9a3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2017-06-08T12:51:16+00:00",
+                "time": "2017-06-08T13:18:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26277,6 +26313,42 @@
             }
         },
         "tm/slick-carousel": {
+            "1.0.0": {
+                "name": "tm/slick-carousel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/slick-carousel.git",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-12T12:27:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "the last carousel you'll ever need for magento",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/slick-carousel/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/slick-carousel/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/slick-carousel",
                 "version": "dev-master",
