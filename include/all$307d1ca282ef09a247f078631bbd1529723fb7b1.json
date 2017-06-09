@@ -5442,18 +5442,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "7b45ef6366faa99cec5a4a28361f47674d749777"
+                    "reference": "b07e871903420d890fd9c0781ec4164258b32345"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/7b45ef6366faa99cec5a4a28361f47674d749777",
-                    "reference": "7b45ef6366faa99cec5a4a28361f47674d749777",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/b07e871903420d890fd9c0781ec4164258b32345",
+                    "reference": "b07e871903420d890fd9c0781ec4164258b32345",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2017-05-29T13:58:38+00:00",
+                "time": "2017-06-08T14:11:07+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12214,19 +12214,19 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easylightbox.git",
-                    "reference": "806318b01a10c725df306fbbb8a4fbf352d50fbd"
+                    "reference": "52fb80b0a5d9f274fca806e25a041fe39eafa147"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/806318b01a10c725df306fbbb8a4fbf352d50fbd",
-                    "reference": "806318b01a10c725df306fbbb8a4fbf352d50fbd",
+                    "url": "https://api.github.com/repos/tmhub/easylightbox/zipball/52fb80b0a5d9f274fca806e25a041fe39eafa147",
+                    "reference": "52fb80b0a5d9f274fca806e25a041fe39eafa147",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2017-06-08T12:42:15+00:00",
+                "time": "2017-06-08T15:15:15+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12237,7 +12237,7 @@
                         "email": "support@templates-master.com"
                     }
                 ],
-                "description": "Lightbox library integration",
+                "description": "Lightbox for Magento Product and CMS pages",
                 "homepage": "https://github.com/tmhub/easylightbox",
                 "support": {
                     "source": "https://github.com/tmhub/easylightbox/tree/master",
@@ -22263,12 +22263,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "630e01ff5723b3e2bc53aab292ccd3b91b81b843"
+                    "reference": "dc86d007a194a66a5fb2d3e61e4555691e4b3275"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/630e01ff5723b3e2bc53aab292ccd3b91b81b843",
-                    "reference": "630e01ff5723b3e2bc53aab292ccd3b91b81b843",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/dc86d007a194a66a5fb2d3e61e4555691e4b3275",
+                    "reference": "dc86d007a194a66a5fb2d3e61e4555691e4b3275",
                     "shasum": ""
                 },
                 "require": {
@@ -22277,7 +22277,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2017-06-07T14:09:55+00:00",
+                "time": "2017-06-09T06:50:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22311,12 +22311,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "630e01ff5723b3e2bc53aab292ccd3b91b81b843"
+                    "reference": "dc86d007a194a66a5fb2d3e61e4555691e4b3275"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/630e01ff5723b3e2bc53aab292ccd3b91b81b843",
-                    "reference": "630e01ff5723b3e2bc53aab292ccd3b91b81b843",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/dc86d007a194a66a5fb2d3e61e4555691e4b3275",
+                    "reference": "dc86d007a194a66a5fb2d3e61e4555691e4b3275",
                     "shasum": ""
                 },
                 "require": {
@@ -22325,7 +22325,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2017-06-07T14:09:55+00:00",
+                "time": "2017-06-09T06:50:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
