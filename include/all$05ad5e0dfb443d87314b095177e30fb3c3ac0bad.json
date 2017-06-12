@@ -202,7 +202,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -1594,7 +1594,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -2033,7 +2033,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -2713,7 +2713,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -5187,7 +5187,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.8.6",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -7735,7 +7735,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -10149,7 +10149,7 @@
                 "description": "Templates Master Optimise css delivery module",
                 "homepage": "https://github.com/tmhub/defer-css",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-css/tree/master",
+                    "source": "https://github.com/tmhub/defer-css/tree/1.1.0",
                     "issues": "https://github.com/tmhub/defer-css/issues"
                 }
             },
@@ -10185,7 +10185,7 @@
                 "description": "Templates Master Optimise css delivery module",
                 "homepage": "https://github.com/tmhub/defer-css",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-css/tree/master",
+                    "source": "https://github.com/tmhub/defer-css/tree/1.1.0",
                     "issues": "https://github.com/tmhub/defer-css/issues"
                 }
             }
@@ -10331,7 +10331,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/master",
+                    "source": "https://github.com/tmhub/defer-js/tree/1.0.3",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             },
@@ -10367,7 +10367,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/master",
+                    "source": "https://github.com/tmhub/defer-js/tree/1.0.3",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
@@ -11804,99 +11804,26 @@
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             },
-            "dev-master": {
+            "2.1.4": {
                 "name": "tm/easycolorswatches",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.4",
+                "version_normalized": "2.1.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "54dd6341dfb50b7b8bc0135e1f2c005c469a87d8"
+                    "reference": "ab9fb1560300c3e761161ca4a656a850edce396d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/54dd6341dfb50b7b8bc0135e1f2c005c469a87d8",
-                    "reference": "54dd6341dfb50b7b8bc0135e1f2c005c469a87d8",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/ab9fb1560300c3e761161ca4a656a850edce396d",
+                    "reference": "ab9fb1560300c3e761161ca4a656a850edce396d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-26T12:50:47+00:00",
+                "time": "2017-06-12T13:29:15+00:00",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/EasyColorSwatches",
-                            "app/code/local/TM/EasyColorSwatches"
-                        ],
-                        [
-                            "app/design/adminhtml/default/default/layout/easycolorswatches.xml",
-                            "app/design/adminhtml/default/default/layout/easycolorswatches.xml"
-                        ],
-                        [
-                            "app/design/adminhtml/default/default/template/easycolorswatches",
-                            "app/design/adminhtml/default/default/template/easycolorswatches"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/easycolorswatches.xml",
-                            "app/design/frontend/base/default/layout/tm/easycolorswatches.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/easycolorswatches",
-                            "app/design/frontend/base/default/template/tm/easycolorswatches"
-                        ],
-                        [
-                            "app/etc/modules/TM_EasyColorSwatches.xml",
-                            "app/etc/modules/TM_EasyColorSwatches.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_EasyColorSwatches.csv",
-                            "app/locale/en_US/TM_EasyColorSwatches.csv"
-                        ],
-                        [
-                            "js/tm/easycolorswatches",
-                            "js/tm/easycolorswatches"
-                        ],
-                        [
-                            "media/easycolorswatches",
-                            "media/easycolorswatches"
-                        ],
-                        [
-                            "skin/adminhtml/default/default/images/easycolorswatches",
-                            "skin/adminhtml/default/default/images/easycolorswatches"
-                        ],
-                        [
-                            "skin/adminhtml/default/default/colorPicker.css",
-                            "skin/adminhtml/default/default/colorPicker.css"
-                        ],
-                        [
-                            "skin/adminhtml/default/default/easycolorswatch.css",
-                            "skin/adminhtml/default/default/easycolorswatch.css"
-                        ],
-                        [
-                            "skin/adminhtml/default/default/easycolorswatches_attribute.css",
-                            "skin/adminhtml/default/default/easycolorswatches_attribute.css"
-                        ],
-                        [
-                            "skin/adminhtml/default/default/jColorpicker.css",
-                            "skin/adminhtml/default/default/jColorpicker.css"
-                        ],
-                        [
-                            "skin/frontend/base/default/css/tm/ecs/easycolorswatches.css",
-                            "skin/frontend/base/default/css/tm/ecs/easycolorswatches.css"
-                        ],
-                        [
-                            "skin/frontend/base/default/images/easycolorswatch",
-                            "skin/frontend/base/default/images/easycolorswatch"
-                        ],
-                        [
-                            "skin/frontend/base/default/js/tm/ecs",
-                            "skin/frontend/base/default/js/tm/ecs"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -11906,9 +11833,46 @@
                         "email": "support@templates-master.com"
                     }
                 ],
+                "description": "Attribute Swatches for Magento",
                 "homepage": "https://github.com/tmhub/easycolorswatches",
                 "support": {
-                    "source": "https://github.com/tmhub/easycolorswatches/tree/master",
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.4",
+                    "issues": "https://github.com/tmhub/easycolorswatches/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycolorswatches",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easycolorswatches.git",
+                    "reference": "ab9fb1560300c3e761161ca4a656a850edce396d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/ab9fb1560300c3e761161ca4a656a850edce396d",
+                    "reference": "ab9fb1560300c3e761161ca4a656a850edce396d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-12T13:29:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute Swatches for Magento",
+                "homepage": "https://github.com/tmhub/easycolorswatches",
+                "support": {
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.4",
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             }
@@ -17485,12 +17449,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "f1ef762bd450ff13f09aa21bd69c98023bce87f2"
+                    "reference": "c2ad0e8024a23c0c510516e261020d3649ee6dde"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/f1ef762bd450ff13f09aa21bd69c98023bce87f2",
-                    "reference": "f1ef762bd450ff13f09aa21bd69c98023bce87f2",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/c2ad0e8024a23c0c510516e261020d3649ee6dde",
+                    "reference": "c2ad0e8024a23c0c510516e261020d3649ee6dde",
                     "shasum": ""
                 },
                 "require": {
@@ -17499,7 +17463,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2017-06-02T11:17:11+00:00",
+                "time": "2017-06-12T11:58:23+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -17522,7 +17486,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.2.0",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
@@ -21258,7 +21222,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -22325,7 +22289,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.7",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
@@ -23686,25 +23650,25 @@
                     "issues": "https://github.com/tmhub/productvideos/issues"
                 }
             },
-            "dev-master": {
+            "1.1.2": {
                 "name": "tm/productvideos",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
-                    "reference": "9c42acd371d5e79c006c3e045457aea536f3fa68"
+                    "reference": "a9aa64c74820e0eb7c1e4aae60ab94c86c119625"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/9c42acd371d5e79c006c3e045457aea536f3fa68",
-                    "reference": "9c42acd371d5e79c006c3e045457aea536f3fa68",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/a9aa64c74820e0eb7c1e4aae60ab94c86c119625",
+                    "reference": "a9aa64c74820e0eb7c1e4aae60ab94c86c119625",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-27T09:30:22+00:00",
+                "time": "2017-06-12T13:38:47+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23718,7 +23682,43 @@
                 "description": "Product videos",
                 "homepage": "https://github.com/tmhub/productvideos",
                 "support": {
-                    "source": "https://github.com/tmhub/productvideos/tree/master",
+                    "source": "https://github.com/tmhub/productvideos/tree/1.1.2",
+                    "issues": "https://github.com/tmhub/productvideos/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/productvideos",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/productvideos.git",
+                    "reference": "a9aa64c74820e0eb7c1e4aae60ab94c86c119625"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/a9aa64c74820e0eb7c1e4aae60ab94c86c119625",
+                    "reference": "a9aa64c74820e0eb7c1e4aae60ab94c86c119625",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-12T13:38:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product videos",
+                "homepage": "https://github.com/tmhub/productvideos",
+                "support": {
+                    "source": "https://github.com/tmhub/productvideos/tree/1.1.2",
                     "issues": "https://github.com/tmhub/productvideos/issues"
                 }
             }
@@ -27640,7 +27640,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
@@ -29533,25 +29533,25 @@
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             },
-            "dev-master": {
+            "1.2.2": {
                 "name": "tm/testimonials",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "a5b728edcb7a5aa8ed666cd54c9ebf35fc7624ff"
+                    "reference": "d32aab71a629bd367bc002423d7c6f9df31be2a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/a5b728edcb7a5aa8ed666cd54c9ebf35fc7624ff",
-                    "reference": "a5b728edcb7a5aa8ed666cd54c9ebf35fc7624ff",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/d32aab71a629bd367bc002423d7c6f9df31be2a4",
+                    "reference": "d32aab71a629bd367bc002423d7c6f9df31be2a4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-03-29T13:26:55+00:00",
+                "time": "2017-06-12T13:00:19+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29565,7 +29565,43 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/1.2.1",
+                    "source": "https://github.com/tmhub/testimonials/tree/1.2.2",
+                    "issues": "https://github.com/tmhub/testimonials/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/testimonials",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/testimonials.git",
+                    "reference": "d32aab71a629bd367bc002423d7c6f9df31be2a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/d32aab71a629bd367bc002423d7c6f9df31be2a4",
+                    "reference": "d32aab71a629bd367bc002423d7c6f9df31be2a4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-12T13:00:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/testimonials",
+                "support": {
+                    "source": "https://github.com/tmhub/testimonials/tree/1.2.2",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             }
