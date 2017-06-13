@@ -2941,18 +2941,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "7604b890202d82e037db1a710f96725b7ea5bea5"
+                    "reference": "f099e385c132dcdc6d70e0ede9b1dc0d8f7f2301"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/7604b890202d82e037db1a710f96725b7ea5bea5",
-                    "reference": "7604b890202d82e037db1a710f96725b7ea5bea5",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/f099e385c132dcdc6d70e0ede9b1dc0d8f7f2301",
+                    "reference": "f099e385c132dcdc6d70e0ede9b1dc0d8f7f2301",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-05-19 13:26:37",
+                "time": "2017-06-13 12:05:47",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10840,25 +10840,25 @@
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             },
-            "dev-master": {
+            "1.7.0": {
                 "name": "tm/easy-banner",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "d1b16dc75e5941c85f7b198df8eec2d6f279f7b9"
+                    "reference": "1f388dc19c129d58db7d7aacfdc98aa95fa93fe8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/d1b16dc75e5941c85f7b198df8eec2d6f279f7b9",
-                    "reference": "d1b16dc75e5941c85f7b198df8eec2d6f279f7b9",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/1f388dc19c129d58db7d7aacfdc98aa95fa93fe8",
+                    "reference": "1f388dc19c129d58db7d7aacfdc98aa95fa93fe8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-06-09 11:56:17",
+                "time": "2017-06-13 12:38:49",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -10880,7 +10880,51 @@
                 "description": "Banner management extension",
                 "homepage": "https://github.com/tmhub/easybanner",
                 "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/master",
+                    "source": "https://github.com/tmhub/easybanner/tree/1.7.0",
+                    "issues": "https://github.com/tmhub/easybanner/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easy-banner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easybanner.git",
+                    "reference": "1f388dc19c129d58db7d7aacfdc98aa95fa93fe8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/1f388dc19c129d58db7d7aacfdc98aa95fa93fe8",
+                    "reference": "1f388dc19c129d58db7d7aacfdc98aa95fa93fe8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-13 12:38:49",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easybanners/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easybanners/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Banner management extension",
+                "homepage": "https://github.com/tmhub/easybanner",
+                "support": {
+                    "source": "https://github.com/tmhub/easybanner/tree/1.7.0",
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             }
@@ -13156,18 +13200,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
-                    "reference": "d6f3bff91ec28f4283e0afcc64ee7f36f3e5e648"
+                    "reference": "3ae3e48b95478544dd554a7906ff295838272218"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/d6f3bff91ec28f4283e0afcc64ee7f36f3e5e648",
-                    "reference": "d6f3bff91ec28f4283e0afcc64ee7f36f3e5e648",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/3ae3e48b95478544dd554a7906ff295838272218",
+                    "reference": "3ae3e48b95478544dd554a7906ff295838272218",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-04-28 12:48:07",
+                "time": "2017-06-13 10:59:46",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13181,7 +13225,7 @@
                 "description": "Configurable sliders",
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
-                    "source": "https://github.com/tmhub/easyslide/tree/3.0.4",
+                    "source": "https://github.com/tmhub/easyslide/tree/master",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             }
