@@ -4999,7 +4999,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5696,12 +5696,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "e1195bead095be6e05d8a40a81d044cd15c7c548"
+                    "reference": "5dec423fd52983a72ca00d6d0ef302e8e947bb04"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/e1195bead095be6e05d8a40a81d044cd15c7c548",
-                    "reference": "e1195bead095be6e05d8a40a81d044cd15c7c548",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/5dec423fd52983a72ca00d6d0ef302e8e947bb04",
+                    "reference": "5dec423fd52983a72ca00d6d0ef302e8e947bb04",
                     "shasum": ""
                 },
                 "require": {
@@ -5730,7 +5730,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-07-14T11:16:50+00:00",
+                "time": "2017-07-14T11:55:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -14716,7 +14716,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.0",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -19362,7 +19362,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.0",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
@@ -25150,6 +25150,42 @@
                     "issues": "https://github.com/tmhub/qty-switcher/issues"
                 }
             },
+            "1.0.5": {
+                "name": "tm/qty-switcher",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/qty-switcher.git",
+                    "reference": "4e02e7867e9524884a04af9b07f620d0535628cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/4e02e7867e9524884a04af9b07f620d0535628cc",
+                    "reference": "4e02e7867e9524884a04af9b07f620d0535628cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-07-14T12:54:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master module who add a +/- button in the product pages that gives the customers the ability to change the quantity",
+                "homepage": "https://github.com/tmhub/qty-switcher",
+                "support": {
+                    "source": "https://github.com/tmhub/qty-switcher/tree/1.0.5",
+                    "issues": "https://github.com/tmhub/qty-switcher/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/qty-switcher",
                 "version": "dev-master",
@@ -25157,18 +25193,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/qty-switcher.git",
-                    "reference": "f17017df971f4062215f841b0c114cef0a4ff555"
+                    "reference": "b347d85e8cc9558fa89f8914136a466f7b074f9a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/f17017df971f4062215f841b0c114cef0a4ff555",
-                    "reference": "f17017df971f4062215f841b0c114cef0a4ff555",
+                    "url": "https://api.github.com/repos/tmhub/qty-switcher/zipball/b347d85e8cc9558fa89f8914136a466f7b074f9a",
+                    "reference": "b347d85e8cc9558fa89f8914136a466f7b074f9a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-07-14T11:35:35+00:00",
+                "time": "2017-07-14T12:52:56+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
