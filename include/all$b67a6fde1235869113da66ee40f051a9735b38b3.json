@@ -202,7 +202,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
@@ -1594,7 +1594,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
@@ -1749,18 +1749,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "0227bea71c08bdb384fff1b696d3cca538116952"
+                    "reference": "6ce322ac3786967345a2710b3238e0af1d772f43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/0227bea71c08bdb384fff1b696d3cca538116952",
-                    "reference": "0227bea71c08bdb384fff1b696d3cca538116952",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/6ce322ac3786967345a2710b3238e0af1d772f43",
+                    "reference": "6ce322ac3786967345a2710b3238e0af1d772f43",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-07-03T08:58:43+00:00",
+                "time": "2017-07-18T07:28:29+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2033,7 +2033,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.2.2",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
@@ -2789,7 +2789,7 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.5.2",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -4999,7 +4999,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5379,7 +5379,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.8.6",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5646,12 +5646,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "31ac10e1aa3a0f5eb2f4877f2e52c0c21b09464f"
+                    "reference": "fdd0310bf79320d5a80c751cc14ba0c0b432143c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/31ac10e1aa3a0f5eb2f4877f2e52c0c21b09464f",
-                    "reference": "31ac10e1aa3a0f5eb2f4877f2e52c0c21b09464f",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/fdd0310bf79320d5a80c751cc14ba0c0b432143c",
+                    "reference": "fdd0310bf79320d5a80c751cc14ba0c0b432143c",
                     "shasum": ""
                 },
                 "require": {
@@ -5680,7 +5680,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-07-14T15:27:53+00:00",
+                "time": "2017-07-17T14:38:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -5699,7 +5699,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.8.9",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5760,12 +5760,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "260189137715ff435e42c221bdb8887622f70a01"
+                    "reference": "e683016800319a533eb24152e57055f4e60fb4c7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/260189137715ff435e42c221bdb8887622f70a01",
-                    "reference": "260189137715ff435e42c221bdb8887622f70a01",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e683016800319a533eb24152e57055f4e60fb4c7",
+                    "reference": "e683016800319a533eb24152e57055f4e60fb4c7",
                     "shasum": ""
                 },
                 "require": {
@@ -5794,7 +5794,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-07-17T12:23:43+00:00",
+                "time": "2017-07-18T10:43:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8157,7 +8157,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/master",
+                    "source": "https://github.com/tmhub/cache/tree/1.2.0",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
@@ -22050,7 +22050,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
@@ -26686,18 +26686,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "8e46d61e09673e492178da64618833715c306e28"
+                    "reference": "2f30fdbf10326f5f92dd5383831111f99df4ba0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/8e46d61e09673e492178da64618833715c306e28",
-                    "reference": "8e46d61e09673e492178da64618833715c306e28",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/2f30fdbf10326f5f92dd5383831111f99df4ba0e",
+                    "reference": "2f30fdbf10326f5f92dd5383831111f99df4ba0e",
                     "shasum": ""
                 },
                 "require": {
-                    "tm/core": "*"
+                    "tm/seo-core": "*"
                 },
-                "time": "2017-06-09T13:22:43+00:00",
+                "time": "2017-07-18T10:45:35+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26722,18 +26722,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "8e46d61e09673e492178da64618833715c306e28"
+                    "reference": "2f30fdbf10326f5f92dd5383831111f99df4ba0e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/8e46d61e09673e492178da64618833715c306e28",
-                    "reference": "8e46d61e09673e492178da64618833715c306e28",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/2f30fdbf10326f5f92dd5383831111f99df4ba0e",
+                    "reference": "2f30fdbf10326f5f92dd5383831111f99df4ba0e",
                     "shasum": ""
                 },
                 "require": {
-                    "tm/core": "*"
+                    "tm/seo-core": "*"
                 },
-                "time": "2017-06-09T13:22:43+00:00",
+                "time": "2017-07-18T10:45:35+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27306,7 +27306,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.0",
+                    "source": "https://github.com/tmhub/seo-suite/tree/master",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -27338,7 +27338,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.0",
+                    "source": "https://github.com/tmhub/seo-suite/tree/master",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
@@ -27376,7 +27376,7 @@
                 "description": "Generate product and category metadata for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-templates",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-templates/tree/master",
+                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.0",
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             },
@@ -27412,7 +27412,7 @@
                 "description": "Generate product and category metadata for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-templates",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-templates/tree/master",
+                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.0",
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             }
@@ -28718,7 +28718,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/master",
+                    "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
