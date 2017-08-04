@@ -5118,7 +5118,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.7.4",
+                    "source": "https://github.com/argento/argento/tree/master",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -5822,19 +5822,19 @@
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
-            "dev-master": {
+            "1.9.0.1": {
                 "name": "tm/argento",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.9.0.1",
+                "version_normalized": "1.9.0.1",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "f8b0c2f147a4d2d2579ec854007379a0a630f8c1"
+                    "reference": "019605d478c8286481137e93c6db6c677fddde5e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/f8b0c2f147a4d2d2579ec854007379a0a630f8c1",
-                    "reference": "f8b0c2f147a4d2d2579ec854007379a0a630f8c1",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/019605d478c8286481137e93c6db6c677fddde5e",
+                    "reference": "019605d478c8286481137e93c6db6c677fddde5e",
                     "shasum": ""
                 },
                 "require": {
@@ -5863,7 +5863,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-08-03T14:19:32+00:00",
+                "time": "2017-08-04T12:48:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -5882,7 +5882,71 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.9.0",
+                    "source": "https://github.com/argento/argento/tree/1.9.0.1",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "019605d478c8286481137e93c6db6c677fddde5e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/019605d478c8286481137e93c6db6c677fddde5e",
+                    "reference": "019605d478c8286481137e93c6db6c677fddde5e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/amp": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyflags": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/hover-gallery": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/seo-suite": "*",
+                    "tm/slick-carousel": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2017-08-04T12:48:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "purchase_code": "TM_ArgentoArgento",
+                        "links": {
+                            "download": "https://argentotheme.com/downloadable/customer/products/",
+                            "identity_key": "https://argentotheme.com/license/customer/activation/",
+                            "docs": "http://docs.swissuplabs.com/m1/argento/",
+                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/1.9.0.1",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -15006,7 +15070,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.0",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -15107,18 +15171,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "22f8fd743e3ed25b5e85d24267c27b833f8fbf80"
+                    "reference": "5eeaf14691f25f787605c91b3b55492d80a1cb21"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/22f8fd743e3ed25b5e85d24267c27b833f8fbf80",
-                    "reference": "22f8fd743e3ed25b5e85d24267c27b833f8fbf80",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5eeaf14691f25f787605c91b3b55492d80a1cb21",
+                    "reference": "5eeaf14691f25f787605c91b3b55492d80a1cb21",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-08-03T12:39:37+00:00",
+                "time": "2017-08-04T07:06:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -15186,7 +15250,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.3",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
@@ -19733,7 +19797,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.0",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
