@@ -9691,18 +9691,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "9eb2dc1d2fcc5bf576d686bc330d787377853155"
+                    "reference": "50faf53cef9b52992401dfdfaf3402a62d581225"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/9eb2dc1d2fcc5bf576d686bc330d787377853155",
-                    "reference": "9eb2dc1d2fcc5bf576d686bc330d787377853155",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/50faf53cef9b52992401dfdfaf3402a62d581225",
+                    "reference": "50faf53cef9b52992401dfdfaf3402a62d581225",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-07-11T11:45:38+00:00",
+                "time": "2017-08-23T14:30:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22535,25 +22535,25 @@
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             },
-            "dev-master": {
+            "1.5.5": {
                 "name": "tm/navigation-pro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "26d0d918975917d285edc42da4455e57bf81dfc3"
+                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/26d0d918975917d285edc42da4455e57bf81dfc3",
-                    "reference": "26d0d918975917d285edc42da4455e57bf81dfc3",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/dc30205fb1b1459c0d7827930f14b11a2c7e6996",
+                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-08-03T13:16:42+00:00",
+                "time": "2017-08-23T14:38:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22567,7 +22567,43 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/1.5.4",
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.5.5",
+                    "issues": "https://github.com/tmhub/navigationpro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/navigation-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/dc30205fb1b1459c0d7827930f14b11a2c7e6996",
+                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-23T14:38:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro",
+                "support": {
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.5.5",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
@@ -23211,18 +23247,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/orderattachment.git",
-                    "reference": "78fa805f31d9122c8a7b039d363cc986626b7e5e"
+                    "reference": "a234f9f0a0e9d249df5e5c0393ae162c7323b4d6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/orderattachment/zipball/78fa805f31d9122c8a7b039d363cc986626b7e5e",
-                    "reference": "78fa805f31d9122c8a7b039d363cc986626b7e5e",
+                    "url": "https://api.github.com/repos/tmhub/orderattachment/zipball/a234f9f0a0e9d249df5e5c0393ae162c7323b4d6",
+                    "reference": "a234f9f0a0e9d249df5e5c0393ae162c7323b4d6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-11-18T10:18:01+00:00",
+                "time": "2017-08-23T14:45:48+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23230,7 +23266,7 @@
                 "description": "Magento order attachments",
                 "homepage": "https://github.com/tmhub/orderattachment",
                 "support": {
-                    "source": "https://github.com/tmhub/orderattachment/tree/1.1.5",
+                    "source": "https://github.com/tmhub/orderattachment/tree/master",
                     "issues": "https://github.com/tmhub/orderattachment/issues"
                 }
             }
