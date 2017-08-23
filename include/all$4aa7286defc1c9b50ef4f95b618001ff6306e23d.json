@@ -2412,6 +2412,44 @@
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
+            "3.3.16": {
+                "name": "tm/ajax-pro",
+                "version": "3.3.16",
+                "version_normalized": "3.3.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxpro.git",
+                    "reference": "440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc",
+                    "reference": "440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/qty-switcher": "*"
+                },
+                "time": "2017-08-23T13:05:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxPro module",
+                "homepage": "https://github.com/tmhub/ajaxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.16",
+                    "issues": "https://github.com/tmhub/ajaxpro/issues"
+                }
+            },
             "3.3.2": {
                 "name": "tm/ajax-pro",
                 "version": "3.3.2",
@@ -2719,12 +2757,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "a19624cdbeb599673144edd3733d02cd47682023"
+                    "reference": "440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/a19624cdbeb599673144edd3733d02cd47682023",
-                    "reference": "a19624cdbeb599673144edd3733d02cd47682023",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc",
+                    "reference": "440b51b4e4d624bea08cb1dc3a5e21c5548fe5fc",
                     "shasum": ""
                 },
                 "require": {
@@ -2732,7 +2770,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2017-08-09T13:06:10+00:00",
+                "time": "2017-08-23T13:05:08+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2746,7 +2784,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.16",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -6876,6 +6914,44 @@
                     "issues": "https://github.com/tmhub/askit/issues"
                 }
             },
+            "2.3.11": {
+                "name": "tm/ask-it",
+                "version": "2.3.11",
+                "version_normalized": "2.3.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/askit.git",
+                    "reference": "27dad5917fdefb61232343406f0023cb1626562e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/27dad5917fdefb61232343406f0023cb1626562e",
+                    "reference": "27dad5917fdefb61232343406f0023cb1626562e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2017-08-23T12:38:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Askit module",
+                "homepage": "https://github.com/tmhub/askit",
+                "support": {
+                    "source": "https://github.com/tmhub/askit/tree/2.3.11",
+                    "issues": "https://github.com/tmhub/askit/issues"
+                }
+            },
             "2.3.2": {
                 "name": "tm/ask-it",
                 "version": "2.3.2",
@@ -7187,12 +7263,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "b115f1a267c70068bf5e461ad843a20065e92ccf"
+                    "reference": "27dad5917fdefb61232343406f0023cb1626562e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/b115f1a267c70068bf5e461ad843a20065e92ccf",
-                    "reference": "b115f1a267c70068bf5e461ad843a20065e92ccf",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/27dad5917fdefb61232343406f0023cb1626562e",
+                    "reference": "27dad5917fdefb61232343406f0023cb1626562e",
                     "shasum": ""
                 },
                 "require": {
@@ -7200,7 +7276,7 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-08-03T12:17:10+00:00",
+                "time": "2017-08-23T12:38:16+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7214,7 +7290,7 @@
                 "description": "Templates Master Askit module",
                 "homepage": "https://github.com/tmhub/askit",
                 "support": {
-                    "source": "https://github.com/tmhub/askit/tree/2.3.10",
+                    "source": "https://github.com/tmhub/askit/tree/2.3.11",
                     "issues": "https://github.com/tmhub/askit/issues"
                 }
             }
@@ -10357,15 +10433,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "61861f722110815dd28666f74516ffe4666b0e6d"
+                    "reference": "ff59a22345eceb0b83d78c70e0f6ec8f571155fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/61861f722110815dd28666f74516ffe4666b0e6d",
-                    "reference": "61861f722110815dd28666f74516ffe4666b0e6d",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/ff59a22345eceb0b83d78c70e0f6ec8f571155fb",
+                    "reference": "ff59a22345eceb0b83d78c70e0f6ec8f571155fb",
                     "shasum": ""
                 },
-                "time": "2017-08-03T11:15:20+00:00",
+                "time": "2017-08-23T08:48:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10379,7 +10455,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.5.8",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -15473,25 +15549,25 @@
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             },
-            "dev-master": {
+            "1.1.7": {
                 "name": "tm/email",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "d031396ba5f2c11ad817c3f6cd9c461bbfe18389"
+                    "reference": "fdc2f3fe0b210abe67c909c420071b5c1f9d11a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/d031396ba5f2c11ad817c3f6cd9c461bbfe18389",
-                    "reference": "d031396ba5f2c11ad817c3f6cd9c461bbfe18389",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/fdc2f3fe0b210abe67c909c420071b5c1f9d11a7",
+                    "reference": "fdc2f3fe0b210abe67c909c420071b5c1f9d11a7",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-03-29T12:14:43+00:00",
+                "time": "2017-08-23T10:46:14+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15505,7 +15581,43 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.6",
+                    "source": "https://github.com/tmhub/email/tree/1.1.7",
+                    "issues": "https://github.com/tmhub/email/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/email",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/email.git",
+                    "reference": "fdc2f3fe0b210abe67c909c420071b5c1f9d11a7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/fdc2f3fe0b210abe67c909c420071b5c1f9d11a7",
+                    "reference": "fdc2f3fe0b210abe67c909c420071b5c1f9d11a7",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-23T10:46:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Email module",
+                "homepage": "https://github.com/tmhub/email",
+                "support": {
+                    "source": "https://github.com/tmhub/email/tree/1.1.7",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
@@ -18648,12 +18760,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "0e083ccf10bd42a45572ea347f3531c8a4425b66"
+                    "reference": "8fb7c10a539c5b1ad9528c067b437e2f1e511fff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/0e083ccf10bd42a45572ea347f3531c8a4425b66",
-                    "reference": "0e083ccf10bd42a45572ea347f3531c8a4425b66",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8fb7c10a539c5b1ad9528c067b437e2f1e511fff",
+                    "reference": "8fb7c10a539c5b1ad9528c067b437e2f1e511fff",
                     "shasum": ""
                 },
                 "require": {
@@ -18662,7 +18774,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2017-08-14T07:33:34+00:00",
+                "time": "2017-08-23T10:17:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
