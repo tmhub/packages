@@ -12576,6 +12576,42 @@
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
+            "2.4.2": {
+                "name": "tm/easycatalogimg",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easycatalogimg.git",
+                    "reference": "830f547864e3071189a7cc1c27b621531855d930"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/830f547864e3071189a7cc1c27b621531855d930",
+                    "reference": "830f547864e3071189a7cc1c27b621531855d930",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-29T14:23:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Subcategories listing with images",
+                "homepage": "https://github.com/tmhub/easycatalogimg",
+                "support": {
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
+                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/easycatalogimg",
                 "version": "dev-master",
@@ -14532,6 +14568,42 @@
                 "homepage": "https://github.com/tmhub/easyslide",
                 "support": {
                     "source": "https://github.com/tmhub/easyslide/tree/3.0.6",
+                    "issues": "https://github.com/tmhub/easyslide/issues"
+                }
+            },
+            "3.0.7": {
+                "name": "tm/easyslide",
+                "version": "3.0.7",
+                "version_normalized": "3.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easyslide.git",
+                    "reference": "922b13d425bb7aefb43d4ef329ee6caf17785f67"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easyslide/zipball/922b13d425bb7aefb43d4ef329ee6caf17785f67",
+                    "reference": "922b13d425bb7aefb43d4ef329ee6caf17785f67",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-29T14:21:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Configurable sliders",
+                "homepage": "https://github.com/tmhub/easyslide",
+                "support": {
+                    "source": "https://github.com/tmhub/easyslide/tree/master",
                     "issues": "https://github.com/tmhub/easyslide/issues"
                 }
             },
