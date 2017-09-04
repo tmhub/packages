@@ -28653,19 +28653,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "516a2600dc2391d5774985800c9eec98f9557276"
+                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/516a2600dc2391d5774985800c9eec98f9557276",
-                    "reference": "516a2600dc2391d5774985800c9eec98f9557276",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/20be3e4fdb3e9ec9037f8904f0cace73625f2448",
+                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-09-04T12:30:45+00:00",
+                "time": "2017-09-04T14:41:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28690,19 +28690,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "77165f80848fc3120e8990c526145b9b60959fca"
+                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/77165f80848fc3120e8990c526145b9b60959fca",
-                    "reference": "77165f80848fc3120e8990c526145b9b60959fca",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/20be3e4fdb3e9ec9037f8904f0cace73625f2448",
+                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-09-04T12:41:48+00:00",
+                "time": "2017-09-04T14:41:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28716,7 +28716,7 @@
                 "description": "Templates Master Admin Secure module",
                 "homepage": "https://github.com/tmhub/secure",
                 "support": {
-                    "source": "https://github.com/tmhub/secure/tree/master",
+                    "source": "https://github.com/tmhub/secure/tree/2.1.4",
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             }
