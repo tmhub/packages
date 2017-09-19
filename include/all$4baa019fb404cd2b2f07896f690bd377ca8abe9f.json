@@ -28935,19 +28935,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448"
+                    "reference": "15e7fbeb4346b995ab85c2ba247ccf6fcc86b9d2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/20be3e4fdb3e9ec9037f8904f0cace73625f2448",
-                    "reference": "20be3e4fdb3e9ec9037f8904f0cace73625f2448",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/15e7fbeb4346b995ab85c2ba247ccf6fcc86b9d2",
+                    "reference": "15e7fbeb4346b995ab85c2ba247ccf6fcc86b9d2",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-09-04T14:41:51+00:00",
+                "time": "2017-09-19T10:12:02+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28961,7 +28961,7 @@
                 "description": "Templates Master Admin Secure module",
                 "homepage": "https://github.com/tmhub/secure",
                 "support": {
-                    "source": "https://github.com/tmhub/secure/tree/2.1.4",
+                    "source": "https://github.com/tmhub/secure/tree/master",
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             }
