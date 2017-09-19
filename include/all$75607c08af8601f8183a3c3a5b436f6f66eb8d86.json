@@ -6372,6 +6372,59 @@
                 }
             }
         },
+        "tm/argento_firecheckout": {
+            "dev-master": {
+                "name": "tm/argento_firecheckout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento_firecheckout.git",
+                    "reference": "0ca43fe0840a9a8cd8e14b727f7274183537b01c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/0ca43fe0840a9a8cd8e14b727f7274183537b01c",
+                    "reference": "0ca43fe0840a9a8cd8e14b727f7274183537b01c",
+                    "shasum": ""
+                },
+                "require": {
+                    "cryozonic/stripe": "*",
+                    "tm/abandoned": "*",
+                    "tm/affiliate-suite": "*",
+                    "tm/argento": "*",
+                    "tm/bot-protection": "*",
+                    "tm/cache": "*",
+                    "tm/cdn": "*",
+                    "tm/firecheckout": "*",
+                    "tm/ga-plugin-scrolldepth": "*",
+                    "tm/helpdesk": "*",
+                    "tm/license": "*",
+                    "tm/notifier": "*",
+                    "tm/pagespeed": "*",
+                    "tm/recaptcha": "*",
+                    "tm/secure": "*",
+                    "tm/socialsuite": "*"
+                },
+                "time": "2017-09-18T14:37:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Firecheckout theme for firecheckout.io",
+                "homepage": "https://github.com/tmhub/argento_firecheckout",
+                "support": {
+                    "source": "https://github.com/argento/argento_firecheckout/tree/master",
+                    "issues": "https://github.com/argento/argento_firecheckout/issues"
+                }
+            }
+        },
         "tm/argento_mage2cloud": {
             "1.0.0": {
                 "name": "tm/argento_mage2cloud",
