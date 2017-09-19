@@ -5323,7 +5323,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.7.4",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -8517,25 +8517,25 @@
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
-            "dev-master": {
+            "1.0.8": {
                 "name": "tm/bot-protection",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "c4b1b5745e802264fbc6d1844c5ebc9fcce12851"
+                    "reference": "1c345a6175fa7385238c73ced7d326584a856290"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/c4b1b5745e802264fbc6d1844c5ebc9fcce12851",
-                    "reference": "c4b1b5745e802264fbc6d1844c5ebc9fcce12851",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/1c345a6175fa7385238c73ced7d326584a856290",
+                    "reference": "1c345a6175fa7385238c73ced7d326584a856290",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-14T09:28:09+00:00",
+                "time": "2017-09-19T06:36:24+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8558,7 +8558,52 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.8",
+                    "issues": "https://github.com/tmhub/botprotection/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/bot-protection",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/botprotection.git",
+                    "reference": "1c345a6175fa7385238c73ced7d326584a856290"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/1c345a6175fa7385238c73ced7d326584a856290",
+                    "reference": "1c345a6175fa7385238c73ced7d326584a856290",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-19T06:36:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/magento-bot-protection.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/botprotection/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/botprotection/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module to protect magento from bots and spiders",
+                "homepage": "https://github.com/tmhub/botprotection",
+                "support": {
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.8",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -24688,7 +24733,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.7",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
@@ -29107,7 +29152,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.0",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29139,7 +29184,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29171,7 +29216,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
