@@ -6219,19 +6219,19 @@
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
-            "dev-master": {
+            "1.9.3": {
                 "name": "tm/argento",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.9.3",
+                "version_normalized": "1.9.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "39f4026828ee89c0a532498738f332487982e411"
+                    "reference": "a5699a6c22849f95162598f78c4e763507f69244"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/39f4026828ee89c0a532498738f332487982e411",
-                    "reference": "39f4026828ee89c0a532498738f332487982e411",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/a5699a6c22849f95162598f78c4e763507f69244",
+                    "reference": "a5699a6c22849f95162598f78c4e763507f69244",
                     "shasum": ""
                 },
                 "require": {
@@ -6260,7 +6260,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-09-18T13:16:52+00:00",
+                "time": "2017-09-28T12:55:29+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -6279,7 +6279,71 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/1.9.2",
+                    "source": "https://github.com/argento/argento/tree/1.9.3",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "a5699a6c22849f95162598f78c4e763507f69244"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/a5699a6c22849f95162598f78c4e763507f69244",
+                    "reference": "a5699a6c22849f95162598f78c4e763507f69244",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/amp": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyflags": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/highlight": "*",
+                    "tm/hover-gallery": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/seo-suite": "*",
+                    "tm/slick-carousel": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2017-09-28T12:55:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "purchase_code": "TM_ArgentoArgento",
+                        "links": {
+                            "download": "https://argentotheme.com/downloadable/customer/products/",
+                            "identity_key": "https://argentotheme.com/license/customer/activation/",
+                            "docs": "http://docs.swissuplabs.com/m1/argento/",
+                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/1.9.3",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
