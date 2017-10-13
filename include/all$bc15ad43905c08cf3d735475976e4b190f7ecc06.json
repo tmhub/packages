@@ -11942,25 +11942,25 @@
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             },
-            "dev-master": {
+            "1.0.4": {
                 "name": "tm/defer-js",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "1cc9fb61c79ea1918ecf7288bcdcf58efe323f8e"
+                    "reference": "2da2f57ac8ebc795319cfc954425f2d0104e6642"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/1cc9fb61c79ea1918ecf7288bcdcf58efe323f8e",
-                    "reference": "1cc9fb61c79ea1918ecf7288bcdcf58efe323f8e",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/2da2f57ac8ebc795319cfc954425f2d0104e6642",
+                    "reference": "2da2f57ac8ebc795319cfc954425f2d0104e6642",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-06T11:33:47+00:00",
+                "time": "2017-10-13T13:53:48+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11974,7 +11974,43 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/master",
+                    "source": "https://github.com/tmhub/defer-js/tree/1.0.4",
+                    "issues": "https://github.com/tmhub/defer-js/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/defer-js",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/defer-js.git",
+                    "reference": "2da2f57ac8ebc795319cfc954425f2d0104e6642"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/2da2f57ac8ebc795319cfc954425f2d0104e6642",
+                    "reference": "2da2f57ac8ebc795319cfc954425f2d0104e6642",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-10-13T13:53:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Defer javascript module",
+                "homepage": "https://github.com/tmhub/defer-js",
+                "support": {
+                    "source": "https://github.com/tmhub/defer-js/tree/1.0.4",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
