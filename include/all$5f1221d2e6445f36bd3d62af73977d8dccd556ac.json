@@ -8796,7 +8796,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -8841,7 +8841,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11119,39 +11119,6 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "2640f6369252a7e0b78b0e73bd2a24075a959a78"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/2640f6369252a7e0b78b0e73bd2a24075a959a78",
-                    "reference": "2640f6369252a7e0b78b0e73bd2a24075a959a78",
-                    "shasum": ""
-                },
-                "time": "2017-08-25T09:15:24+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Template Masters Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Templates Master core functionality module",
-                "homepage": "https://github.com/tmhub/core",
-                "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.0",
-                    "issues": "https://github.com/tmhub/core/issues"
-                }
-            },
-            "dev-master": {
-                "name": "tm/core",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "https://github.com/tmhub/core.git",
                     "reference": "8d40baaf1de617f5b623801319a74f4ab72d1afb"
                 },
                 "dist": {
@@ -11175,6 +11142,72 @@
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
                     "source": "https://github.com/tmhub/core/tree/master",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            "1.6.1": {
+                "name": "tm/core",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "shasum": ""
+                },
+                "time": "2017-10-19T11:37:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.1",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "shasum": ""
+                },
+                "time": "2017-10-19T11:37:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.1",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -16279,7 +16312,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.0",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -16414,7 +16447,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/master",
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.3",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -21180,7 +21213,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.0",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
@@ -25281,7 +25314,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.7",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
@@ -26391,7 +26424,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
@@ -26715,7 +26748,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             }
@@ -29736,7 +29769,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.0",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29768,7 +29801,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29800,7 +29833,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/master",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
