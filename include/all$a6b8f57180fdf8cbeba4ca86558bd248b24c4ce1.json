@@ -4124,12 +4124,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "1e172a3b1baea05e63bc269cae8125430975e35e"
+                    "reference": "04ce7d751a19e8b47ab6c3a805885764215dad74"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/1e172a3b1baea05e63bc269cae8125430975e35e",
-                    "reference": "1e172a3b1baea05e63bc269cae8125430975e35e",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/04ce7d751a19e8b47ab6c3a805885764215dad74",
+                    "reference": "04ce7d751a19e8b47ab6c3a805885764215dad74",
                     "shasum": ""
                 },
                 "require": {
@@ -4137,7 +4137,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2017-10-12T11:21:04+00:00",
+                "time": "2017-10-17T07:26:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8755,25 +8755,25 @@
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
-            "dev-master": {
+            "1.0.9": {
                 "name": "tm/bot-protection",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "04ec19f610ba3639a370de33a54b10d560cc3e10"
+                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/04ec19f610ba3639a370de33a54b10d560cc3e10",
-                    "reference": "04ec19f610ba3639a370de33a54b10d560cc3e10",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/2f6020746603f04d44f9dcf0ea597126e18f4f54",
+                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-04T09:28:30+00:00",
+                "time": "2017-10-19T09:02:43+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8796,7 +8796,52 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "issues": "https://github.com/tmhub/botprotection/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/bot-protection",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/botprotection.git",
+                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/2f6020746603f04d44f9dcf0ea597126e18f4f54",
+                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-10-19T09:02:43+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/magento-bot-protection.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/botprotection/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/botprotection/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module to protect magento from bots and spiders",
+                "homepage": "https://github.com/tmhub/botprotection",
+                "support": {
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11250,18 +11295,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
-                    "reference": "190844ec8fa14693445c2b9b0e303a640d56e975"
+                    "reference": "6c30dd97fe84ae36d3c91890f955f52fdf47131a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/190844ec8fa14693445c2b9b0e303a640d56e975",
-                    "reference": "190844ec8fa14693445c2b9b0e303a640d56e975",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/6c30dd97fe84ae36d3c91890f955f52fdf47131a",
+                    "reference": "6c30dd97fe84ae36d3c91890f955f52fdf47131a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-05T09:50:47+00:00",
+                "time": "2017-10-19T09:06:56+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11275,7 +11320,7 @@
                 "description": "CountDown Timer module",
                 "homepage": "https://github.com/tmhub/countdowntimer",
                 "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.2",
+                    "source": "https://github.com/tmhub/countdowntimer/tree/master",
                     "issues": "https://github.com/tmhub/countdowntimer/issues"
                 }
             }
@@ -11577,26 +11622,26 @@
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             },
-            "dev-master": {
+            "1.1.5": {
                 "name": "tm/dailydeals",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "4939519d5541aaa8acd3e970d9d50c9ac57a290b"
+                    "reference": "1e092167394ec3c5dac7559b6203e2bbdfccc219"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/4939519d5541aaa8acd3e970d9d50c9ac57a290b",
-                    "reference": "4939519d5541aaa8acd3e970d9d50c9ac57a290b",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/1e092167394ec3c5dac7559b6203e2bbdfccc219",
+                    "reference": "1e092167394ec3c5dac7559b6203e2bbdfccc219",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2017-08-25T14:39:54+00:00",
+                "time": "2017-10-19T09:08:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11610,7 +11655,44 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/master",
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.5",
+                    "issues": "https://github.com/tmhub/dailydeals/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/dailydeals",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/dailydeals.git",
+                    "reference": "1e092167394ec3c5dac7559b6203e2bbdfccc219"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/1e092167394ec3c5dac7559b6203e2bbdfccc219",
+                    "reference": "1e092167394ec3c5dac7559b6203e2bbdfccc219",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/countdowntimer": "*"
+                },
+                "time": "2017-10-19T09:08:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module deals managment",
+                "homepage": "https://github.com/tmhub/dailydeals",
+                "support": {
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.5",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             }
@@ -16197,7 +16279,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.1.0",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -16332,7 +16414,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.1.3",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             },
@@ -21098,7 +21180,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.0",
+                    "source": "https://github.com/tmhub/helpdesk/tree/master",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
@@ -25199,7 +25281,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.7",
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
@@ -26277,6 +26359,42 @@
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
+            "2.7.12": {
+                "name": "tm/pro-labels",
+                "version": "2.7.12",
+                "version_normalized": "2.7.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/7cac3df40c91c193f4d43a54652b79bd6da657c8",
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-10-19T08:54:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
             "2.7.2": {
                 "name": "tm/pro-labels",
                 "version": "2.7.2",
@@ -26572,18 +26690,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
-                    "reference": "3ea76b4c063f59c95c726dba83653d4390db2369"
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/3ea76b4c063f59c95c726dba83653d4390db2369",
-                    "reference": "3ea76b4c063f59c95c726dba83653d4390db2369",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/7cac3df40c91c193f4d43a54652b79bd6da657c8",
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-09T15:05:11+00:00",
+                "time": "2017-10-19T08:54:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26597,7 +26715,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             }
@@ -29618,7 +29736,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.0",
+                    "source": "https://github.com/tmhub/seo-suite/tree/master",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29650,7 +29768,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
+                    "source": "https://github.com/tmhub/seo-suite/tree/master",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
@@ -29682,7 +29800,7 @@
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.1",
+                    "source": "https://github.com/tmhub/seo-suite/tree/master",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
