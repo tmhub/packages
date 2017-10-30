@@ -16824,18 +16824,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "5bc66a4455b268ea985be74caf1bafd84db25b64"
+                    "reference": "f7ec7ec83cd04479648beb4b7fafc1b5a7055bb4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5bc66a4455b268ea985be74caf1bafd84db25b64",
-                    "reference": "5bc66a4455b268ea985be74caf1bafd84db25b64",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/f7ec7ec83cd04479648beb4b7fafc1b5a7055bb4",
+                    "reference": "f7ec7ec83cd04479648beb4b7fafc1b5a7055bb4",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-18T09:18:30+00:00",
+                "time": "2017-10-30T10:15:10+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -16858,7 +16858,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.1.5",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
@@ -20381,19 +20381,19 @@
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
-            "dev-master": {
+            "4.2.4": {
                 "name": "tm/firecheckout",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "4.2.4",
+                "version_normalized": "4.2.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "e877bd084dea004de1cdbe97e2c9452923785e39"
+                    "reference": "e2f1df1bd0869bc4125895035ff4764e8d9ed8ff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e877bd084dea004de1cdbe97e2c9452923785e39",
-                    "reference": "e877bd084dea004de1cdbe97e2c9452923785e39",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e2f1df1bd0869bc4125895035ff4764e8d9ed8ff",
+                    "reference": "e2f1df1bd0869bc4125895035ff4764e8d9ed8ff",
                     "shasum": ""
                 },
                 "require": {
@@ -20402,7 +20402,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2017-10-26T13:47:52+00:00",
+                "time": "2017-10-30T11:38:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -20425,7 +20425,55 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/master",
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.2.4",
+                    "issues": "https://github.com/tmhub/firecheckout/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/firecheckout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "e2f1df1bd0869bc4125895035ff4764e8d9ed8ff"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e2f1df1bd0869bc4125895035ff4764e8d9ed8ff",
+                    "reference": "e2f1df1bd0869bc4125895035ff4764e8d9ed8ff",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/address-autocomplete": "*",
+                    "tm/checkout-success": "*",
+                    "tm/core": "*",
+                    "tm/orderattachment": "*"
+                },
+                "time": "2017-10-30T11:38:56+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "http://templates-master.com/magento-one-page-checkout.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/firecheckout/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/firecheckout/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout",
+                "support": {
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.2.4",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
@@ -22417,18 +22465,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "c29916f8216da62a964e6ee55bdfc57b84c84865"
+                    "reference": "b4491675a51c599acf92967d63f6b53e0459d50a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/c29916f8216da62a964e6ee55bdfc57b84c84865",
-                    "reference": "c29916f8216da62a964e6ee55bdfc57b84c84865",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/b4491675a51c599acf92967d63f6b53e0459d50a",
+                    "reference": "b4491675a51c599acf92967d63f6b53e0459d50a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-04T07:09:28+00:00",
+                "time": "2017-10-30T10:04:02+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22442,7 +22490,7 @@
                 "description": "Custom product collections with flexible filters",
                 "homepage": "https://github.com/tmhub/highlight",
                 "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/2.6.3.1",
+                    "source": "https://github.com/tmhub/highlight/tree/master",
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             }
