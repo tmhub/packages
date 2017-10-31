@@ -4191,19 +4191,19 @@
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             },
-            "dev-master": {
+            "1.6.0": {
                 "name": "tm/amp",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "0454821e4d303a8fb1d6f3f437b754297ca3fb9e"
+                    "reference": "28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/0454821e4d303a8fb1d6f3f437b754297ca3fb9e",
-                    "reference": "0454821e4d303a8fb1d6f3f437b754297ca3fb9e",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2",
+                    "reference": "28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2",
                     "shasum": ""
                 },
                 "require": {
@@ -4211,7 +4211,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2017-10-26T08:42:09+00:00",
+                "time": "2017-10-31T11:54:08+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -4231,7 +4231,51 @@
                     "amp"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/amp/tree/1.5.0.1",
+                    "source": "https://github.com/tmhub/amp/tree/1.6.0",
+                    "issues": "https://github.com/tmhub/amp/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/amp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/amp.git",
+                    "reference": "28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2",
+                    "reference": "28fdd3bd190d67c8f6dad40d8add91d6a2dc3eb2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*"
+                },
+                "time": "2017-10-31T11:54:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/magento-amp-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/amp/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/amp/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Accelerated Mobile Pages for Magento",
+                "keywords": [
+                    "accelerated mobile pages",
+                    "amp"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/amp/tree/1.6.0",
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             }
@@ -8521,18 +8565,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/attributepages.git",
-                    "reference": "2123931da29ab763e2f2c64c020cc37699835e11"
+                    "reference": "50192c1c18ce06746a23d79e72ca204c5420c4ff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/2123931da29ab763e2f2c64c020cc37699835e11",
-                    "reference": "2123931da29ab763e2f2c64c020cc37699835e11",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/50192c1c18ce06746a23d79e72ca204c5420c4ff",
+                    "reference": "50192c1c18ce06746a23d79e72ca204c5420c4ff",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-08-25T12:03:41+00:00",
+                "time": "2017-10-30T14:31:47+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -8546,7 +8590,7 @@
                 "description": "Attribute and brand based pages",
                 "homepage": "https://github.com/tmhub/attributepages",
                 "support": {
-                    "source": "https://github.com/tmhub/attributepages/tree/1.3.9",
+                    "source": "https://github.com/tmhub/attributepages/tree/master",
                     "issues": "https://github.com/tmhub/attributepages/issues"
                 }
             }
@@ -17124,18 +17168,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "43fa0d95f8abb0243b0fb52261b18c225ef6d099"
+                    "reference": "facd9eafc214aece2ac251ea92c11896c759e844"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/43fa0d95f8abb0243b0fb52261b18c225ef6d099",
-                    "reference": "43fa0d95f8abb0243b0fb52261b18c225ef6d099",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/facd9eafc214aece2ac251ea92c11896c759e844",
+                    "reference": "facd9eafc214aece2ac251ea92c11896c759e844",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-30T07:29:46+00:00",
+                "time": "2017-10-30T12:12:48+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17149,7 +17193,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.8",
+                    "source": "https://github.com/tmhub/email/tree/master",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
@@ -21712,12 +21756,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "5f34c850abcf2eb8c668b04eedd38ce874c1196c"
+                    "reference": "a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5f34c850abcf2eb8c668b04eedd38ce874c1196c",
-                    "reference": "5f34c850abcf2eb8c668b04eedd38ce874c1196c",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0",
+                    "reference": "a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0",
                     "shasum": ""
                 },
                 "require": {
@@ -21727,7 +21771,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-10-27T17:38:34+00:00",
+                "time": "2017-10-30T15:22:02+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21741,7 +21785,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.2",
+                    "source": "https://github.com/tmhub/helpdesk/tree/master",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
