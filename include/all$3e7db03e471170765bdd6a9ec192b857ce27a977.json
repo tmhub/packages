@@ -21752,12 +21752,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "5f34c850abcf2eb8c668b04eedd38ce874c1196c"
+                    "reference": "914930f8d5dbfafae8be36c1d9204cd8aa79c9fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5f34c850abcf2eb8c668b04eedd38ce874c1196c",
-                    "reference": "5f34c850abcf2eb8c668b04eedd38ce874c1196c",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/914930f8d5dbfafae8be36c1d9204cd8aa79c9fb",
+                    "reference": "914930f8d5dbfafae8be36c1d9204cd8aa79c9fb",
                     "shasum": ""
                 },
                 "require": {
@@ -21767,7 +21767,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-10-27T17:38:34+00:00",
+                "time": "2017-11-01T07:43:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21792,12 +21792,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0"
+                    "reference": "914930f8d5dbfafae8be36c1d9204cd8aa79c9fb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0",
-                    "reference": "a5bbcab4d1497e3261c6099e11ca53dbdd00e7f0",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/914930f8d5dbfafae8be36c1d9204cd8aa79c9fb",
+                    "reference": "914930f8d5dbfafae8be36c1d9204cd8aa79c9fb",
                     "shasum": ""
                 },
                 "require": {
@@ -21807,7 +21807,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-10-30T15:22:02+00:00",
+                "time": "2017-11-01T07:43:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21821,7 +21821,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.2",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
