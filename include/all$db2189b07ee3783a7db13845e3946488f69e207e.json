@@ -2912,12 +2912,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "1c217c53c7180a499952485fff89929b918e9e40"
+                    "reference": "80f8347cffc59dda6a4adfbe76515015ad581e17"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/1c217c53c7180a499952485fff89929b918e9e40",
-                    "reference": "1c217c53c7180a499952485fff89929b918e9e40",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/80f8347cffc59dda6a4adfbe76515015ad581e17",
+                    "reference": "80f8347cffc59dda6a4adfbe76515015ad581e17",
                     "shasum": ""
                 },
                 "require": {
@@ -2925,7 +2925,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2017-10-09T08:38:40+00:00",
+                "time": "2017-11-02T07:33:34+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2939,7 +2939,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.19",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -21792,12 +21792,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "593c5c4983dece1391e3c5a52dce941f40b546d4"
+                    "reference": "7049eec8a61891c6d58c2d2e0a70acab441af413"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/593c5c4983dece1391e3c5a52dce941f40b546d4",
-                    "reference": "593c5c4983dece1391e3c5a52dce941f40b546d4",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/7049eec8a61891c6d58c2d2e0a70acab441af413",
+                    "reference": "7049eec8a61891c6d58c2d2e0a70acab441af413",
                     "shasum": ""
                 },
                 "require": {
@@ -21807,7 +21807,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2017-11-01T11:58:03+00:00",
+                "time": "2017-11-02T08:09:29+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21821,7 +21821,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.2",
+                    "source": "https://github.com/tmhub/helpdesk/tree/master",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
@@ -31178,63 +31178,26 @@
                     "issues": "https://github.com/tmhub/socialsuite/issues"
                 }
             },
-            "dev-master": {
+            "1.7.0": {
                 "name": "tm/socialsuite",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "e1b1c62a377f8d5e16a5331c868ee9748fc1f55d"
+                    "reference": "844ccbf9eaae25483e9f52afa84535b3bf983c15"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/e1b1c62a377f8d5e16a5331c868ee9748fc1f55d",
-                    "reference": "e1b1c62a377f8d5e16a5331c868ee9748fc1f55d",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/844ccbf9eaae25483e9f52afa84535b3bf983c15",
+                    "reference": "844ccbf9eaae25483e9f52afa84535b3bf983c15",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-04T12:35:34+00:00",
+                "time": "2017-11-02T10:14:50+00:00",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/SocialSuite",
-                            "app/code/local/TM/SocialSuite"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/socialsuite.xml",
-                            "app/design/frontend/base/default/layout/tm/socialsuite.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/socialsuite",
-                            "app/design/frontend/base/default/template/tm/socialsuite"
-                        ],
-                        [
-                            "app/etc/modules/TM_SocialSuite.xml",
-                            "app/etc/modules/TM_SocialSuite.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_SocialSuite.csv",
-                            "app/locale/en_US/TM_SocialSuite.csv"
-                        ],
-                        [
-                            "media/socialsuite",
-                            "media/socialsuite"
-                        ],
-                        [
-                            "skin/frontend/base/default/css/tm/socialsuite",
-                            "skin/frontend/base/default/css/tm/socialsuite"
-                        ],
-                        [
-                            "skin/frontend/base/default/js/tm/socialsuite",
-                            "skin/frontend/base/default/js/tm/socialsuite"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -31247,7 +31210,43 @@
                 "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
                 "homepage": "https://github.com/tmhub/socialsuite",
                 "support": {
-                    "source": "https://github.com/tmhub/socialsuite/tree/1.6.6",
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.7.0",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/socialsuite",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "844ccbf9eaae25483e9f52afa84535b3bf983c15"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/844ccbf9eaae25483e9f52afa84535b3bf983c15",
+                    "reference": "844ccbf9eaae25483e9f52afa84535b3bf983c15",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-11-02T10:14:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.7.0",
                     "issues": "https://github.com/tmhub/socialsuite/issues"
                 }
             }
@@ -31870,19 +31869,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/soldtogether.git",
-                    "reference": "7ba4d121a9533bba948b36324c68f3519119cf4a"
+                    "reference": "cf5e97d7440e66cd5087e19309aa3f53e6e68cff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/7ba4d121a9533bba948b36324c68f3519119cf4a",
-                    "reference": "7ba4d121a9533bba948b36324c68f3519119cf4a",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/cf5e97d7440e66cd5087e19309aa3f53e6e68cff",
+                    "reference": "cf5e97d7440e66cd5087e19309aa3f53e6e68cff",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2017-09-18T10:43:58+00:00",
+                "time": "2017-11-01T16:05:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -31896,7 +31895,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.8",
+                    "source": "https://github.com/tmhub/soldtogether/tree/master",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             },
