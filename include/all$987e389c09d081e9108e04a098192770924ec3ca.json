@@ -29050,18 +29050,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recaptcha.git",
-                    "reference": "1f69c0788e3face31f84238c71da0ed6d111ba2f"
+                    "reference": "3d317a4a147aedfcca4de599553b7deecdf7ea97"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/1f69c0788e3face31f84238c71da0ed6d111ba2f",
-                    "reference": "1f69c0788e3face31f84238c71da0ed6d111ba2f",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/3d317a4a147aedfcca4de599553b7deecdf7ea97",
+                    "reference": "3d317a4a147aedfcca4de599553b7deecdf7ea97",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-24T11:11:08+00:00",
+                "time": "2017-11-16T12:49:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29075,7 +29075,7 @@
                 "description": "reCAPTCHA for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/recaptcha",
                 "support": {
-                    "source": "https://github.com/tmhub/recaptcha/tree/1.1.0",
+                    "source": "https://github.com/tmhub/recaptcha/tree/master",
                     "issues": "https://github.com/tmhub/recaptcha/issues"
                 }
             }
