@@ -6510,12 +6510,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "621cabddf9ae718f9304b603e7d218710f6b8d58"
+                    "reference": "aaae26d16c3c6dac00467b8f0274fcac9d03107b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/621cabddf9ae718f9304b603e7d218710f6b8d58",
-                    "reference": "621cabddf9ae718f9304b603e7d218710f6b8d58",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/aaae26d16c3c6dac00467b8f0274fcac9d03107b",
+                    "reference": "aaae26d16c3c6dac00467b8f0274fcac9d03107b",
                     "shasum": ""
                 },
                 "require": {
@@ -6544,7 +6544,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2017-11-13T11:20:36+00:00",
+                "time": "2017-11-17T10:10:19+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -23099,25 +23099,25 @@
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             },
-            "dev-master": {
+            "1.0.4": {
                 "name": "tm/lazyload",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
-                    "reference": "94c742bb7866c4ec3bdd2af900de9f1e0b962d70"
+                    "reference": "d4406e4680826394be8815d2cef3e635da297d6b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/94c742bb7866c4ec3bdd2af900de9f1e0b962d70",
-                    "reference": "94c742bb7866c4ec3bdd2af900de9f1e0b962d70",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/d4406e4680826394be8815d2cef3e635da297d6b",
+                    "reference": "d4406e4680826394be8815d2cef3e635da297d6b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-11-16T07:44:03+00:00",
+                "time": "2017-11-20T09:26:10+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23131,7 +23131,43 @@
                 "description": "Templates Master Image lazy load module",
                 "homepage": "https://github.com/tmhub/lazyload",
                 "support": {
-                    "source": "https://github.com/tmhub/lazyload/tree/1.0.3",
+                    "source": "https://github.com/tmhub/lazyload/tree/1.0.4",
+                    "issues": "https://github.com/tmhub/lazyload/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/lazyload",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/lazyload.git",
+                    "reference": "d4406e4680826394be8815d2cef3e635da297d6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/d4406e4680826394be8815d2cef3e635da297d6b",
+                    "reference": "d4406e4680826394be8815d2cef3e635da297d6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-11-20T09:26:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Image lazy load module",
+                "homepage": "https://github.com/tmhub/lazyload",
+                "support": {
+                    "source": "https://github.com/tmhub/lazyload/tree/1.0.4",
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             }
@@ -25793,6 +25829,54 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
+            "1.2.14": {
+                "name": "tm/pagespeed",
+                "version": "1.2.14",
+                "version_normalized": "1.2.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "7294f3dfe00840ee6dd44f7ff59ce069cd7ef138"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/7294f3dfe00840ee6dd44f7ff59ce069cd7ef138",
+                    "reference": "7294f3dfe00840ee6dd44f7ff59ce069cd7ef138",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2017-11-20T09:27:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.14",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
             "1.2.2": {
                 "name": "tm/pagespeed",
                 "version": "1.2.2",
@@ -26153,12 +26237,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "6311c68b72cedc3611024b16412d250cd1ce5345"
+                    "reference": "7294f3dfe00840ee6dd44f7ff59ce069cd7ef138"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/6311c68b72cedc3611024b16412d250cd1ce5345",
-                    "reference": "6311c68b72cedc3611024b16412d250cd1ce5345",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/7294f3dfe00840ee6dd44f7ff59ce069cd7ef138",
+                    "reference": "7294f3dfe00840ee6dd44f7ff59ce069cd7ef138",
                     "shasum": ""
                 },
                 "require": {
@@ -26167,7 +26251,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2017-11-16T07:45:42+00:00",
+                "time": "2017-11-20T09:27:34+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -26190,7 +26274,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.12",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.2.14",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
