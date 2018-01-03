@@ -23810,25 +23810,25 @@
                     "issues": "https://github.com/tmhub/license/issues"
                 }
             },
-            "dev-master": {
+            "1.4.1": {
                 "name": "tm/license",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/license.git",
-                    "reference": "a85f2bc9ff43f28e12fc1852bc64b037f33e11fa"
+                    "reference": "32e1b331750bf43ba45d132a244a8250e6793cef"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/license/zipball/a85f2bc9ff43f28e12fc1852bc64b037f33e11fa",
-                    "reference": "a85f2bc9ff43f28e12fc1852bc64b037f33e11fa",
+                    "url": "https://api.github.com/repos/tmhub/license/zipball/32e1b331750bf43ba45d132a244a8250e6793cef",
+                    "reference": "32e1b331750bf43ba45d132a244a8250e6793cef",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-01-03T08:56:42+00:00",
+                "time": "2018-01-03T09:19:36+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23842,7 +23842,43 @@
                 "description": "License checker for argentotheme.com and swissuplabs.com",
                 "homepage": "https://github.com/tmhub/license",
                 "support": {
-                    "source": "https://github.com/tmhub/license/tree/1.4.0",
+                    "source": "https://github.com/tmhub/license/tree/1.4.1",
+                    "issues": "https://github.com/tmhub/license/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/license",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/license.git",
+                    "reference": "32e1b331750bf43ba45d132a244a8250e6793cef"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/license/zipball/32e1b331750bf43ba45d132a244a8250e6793cef",
+                    "reference": "32e1b331750bf43ba45d132a244a8250e6793cef",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-01-03T09:19:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "License checker for argentotheme.com and swissuplabs.com",
+                "homepage": "https://github.com/tmhub/license",
+                "support": {
+                    "source": "https://github.com/tmhub/license/tree/1.4.1",
                     "issues": "https://github.com/tmhub/license/issues"
                 }
             }
