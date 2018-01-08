@@ -6810,12 +6810,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento_firecheckout.git",
-                    "reference": "f7dc817426321e29ffcdf981a947dcdfe60acfb1"
+                    "reference": "9069a56aa7fd2b4189fe3e34cb962721145af33d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/f7dc817426321e29ffcdf981a947dcdfe60acfb1",
-                    "reference": "f7dc817426321e29ffcdf981a947dcdfe60acfb1",
+                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/9069a56aa7fd2b4189fe3e34cb962721145af33d",
+                    "reference": "9069a56aa7fd2b4189fe3e34cb962721145af33d",
                     "shasum": ""
                 },
                 "require": {
@@ -6836,7 +6836,7 @@
                     "tm/secure": "*",
                     "tm/socialsuite": "*"
                 },
-                "time": "2017-12-28T13:17:32+00:00",
+                "time": "2018-01-05T15:37:22+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -32263,18 +32263,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "a0b49c76d5f11fd4a22d8ba476ea4fdbcc6c7a74"
+                    "reference": "74459c37f413a3ef62e3dcdb9debdc7211c4e06e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/a0b49c76d5f11fd4a22d8ba476ea4fdbcc6c7a74",
-                    "reference": "a0b49c76d5f11fd4a22d8ba476ea4fdbcc6c7a74",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/74459c37f413a3ef62e3dcdb9debdc7211c4e06e",
+                    "reference": "74459c37f413a3ef62e3dcdb9debdc7211c4e06e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-01-04T12:36:09+00:00",
+                "time": "2018-01-04T14:42:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
