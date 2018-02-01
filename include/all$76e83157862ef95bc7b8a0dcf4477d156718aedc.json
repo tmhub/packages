@@ -17315,18 +17315,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "26343277b62c1cb776a79a99d4a13682c2fff13b"
+                    "reference": "2634b84a67ab0c87431608c2aa4e7f397c291d03"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/26343277b62c1cb776a79a99d4a13682c2fff13b",
-                    "reference": "26343277b62c1cb776a79a99d4a13682c2fff13b",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2634b84a67ab0c87431608c2aa4e7f397c291d03",
+                    "reference": "2634b84a67ab0c87431608c2aa4e7f397c291d03",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-12-15T09:45:58+00:00",
+                "time": "2018-02-01T16:00:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -17349,7 +17349,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.1.6",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
@@ -33292,6 +33292,43 @@
                 "support": {
                     "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            }
+        },
+        "tm/storepickup": {
+            "dev-master": {
+                "name": "tm/storepickup",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/storepickup.git",
+                    "reference": "743a1ab162c43c67fdc71c367dc7ed8415c150d3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/storepickup/zipball/743a1ab162c43c67fdc71c367dc7ed8415c150d3",
+                    "reference": "743a1ab162c43c67fdc71c367dc7ed8415c150d3",
+                    "shasum": ""
+                },
+                "time": "2018-02-01T15:37:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Simplest Store Pickup for Magento1",
+                "keywords": [
+                    "store pickup"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/storepickup/tree/master",
+                    "issues": "https://github.com/tmhub/storepickup/issues"
                 }
             }
         },
