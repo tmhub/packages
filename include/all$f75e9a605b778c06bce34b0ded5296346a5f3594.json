@@ -6694,12 +6694,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "ddb8f21b1429adfc06157a1fb252381f5ecbdc15"
+                    "reference": "19bd5a93987bbb14255803d6ecf7ea709945310c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/ddb8f21b1429adfc06157a1fb252381f5ecbdc15",
-                    "reference": "ddb8f21b1429adfc06157a1fb252381f5ecbdc15",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/19bd5a93987bbb14255803d6ecf7ea709945310c",
+                    "reference": "19bd5a93987bbb14255803d6ecf7ea709945310c",
                     "shasum": ""
                 },
                 "require": {
@@ -6728,7 +6728,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-01-31T08:43:30+00:00",
+                "time": "2018-02-01T12:52:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -6848,12 +6848,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento_firecheckout.git",
-                    "reference": "4bf6742fb6bef2e3f22d40320ab2274712602948"
+                    "reference": "214abff9fe3be9d4711ed41b8c31e3a05879fea0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/4bf6742fb6bef2e3f22d40320ab2274712602948",
-                    "reference": "4bf6742fb6bef2e3f22d40320ab2274712602948",
+                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/214abff9fe3be9d4711ed41b8c31e3a05879fea0",
+                    "reference": "214abff9fe3be9d4711ed41b8c31e3a05879fea0",
                     "shasum": ""
                 },
                 "require": {
@@ -6874,7 +6874,7 @@
                     "tm/secure": "*",
                     "tm/socialsuite": "*"
                 },
-                "time": "2018-01-31T15:02:53+00:00",
+                "time": "2018-02-01T15:47:11+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9236,7 +9236,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -9281,7 +9281,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11689,7 +11689,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/master",
+                    "source": "https://github.com/tmhub/core/tree/1.6.0",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -12313,19 +12313,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "fdc40bef197e8bbeefbbc4dbbf564d381f8490b4"
+                    "reference": "d0b774332228c98d21b3a1bde101d7f590b6185f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/fdc40bef197e8bbeefbbc4dbbf564d381f8490b4",
-                    "reference": "fdc40bef197e8bbeefbbc4dbbf564d381f8490b4",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/d0b774332228c98d21b3a1bde101d7f590b6185f",
+                    "reference": "d0b774332228c98d21b3a1bde101d7f590b6185f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2017-11-29T08:03:51+00:00",
+                "time": "2018-02-01T14:26:04+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23288,18 +23288,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "f375cbcc3d282a94bdfa2f78c9a357ae2aa0ee65"
+                    "reference": "e990512a0d5f97e215ee3f122fbef091eb372358"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/f375cbcc3d282a94bdfa2f78c9a357ae2aa0ee65",
-                    "reference": "f375cbcc3d282a94bdfa2f78c9a357ae2aa0ee65",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/e990512a0d5f97e215ee3f122fbef091eb372358",
+                    "reference": "e990512a0d5f97e215ee3f122fbef091eb372358",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-01-31T08:42:59+00:00",
+                "time": "2018-02-01T12:48:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28067,7 +28067,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
