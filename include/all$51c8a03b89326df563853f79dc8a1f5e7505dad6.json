@@ -435,19 +435,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "d12950750af88190f99eb6b1862068371556e699"
+                    "reference": "58b636972b81d6aeb9bfd1b2a947bac67670d367"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/d12950750af88190f99eb6b1862068371556e699",
-                    "reference": "d12950750af88190f99eb6b1862068371556e699",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/58b636972b81d6aeb9bfd1b2a947bac67670d367",
+                    "reference": "58b636972b81d6aeb9bfd1b2a947bac67670d367",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-01-11T14:20:14+00:00",
+                "time": "2018-02-02T08:56:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9236,7 +9236,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -9281,7 +9281,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11689,7 +11689,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.0",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -21095,12 +21095,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "978b8d4ef97e5ef08dc37279cab36afa8d099d39"
+                    "reference": "40d4b2fcaecb79c68dfd0071975abd48369eef60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/978b8d4ef97e5ef08dc37279cab36afa8d099d39",
-                    "reference": "978b8d4ef97e5ef08dc37279cab36afa8d099d39",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/40d4b2fcaecb79c68dfd0071975abd48369eef60",
+                    "reference": "40d4b2fcaecb79c68dfd0071975abd48369eef60",
                     "shasum": ""
                 },
                 "require": {
@@ -21109,7 +21109,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-02-01T12:29:36+00:00",
+                "time": "2018-02-02T08:48:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -21143,12 +21143,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "978b8d4ef97e5ef08dc37279cab36afa8d099d39"
+                    "reference": "40d4b2fcaecb79c68dfd0071975abd48369eef60"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/978b8d4ef97e5ef08dc37279cab36afa8d099d39",
-                    "reference": "978b8d4ef97e5ef08dc37279cab36afa8d099d39",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/40d4b2fcaecb79c68dfd0071975abd48369eef60",
+                    "reference": "40d4b2fcaecb79c68dfd0071975abd48369eef60",
                     "shasum": ""
                 },
                 "require": {
@@ -21157,7 +21157,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-02-01T12:29:36+00:00",
+                "time": "2018-02-02T08:48:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -28067,7 +28067,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
