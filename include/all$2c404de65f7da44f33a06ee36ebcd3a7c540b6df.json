@@ -6694,12 +6694,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "19bd5a93987bbb14255803d6ecf7ea709945310c"
+                    "reference": "e8a94f37972c3749eef3db1d4ddf02f998b141d1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/19bd5a93987bbb14255803d6ecf7ea709945310c",
-                    "reference": "19bd5a93987bbb14255803d6ecf7ea709945310c",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e8a94f37972c3749eef3db1d4ddf02f998b141d1",
+                    "reference": "e8a94f37972c3749eef3db1d4ddf02f998b141d1",
                     "shasum": ""
                 },
                 "require": {
@@ -6728,7 +6728,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-02-01T12:52:11+00:00",
+                "time": "2018-02-07T16:03:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -6848,12 +6848,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento_firecheckout.git",
-                    "reference": "01f878406a68bfaccd3adb72742eff8cb11b988b"
+                    "reference": "5bf100a105a50c35fe2a636c56dd66c5adf3dc02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/01f878406a68bfaccd3adb72742eff8cb11b988b",
-                    "reference": "01f878406a68bfaccd3adb72742eff8cb11b988b",
+                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/5bf100a105a50c35fe2a636c56dd66c5adf3dc02",
+                    "reference": "5bf100a105a50c35fe2a636c56dd66c5adf3dc02",
                     "shasum": ""
                 },
                 "require": {
@@ -6874,7 +6874,7 @@
                     "tm/secure": "*",
                     "tm/socialsuite": "*"
                 },
-                "time": "2018-02-05T12:51:04+00:00",
+                "time": "2018-02-08T07:29:47+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -17315,18 +17315,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "b36c513d1a7f7820795b0e190b27e8c65af193c8"
+                    "reference": "8141ed13e882adb6115ce52dcfcf3b245360fb52"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/b36c513d1a7f7820795b0e190b27e8c65af193c8",
-                    "reference": "b36c513d1a7f7820795b0e190b27e8c65af193c8",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8141ed13e882adb6115ce52dcfcf3b245360fb52",
+                    "reference": "8141ed13e882adb6115ce52dcfcf3b245360fb52",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-02T15:05:21+00:00",
+                "time": "2018-02-07T15:54:48+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24511,19 +24511,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "0ba86ccf06a903595686ff6609f294a3b226737c"
+                    "reference": "fbb7bad07b30a4ad277c447513198ac0eed998ab"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/0ba86ccf06a903595686ff6609f294a3b226737c",
-                    "reference": "0ba86ccf06a903595686ff6609f294a3b226737c",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/fbb7bad07b30a4ad277c447513198ac0eed998ab",
+                    "reference": "fbb7bad07b30a4ad277c447513198ac0eed998ab",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2017-10-02T13:22:46+00:00",
+                "time": "2018-02-06T14:19:23+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24537,7 +24537,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.2.5",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
@@ -25521,18 +25521,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996"
+                    "reference": "a76a01a34598f0425390c6d2b9d633a9318d87dd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/dc30205fb1b1459c0d7827930f14b11a2c7e6996",
-                    "reference": "dc30205fb1b1459c0d7827930f14b11a2c7e6996",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/a76a01a34598f0425390c6d2b9d633a9318d87dd",
+                    "reference": "a76a01a34598f0425390c6d2b9d633a9318d87dd",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-08-23T14:38:50+00:00",
+                "time": "2018-02-06T13:13:01+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25546,7 +25546,7 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/1.5.5",
+                    "source": "https://github.com/tmhub/navigationpro/tree/master",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
