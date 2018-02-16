@@ -6732,12 +6732,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "7d885249bf78375905dcf28b9159edfd760d29aa"
+                    "reference": "3bd598dd481f903321879a6b723e70240cbdbf7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/7d885249bf78375905dcf28b9159edfd760d29aa",
-                    "reference": "7d885249bf78375905dcf28b9159edfd760d29aa",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/3bd598dd481f903321879a6b723e70240cbdbf7a",
+                    "reference": "3bd598dd481f903321879a6b723e70240cbdbf7a",
                     "shasum": ""
                 },
                 "require": {
@@ -6766,7 +6766,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-02-15T22:20:45+00:00",
+                "time": "2018-02-16T12:18:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -6849,7 +6849,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.9.6",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -9374,7 +9374,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -9419,7 +9419,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11827,7 +11827,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.0",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -28431,7 +28431,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
