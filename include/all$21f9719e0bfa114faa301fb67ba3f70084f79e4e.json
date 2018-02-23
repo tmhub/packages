@@ -428,26 +428,26 @@
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
-            "dev-master": {
+            "1.2.5": {
                 "name": "tm/abandoned",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "58b636972b81d6aeb9bfd1b2a947bac67670d367"
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/58b636972b81d6aeb9bfd1b2a947bac67670d367",
-                    "reference": "58b636972b81d6aeb9bfd1b2a947bac67670d367",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/da40d62bb7090550647baa5828c48682e150ac93",
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-02-02T08:56:42+00:00",
+                "time": "2018-02-22T08:59:02+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -461,7 +461,44 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.5",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/abandoned",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/da40d62bb7090550647baa5828c48682e150ac93",
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-02-22T08:59:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.5",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             }
@@ -6785,7 +6822,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.9.6",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -6796,12 +6833,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "3bd598dd481f903321879a6b723e70240cbdbf7a"
+                    "reference": "f7bca7c3ce3e3f6e64687446601c31be6f7cb18b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/3bd598dd481f903321879a6b723e70240cbdbf7a",
-                    "reference": "3bd598dd481f903321879a6b723e70240cbdbf7a",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/f7bca7c3ce3e3f6e64687446601c31be6f7cb18b",
+                    "reference": "f7bca7c3ce3e3f6e64687446601c31be6f7cb18b",
                     "shasum": ""
                 },
                 "require": {
@@ -6830,7 +6867,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-02-16T12:18:39+00:00",
+                "time": "2018-02-21T15:52:58+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -14677,18 +14714,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "cabe9ddf65757b8de7f8d9c47240fbd9ba106d3d"
+                    "reference": "ad10836c603d2c073d4b93298e37d1a30c1892db"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/cabe9ddf65757b8de7f8d9c47240fbd9ba106d3d",
-                    "reference": "cabe9ddf65757b8de7f8d9c47240fbd9ba106d3d",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/ad10836c603d2c073d4b93298e37d1a30c1892db",
+                    "reference": "ad10836c603d2c073d4b93298e37d1a30c1892db",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-08-25T08:44:15+00:00",
+                "time": "2018-02-23T10:32:11+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22711,19 +22748,19 @@
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
-            "dev-master": {
+            "1.7.5": {
                 "name": "tm/helpdesk",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.5",
+                "version_normalized": "1.7.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "1322567c1f2feecacb419169d868cd2f0af77077"
+                    "reference": "48c9755d997d0fa06c057ef1290f730a731314dc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/1322567c1f2feecacb419169d868cd2f0af77077",
-                    "reference": "1322567c1f2feecacb419169d868cd2f0af77077",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/48c9755d997d0fa06c057ef1290f730a731314dc",
+                    "reference": "48c9755d997d0fa06c057ef1290f730a731314dc",
                     "shasum": ""
                 },
                 "require": {
@@ -22733,7 +22770,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2018-02-19T10:07:34+00:00",
+                "time": "2018-02-22T09:17:27+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22747,7 +22784,47 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/master",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.5",
+                    "issues": "https://github.com/tmhub/helpdesk/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/helpdesk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/helpdesk.git",
+                    "reference": "48c9755d997d0fa06c057ef1290f730a731314dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/48c9755d997d0fa06c057ef1290f730a731314dc",
+                    "reference": "48c9755d997d0fa06c057ef1290f730a731314dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/knowledge-base": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2018-02-22T09:17:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Helpdesk module",
+                "homepage": "https://github.com/tmhub/helpdesk",
+                "support": {
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.5",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
@@ -27428,12 +27505,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "03baf2762cfcaba31b8f7d1c711df3ec2fde5abd"
+                    "reference": "eb4ed4f62103a3c9e862805832c49d8f35cb2ff7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/03baf2762cfcaba31b8f7d1c711df3ec2fde5abd",
-                    "reference": "03baf2762cfcaba31b8f7d1c711df3ec2fde5abd",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/eb4ed4f62103a3c9e862805832c49d8f35cb2ff7",
+                    "reference": "eb4ed4f62103a3c9e862805832c49d8f35cb2ff7",
                     "shasum": ""
                 },
                 "require": {
@@ -27442,7 +27519,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2018-01-24T12:55:00+00:00",
+                "time": "2018-02-19T13:47:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -27465,7 +27542,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.0",
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
