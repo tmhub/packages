@@ -472,19 +472,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "38f770a844ebed73970a16020e40b85ae4911d2d"
+                    "reference": "4e97b7bfa5c1b2f6c1021badc34be67695101006"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/38f770a844ebed73970a16020e40b85ae4911d2d",
-                    "reference": "38f770a844ebed73970a16020e40b85ae4911d2d",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/4e97b7bfa5c1b2f6c1021badc34be67695101006",
+                    "reference": "4e97b7bfa5c1b2f6c1021badc34be67695101006",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-03-27T15:09:40+00:00",
+                "time": "2018-03-30T11:33:52+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -18096,18 +18096,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "e85101295a0f58ebd5d82c91340e0bb50da5afe6"
+                    "reference": "130b86c650c30afe8c6863894ac74a66e443ab47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/e85101295a0f58ebd5d82c91340e0bb50da5afe6",
-                    "reference": "e85101295a0f58ebd5d82c91340e0bb50da5afe6",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/130b86c650c30afe8c6863894ac74a66e443ab47",
+                    "reference": "130b86c650c30afe8c6863894ac74a66e443ab47",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-12-15T09:33:44+00:00",
+                "time": "2018-03-30T14:30:18+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -18121,7 +18121,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.9",
+                    "source": "https://github.com/tmhub/email/tree/master",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
