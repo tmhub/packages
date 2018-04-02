@@ -472,19 +472,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "4e97b7bfa5c1b2f6c1021badc34be67695101006"
+                    "reference": "c15018872544930f34422f70e930a6549f07d54a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/4e97b7bfa5c1b2f6c1021badc34be67695101006",
-                    "reference": "4e97b7bfa5c1b2f6c1021badc34be67695101006",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/c15018872544930f34422f70e930a6549f07d54a",
+                    "reference": "c15018872544930f34422f70e930a6549f07d54a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-03-30T11:33:52+00:00",
+                "time": "2018-04-02T12:27:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14896,25 +14896,25 @@
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             },
-            "dev-master": {
+            "2.1.5": {
                 "name": "tm/easycolorswatches",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "ad10836c603d2c073d4b93298e37d1a30c1892db"
+                    "reference": "3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/ad10836c603d2c073d4b93298e37d1a30c1892db",
-                    "reference": "ad10836c603d2c073d4b93298e37d1a30c1892db",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43",
+                    "reference": "3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-23T10:32:11+00:00",
+                "time": "2018-04-02T14:12:24+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14928,7 +14928,43 @@
                 "description": "Attribute Swatches for Magento",
                 "homepage": "https://github.com/tmhub/easycolorswatches",
                 "support": {
-                    "source": "https://github.com/tmhub/easycolorswatches/tree/master",
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.5",
+                    "issues": "https://github.com/tmhub/easycolorswatches/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycolorswatches",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easycolorswatches.git",
+                    "reference": "3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43",
+                    "reference": "3fc9f77d23acc0ac0c1499cfb2aab2b1fbeafd43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-04-02T14:12:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute Swatches for Magento",
+                "homepage": "https://github.com/tmhub/easycolorswatches",
+                "support": {
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.5",
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             }
@@ -18096,18 +18132,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "130b86c650c30afe8c6863894ac74a66e443ab47"
+                    "reference": "ae384db7662a10bcbd370a49fa491d48c45ad7f1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/130b86c650c30afe8c6863894ac74a66e443ab47",
-                    "reference": "130b86c650c30afe8c6863894ac74a66e443ab47",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/ae384db7662a10bcbd370a49fa491d48c45ad7f1",
+                    "reference": "ae384db7662a10bcbd370a49fa491d48c45ad7f1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-03-30T14:30:18+00:00",
+                "time": "2018-04-02T14:09:14+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24039,18 +24075,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/hover-gallery.git",
-                    "reference": "88dce096baece816fc1e0d118f3e7392b32aed85"
+                    "reference": "5002e0fc0531c2af7ac97ff784b260da859ced4d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/hover-gallery/zipball/88dce096baece816fc1e0d118f3e7392b32aed85",
-                    "reference": "88dce096baece816fc1e0d118f3e7392b32aed85",
+                    "url": "https://api.github.com/repos/tmhub/hover-gallery/zipball/5002e0fc0531c2af7ac97ff784b260da859ced4d",
+                    "reference": "5002e0fc0531c2af7ac97ff784b260da859ced4d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-15T20:58:04+00:00",
+                "time": "2018-04-02T08:38:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24064,7 +24100,7 @@
                 "description": "Product image hover gallery",
                 "homepage": "https://github.com/tmhub/hover-gallery",
                 "support": {
-                    "source": "https://github.com/tmhub/hover-gallery/tree/1.0.3",
+                    "source": "https://github.com/tmhub/hover-gallery/tree/master",
                     "issues": "https://github.com/tmhub/hover-gallery/issues"
                 }
             }
@@ -33307,18 +33343,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "19c25543f6d7706cf983f00f82a8583c2c93c2b7"
+                    "reference": "f1f98660519138118502c3e023fb2127efb04deb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/19c25543f6d7706cf983f00f82a8583c2c93c2b7",
-                    "reference": "19c25543f6d7706cf983f00f82a8583c2c93c2b7",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/f1f98660519138118502c3e023fb2127efb04deb",
+                    "reference": "f1f98660519138118502c3e023fb2127efb04deb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-03-27T07:39:25+00:00",
+                "time": "2018-04-02T08:35:43+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
