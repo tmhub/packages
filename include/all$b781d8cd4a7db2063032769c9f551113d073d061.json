@@ -9455,7 +9455,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -9500,7 +9500,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -11908,7 +11908,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.0",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -14386,7 +14386,7 @@
                 "description": "Subcategories listing with images",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.4.4",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
@@ -24113,18 +24113,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/imagemin.git",
-                    "reference": "818cb240458467ba1ea6c133a0e62df41e2bc5f0"
+                    "reference": "d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/818cb240458467ba1ea6c133a0e62df41e2bc5f0",
-                    "reference": "818cb240458467ba1ea6c133a0e62df41e2bc5f0",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c",
+                    "reference": "d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-04-04T11:18:58+00:00",
+                "time": "2018-04-04T15:09:38+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27900,12 +27900,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "36fcab015a35ae7a24003a1c6a71a980587dc954"
+                    "reference": "5656f435025c5dd4bf0fccd62a7da6eb1457e0a4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/36fcab015a35ae7a24003a1c6a71a980587dc954",
-                    "reference": "36fcab015a35ae7a24003a1c6a71a980587dc954",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/5656f435025c5dd4bf0fccd62a7da6eb1457e0a4",
+                    "reference": "5656f435025c5dd4bf0fccd62a7da6eb1457e0a4",
                     "shasum": ""
                 },
                 "require": {
@@ -27914,7 +27914,7 @@
                     "tm/defer-js": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2018-03-16T15:14:43+00:00",
+                "time": "2018-04-04T15:10:02+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -27937,7 +27937,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.1",
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
@@ -28903,7 +28903,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
