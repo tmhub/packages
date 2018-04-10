@@ -36532,18 +36532,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "1e94295080e2da6f6211ac9d3a33ef018a67e90a"
+                    "reference": "71195c59966723504750d5530c6cea07eacb1e06"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/1e94295080e2da6f6211ac9d3a33ef018a67e90a",
-                    "reference": "1e94295080e2da6f6211ac9d3a33ef018a67e90a",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/71195c59966723504750d5530c6cea07eacb1e06",
+                    "reference": "71195c59966723504750d5530c6cea07eacb1e06",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-15T22:04:38+00:00",
+                "time": "2018-04-10T13:42:07+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -36557,7 +36557,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/1.2.4",
+                    "source": "https://github.com/tmhub/testimonials/tree/master",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             }
