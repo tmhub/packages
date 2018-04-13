@@ -12018,15 +12018,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "0596f6c8a97b823f9f40e7cb27fde63643f8500d"
+                    "reference": "864574df5c1a0d7bd0af3bc740fc468ba883c332"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/0596f6c8a97b823f9f40e7cb27fde63643f8500d",
-                    "reference": "0596f6c8a97b823f9f40e7cb27fde63643f8500d",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/864574df5c1a0d7bd0af3bc740fc468ba883c332",
+                    "reference": "864574df5c1a0d7bd0af3bc740fc468ba883c332",
                     "shasum": ""
                 },
-                "time": "2017-10-27T09:14:39+00:00",
+                "time": "2018-04-13T06:39:41+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12040,7 +12040,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.3",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
@@ -21672,12 +21672,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "e314b2520d796a9b4530ca0a69dbc5324276111c"
+                    "reference": "094acadd8b92a679c557b8ff8827d59169da6e8a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e314b2520d796a9b4530ca0a69dbc5324276111c",
-                    "reference": "e314b2520d796a9b4530ca0a69dbc5324276111c",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/094acadd8b92a679c557b8ff8827d59169da6e8a",
+                    "reference": "094acadd8b92a679c557b8ff8827d59169da6e8a",
                     "shasum": ""
                 },
                 "require": {
@@ -21686,7 +21686,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-04-11T13:43:54+00:00",
+                "time": "2018-04-13T12:25:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
