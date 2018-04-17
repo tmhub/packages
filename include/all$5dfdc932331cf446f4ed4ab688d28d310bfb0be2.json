@@ -465,26 +465,26 @@
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
-            "dev-master": {
+            "1.2.6": {
                 "name": "tm/abandoned",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "c15018872544930f34422f70e930a6549f07d54a"
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/c15018872544930f34422f70e930a6549f07d54a",
-                    "reference": "c15018872544930f34422f70e930a6549f07d54a",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-04-02T12:27:33+00:00",
+                "time": "2018-04-17T08:26:08+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -498,7 +498,44 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.6",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/abandoned",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-04-17T08:26:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.6",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             }
@@ -17873,6 +17910,42 @@
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             },
+            "1.1.10": {
+                "name": "tm/email",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/email.git",
+                    "reference": "ae384db7662a10bcbd370a49fa491d48c45ad7f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/ae384db7662a10bcbd370a49fa491d48c45ad7f1",
+                    "reference": "ae384db7662a10bcbd370a49fa491d48c45ad7f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-04-02T14:09:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Email module",
+                "homepage": "https://github.com/tmhub/email",
+                "support": {
+                    "source": "https://github.com/tmhub/email/tree/master",
+                    "issues": "https://github.com/tmhub/email/issues"
+                }
+            },
             "1.1.2": {
                 "name": "tm/email",
                 "version": "1.1.2",
@@ -21672,12 +21745,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "57fff3eb093f8d1935c0284d62c90a7d9cdba541"
+                    "reference": "e9e6be206f7724d36b8de25109ef36c1773a600f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/57fff3eb093f8d1935c0284d62c90a7d9cdba541",
-                    "reference": "57fff3eb093f8d1935c0284d62c90a7d9cdba541",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e9e6be206f7724d36b8de25109ef36c1773a600f",
+                    "reference": "e9e6be206f7724d36b8de25109ef36c1773a600f",
                     "shasum": ""
                 },
                 "require": {
@@ -21686,7 +21759,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-04-16T07:58:33+00:00",
+                "time": "2018-04-17T07:31:27+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
