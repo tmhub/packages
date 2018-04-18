@@ -990,18 +990,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/affiliatesuite.git",
-                    "reference": "74ba6db258fc46c02de727ff5ceadbb5b5a667f3"
+                    "reference": "5b088ce383d398674dda1e9976947ba83b12ceca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/74ba6db258fc46c02de727ff5ceadbb5b5a667f3",
-                    "reference": "74ba6db258fc46c02de727ff5ceadbb5b5a667f3",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/5b088ce383d398674dda1e9976947ba83b12ceca",
+                    "reference": "5b088ce383d398674dda1e9976947ba83b12ceca",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-26T09:29:06+00:00",
+                "time": "2018-04-18T11:36:56+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1015,7 +1015,7 @@
                 "description": "Templates Master Affiliate Suite module",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.1",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/master",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             }
@@ -6914,12 +6914,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "1d8561b8a13c61c4c503c4b69120928bf8f1e824"
+                    "reference": "f5ced9498676f7ec3ee946fc988b7de285218274"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/1d8561b8a13c61c4c503c4b69120928bf8f1e824",
-                    "reference": "1d8561b8a13c61c4c503c4b69120928bf8f1e824",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/f5ced9498676f7ec3ee946fc988b7de285218274",
+                    "reference": "f5ced9498676f7ec3ee946fc988b7de285218274",
                     "shasum": ""
                 },
                 "require": {
@@ -6948,7 +6948,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-03-09T10:23:08+00:00",
+                "time": "2018-04-18T14:42:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -13189,15 +13189,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "b631ce6a31295242f7ddb8916b6823fb317c4e47"
+                    "reference": "2b4300f082f9601f18b5f459dc985918886921f4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/b631ce6a31295242f7ddb8916b6823fb317c4e47",
-                    "reference": "b631ce6a31295242f7ddb8916b6823fb317c4e47",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/2b4300f082f9601f18b5f459dc985918886921f4",
+                    "reference": "2b4300f082f9601f18b5f459dc985918886921f4",
                     "shasum": ""
                 },
-                "time": "2017-12-27T12:50:23+00:00",
+                "time": "2018-04-18T13:48:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21745,12 +21745,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "e9e6be206f7724d36b8de25109ef36c1773a600f"
+                    "reference": "b0c36a80c477101218b065216410fa4ea3061ace"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e9e6be206f7724d36b8de25109ef36c1773a600f",
-                    "reference": "e9e6be206f7724d36b8de25109ef36c1773a600f",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/b0c36a80c477101218b065216410fa4ea3061ace",
+                    "reference": "b0c36a80c477101218b065216410fa4ea3061ace",
                     "shasum": ""
                 },
                 "require": {
@@ -21759,7 +21759,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-04-17T07:31:27+00:00",
+                "time": "2018-04-18T14:54:17+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
