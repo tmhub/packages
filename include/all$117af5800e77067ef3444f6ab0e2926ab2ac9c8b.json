@@ -12861,18 +12861,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-css.git",
-                    "reference": "434b7f09fc5a877a619ec161d88e1f58559b39d7"
+                    "reference": "89bc7b72d045d3a45f81a2774d4646a40ab77a66"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/434b7f09fc5a877a619ec161d88e1f58559b39d7",
-                    "reference": "434b7f09fc5a877a619ec161d88e1f58559b39d7",
+                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/89bc7b72d045d3a45f81a2774d4646a40ab77a66",
+                    "reference": "89bc7b72d045d3a45f81a2774d4646a40ab77a66",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-03-16T14:46:42+00:00",
+                "time": "2018-04-25T08:49:11+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12886,7 +12886,7 @@
                 "description": "Templates Master Optimise css delivery module",
                 "homepage": "https://github.com/tmhub/defer-css",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-css/tree/1.2.3",
+                    "source": "https://github.com/tmhub/defer-css/tree/master",
                     "issues": "https://github.com/tmhub/defer-css/issues"
                 }
             }
