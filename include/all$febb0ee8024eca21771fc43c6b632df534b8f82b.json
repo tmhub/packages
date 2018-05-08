@@ -6914,12 +6914,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "8c572b3e5db31b0e97c50d3f3512b7fe88a2bd73"
+                    "reference": "f110ec65474e2b847f5f19dfab2e012f4f98b861"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/8c572b3e5db31b0e97c50d3f3512b7fe88a2bd73",
-                    "reference": "8c572b3e5db31b0e97c50d3f3512b7fe88a2bd73",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/f110ec65474e2b847f5f19dfab2e012f4f98b861",
+                    "reference": "f110ec65474e2b847f5f19dfab2e012f4f98b861",
                     "shasum": ""
                 },
                 "require": {
@@ -6948,7 +6948,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-05-02T15:01:41+00:00",
+                "time": "2018-05-08T13:34:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -7030,18 +7030,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-onia.git",
-                    "reference": "a28f632833448ccd600df338df5a337fd02711e2"
+                    "reference": "8fdfdfa8b45408fb38679b720520c1c2846e2aad"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-onia/zipball/a28f632833448ccd600df338df5a337fd02711e2",
-                    "reference": "a28f632833448ccd600df338df5a337fd02711e2",
+                    "url": "https://api.github.com/repos/argento/argento-onia/zipball/8fdfdfa8b45408fb38679b720520c1c2846e2aad",
+                    "reference": "8fdfdfa8b45408fb38679b720520c1c2846e2aad",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-05-07T14:44:43+00:00",
+                "time": "2018-05-08T14:53:54+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21783,12 +21783,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "b0c36a80c477101218b065216410fa4ea3061ace"
+                    "reference": "db9bca8e994f7e4b68167534b6bd16efc6abbeb6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/b0c36a80c477101218b065216410fa4ea3061ace",
-                    "reference": "b0c36a80c477101218b065216410fa4ea3061ace",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/db9bca8e994f7e4b68167534b6bd16efc6abbeb6",
+                    "reference": "db9bca8e994f7e4b68167534b6bd16efc6abbeb6",
                     "shasum": ""
                 },
                 "require": {
@@ -21797,7 +21797,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-04-18T14:54:17+00:00",
+                "time": "2018-05-08T11:48:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
