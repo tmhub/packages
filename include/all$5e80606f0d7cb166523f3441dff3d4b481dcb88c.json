@@ -17984,6 +17984,42 @@
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             },
+            "1.1.11": {
+                "name": "tm/email",
+                "version": "1.1.11",
+                "version_normalized": "1.1.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/email.git",
+                    "reference": "4bd059474baebc5850a06991c90b94b6cae61d1d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/4bd059474baebc5850a06991c90b94b6cae61d1d",
+                    "reference": "4bd059474baebc5850a06991c90b94b6cae61d1d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-04-27T15:22:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Email module",
+                "homepage": "https://github.com/tmhub/email",
+                "support": {
+                    "source": "https://github.com/tmhub/email/tree/master",
+                    "issues": "https://github.com/tmhub/email/issues"
+                }
+            },
             "1.1.2": {
                 "name": "tm/email",
                 "version": "1.1.2",
@@ -28073,6 +28109,55 @@
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
                     "source": "https://github.com/tmhub/pagespeed/tree/1.3.1",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
+            "1.3.2": {
+                "name": "tm/pagespeed",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "34bcdf4b9897be7245fb8133ee8f176cf66fd6e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/34bcdf4b9897be7245fb8133ee8f176cf66fd6e4",
+                    "reference": "34bcdf4b9897be7245fb8133ee8f176cf66fd6e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/imagemin": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2018-04-27T11:58:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
