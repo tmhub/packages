@@ -7030,18 +7030,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-onia.git",
-                    "reference": "8fdfdfa8b45408fb38679b720520c1c2846e2aad"
+                    "reference": "fc16e766bce189a252fed4a80f432d0e573f51ea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-onia/zipball/8fdfdfa8b45408fb38679b720520c1c2846e2aad",
-                    "reference": "8fdfdfa8b45408fb38679b720520c1c2846e2aad",
+                    "url": "https://api.github.com/repos/argento/argento-onia/zipball/fc16e766bce189a252fed4a80f432d0e573f51ea",
+                    "reference": "fc16e766bce189a252fed4a80f432d0e573f51ea",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-05-08T14:53:54+00:00",
+                "time": "2018-05-10T12:25:57+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -21812,19 +21812,19 @@
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
-            "dev-master": {
+            "4.3.2": {
                 "name": "tm/firecheckout",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "db9bca8e994f7e4b68167534b6bd16efc6abbeb6"
+                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/db9bca8e994f7e4b68167534b6bd16efc6abbeb6",
-                    "reference": "db9bca8e994f7e4b68167534b6bd16efc6abbeb6",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a826ddd4565e445c57363c7e7cf737140570c26b",
+                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b",
                     "shasum": ""
                 },
                 "require": {
@@ -21833,7 +21833,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-05-08T11:48:09+00:00",
+                "time": "2018-05-10T14:03:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -21856,7 +21856,55 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/master",
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.2",
+                    "issues": "https://github.com/tmhub/firecheckout/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/firecheckout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a826ddd4565e445c57363c7e7cf737140570c26b",
+                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/address-autocomplete": "*",
+                    "tm/checkout-success": "*",
+                    "tm/core": "*",
+                    "tm/orderattachment": "*"
+                },
+                "time": "2018-05-10T14:03:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "http://templates-master.com/magento-one-page-checkout.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/firecheckout/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/firecheckout/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout",
+                "support": {
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.2",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
