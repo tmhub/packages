@@ -10353,18 +10353,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "0c772715cd53c27a56462e18aed3047529147aa7"
+                    "reference": "dcb5d82ca72d0a76154bead6714fcaaa24152b48"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/0c772715cd53c27a56462e18aed3047529147aa7",
-                    "reference": "0c772715cd53c27a56462e18aed3047529147aa7",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/dcb5d82ca72d0a76154bead6714fcaaa24152b48",
+                    "reference": "dcb5d82ca72d0a76154bead6714fcaaa24152b48",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-12-07T08:53:18+00:00",
+                "time": "2018-05-25T08:35:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10378,7 +10378,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/1.4.10",
+                    "source": "https://github.com/tmhub/cache/tree/master",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             }
@@ -21978,12 +21978,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b"
+                    "reference": "f36372e097574f840a7dfa7468d5945d9cabccfc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a826ddd4565e445c57363c7e7cf737140570c26b",
-                    "reference": "a826ddd4565e445c57363c7e7cf737140570c26b",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/f36372e097574f840a7dfa7468d5945d9cabccfc",
+                    "reference": "f36372e097574f840a7dfa7468d5945d9cabccfc",
                     "shasum": ""
                 },
                 "require": {
@@ -21992,7 +21992,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-05-10T14:03:49+00:00",
+                "time": "2018-05-25T12:09:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22015,7 +22015,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.2",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
