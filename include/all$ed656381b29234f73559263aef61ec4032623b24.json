@@ -6958,12 +6958,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "f0b0baa10ebac064a4c9db78e770896d84f2eb9e"
+                    "reference": "f8fb230257bef27cb95e00222978abe9a0236a16"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/f0b0baa10ebac064a4c9db78e770896d84f2eb9e",
-                    "reference": "f0b0baa10ebac064a4c9db78e770896d84f2eb9e",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/f8fb230257bef27cb95e00222978abe9a0236a16",
+                    "reference": "f8fb230257bef27cb95e00222978abe9a0236a16",
                     "shasum": ""
                 },
                 "require": {
@@ -6992,7 +6992,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-06-05T16:15:55+00:00",
+                "time": "2018-06-06T08:43:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -21978,12 +21978,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "f36372e097574f840a7dfa7468d5945d9cabccfc"
+                    "reference": "f3a3606035cc7e97e876bf8aa16dc5dc15db484a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/f36372e097574f840a7dfa7468d5945d9cabccfc",
-                    "reference": "f36372e097574f840a7dfa7468d5945d9cabccfc",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/f3a3606035cc7e97e876bf8aa16dc5dc15db484a",
+                    "reference": "f3a3606035cc7e97e876bf8aa16dc5dc15db484a",
                     "shasum": ""
                 },
                 "require": {
@@ -21992,7 +21992,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-05-25T12:09:39+00:00",
+                "time": "2018-06-06T11:38:50+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22421,18 +22421,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "87f82ef4afa7355713a471dde1a85fc658ee8860"
+                    "reference": "90990a0bf23c6b97ef28e674add549cd66a54e84"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/87f82ef4afa7355713a471dde1a85fc658ee8860",
-                    "reference": "87f82ef4afa7355713a471dde1a85fc658ee8860",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/90990a0bf23c6b97ef28e674add549cd66a54e84",
+                    "reference": "90990a0bf23c6b97ef28e674add549cd66a54e84",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-05T08:33:43+00:00",
+                "time": "2018-06-06T14:15:55+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26801,18 +26801,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "a08e80a386306e6f52b78e51c83be7e21937a8c2"
+                    "reference": "ebe08a4e2edf237340ffe88a85ce78bccbaf0a5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/a08e80a386306e6f52b78e51c83be7e21937a8c2",
-                    "reference": "a08e80a386306e6f52b78e51c83be7e21937a8c2",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/ebe08a4e2edf237340ffe88a85ce78bccbaf0a5a",
+                    "reference": "ebe08a4e2edf237340ffe88a85ce78bccbaf0a5a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-15T21:57:41+00:00",
+                "time": "2018-06-06T15:08:05+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26826,7 +26826,7 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/1.5.6",
+                    "source": "https://github.com/tmhub/navigationpro/tree/master",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
