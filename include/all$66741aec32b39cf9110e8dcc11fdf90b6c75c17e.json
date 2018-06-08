@@ -12168,15 +12168,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "23ebde6f14c99f31fdd5d66ac8eed1281b3108ed"
+                    "reference": "088f8af738c25d4230a65768e9c1704aa06fd1d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/23ebde6f14c99f31fdd5d66ac8eed1281b3108ed",
-                    "reference": "23ebde6f14c99f31fdd5d66ac8eed1281b3108ed",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/088f8af738c25d4230a65768e9c1704aa06fd1d0",
+                    "reference": "088f8af738c25d4230a65768e9c1704aa06fd1d0",
                     "shasum": ""
                 },
-                "time": "2018-05-14T10:53:58+00:00",
+                "time": "2018-06-08T14:37:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15415,18 +15415,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
-                    "reference": "55b0fa8893c49d18ece14ded6b47b902eb2a369e"
+                    "reference": "63ace35a0f05a3809aa7c0f02753f6ecce8b657e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/55b0fa8893c49d18ece14ded6b47b902eb2a369e",
-                    "reference": "55b0fa8893c49d18ece14ded6b47b902eb2a369e",
+                    "url": "https://api.github.com/repos/tmhub/easyflags/zipball/63ace35a0f05a3809aa7c0f02753f6ecce8b657e",
+                    "reference": "63ace35a0f05a3809aa7c0f02753f6ecce8b657e",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-07-14T07:49:40+00:00",
+                "time": "2018-06-08T14:59:20+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15440,7 +15440,7 @@
                 "description": "EasyFlags",
                 "homepage": "https://github.com/tmhub/easyflags",
                 "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/3.1.0",
+                    "source": "https://github.com/tmhub/easyflags/tree/master",
                     "issues": "https://github.com/tmhub/easyflags/issues"
                 }
             }
@@ -22421,18 +22421,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "a53079114bbfb0c4346d9fa127f3d5fcb8d80e88"
+                    "reference": "71dca703c9140c2258cada3b5853ea2061b52d24"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/a53079114bbfb0c4346d9fa127f3d5fcb8d80e88",
-                    "reference": "a53079114bbfb0c4346d9fa127f3d5fcb8d80e88",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/71dca703c9140c2258cada3b5853ea2061b52d24",
+                    "reference": "71dca703c9140c2258cada3b5853ea2061b52d24",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-07T08:54:01+00:00",
+                "time": "2018-06-08T13:00:22+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
