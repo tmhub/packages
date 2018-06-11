@@ -12168,15 +12168,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "088f8af738c25d4230a65768e9c1704aa06fd1d0"
+                    "reference": "22911c6446d07074b4358feab4d5ae4e115ee18d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/088f8af738c25d4230a65768e9c1704aa06fd1d0",
-                    "reference": "088f8af738c25d4230a65768e9c1704aa06fd1d0",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/22911c6446d07074b4358feab4d5ae4e115ee18d",
+                    "reference": "22911c6446d07074b4358feab4d5ae4e115ee18d",
                     "shasum": ""
                 },
-                "time": "2018-06-08T14:37:50+00:00",
+                "time": "2018-06-11T13:35:48+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13945,18 +13945,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "1cf0b5ec2487d79985272c695843ea226f6122e5"
+                    "reference": "1ebe41c2998cffb3ffc2172293d2a6b09066909b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/1cf0b5ec2487d79985272c695843ea226f6122e5",
-                    "reference": "1cf0b5ec2487d79985272c695843ea226f6122e5",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/1ebe41c2998cffb3ffc2172293d2a6b09066909b",
+                    "reference": "1ebe41c2998cffb3ffc2172293d2a6b09066909b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-28T07:54:01+00:00",
+                "time": "2018-06-11T12:15:25+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -13978,7 +13978,7 @@
                 "description": "Banner management extension",
                 "homepage": "https://github.com/tmhub/easybanner",
                 "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/1.7.3",
+                    "source": "https://github.com/tmhub/easybanner/tree/master",
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             }
@@ -22421,18 +22421,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "71dca703c9140c2258cada3b5853ea2061b52d24"
+                    "reference": "1bb3ce56035e068f24b7bf3fe4e79db575333449"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/71dca703c9140c2258cada3b5853ea2061b52d24",
-                    "reference": "71dca703c9140c2258cada3b5853ea2061b52d24",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/1bb3ce56035e068f24b7bf3fe4e79db575333449",
+                    "reference": "1bb3ce56035e068f24b7bf3fe4e79db575333449",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-08T13:00:22+00:00",
+                "time": "2018-06-11T14:36:07+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25755,19 +25755,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "a1829f18a1e2d71542084362555cc6c68797875a"
+                    "reference": "fbf3bec1602d7a9360cc5537c89bfb3bae5b3528"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/a1829f18a1e2d71542084362555cc6c68797875a",
-                    "reference": "a1829f18a1e2d71542084362555cc6c68797875a",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/fbf3bec1602d7a9360cc5537c89bfb3bae5b3528",
+                    "reference": "fbf3bec1602d7a9360cc5537c89bfb3bae5b3528",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2018-02-15T21:49:12+00:00",
+                "time": "2018-06-11T12:43:24+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25781,7 +25781,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.2.6",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
@@ -29780,18 +29780,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
-                    "reference": "e75a368c36645976f35eaf675a5dbea8dfd259d2"
+                    "reference": "68e4ec824d212d9d2b52dccedde801baabd4f74d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/e75a368c36645976f35eaf675a5dbea8dfd259d2",
-                    "reference": "e75a368c36645976f35eaf675a5dbea8dfd259d2",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/68e4ec824d212d9d2b52dccedde801baabd4f74d",
+                    "reference": "68e4ec824d212d9d2b52dccedde801baabd4f74d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-12-15T12:24:01+00:00",
+                "time": "2018-06-11T13:44:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29805,7 +29805,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.13",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             }
@@ -30003,18 +30003,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
-                    "reference": "ff976143861f8eb770ba30c1b83b4fe715482784"
+                    "reference": "cf24724632c24ba78a18e6c8d79da060e45b3362"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/ff976143861f8eb770ba30c1b83b4fe715482784",
-                    "reference": "ff976143861f8eb770ba30c1b83b4fe715482784",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/cf24724632c24ba78a18e6c8d79da060e45b3362",
+                    "reference": "cf24724632c24ba78a18e6c8d79da060e45b3362",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-09-26T12:21:51+00:00",
+                "time": "2018-06-11T15:00:16+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
