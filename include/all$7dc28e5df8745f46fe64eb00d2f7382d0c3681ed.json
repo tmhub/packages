@@ -6958,12 +6958,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "f8fb230257bef27cb95e00222978abe9a0236a16"
+                    "reference": "eecad027f1f697f5ff2f3cfe47b38a9c72b37001"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/f8fb230257bef27cb95e00222978abe9a0236a16",
-                    "reference": "f8fb230257bef27cb95e00222978abe9a0236a16",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/eecad027f1f697f5ff2f3cfe47b38a9c72b37001",
+                    "reference": "eecad027f1f697f5ff2f3cfe47b38a9c72b37001",
                     "shasum": ""
                 },
                 "require": {
@@ -6992,7 +6992,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-06-06T08:43:56+00:00",
+                "time": "2018-06-12T13:05:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -12168,15 +12168,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "22911c6446d07074b4358feab4d5ae4e115ee18d"
+                    "reference": "b56c29f0dd541949bae859924967148183be9711"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/22911c6446d07074b4358feab4d5ae4e115ee18d",
-                    "reference": "22911c6446d07074b4358feab4d5ae4e115ee18d",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/b56c29f0dd541949bae859924967148183be9711",
+                    "reference": "b56c29f0dd541949bae859924967148183be9711",
                     "shasum": ""
                 },
-                "time": "2018-06-11T13:35:48+00:00",
+                "time": "2018-06-12T07:44:20+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22421,18 +22421,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "1bb3ce56035e068f24b7bf3fe4e79db575333449"
+                    "reference": "613ecc212c989d1b4a87eaaff8fa6767b5bf1057"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/1bb3ce56035e068f24b7bf3fe4e79db575333449",
-                    "reference": "1bb3ce56035e068f24b7bf3fe4e79db575333449",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/613ecc212c989d1b4a87eaaff8fa6767b5bf1057",
+                    "reference": "613ecc212c989d1b4a87eaaff8fa6767b5bf1057",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-11T14:36:07+00:00",
+                "time": "2018-06-12T11:03:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -30003,18 +30003,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
-                    "reference": "cf24724632c24ba78a18e6c8d79da060e45b3362"
+                    "reference": "4b9114e5f954af2d09783e1c079bccc3d440cb8a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/cf24724632c24ba78a18e6c8d79da060e45b3362",
-                    "reference": "cf24724632c24ba78a18e6c8d79da060e45b3362",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/4b9114e5f954af2d09783e1c079bccc3d440cb8a",
+                    "reference": "4b9114e5f954af2d09783e1c079bccc3d440cb8a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-11T15:00:16+00:00",
+                "time": "2018-06-12T07:48:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37038,18 +37038,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "71195c59966723504750d5530c6cea07eacb1e06"
+                    "reference": "247412be60e189041400339cef4e19fc21383dd5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/71195c59966723504750d5530c6cea07eacb1e06",
-                    "reference": "71195c59966723504750d5530c6cea07eacb1e06",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/247412be60e189041400339cef4e19fc21383dd5",
+                    "reference": "247412be60e189041400339cef4e19fc21383dd5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-04-10T13:42:07+00:00",
+                "time": "2018-06-12T07:56:27+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
