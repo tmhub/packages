@@ -9123,18 +9123,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/attributepages.git",
-                    "reference": "e35b821c5eb0e6ec138885acb59948f6f7419769"
+                    "reference": "870c93d88a1e3eaa4d13886de6d5c6aae4a52099"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/e35b821c5eb0e6ec138885acb59948f6f7419769",
-                    "reference": "e35b821c5eb0e6ec138885acb59948f6f7419769",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/870c93d88a1e3eaa4d13886de6d5c6aae4a52099",
+                    "reference": "870c93d88a1e3eaa4d13886de6d5c6aae4a52099",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-07T07:18:32+00:00",
+                "time": "2018-06-13T09:04:49+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24488,25 +24488,25 @@
                     "issues": "https://github.com/tmhub/hover-gallery/issues"
                 }
             },
-            "dev-master": {
+            "1.0.4": {
                 "name": "tm/hover-gallery",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/hover-gallery.git",
-                    "reference": "5002e0fc0531c2af7ac97ff784b260da859ced4d"
+                    "reference": "97e32238ea589f534309c7034b3acc93abb43842"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/hover-gallery/zipball/5002e0fc0531c2af7ac97ff784b260da859ced4d",
-                    "reference": "5002e0fc0531c2af7ac97ff784b260da859ced4d",
+                    "url": "https://api.github.com/repos/tmhub/hover-gallery/zipball/97e32238ea589f534309c7034b3acc93abb43842",
+                    "reference": "97e32238ea589f534309c7034b3acc93abb43842",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-04-02T08:38:00+00:00",
+                "time": "2018-06-13T12:20:53+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24520,7 +24520,43 @@
                 "description": "Product image hover gallery",
                 "homepage": "https://github.com/tmhub/hover-gallery",
                 "support": {
-                    "source": "https://github.com/tmhub/hover-gallery/tree/master",
+                    "source": "https://github.com/tmhub/hover-gallery/tree/1.0.4",
+                    "issues": "https://github.com/tmhub/hover-gallery/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/hover-gallery",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/hover-gallery.git",
+                    "reference": "97e32238ea589f534309c7034b3acc93abb43842"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/hover-gallery/zipball/97e32238ea589f534309c7034b3acc93abb43842",
+                    "reference": "97e32238ea589f534309c7034b3acc93abb43842",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-13T12:20:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product image hover gallery",
+                "homepage": "https://github.com/tmhub/hover-gallery",
+                "support": {
+                    "source": "https://github.com/tmhub/hover-gallery/tree/1.0.4",
                     "issues": "https://github.com/tmhub/hover-gallery/issues"
                 }
             }
@@ -32962,19 +32998,19 @@
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
-            "dev-master": {
+            "0.6.4": {
                 "name": "tm/seo-suite",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.6.4",
+                "version_normalized": "0.6.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95"
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/534f58d0b236ecc101784eaec92405cc5f4d9b95",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
                     "shasum": ""
                 },
                 "require": {
@@ -32983,14 +33019,46 @@
                     "tm/seo-templates": "*",
                     "tm/seo-xml-sitemap": "*"
                 },
-                "time": "2018-02-15T21:58:55+00:00",
+                "time": "2018-06-13T12:12:43+00:00",
                 "type": "metapackage",
                 "license": [
                     "OSL-3.0"
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.3",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.4",
+                    "issues": "https://github.com/tmhub/seo-suite/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/seo-suite",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/richsnippets": "*",
+                    "tm/seo-html-sitemap": "*",
+                    "tm/seo-templates": "*",
+                    "tm/seo-xml-sitemap": "*"
+                },
+                "time": "2018-06-13T12:12:43+00:00",
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "SEO Suite metapackage for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.4",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
@@ -33104,25 +33172,25 @@
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             },
-            "dev-master": {
+            "1.0.3": {
                 "name": "tm/seo-templates",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-templates.git",
-                    "reference": "aed5001831eb3caf331af94edeb036aadfc07579"
+                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/aed5001831eb3caf331af94edeb036aadfc07579",
-                    "reference": "aed5001831eb3caf331af94edeb036aadfc07579",
+                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
+                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2018-03-06T09:10:29+00:00",
+                "time": "2018-06-13T12:09:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33136,7 +33204,43 @@
                 "description": "Generate product and category metadata for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-templates",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-templates/tree/master",
+                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.3",
+                    "issues": "https://github.com/tmhub/seo-templates/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/seo-templates",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-templates.git",
+                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
+                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*"
+                },
+                "time": "2018-06-13T12:09:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Generate product and category metadata for Magento 1.x e-commerce",
+                "homepage": "https://github.com/tmhub/seo-templates",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.3",
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             }
