@@ -22127,12 +22127,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "f3a3606035cc7e97e876bf8aa16dc5dc15db484a"
+                    "reference": "116bb05dd3ec5aa9314920c7155c4ceea2ee8df3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/f3a3606035cc7e97e876bf8aa16dc5dc15db484a",
-                    "reference": "f3a3606035cc7e97e876bf8aa16dc5dc15db484a",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/116bb05dd3ec5aa9314920c7155c4ceea2ee8df3",
+                    "reference": "116bb05dd3ec5aa9314920c7155c4ceea2ee8df3",
                     "shasum": ""
                 },
                 "require": {
@@ -22141,7 +22141,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-06-06T11:38:50+00:00",
+                "time": "2018-06-14T08:20:19+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22570,18 +22570,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "613ecc212c989d1b4a87eaaff8fa6767b5bf1057"
+                    "reference": "04ce23403acaec61477bb8cff90c10b1848d2a26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/613ecc212c989d1b4a87eaaff8fa6767b5bf1057",
-                    "reference": "613ecc212c989d1b4a87eaaff8fa6767b5bf1057",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/04ce23403acaec61477bb8cff90c10b1848d2a26",
+                    "reference": "04ce23403acaec61477bb8cff90c10b1848d2a26",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-12T11:03:12+00:00",
+                "time": "2018-06-14T11:50:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
