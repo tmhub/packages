@@ -3574,25 +3574,25 @@
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
-            "dev-master": {
+            "1.6.7": {
                 "name": "tm/ajax-search",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.7",
+                "version_normalized": "1.6.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "708306453eb34049712c333f976abf212e6c90f3"
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/708306453eb34049712c333f976abf212e6c90f3",
-                    "reference": "708306453eb34049712c333f976abf212e6c90f3",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-05-02T14:55:15+00:00",
+                "time": "2018-06-20T14:56:19+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3606,7 +3606,43 @@
                 "description": "Templates Master AjaxSearch module",
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/master",
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.7",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-search",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-20T14:56:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.7",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
@@ -4601,6 +4637,71 @@
             }
         },
         "tm/argento": {
+            "1.10.0": {
+                "name": "tm/argento",
+                "version": "1.10.0",
+                "version_normalized": "1.10.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento.git",
+                    "reference": "e1159e9b7fde42fed047b0b4c335a165838284af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e1159e9b7fde42fed047b0b4c335a165838284af",
+                    "reference": "e1159e9b7fde42fed047b0b4c335a165838284af",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/amp": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyflags": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/gdpr": "*",
+                    "tm/highlight": "*",
+                    "tm/hover-gallery": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/seo-suite": "*",
+                    "tm/slick-carousel": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2018-06-20T15:03:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "purchase_code": "TM_ArgentoArgento",
+                        "links": {
+                            "download": "https://argentotheme.com/downloadable/customer/products/",
+                            "identity_key": "https://argentotheme.com/license/customer/activation/",
+                            "docs": "http://docs.swissuplabs.com/m1/argento/",
+                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/argento/argento/tree/1.10.0",
+                    "issues": "https://github.com/argento/argento/issues"
+                }
+            },
             "1.5.0": {
                 "name": "tm/argento",
                 "version": "1.5.0",
@@ -6958,12 +7059,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "101f988773938802f5debc895a275a4214c85608"
+                    "reference": "e1159e9b7fde42fed047b0b4c335a165838284af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/101f988773938802f5debc895a275a4214c85608",
-                    "reference": "101f988773938802f5debc895a275a4214c85608",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/e1159e9b7fde42fed047b0b4c335a165838284af",
+                    "reference": "e1159e9b7fde42fed047b0b4c335a165838284af",
                     "shasum": ""
                 },
                 "require": {
@@ -6980,6 +7081,7 @@
                     "tm/easyslide": "*",
                     "tm/easytabs": "*",
                     "tm/facebooklb": "*",
+                    "tm/gdpr": "*",
                     "tm/highlight": "*",
                     "tm/hover-gallery": "*",
                     "tm/lightboxpro": "*",
@@ -6992,7 +7094,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-06-18T11:04:10+00:00",
+                "time": "2018-06-20T15:03:38+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -7011,7 +7113,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/argento/argento/tree/master",
+                    "source": "https://github.com/argento/argento/tree/1.10.0",
                     "issues": "https://github.com/argento/argento/issues"
                 }
             },
@@ -27088,25 +27190,25 @@
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             },
-            "dev-master": {
+            "1.6.0": {
                 "name": "tm/navigation-pro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "47d5d7cec11aec53eb6022ca248799049ba2eecd"
+                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/47d5d7cec11aec53eb6022ca248799049ba2eecd",
-                    "reference": "47d5d7cec11aec53eb6022ca248799049ba2eecd",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/641555f0782f9bb7a9c006c37c59f44737e7f065",
+                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-18T14:53:45+00:00",
+                "time": "2018-06-20T14:39:38+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27120,7 +27222,43 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/master",
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.6.0",
+                    "issues": "https://github.com/tmhub/navigationpro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/navigation-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/641555f0782f9bb7a9c006c37c59f44737e7f065",
+                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-20T14:39:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro",
+                "support": {
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.6.0",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
@@ -37502,25 +37640,25 @@
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             },
-            "dev-master": {
+            "1.3.0": {
                 "name": "tm/testimonials",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "247412be60e189041400339cef4e19fc21383dd5"
+                    "reference": "b22df9e547ed9881a6d294718f1f49547b3d9121"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/247412be60e189041400339cef4e19fc21383dd5",
-                    "reference": "247412be60e189041400339cef4e19fc21383dd5",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/b22df9e547ed9881a6d294718f1f49547b3d9121",
+                    "reference": "b22df9e547ed9881a6d294718f1f49547b3d9121",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-12T07:56:27+00:00",
+                "time": "2018-06-20T14:48:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37534,7 +37672,43 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/master",
+                    "source": "https://github.com/tmhub/testimonials/tree/1.3.0",
+                    "issues": "https://github.com/tmhub/testimonials/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/testimonials",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/testimonials.git",
+                    "reference": "b22df9e547ed9881a6d294718f1f49547b3d9121"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/b22df9e547ed9881a6d294718f1f49547b3d9121",
+                    "reference": "b22df9e547ed9881a6d294718f1f49547b3d9121",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-20T14:48:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/testimonials",
+                "support": {
+                    "source": "https://github.com/tmhub/testimonials/tree/1.3.0",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             }
