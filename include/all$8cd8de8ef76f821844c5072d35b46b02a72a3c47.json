@@ -10491,18 +10491,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "dcb5d82ca72d0a76154bead6714fcaaa24152b48"
+                    "reference": "9fb1aca4ba314a3a08eea2c659ee298334da10d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/dcb5d82ca72d0a76154bead6714fcaaa24152b48",
-                    "reference": "dcb5d82ca72d0a76154bead6714fcaaa24152b48",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/9fb1aca4ba314a3a08eea2c659ee298334da10d9",
+                    "reference": "9fb1aca4ba314a3a08eea2c659ee298334da10d9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-05-25T08:35:51+00:00",
+                "time": "2018-07-18T08:43:41+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35442,7 +35442,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:tmhub/storepickup.git",
+                    "url": "https://github.com/tmhub/storepickup.git",
                     "reference": "33351f43eed6e5161353db741baef07d314dd417"
                 },
                 "dist": {
@@ -35477,7 +35477,7 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:tmhub/storepickup.git",
+                    "url": "https://github.com/tmhub/storepickup.git",
                     "reference": "086035319dbd558038536818588be5eec711faaf"
                 },
                 "dist": {
@@ -35512,7 +35512,7 @@
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
-                    "url": "git@github.com:tmhub/storepickup.git",
+                    "url": "https://github.com/tmhub/storepickup.git",
                     "reference": "086035319dbd558038536818588be5eec711faaf"
                 },
                 "dist": {
