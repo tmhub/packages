@@ -9674,7 +9674,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -9719,7 +9719,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/master",
+                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -12163,7 +12163,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/master",
+                    "source": "https://github.com/tmhub/core/tree/1.6.0",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -14751,7 +14751,7 @@
                 "description": "Subcategories listing with images",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.4.4",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
@@ -22756,18 +22756,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "9b064c046a2ff9f20b2b503870acfa780a376b99"
+                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/9b064c046a2ff9f20b2b503870acfa780a376b99",
-                    "reference": "9b064c046a2ff9f20b2b503870acfa780a376b99",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/b32591aa0f46dc950427fdd9f6317b438d8b73af",
+                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-07-03T09:06:37+00:00",
+                "time": "2018-07-23T06:51:25+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22781,7 +22781,7 @@
                 "description": "GDPR compliance module",
                 "homepage": "https://github.com/tmhub/gdpr",
                 "support": {
-                    "source": "https://github.com/tmhub/gdpr/tree/master",
+                    "source": "https://github.com/tmhub/gdpr/tree/1.0.1",
                     "issues": "https://github.com/tmhub/gdpr/issues"
                 }
             },
@@ -22792,18 +22792,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "04f94c9231eadc72b055e78e2e099b2ce58cea9d"
+                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/04f94c9231eadc72b055e78e2e099b2ce58cea9d",
-                    "reference": "04f94c9231eadc72b055e78e2e099b2ce58cea9d",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/b32591aa0f46dc950427fdd9f6317b438d8b73af",
+                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-07-05T08:53:26+00:00",
+                "time": "2018-07-23T06:51:25+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22817,7 +22817,7 @@
                 "description": "GDPR compliance module",
                 "homepage": "https://github.com/tmhub/gdpr",
                 "support": {
-                    "source": "https://github.com/tmhub/gdpr/tree/master",
+                    "source": "https://github.com/tmhub/gdpr/tree/1.0.1",
                     "issues": "https://github.com/tmhub/gdpr/issues"
                 }
             }
@@ -24965,7 +24965,7 @@
                 "description": "Image compressing",
                 "homepage": "https://github.com/tmhub/imagemin",
                 "support": {
-                    "source": "https://github.com/tmhub/imagemin/tree/master",
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.0",
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             },
@@ -25001,7 +25001,7 @@
                 "description": "Image compressing",
                 "homepage": "https://github.com/tmhub/imagemin",
                 "support": {
-                    "source": "https://github.com/tmhub/imagemin/tree/master",
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.0",
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             }
@@ -29961,7 +29961,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },

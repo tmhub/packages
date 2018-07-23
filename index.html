@@ -58,7 +58,7 @@
             <div class="collapse navbar-collapse in">
                 <p class="navbar-text navbar-right">
                     <small class="text-muted">
-                        Last updated: <time datetime="2018-07-23T06:38:12+00:00">Monday, 23 Jul 2018 06:38:12 UTC</time>
+                        Last updated: <time datetime="2018-07-23T09:57:10+03:00">Monday, 23 Jul 2018 09:57:10 EEST</time>
                     </small>
                 </p>
             </div>
@@ -1192,7 +1192,7 @@
             <div class="col-xs-2 text-xs-left text-sm-right"><strong>Support</strong></div>
             <div class="col-xs-12 col-sm-10">
                 <ul>
-                                        <li>Source: <a href="https://github.com/tmhub/botprotection/tree/master">https://github.com/tmhub/botprotection/tree/master</a></li>
+                                        <li>Source: <a href="https://github.com/tmhub/botprotection/tree/1.0.9">https://github.com/tmhub/botprotection/tree/1.0.9</a></li>
                                         <li>Issues: <a href="https://github.com/tmhub/botprotection/issues">https://github.com/tmhub/botprotection/issues</a></li>
                                     </ul>
             </div>
@@ -2737,7 +2737,7 @@
             <div class="col-xs-2 text-xs-left text-sm-right"><strong>Support</strong></div>
             <div class="col-xs-12 col-sm-10">
                 <ul>
-                                        <li>Source: <a href="https://github.com/tmhub/gdpr/tree/master">https://github.com/tmhub/gdpr/tree/master</a></li>
+                                        <li>Source: <a href="https://github.com/tmhub/gdpr/tree/1.0.1">https://github.com/tmhub/gdpr/tree/1.0.1</a></li>
                                         <li>Issues: <a href="https://github.com/tmhub/gdpr/issues">https://github.com/tmhub/gdpr/issues</a></li>
                                     </ul>
             </div>
@@ -2746,7 +2746,7 @@
         <div class="row">
             <div class="col-xs-2 text-xs-left text-sm-right"><strong>Releases</strong></div>
             <div class="col-xs-12 col-sm-10">
-                <a href="https://api.github.com/repos/tmhub/gdpr/zipball/04f94c9231eadc72b055e78e2e099b2ce58cea9d" title="04f94c9231eadc72b055e78e2e099b2ce58cea9d">dev-master</a>, <a href="https://api.github.com/repos/tmhub/gdpr/zipball/9b064c046a2ff9f20b2b503870acfa780a376b99" title="9b064c046a2ff9f20b2b503870acfa780a376b99">1.0.1</a>, <a href="https://api.github.com/repos/tmhub/gdpr/zipball/c335e5ebde40afda7b96b871f313a5790025ecb9" title="c335e5ebde40afda7b96b871f313a5790025ecb9">1.0.0</a>            </div>
+                <a href="https://api.github.com/repos/tmhub/gdpr/zipball/b32591aa0f46dc950427fdd9f6317b438d8b73af" title="b32591aa0f46dc950427fdd9f6317b438d8b73af">dev-master</a>, <a href="https://api.github.com/repos/tmhub/gdpr/zipball/b32591aa0f46dc950427fdd9f6317b438d8b73af" title="b32591aa0f46dc950427fdd9f6317b438d8b73af">1.0.1</a>, <a href="https://api.github.com/repos/tmhub/gdpr/zipball/c335e5ebde40afda7b96b871f313a5790025ecb9" title="c335e5ebde40afda7b96b871f313a5790025ecb9">1.0.0</a>            </div>
         </div>
 
                         <div class="row">
@@ -2981,7 +2981,7 @@
             <div class="col-xs-2 text-xs-left text-sm-right"><strong>Support</strong></div>
             <div class="col-xs-12 col-sm-10">
                 <ul>
-                                        <li>Source: <a href="https://github.com/tmhub/imagemin/tree/master">https://github.com/tmhub/imagemin/tree/master</a></li>
+                                        <li>Source: <a href="https://github.com/tmhub/imagemin/tree/0.1.0">https://github.com/tmhub/imagemin/tree/0.1.0</a></li>
                                         <li>Issues: <a href="https://github.com/tmhub/imagemin/issues">https://github.com/tmhub/imagemin/issues</a></li>
                                     </ul>
             </div>
@@ -5772,55 +5772,31 @@ $(function () {
     var input = $('input#search');
     var list = $('div#package-list');
     var packages = list.find('h3');
-    var timeElements = $('time');
-    var inputTimeout;
-
-    var updateTimeElements = function () {
-        momentize(timeElements);
-    };
-
-    var readHash = function () {
-        var hash = window.decodeURIComponent(window.location.hash.substr(1));
-        if (hash.length > 0) {
-            input.val(hash);
-            filterPackages();
-        }
-    };
-
-    var updateHash = function () {
-        window.location.hash = window.encodeURIComponent(input.val());
-    };
-
-    var filterPackages = function () {
-        var needle = input.val().toLowerCase();
-
-        list.hide();
-
-        packages.each(function () {
-            $(this).closest('div.panel').toggle(
-                $(this).text().toLowerCase().indexOf(needle) !== -1
-            );
-        });
-
-        list.show();
-    };
+    var timer;
 
     input.keyup(function () {
-        updateHash();
-        window.clearTimeout(inputTimeout);
-        inputTimeout = window.setTimeout(filterPackages, 350);
+        clearTimeout(timer);
+        var needle = $(this).val().toLowerCase();
+        timer = setTimeout(function () {
+            list.hide();
+            packages.each(function () {
+                $(this).closest('div.panel').toggle(
+                    $(this).text().toLowerCase().indexOf(needle) !== -1
+                );
+            });
+            list.show();
+        }, 350);
     });
 
     $(window).keyup(function (event) {
         if (event.keyCode === 27) { // "ESC" keyCode
-            input.val('');
-            filterPackages();
+            input.val('').trigger('keyup');
         }
     });
 
-    readHash();
-    updateTimeElements();
-    window.setInterval(updateTimeElements, 5000);
+    var timeElements = $('time');
+    momentize(timeElements);
+    setInterval(function () { momentize(timeElements); }, 5000);
 });
 </script>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
