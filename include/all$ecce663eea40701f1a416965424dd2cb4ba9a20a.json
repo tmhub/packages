@@ -11392,25 +11392,25 @@
                     "issues": "https://github.com/tmhub/checkout-success/issues"
                 }
             },
-            "dev-master": {
+            "2.0.8": {
                 "name": "tm/checkout-success",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "b7da47f56d7826daf7ea95b540a98b51bd3b3d9d"
+                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/b7da47f56d7826daf7ea95b540a98b51bd3b3d9d",
-                    "reference": "b7da47f56d7826daf7ea95b540a98b51bd3b3d9d",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
+                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-04-27T07:29:06+00:00",
+                "time": "2018-07-24T14:19:57+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11424,7 +11424,43 @@
                 "description": "Checkout Success Page module",
                 "homepage": "https://github.com/tmhub/checkout-success",
                 "support": {
-                    "source": "https://github.com/tmhub/checkout-success/tree/master",
+                    "source": "https://github.com/tmhub/checkout-success/tree/2.0.8",
+                    "issues": "https://github.com/tmhub/checkout-success/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/checkout-success",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/checkout-success.git",
+                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
+                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-07-24T14:19:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Checkout Success Page module",
+                "homepage": "https://github.com/tmhub/checkout-success",
+                "support": {
+                    "source": "https://github.com/tmhub/checkout-success/tree/2.0.8",
                     "issues": "https://github.com/tmhub/checkout-success/issues"
                 }
             },
@@ -22270,19 +22306,19 @@
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
-            "dev-master": {
+            "4.3.4": {
                 "name": "tm/firecheckout",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "4.3.4",
+                "version_normalized": "4.3.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "ee3bdac31d7aa9cea4083686a01d2e0fe7b3ecdc"
+                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/ee3bdac31d7aa9cea4083686a01d2e0fe7b3ecdc",
-                    "reference": "ee3bdac31d7aa9cea4083686a01d2e0fe7b3ecdc",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
+                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
                     "shasum": ""
                 },
                 "require": {
@@ -22291,7 +22327,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-07-16T08:38:42+00:00",
+                "time": "2018-07-24T14:18:41+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22314,7 +22350,55 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/master",
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.4",
+                    "issues": "https://github.com/tmhub/firecheckout/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/firecheckout",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
+                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/address-autocomplete": "*",
+                    "tm/checkout-success": "*",
+                    "tm/core": "*",
+                    "tm/orderattachment": "*"
+                },
+                "time": "2018-07-24T14:18:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "http://templates-master.com/magento-one-page-checkout.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/firecheckout/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/firecheckout/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout",
+                "support": {
+                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.4",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
