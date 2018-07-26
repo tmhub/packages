@@ -22397,12 +22397,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f"
+                    "reference": "8e632ab37f248a0af89c0211cef2af2f6ae27f90"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
-                    "reference": "c4d775fc6af4004c34a4ab6b74a1034af2bb193f",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8e632ab37f248a0af89c0211cef2af2f6ae27f90",
+                    "reference": "8e632ab37f248a0af89c0211cef2af2f6ae27f90",
                     "shasum": ""
                 },
                 "require": {
@@ -22411,7 +22411,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-07-24T14:18:41+00:00",
+                "time": "2018-07-26T08:17:19+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22434,7 +22434,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.4",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
@@ -29070,19 +29070,19 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
-            "dev-master": {
+            "1.3.3": {
                 "name": "tm/pagespeed",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "7eb4525c65d45ee596180eca85bb484bd3382586"
+                    "reference": "478beea1caa8d993a36dac54a89007adaf6581f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/7eb4525c65d45ee596180eca85bb484bd3382586",
-                    "reference": "7eb4525c65d45ee596180eca85bb484bd3382586",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/478beea1caa8d993a36dac54a89007adaf6581f5",
+                    "reference": "478beea1caa8d993a36dac54a89007adaf6581f5",
                     "shasum": ""
                 },
                 "require": {
@@ -29092,7 +29092,7 @@
                     "tm/imagemin": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2018-07-02T11:29:53+00:00",
+                "time": "2018-07-26T10:50:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -29115,7 +29115,56 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.2",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.3",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/pagespeed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "478beea1caa8d993a36dac54a89007adaf6581f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/478beea1caa8d993a36dac54a89007adaf6581f5",
+                    "reference": "478beea1caa8d993a36dac54a89007adaf6581f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/imagemin": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2018-07-26T10:50:31+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.3",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
