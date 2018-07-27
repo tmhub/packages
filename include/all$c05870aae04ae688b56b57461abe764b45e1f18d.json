@@ -4598,12 +4598,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "3fa4d4fae6c3f9fddc30ed0c4368057fab2da893"
+                    "reference": "193a352a5d36ad64fcc9371baf364094de9c7bca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/3fa4d4fae6c3f9fddc30ed0c4368057fab2da893",
-                    "reference": "3fa4d4fae6c3f9fddc30ed0c4368057fab2da893",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/193a352a5d36ad64fcc9371baf364094de9c7bca",
+                    "reference": "193a352a5d36ad64fcc9371baf364094de9c7bca",
                     "shasum": ""
                 },
                 "require": {
@@ -4611,7 +4611,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2018-05-10T14:44:03+00:00",
+                "time": "2018-07-27T13:50:44+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -4631,7 +4631,7 @@
                     "amp"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/amp/tree/1.6.3",
+                    "source": "https://github.com/tmhub/amp/tree/master",
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             }
