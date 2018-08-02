@@ -118,15 +118,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
-                    "reference": "88d99f55ea3c99e785c09c3fb1396cc20e2cdf58"
+                    "reference": "c6599965d1f3f5dea78a63005dded57843e76993"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/88d99f55ea3c99e785c09c3fb1396cc20e2cdf58",
-                    "reference": "88d99f55ea3c99e785c09c3fb1396cc20e2cdf58",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/c6599965d1f3f5dea78a63005dded57843e76993",
+                    "reference": "c6599965d1f3f5dea78a63005dded57843e76993",
                     "shasum": ""
                 },
-                "time": "2016-11-10T13:49:52+00:00",
+                "time": "2018-08-02T12:53:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -7059,12 +7059,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "062a6c15aea5d7e21f311c3964bf71fcfafdb677"
+                    "reference": "6aec9ad5d3520fa932363d07f05a93c4c4f5842c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/062a6c15aea5d7e21f311c3964bf71fcfafdb677",
-                    "reference": "062a6c15aea5d7e21f311c3964bf71fcfafdb677",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/6aec9ad5d3520fa932363d07f05a93c4c4f5842c",
+                    "reference": "6aec9ad5d3520fa932363d07f05a93c4c4f5842c",
                     "shasum": ""
                 },
                 "require": {
@@ -7094,7 +7094,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-07-09T08:11:46+00:00",
+                "time": "2018-08-02T12:50:33+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -13545,15 +13545,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "7b86e8758fb96cd7334111858b51c7a9bb764009"
+                    "reference": "15bd052b025aedec5b84313d0079d7ce3a1c1a30"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/7b86e8758fb96cd7334111858b51c7a9bb764009",
-                    "reference": "7b86e8758fb96cd7334111858b51c7a9bb764009",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/15bd052b025aedec5b84313d0079d7ce3a1c1a30",
+                    "reference": "15bd052b025aedec5b84313d0079d7ce3a1c1a30",
                     "shasum": ""
                 },
-                "time": "2018-07-13T13:20:58+00:00",
+                "time": "2018-08-02T12:46:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26319,19 +26319,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "c6432f057db86e5c5002c0139dc29d9c7a5a36b6"
+                    "reference": "8c22bc0badc0863a460b96baa7422b8d013fce79"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/c6432f057db86e5c5002c0139dc29d9c7a5a36b6",
-                    "reference": "c6432f057db86e5c5002c0139dc29d9c7a5a36b6",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/8c22bc0badc0863a460b96baa7422b8d013fce79",
+                    "reference": "8c22bc0badc0863a460b96baa7422b8d013fce79",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2018-06-13T13:14:12+00:00",
+                "time": "2018-08-02T14:07:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26345,7 +26345,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.2.7",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
