@@ -7059,12 +7059,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento.git",
-                    "reference": "6aec9ad5d3520fa932363d07f05a93c4c4f5842c"
+                    "reference": "424f683079cc283fde1d9bc14836ba409d395e19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento/zipball/6aec9ad5d3520fa932363d07f05a93c4c4f5842c",
-                    "reference": "6aec9ad5d3520fa932363d07f05a93c4c4f5842c",
+                    "url": "https://api.github.com/repos/argento/argento/zipball/424f683079cc283fde1d9bc14836ba409d395e19",
+                    "reference": "424f683079cc283fde1d9bc14836ba409d395e19",
                     "shasum": ""
                 },
                 "require": {
@@ -7094,7 +7094,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-08-02T12:50:33+00:00",
+                "time": "2018-08-03T11:55:39+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -7176,18 +7176,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "9148549f9e2f1b2a316d3153378232ae4c35c72d"
+                    "reference": "22f4e8df1a3a6010bda620129cef47ce1aacbdae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/9148549f9e2f1b2a316d3153378232ae4c35c72d",
-                    "reference": "9148549f9e2f1b2a316d3153378232ae4c35c72d",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/22f4e8df1a3a6010bda620129cef47ce1aacbdae",
+                    "reference": "22f4e8df1a3a6010bda620129cef47ce1aacbdae",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-07-11T11:25:48+00:00",
+                "time": "2018-08-03T14:57:52+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
