@@ -7176,18 +7176,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento-argentotheme.git",
-                    "reference": "22f4e8df1a3a6010bda620129cef47ce1aacbdae"
+                    "reference": "dc6ab5160bc8957a425144cda261c067d9ec0359"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/22f4e8df1a3a6010bda620129cef47ce1aacbdae",
-                    "reference": "22f4e8df1a3a6010bda620129cef47ce1aacbdae",
+                    "url": "https://api.github.com/repos/argento/argento-argentotheme/zipball/dc6ab5160bc8957a425144cda261c067d9ec0359",
+                    "reference": "dc6ab5160bc8957a425144cda261c067d9ec0359",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-08-03T14:57:52+00:00",
+                "time": "2018-08-06T12:14:49+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26319,19 +26319,20 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "8c22bc0badc0863a460b96baa7422b8d013fce79"
+                    "reference": "31ac6cef5ed612ea1a4e68d9edb3ad75026129cb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/8c22bc0badc0863a460b96baa7422b8d013fce79",
-                    "reference": "8c22bc0badc0863a460b96baa7422b8d013fce79",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/31ac6cef5ed612ea1a4e68d9edb3ad75026129cb",
+                    "reference": "31ac6cef5ed612ea1a4e68d9edb3ad75026129cb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
-                    "tm/core": "*"
+                    "tm/core": "*",
+                    "tm/slick-carousel": "*"
                 },
-                "time": "2018-08-02T14:07:12+00:00",
+                "time": "2018-08-06T14:56:25+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
