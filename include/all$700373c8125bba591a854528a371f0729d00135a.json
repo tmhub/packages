@@ -7598,6 +7598,60 @@
                     "source": "https://github.com/argento/argento-swissup/tree/master",
                     "issues": "https://github.com/argento/argento-swissup/issues"
                 }
+            },
+            "dev-listing-menu": {
+                "name": "tm/argento_swissup",
+                "version": "dev-listing-menu",
+                "version_normalized": "dev-listing-menu",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:argento/argento-swissup.git",
+                    "reference": "d755bbab6d061d46eeebef6bddc4c2da00bd23fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/argento/argento-swissup/zipball/d755bbab6d061d46eeebef6bddc4c2da00bd23fc",
+                    "reference": "d755bbab6d061d46eeebef6bddc4c2da00bd23fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "cryozonic/stripe": "*",
+                    "cryozonic/stripe-subscriptions": "*",
+                    "tm/abandoned": "*",
+                    "tm/affiliate-suite": "*",
+                    "tm/argento": "*",
+                    "tm/bot-protection": "*",
+                    "tm/cache": "*",
+                    "tm/cdn": "*",
+                    "tm/demo-deployer": "*",
+                    "tm/firecheckout": "*",
+                    "tm/ga-plugin-scrolldepth": "*",
+                    "tm/helpdesk": "*",
+                    "tm/license": "*",
+                    "tm/notifier": "*",
+                    "tm/pagespeed": "*",
+                    "tm/recaptcha": "*",
+                    "tm/secure": "*",
+                    "tm/socialsuite": "*",
+                    "tm/subscription": "*"
+                },
+                "time": "2018-08-31T14:07:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Swissup theme for swissuplabs.com",
+                "homepage": "https://github.com/tmhub/argento_swissup",
+                "support": {
+                    "source": "https://github.com/argento/argento-swissup/tree/listing-menu",
+                    "issues": "https://github.com/argento/argento-swissup/issues"
+                }
             }
         },
         "tm/argento_tm": {
