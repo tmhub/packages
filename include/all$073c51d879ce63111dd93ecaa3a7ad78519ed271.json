@@ -33584,26 +33584,26 @@
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             },
-            "dev-master": {
+            "2.1.5": {
                 "name": "tm/secure",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.5",
+                "version_normalized": "2.1.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
-                    "reference": "3d42f64d9fe38556746df55c7878cda85b29482b"
+                    "reference": "d6cbb5e39497d22a7c448ce9f16e95a7324bb121"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/secure/zipball/3d42f64d9fe38556746df55c7878cda85b29482b",
-                    "reference": "3d42f64d9fe38556746df55c7878cda85b29482b",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/d6cbb5e39497d22a7c448ce9f16e95a7324bb121",
+                    "reference": "d6cbb5e39497d22a7c448ce9f16e95a7324bb121",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-10-27T13:12:56+00:00",
+                "time": "2018-09-11T08:02:54+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33617,7 +33617,44 @@
                 "description": "Templates Master Admin Secure module",
                 "homepage": "https://github.com/tmhub/secure",
                 "support": {
-                    "source": "https://github.com/tmhub/secure/tree/master",
+                    "source": "https://github.com/tmhub/secure/tree/2.1.5",
+                    "issues": "https://github.com/tmhub/secure/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/secure",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/secure.git",
+                    "reference": "d6cbb5e39497d22a7c448ce9f16e95a7324bb121"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/d6cbb5e39497d22a7c448ce9f16e95a7324bb121",
+                    "reference": "d6cbb5e39497d22a7c448ce9f16e95a7324bb121",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-09-11T08:02:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Admin Secure module",
+                "homepage": "https://github.com/tmhub/secure",
+                "support": {
+                    "source": "https://github.com/tmhub/secure/tree/2.1.5",
                     "issues": "https://github.com/tmhub/secure/issues"
                 }
             }
