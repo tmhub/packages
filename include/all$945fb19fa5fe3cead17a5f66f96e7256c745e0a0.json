@@ -11193,25 +11193,25 @@
                     "issues": "https://github.com/tmhub/cdn/issues"
                 }
             },
-            "dev-master": {
+            "1.2.1": {
                 "name": "tm/cdn",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "54719fab21a22acccf3086f8cf7974138bf7b1ba"
+                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/54719fab21a22acccf3086f8cf7974138bf7b1ba",
-                    "reference": "54719fab21a22acccf3086f8cf7974138bf7b1ba",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
+                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-09-18T13:51:11+00:00",
+                "time": "2018-09-18T14:09:17+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11225,7 +11225,43 @@
                 "description": "Templates Master CDN module",
                 "homepage": "https://github.com/tmhub/cdn",
                 "support": {
-                    "source": "https://github.com/tmhub/cdn/tree/master",
+                    "source": "https://github.com/tmhub/cdn/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/cdn/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/cdn",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cdn.git",
+                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
+                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-09-18T14:09:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master CDN module",
+                "homepage": "https://github.com/tmhub/cdn",
+                "support": {
+                    "source": "https://github.com/tmhub/cdn/tree/1.2.1",
                     "issues": "https://github.com/tmhub/cdn/issues"
                 }
             }
