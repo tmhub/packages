@@ -502,26 +502,26 @@
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             },
-            "dev-master": {
+            "1.2.7": {
                 "name": "tm/abandoned",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "343c59cefb554e6fed2d36d2ebefd8eb4ab0ec44"
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/343c59cefb554e6fed2d36d2ebefd8eb4ab0ec44",
-                    "reference": "343c59cefb554e6fed2d36d2ebefd8eb4ab0ec44",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/6113c506406e38886604e6b31f40ae6b066532ce",
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-08-10T08:42:10+00:00",
+                "time": "2018-09-18T14:20:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -535,7 +535,44 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/master",
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.7",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/abandoned",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/6113c506406e38886604e6b31f40ae6b066532ce",
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-09-18T14:20:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.7",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             }
@@ -29397,19 +29434,19 @@
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             },
-            "dev-master": {
+            "1.3.4": {
                 "name": "tm/pagespeed",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "902d8b5208950aeccb5fbb9af848f9dc29a65ec4"
+                    "reference": "d65b92e541f754ddc5f32b4733d1a101cd824e84"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/902d8b5208950aeccb5fbb9af848f9dc29a65ec4",
-                    "reference": "902d8b5208950aeccb5fbb9af848f9dc29a65ec4",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/d65b92e541f754ddc5f32b4733d1a101cd824e84",
+                    "reference": "d65b92e541f754ddc5f32b4733d1a101cd824e84",
                     "shasum": ""
                 },
                 "require": {
@@ -29419,7 +29456,7 @@
                     "tm/imagemin": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2018-08-17T11:01:20+00:00",
+                "time": "2018-09-18T14:31:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -29442,7 +29479,56 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/master",
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/pagespeed",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "d65b92e541f754ddc5f32b4733d1a101cd824e84"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/d65b92e541f754ddc5f32b4733d1a101cd824e84",
+                    "reference": "d65b92e541f754ddc5f32b4733d1a101cd824e84",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/imagemin": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2018-09-18T14:31:42+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.4",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
