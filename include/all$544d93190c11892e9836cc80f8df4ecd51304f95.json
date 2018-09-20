@@ -25080,18 +25080,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "e7417b14f011c87765489649c0cab295eba6cd2e"
+                    "reference": "ad7fae5d95446f8cadd20e3a004fd31d8ed16334"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/e7417b14f011c87765489649c0cab295eba6cd2e",
-                    "reference": "e7417b14f011c87765489649c0cab295eba6cd2e",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/ad7fae5d95446f8cadd20e3a004fd31d8ed16334",
+                    "reference": "ad7fae5d95446f8cadd20e3a004fd31d8ed16334",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-05-10T14:51:35+00:00",
+                "time": "2018-09-20T07:04:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25105,7 +25105,7 @@
                 "description": "Custom product collections with flexible filters",
                 "homepage": "https://github.com/tmhub/highlight",
                 "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/2.7.1",
+                    "source": "https://github.com/tmhub/highlight/tree/master",
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             }
