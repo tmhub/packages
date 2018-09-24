@@ -7360,12 +7360,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:argento/argento_firecheckout.git",
-                    "reference": "28106fc6cdab214f76267bd282394917ec328b02"
+                    "reference": "edf735a83d2caa230c3f5d460c89570cc704de7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/28106fc6cdab214f76267bd282394917ec328b02",
-                    "reference": "28106fc6cdab214f76267bd282394917ec328b02",
+                    "url": "https://api.github.com/repos/argento/argento_firecheckout/zipball/edf735a83d2caa230c3f5d460c89570cc704de7f",
+                    "reference": "edf735a83d2caa230c3f5d460c89570cc704de7f",
                     "shasum": ""
                 },
                 "require": {
@@ -7386,7 +7386,7 @@
                     "tm/secure": "*",
                     "tm/socialsuite": "*"
                 },
-                "time": "2018-04-17T12:28:39+00:00",
+                "time": "2018-09-24T14:08:16+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
