@@ -1,13 +1,13 @@
 {
     "name": "Templates Master Packages",
-    "homepage": "http://tmhub.github.io/packages/",
+    "homepage": "https://tmhub.github.io/packages/",
     "repositories": [
-        {"type": "vcs", "url": "git@github.com:argento/argento.git"},
-        {"type": "vcs", "url": "git@github.com:argento/argento-argentotheme.git"},
-        {"type": "vcs", "url": "git@github.com:argento/argento-mage2cloud.git"},
-        {"type": "vcs", "url": "git@github.com:argento/argento-swissup.git"},
-        {"type": "vcs", "url": "git@github.com:argento/argento-tm.git"},
-        {"type": "vcs", "url": "git@github.com:argento/argento_firecheckout.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento-argentotheme.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento-mage2cloud.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento-swissup.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento-tm.git"},
+        {"type": "vcs", "url": "git@github.com:tmhub/argento_firecheckout.git"},
 
         {"type": "vcs", "url": "git@github.com:tmhub/cryozonic-stripe.git"},
         {"type": "vcs", "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git"},
