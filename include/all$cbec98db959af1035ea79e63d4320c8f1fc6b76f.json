@@ -7322,18 +7322,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "fbc6e4c15a38b22a9bcfbb9ef67e3b7508726c01"
+                    "reference": "631c3bf92dccc18d94ad36cbe44352a25ee339de"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/fbc6e4c15a38b22a9bcfbb9ef67e3b7508726c01",
-                    "reference": "fbc6e4c15a38b22a9bcfbb9ef67e3b7508726c01",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/631c3bf92dccc18d94ad36cbe44352a25ee339de",
+                    "reference": "631c3bf92dccc18d94ad36cbe44352a25ee339de",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-08-21T11:33:54+00:00",
+                "time": "2018-09-28T12:11:07+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22633,12 +22633,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "ae099015971573bf79914e940b313bfee831acfa"
+                    "reference": "3d58ca342ee0cc2225d8bc4704d553d6031ebb27"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/ae099015971573bf79914e940b313bfee831acfa",
-                    "reference": "ae099015971573bf79914e940b313bfee831acfa",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3d58ca342ee0cc2225d8bc4704d553d6031ebb27",
+                    "reference": "3d58ca342ee0cc2225d8bc4704d553d6031ebb27",
                     "shasum": ""
                 },
                 "require": {
@@ -22647,7 +22647,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-09-21T15:01:11+00:00",
+                "time": "2018-09-28T09:30:37+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24212,19 +24212,19 @@
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
-            "dev-master": {
+            "1.7.8": {
                 "name": "tm/helpdesk",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.8",
+                "version_normalized": "1.7.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "5d0b58e641c28de068ed43662aeb3732b4bfca23"
+                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/5d0b58e641c28de068ed43662aeb3732b4bfca23",
-                    "reference": "5d0b58e641c28de068ed43662aeb3732b4bfca23",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/6e91b7a275160c3bc816261612aa5f0d9440c307",
+                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307",
                     "shasum": ""
                 },
                 "require": {
@@ -24234,7 +24234,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2018-08-15T08:20:06+00:00",
+                "time": "2018-09-28T14:23:38+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24248,7 +24248,47 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.7",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.8",
+                    "issues": "https://github.com/tmhub/helpdesk/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/helpdesk",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/helpdesk.git",
+                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/6e91b7a275160c3bc816261612aa5f0d9440c307",
+                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/knowledge-base": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2018-09-28T14:23:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Helpdesk module",
+                "homepage": "https://github.com/tmhub/helpdesk",
+                "support": {
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.8",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
