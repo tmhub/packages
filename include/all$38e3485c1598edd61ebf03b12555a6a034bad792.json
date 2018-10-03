@@ -18541,18 +18541,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "2bab59cd8ff7144193b3820e614ccf2e3d594381"
+                    "reference": "38cff97259be5afec34017ecfc31bf9560980ce5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2bab59cd8ff7144193b3820e614ccf2e3d594381",
-                    "reference": "2bab59cd8ff7144193b3820e614ccf2e3d594381",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/38cff97259be5afec34017ecfc31bf9560980ce5",
+                    "reference": "38cff97259be5afec34017ecfc31bf9560980ce5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-02-15T20:43:18+00:00",
+                "time": "2018-10-03T08:24:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -18575,7 +18575,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.2.0",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
