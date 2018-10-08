@@ -13162,19 +13162,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "5f786c504f6500c75bcd7870f6cdb25fcab37f06"
+                    "reference": "94d3c375885de9513c9d20690c94af5901c86874"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/5f786c504f6500c75bcd7870f6cdb25fcab37f06",
-                    "reference": "5f786c504f6500c75bcd7870f6cdb25fcab37f06",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/94d3c375885de9513c9d20690c94af5901c86874",
+                    "reference": "94d3c375885de9513c9d20690c94af5901c86874",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2018-03-05T07:36:43+00:00",
+                "time": "2018-10-08T14:34:13+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13188,7 +13188,7 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.6",
+                    "source": "https://github.com/tmhub/dailydeals/tree/master",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             }
@@ -18541,18 +18541,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "38cff97259be5afec34017ecfc31bf9560980ce5"
+                    "reference": "b0c86afb7a02795a38bcaa36746106612b382810"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/38cff97259be5afec34017ecfc31bf9560980ce5",
-                    "reference": "38cff97259be5afec34017ecfc31bf9560980ce5",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/b0c86afb7a02795a38bcaa36746106612b382810",
+                    "reference": "b0c86afb7a02795a38bcaa36746106612b382810",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-10-03T08:24:22+00:00",
+                "time": "2018-10-08T13:41:42+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
