@@ -8685,12 +8685,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
-                    "reference": "970bd4a68582569a81a86ed96bdb697ddf9fada3"
+                    "reference": "65305e755cfb4a51e5537d0e85f91edcae1c626f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/askit/zipball/970bd4a68582569a81a86ed96bdb697ddf9fada3",
-                    "reference": "970bd4a68582569a81a86ed96bdb697ddf9fada3",
+                    "url": "https://api.github.com/repos/tmhub/askit/zipball/65305e755cfb4a51e5537d0e85f91edcae1c626f",
+                    "reference": "65305e755cfb4a51e5537d0e85f91edcae1c626f",
                     "shasum": ""
                 },
                 "require": {
@@ -8698,7 +8698,7 @@
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2017-12-15T09:35:38+00:00",
+                "time": "2018-10-10T12:01:07+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -8712,7 +8712,7 @@
                 "description": "Templates Master Askit module",
                 "homepage": "https://github.com/tmhub/askit",
                 "support": {
-                    "source": "https://github.com/tmhub/askit/tree/2.3.13",
+                    "source": "https://github.com/tmhub/askit/tree/master",
                     "issues": "https://github.com/tmhub/askit/issues"
                 }
             }
@@ -24259,12 +24259,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307"
+                    "reference": "abfcf48b5ace7edc4c0da891169029629cbd384a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/6e91b7a275160c3bc816261612aa5f0d9440c307",
-                    "reference": "6e91b7a275160c3bc816261612aa5f0d9440c307",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/abfcf48b5ace7edc4c0da891169029629cbd384a",
+                    "reference": "abfcf48b5ace7edc4c0da891169029629cbd384a",
                     "shasum": ""
                 },
                 "require": {
@@ -24274,7 +24274,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2018-09-28T14:23:38+00:00",
+                "time": "2018-10-10T13:47:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -24288,7 +24288,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.8",
+                    "source": "https://github.com/tmhub/helpdesk/tree/master",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
