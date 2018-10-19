@@ -546,19 +546,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
-                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce"
+                    "reference": "02b6d7143c34fff4b793912f07112a265105442a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/6113c506406e38886604e6b31f40ae6b066532ce",
-                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/02b6d7143c34fff4b793912f07112a265105442a",
+                    "reference": "02b6d7143c34fff4b793912f07112a265105442a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/email": "*"
                 },
-                "time": "2018-09-18T14:20:26+00:00",
+                "time": "2018-10-19T07:48:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -572,7 +572,7 @@
                 "description": "Templates Master Abandoned Cart module",
                 "homepage": "https://github.com/tmhub/abandoned",
                 "support": {
-                    "source": "https://github.com/tmhub/abandoned/tree/1.2.7",
+                    "source": "https://github.com/tmhub/abandoned/tree/master",
                     "issues": "https://github.com/tmhub/abandoned/issues"
                 }
             }
