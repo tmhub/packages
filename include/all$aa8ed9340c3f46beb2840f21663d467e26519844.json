@@ -3137,12 +3137,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "1ef8002297825d2d24564028df1ec5fd59f1c889"
+                    "reference": "0e60d5a9b4e1e9cb82f749f302a7bcabebb1c685"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/1ef8002297825d2d24564028df1ec5fd59f1c889",
-                    "reference": "1ef8002297825d2d24564028df1ec5fd59f1c889",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/0e60d5a9b4e1e9cb82f749f302a7bcabebb1c685",
+                    "reference": "0e60d5a9b4e1e9cb82f749f302a7bcabebb1c685",
                     "shasum": ""
                 },
                 "require": {
@@ -3150,7 +3150,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2018-02-15T20:18:52+00:00",
+                "time": "2018-10-24T14:18:11+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3164,7 +3164,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.22",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -11671,18 +11671,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea"
+                    "reference": "3794480a6f67818da2970d46b8c5842fc6a9e733"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
-                    "reference": "3c7bb78946c0baf2102095b39f7ab7bc3c9d03ea",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/3794480a6f67818da2970d46b8c5842fc6a9e733",
+                    "reference": "3794480a6f67818da2970d46b8c5842fc6a9e733",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-07-24T14:19:57+00:00",
+                "time": "2018-10-24T14:10:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11696,7 +11696,7 @@
                 "description": "Checkout Success Page module",
                 "homepage": "https://github.com/tmhub/checkout-success",
                 "support": {
-                    "source": "https://github.com/tmhub/checkout-success/tree/2.0.8",
+                    "source": "https://github.com/tmhub/checkout-success/tree/master",
                     "issues": "https://github.com/tmhub/checkout-success/issues"
                 }
             },
@@ -34014,17 +34014,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.0",
                 "version_normalized": "0.5.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
-                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34045,17 +34034,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.1",
                 "version_normalized": "0.5.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/4fbb53ea53d16aeee2e5ad278753be62c148f505",
-                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34076,17 +34054,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.0",
                 "version_normalized": "0.6.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/620aa100540b5ebb3159a3716d15a0ce3a2c4203",
-                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34108,17 +34075,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.1",
                 "version_normalized": "0.6.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6e27faee0a0ac440b5600b5551e29b99e9264168",
-                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34140,17 +34096,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.2",
                 "version_normalized": "0.6.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
-                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34172,17 +34117,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.3",
                 "version_normalized": "0.6.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/534f58d0b236ecc101784eaec92405cc5f4d9b95",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34204,17 +34138,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.4",
                 "version_normalized": "0.6.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -34236,17 +34159,6 @@
                 "name": "tm/seo-suite",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
