@@ -26713,12 +26713,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "270c9144f80f3d3cbf5c05b3007bde2316d406eb"
+                    "reference": "63d7a9dca3c174800b73a85461aeee8ec47a4c9e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/270c9144f80f3d3cbf5c05b3007bde2316d406eb",
-                    "reference": "270c9144f80f3d3cbf5c05b3007bde2316d406eb",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/63d7a9dca3c174800b73a85461aeee8ec47a4c9e",
+                    "reference": "63d7a9dca3c174800b73a85461aeee8ec47a4c9e",
                     "shasum": ""
                 },
                 "require": {
@@ -26726,7 +26726,7 @@
                     "tm/core": "*",
                     "tm/slick-carousel": "*"
                 },
-                "time": "2018-08-07T13:24:38+00:00",
+                "time": "2018-10-26T08:57:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26740,7 +26740,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.3.0",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
