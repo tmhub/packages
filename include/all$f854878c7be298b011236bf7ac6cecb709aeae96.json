@@ -7243,12 +7243,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "0fceea7632b663ab155bf614c34926b4354d9d01"
+                    "reference": "68282fce5b98f51dc877885200bf5ca20e232485"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/0fceea7632b663ab155bf614c34926b4354d9d01",
-                    "reference": "0fceea7632b663ab155bf614c34926b4354d9d01",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/68282fce5b98f51dc877885200bf5ca20e232485",
+                    "reference": "68282fce5b98f51dc877885200bf5ca20e232485",
                     "shasum": ""
                 },
                 "require": {
@@ -7279,7 +7279,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2018-10-31T12:25:35+00:00",
+                "time": "2018-10-31T14:41:14+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -33631,25 +33631,25 @@
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
-            "dev-master": {
+            "2.0.8": {
                 "name": "tm/richsnippets",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.8",
+                "version_normalized": "2.0.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "7eb91a710a0aabfd18886e870578d27d7689f48e"
+                    "reference": "1c7da3ecc25b3185d5e0b15e0725f50509e62b44"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/7eb91a710a0aabfd18886e870578d27d7689f48e",
-                    "reference": "7eb91a710a0aabfd18886e870578d27d7689f48e",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/1c7da3ecc25b3185d5e0b15e0725f50509e62b44",
+                    "reference": "1c7da3ecc25b3185d5e0b15e0725f50509e62b44",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2018-09-04T10:38:18+00:00",
+                "time": "2018-10-31T14:26:28+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33663,7 +33663,43 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/master",
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.8",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/richsnippets",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "1c7da3ecc25b3185d5e0b15e0725f50509e62b44"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/1c7da3ecc25b3185d5e0b15e0725f50509e62b44",
+                    "reference": "1c7da3ecc25b3185d5e0b15e0725f50509e62b44",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*"
+                },
+                "time": "2018-10-31T14:26:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.8",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
@@ -34168,25 +34204,25 @@
                     "issues": "https://github.com/tmhub/seo-html-sitemap/issues"
                 }
             },
-            "dev-master": {
+            "1.0.1": {
                 "name": "tm/seo-html-sitemap",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-html-sitemap.git",
-                    "reference": "786a48e8da9afdf1bc37958326a8eff15ca337a7"
+                    "reference": "1d8295b3114797a3dabfde30a5c0945ab1054376"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-html-sitemap/zipball/786a48e8da9afdf1bc37958326a8eff15ca337a7",
-                    "reference": "786a48e8da9afdf1bc37958326a8eff15ca337a7",
+                    "url": "https://api.github.com/repos/tmhub/seo-html-sitemap/zipball/1d8295b3114797a3dabfde30a5c0945ab1054376",
+                    "reference": "1d8295b3114797a3dabfde30a5c0945ab1054376",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2018-02-26T11:21:48+00:00",
+                "time": "2018-10-31T14:29:36+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -34200,7 +34236,43 @@
                 "description": "Advanced HTML Sitemap for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-html-sitemap",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-html-sitemap/tree/master",
+                    "source": "https://github.com/tmhub/seo-html-sitemap/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/seo-html-sitemap/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/seo-html-sitemap",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-html-sitemap.git",
+                    "reference": "1d8295b3114797a3dabfde30a5c0945ab1054376"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-html-sitemap/zipball/1d8295b3114797a3dabfde30a5c0945ab1054376",
+                    "reference": "1d8295b3114797a3dabfde30a5c0945ab1054376",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*"
+                },
+                "time": "2018-10-31T14:29:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced HTML Sitemap for Magento 1.x e-commerce",
+                "homepage": "https://github.com/tmhub/seo-html-sitemap",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-html-sitemap/tree/1.0.1",
                     "issues": "https://github.com/tmhub/seo-html-sitemap/issues"
                 }
             }
@@ -34351,6 +34423,27 @@
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
+            "0.6.5": {
+                "name": "tm/seo-suite",
+                "version": "0.6.5",
+                "version_normalized": "0.6.5.0",
+                "require": {
+                    "tm/richsnippets": "*",
+                    "tm/seo-html-sitemap": "*",
+                    "tm/seo-templates": "*",
+                    "tm/seo-xml-sitemap": "*"
+                },
+                "time": "2018-10-31T14:31:39+00:00",
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "SEO Suite metapackage for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.5",
+                    "issues": "https://github.com/tmhub/seo-suite/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/seo-suite",
                 "version": "dev-master",
@@ -34361,14 +34454,14 @@
                     "tm/seo-templates": "*",
                     "tm/seo-xml-sitemap": "*"
                 },
-                "time": "2018-06-13T12:12:43+00:00",
+                "time": "2018-10-31T14:31:39+00:00",
                 "type": "metapackage",
                 "license": [
                     "OSL-3.0"
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.4",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.6.5",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
@@ -38602,18 +38695,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "255df3660faab2c5e5d48482aa84eb1e3e1e987e"
+                    "reference": "a8f6d88f9b685f93384c4f2a35c80a980f258317"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/255df3660faab2c5e5d48482aa84eb1e3e1e987e",
-                    "reference": "255df3660faab2c5e5d48482aa84eb1e3e1e987e",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/a8f6d88f9b685f93384c4f2a35c80a980f258317",
+                    "reference": "a8f6d88f9b685f93384c4f2a35c80a980f258317",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-08-29T12:50:25+00:00",
+                "time": "2018-10-31T14:36:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
