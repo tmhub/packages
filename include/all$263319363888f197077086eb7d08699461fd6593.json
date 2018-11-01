@@ -15242,25 +15242,25 @@
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
-            "dev-master": {
+            "2.5.1": {
                 "name": "tm/easycatalogimg",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easycatalogimg.git",
-                    "reference": "d77a5e3ac86881a5741ada6ad4effe83a55241b8"
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/d77a5e3ac86881a5741ada6ad4effe83a55241b8",
-                    "reference": "d77a5e3ac86881a5741ada6ad4effe83a55241b8",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/99d634206a4c687a832e8c3e48e976c049c323c6",
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-05-10T14:48:23+00:00",
+                "time": "2018-11-01T09:52:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15274,7 +15274,43 @@
                 "description": "Subcategories listing with images",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.5.0",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.5.1",
+                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycatalogimg",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easycatalogimg.git",
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/99d634206a4c687a832e8c3e48e976c049c323c6",
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-01T09:52:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Subcategories listing with images",
+                "homepage": "https://github.com/tmhub/easycatalogimg",
+                "support": {
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.5.1",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             }
@@ -22821,12 +22857,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "3d58ca342ee0cc2225d8bc4704d553d6031ebb27"
+                    "reference": "0cb845ba8f58874a46d79325722da1cf3f309e03"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3d58ca342ee0cc2225d8bc4704d553d6031ebb27",
-                    "reference": "3d58ca342ee0cc2225d8bc4704d553d6031ebb27",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/0cb845ba8f58874a46d79325722da1cf3f309e03",
+                    "reference": "0cb845ba8f58874a46d79325722da1cf3f309e03",
                     "shasum": ""
                 },
                 "require": {
@@ -22835,7 +22871,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-09-28T09:30:37+00:00",
+                "time": "2018-11-01T09:23:13+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
