@@ -55,22 +55,22 @@
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
             },
-            "dev-master": {
+            "2.2.2": {
                 "name": "cryozonic/stripe",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe.git",
-                    "reference": "df768a55d4e3331dedd95e9928d34137a101db7e"
+                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/df768a55d4e3331dedd95e9928d34137a101db7e",
-                    "reference": "df768a55d4e3331dedd95e9928d34137a101db7e",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/971e885356e1fea1df4c5e8889ae2fa3d1963045",
+                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045",
                     "shasum": ""
                 },
-                "time": "2017-12-13T08:03:11+00:00",
+                "time": "2018-11-05T15:28:56+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -78,7 +78,34 @@
                 "description": "Stripe Payments",
                 "homepage": "http://store.cryozonic.com/stripe-payments.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/master",
+                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/2.2.2",
+                    "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
+                }
+            },
+            "dev-master": {
+                "name": "cryozonic/stripe",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cryozonic-stripe.git",
+                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/971e885356e1fea1df4c5e8889ae2fa3d1963045",
+                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045",
+                    "shasum": ""
+                },
+                "time": "2018-11-05T15:28:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Stripe Payments",
+                "homepage": "http://store.cryozonic.com/stripe-payments.html",
+                "support": {
+                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/2.2.2",
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
             }
@@ -16436,55 +16463,26 @@
                     "issues": "https://github.com/tmhub/easynavigation/issues"
                 }
             },
-            "dev-master": {
+            "1.3.1": {
                 "name": "tm/easynavigation",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easynavigation.git",
-                    "reference": "cfb3ab4fa6022a9b3bc7c312513d84f4a1b51f51"
+                    "reference": "6b2d360ae26404b598ecfcd8c21f306be796304f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/cfb3ab4fa6022a9b3bc7c312513d84f4a1b51f51",
-                    "reference": "cfb3ab4fa6022a9b3bc7c312513d84f4a1b51f51",
+                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/6b2d360ae26404b598ecfcd8c21f306be796304f",
+                    "reference": "6b2d360ae26404b598ecfcd8c21f306be796304f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2014-07-04T07:33:09+00:00",
+                "time": "2018-11-05T15:25:15+00:00",
                 "type": "magento-module",
-                "extra": {
-                    "map": [
-                        [
-                            "app/code/local/TM/EasyNavigation",
-                            "app/code/local/TM/EasyNavigation"
-                        ],
-                        [
-                            "app/design/frontend/base/default/layout/tm/easynavigation.xml",
-                            "app/design/frontend/base/default/layout/tm/easynavigation.xml"
-                        ],
-                        [
-                            "app/design/frontend/base/default/template/tm/easynavigation",
-                            "app/design/frontend/base/default/template/tm/easynavigation"
-                        ],
-                        [
-                            "app/etc/modules/TM_EasyNavigation.xml",
-                            "app/etc/modules/TM_EasyNavigation.xml"
-                        ],
-                        [
-                            "app/locale/en_US/TM_EasyNavigation.csv",
-                            "app/locale/en_US/TM_EasyNavigation.csv"
-                        ],
-                        [
-                            "skin/frontend/base/default/tm/easynavigation",
-                            "skin/frontend/base/default/tm/easynavigation"
-                        ]
-                    ],
-                    "changelog": ""
-                },
                 "license": [
                     "OSL-3.0"
                 ],
@@ -16497,7 +16495,43 @@
                 "description": "Multicolumn and sidebar navigation",
                 "homepage": "https://github.com/tmhub/easynavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/easynavigation/tree/master",
+                    "source": "https://github.com/tmhub/easynavigation/tree/1.3.1",
+                    "issues": "https://github.com/tmhub/easynavigation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easynavigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easynavigation.git",
+                    "reference": "6b2d360ae26404b598ecfcd8c21f306be796304f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easynavigation/zipball/6b2d360ae26404b598ecfcd8c21f306be796304f",
+                    "reference": "6b2d360ae26404b598ecfcd8c21f306be796304f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-05T15:25:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Multicolumn and sidebar navigation",
+                "homepage": "https://github.com/tmhub/easynavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/easynavigation/tree/1.3.1",
                     "issues": "https://github.com/tmhub/easynavigation/issues"
                 }
             }
