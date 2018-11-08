@@ -7654,26 +7654,26 @@
                     "issues": "https://github.com/tmhub/argento-mage2cloud/issues"
                 }
             },
-            "dev-master": {
+            "1.0.2": {
                 "name": "tm/argento_mage2cloud",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-mage2cloud.git",
-                    "reference": "818ff78aba02f2c2c866513fe5ef7250e821ae79"
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-mage2cloud/zipball/818ff78aba02f2c2c866513fe5ef7250e821ae79",
-                    "reference": "818ff78aba02f2c2c866513fe5ef7250e821ae79",
+                    "url": "https://api.github.com/repos/tmhub/argento-mage2cloud/zipball/49c3317307bcb3b6d42962de5e752367c131ea37",
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*",
                     "tm/helpdesk": "*"
                 },
-                "time": "2016-03-04T10:54:28+00:00",
+                "time": "2018-11-08T09:25:01+00:00",
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -7708,7 +7708,65 @@
                 "description": "Mage2Cloud theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/tmhub/argento-mage2cloud/tree/master",
+                    "source": "https://github.com/tmhub/argento-mage2cloud/tree/1.0.2",
+                    "issues": "https://github.com/tmhub/argento-mage2cloud/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento_mage2cloud",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-mage2cloud.git",
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-mage2cloud/zipball/49c3317307bcb3b6d42962de5e752367c131ea37",
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/helpdesk": "*"
+                },
+                "time": "2018-11-08T09:25:01+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ArgentoMage2Cloud",
+                            "app/code/local/TM/ArgentoMage2Cloud"
+                        ],
+                        [
+                            "app/design/frontend/argento/mage2cloud",
+                            "app/design/frontend/argento/mage2cloud"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml",
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml"
+                        ],
+                        [
+                            "skin/frontend/argento/mage2cloud",
+                            "skin/frontend/argento/mage2cloud"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Mage2Cloud theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-mage2cloud/tree/1.0.2",
                     "issues": "https://github.com/tmhub/argento-mage2cloud/issues"
                 }
             }
@@ -7863,19 +7921,19 @@
                     "issues": "https://github.com/tmhub/argento-tm/issues"
                 }
             },
-            "dev-master": {
+            "1.1.0": {
                 "name": "tm/argento_tm",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-tm.git",
-                    "reference": "e46cda0f69ac07aebdbef8c5199bd0c2d116a689"
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-tm/zipball/e46cda0f69ac07aebdbef8c5199bd0c2d116a689",
-                    "reference": "e46cda0f69ac07aebdbef8c5199bd0c2d116a689",
+                    "url": "https://api.github.com/repos/tmhub/argento-tm/zipball/5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
                     "shasum": ""
                 },
                 "require": {
@@ -7885,7 +7943,7 @@
                     "tm/notifier": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2016-07-07T07:58:15+00:00",
+                "time": "2018-11-08T09:45:43+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7899,7 +7957,47 @@
                 "description": "Templates-Master theme",
                 "homepage": "https://github.com/tmhub/argento_tm",
                 "support": {
-                    "source": "https://github.com/tmhub/argento-tm/tree/master",
+                    "source": "https://github.com/tmhub/argento-tm/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/argento-tm/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento_tm",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-tm.git",
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-tm/zipball/5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/firecheckout": "*",
+                    "tm/helpdesk": "*",
+                    "tm/notifier": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2018-11-08T09:45:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates-Master theme",
+                "homepage": "https://github.com/tmhub/argento_tm",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-tm/tree/1.1.0",
                     "issues": "https://github.com/tmhub/argento-tm/issues"
                 }
             }
@@ -23289,25 +23387,25 @@
                     "issues": "https://github.com/tmhub/ga-plugin-scrolldepth/issues"
                 }
             },
-            "dev-master": {
+            "0.9.1": {
                 "name": "tm/ga-plugin-scrolldepth",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.9.1",
+                "version_normalized": "0.9.1.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/ga-plugin-scrolldepth.git",
-                    "reference": "5e201625e1c4a61944048f86d0753676baf45ee9"
+                    "reference": "b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ga-plugin-scrolldepth/zipball/5e201625e1c4a61944048f86d0753676baf45ee9",
-                    "reference": "5e201625e1c4a61944048f86d0753676baf45ee9",
+                    "url": "https://api.github.com/repos/tmhub/ga-plugin-scrolldepth/zipball/b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb",
+                    "reference": "b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-10-03T13:35:44+00:00",
+                "time": "2018-11-08T09:45:51+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -23321,7 +23419,43 @@
                 "description": "Google Analytics plugin Scroll Depth",
                 "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth",
                 "support": {
-                    "source": "https://github.com/tmhub/ga-plugin-scrolldepth/tree/master",
+                    "source": "https://github.com/tmhub/ga-plugin-scrolldepth/tree/0.9.1",
+                    "issues": "https://github.com/tmhub/ga-plugin-scrolldepth/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ga-plugin-scrolldepth",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/ga-plugin-scrolldepth.git",
+                    "reference": "b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ga-plugin-scrolldepth/zipball/b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb",
+                    "reference": "b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T09:45:51+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google Analytics plugin Scroll Depth",
+                "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth",
+                "support": {
+                    "source": "https://github.com/tmhub/ga-plugin-scrolldepth/tree/0.9.1",
                     "issues": "https://github.com/tmhub/ga-plugin-scrolldepth/issues"
                 }
             }
@@ -28375,25 +28509,25 @@
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             },
-            "dev-master": {
+            "1.5.5": {
                 "name": "tm/newsletterbooster",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/newsletterbooster.git",
-                    "reference": "f1579b81fd9e40775d8769216ff9d54e4b58c7b5"
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/f1579b81fd9e40775d8769216ff9d54e4b58c7b5",
-                    "reference": "f1579b81fd9e40775d8769216ff9d54e4b58c7b5",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/46027ae1a728470dbf334033e61b97247044e9fc",
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-20T14:33:54+00:00",
+                "time": "2018-11-08T09:45:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28407,7 +28541,43 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.5",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/newsletterbooster",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/46027ae1a728470dbf334033e61b97247044e9fc",
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T09:45:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.5",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             }
@@ -33232,25 +33402,25 @@
                     "issues": "https://github.com/tmhub/reward/issues"
                 }
             },
-            "dev-master": {
+            "0.1.2": {
                 "name": "tm/reward",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/reward.git",
-                    "reference": "2590f86573de1596ede0a9b1971c763a67140276"
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/reward/zipball/2590f86573de1596ede0a9b1971c763a67140276",
-                    "reference": "2590f86573de1596ede0a9b1971c763a67140276",
+                    "url": "https://api.github.com/repos/tmhub/reward/zipball/54957cfafecc17829efdd4f85f8b5c05e937699b",
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-01-25T09:58:38+00:00",
+                "time": "2018-11-08T09:45:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33264,7 +33434,43 @@
                 "description": "Templates Master Reward module",
                 "homepage": "https://github.com/tmhub/reward",
                 "support": {
-                    "source": "https://github.com/tmhub/reward/tree/master",
+                    "source": "https://github.com/tmhub/reward/tree/0.1.2",
+                    "issues": "https://github.com/tmhub/reward/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/reward",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/reward.git",
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/reward/zipball/54957cfafecc17829efdd4f85f8b5c05e937699b",
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T09:45:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Reward module",
+                "homepage": "https://github.com/tmhub/reward",
+                "support": {
+                    "source": "https://github.com/tmhub/reward/tree/0.1.2",
                     "issues": "https://github.com/tmhub/reward/issues"
                 }
             }
