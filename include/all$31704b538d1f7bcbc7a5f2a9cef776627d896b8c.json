@@ -138,22 +138,22 @@
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             },
-            "dev-master": {
+            "1.7.7": {
                 "name": "cryozonic/stripe-subscriptions",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.7",
+                "version_normalized": "1.7.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
-                    "reference": "c6599965d1f3f5dea78a63005dded57843e76993"
+                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/c6599965d1f3f5dea78a63005dded57843e76993",
-                    "reference": "c6599965d1f3f5dea78a63005dded57843e76993",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/979f0c2f28e34c4f30da88fa35f0caf58db7f064",
+                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064",
                     "shasum": ""
                 },
-                "time": "2018-08-02T12:53:00+00:00",
+                "time": "2018-11-08T10:08:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -161,7 +161,34 @@
                 "description": "Stripe Subscriptions",
                 "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/master",
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/1.7.7",
+                    "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
+                }
+            },
+            "dev-master": {
+                "name": "cryozonic/stripe-subscriptions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
+                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/979f0c2f28e34c4f30da88fa35f0caf58db7f064",
+                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064",
+                    "shasum": ""
+                },
+                "time": "2018-11-08T10:08:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Stripe Subscriptions",
+                "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
+                "support": {
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/1.7.7",
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             }
@@ -7447,25 +7474,25 @@
             }
         },
         "tm/argento_argentotheme": {
-            "dev-master": {
+            "0.2.0": {
                 "name": "tm/argento_argentotheme",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "0045a67227fc3f9dd026c4e418cc5ffdaae8d06f"
+                    "reference": "9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/0045a67227fc3f9dd026c4e418cc5ffdaae8d06f",
-                    "reference": "0045a67227fc3f9dd026c4e418cc5ffdaae8d06f",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51",
+                    "reference": "9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2018-10-05T14:42:38+00:00",
+                "time": "2018-11-08T10:06:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -7479,7 +7506,43 @@
                 "description": "Argento theme for Argentotheme.com",
                 "homepage": "https://github.com/tmhub/argento_argentotheme",
                 "support": {
-                    "source": "https://github.com/tmhub/argento-argentotheme/tree/master",
+                    "source": "https://github.com/tmhub/argento-argentotheme/tree/0.2.0",
+                    "issues": "https://github.com/tmhub/argento-argentotheme/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento_argentotheme",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-argentotheme.git",
+                    "reference": "9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51",
+                    "reference": "9ef6fcf6f54e4ac5fd0f7c87f0001ad82fef9b51",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*"
+                },
+                "time": "2018-11-08T10:06:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme for Argentotheme.com",
+                "homepage": "https://github.com/tmhub/argento_argentotheme",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-argentotheme/tree/0.2.0",
                     "issues": "https://github.com/tmhub/argento-argentotheme/issues"
                 }
             }
@@ -13015,25 +13078,25 @@
                     "issues": "https://github.com/tmhub/countdowntimer/issues"
                 }
             },
-            "dev-master": {
+            "1.2.3": {
                 "name": "tm/countdowntimer",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
-                    "reference": "921b59f4d0391c992257ce7e8b4d92228904e1c3"
+                    "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/921b59f4d0391c992257ce7e8b4d92228904e1c3",
-                    "reference": "921b59f4d0391c992257ce7e8b4d92228904e1c3",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/99065f33ff21be47ce137fb35d46bba1ee26c108",
+                    "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-15T07:45:02+00:00",
+                "time": "2018-11-08T10:06:28+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13047,7 +13110,43 @@
                 "description": "CountDown Timer module",
                 "homepage": "https://github.com/tmhub/countdowntimer",
                 "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/master",
+                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.3",
+                    "issues": "https://github.com/tmhub/countdowntimer/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/countdowntimer",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/countdowntimer/zipball/99065f33ff21be47ce137fb35d46bba1ee26c108",
+                    "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:06:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "CountDown Timer module",
+                "homepage": "https://github.com/tmhub/countdowntimer",
+                "support": {
+                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.3",
                     "issues": "https://github.com/tmhub/countdowntimer/issues"
                 }
             }
@@ -15945,25 +16044,25 @@
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             },
-            "dev-master": {
+            "2.1.6": {
                 "name": "tm/easycolorswatches",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.6",
+                "version_normalized": "2.1.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
-                    "reference": "07da7d984d24bce8c7c5ff96ab79b259873183b2"
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/07da7d984d24bce8c7c5ff96ab79b259873183b2",
-                    "reference": "07da7d984d24bce8c7c5ff96ab79b259873183b2",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-05-11T12:00:02+00:00",
+                "time": "2018-11-08T10:06:25+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15977,7 +16076,43 @@
                 "description": "Attribute Swatches for Magento",
                 "homepage": "https://github.com/tmhub/easycolorswatches",
                 "support": {
-                    "source": "https://github.com/tmhub/easycolorswatches/tree/master",
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.6",
+                    "issues": "https://github.com/tmhub/easycolorswatches/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easycolorswatches",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easycolorswatches.git",
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:06:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute Swatches for Magento",
+                "homepage": "https://github.com/tmhub/easycolorswatches",
+                "support": {
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.6",
                     "issues": "https://github.com/tmhub/easycolorswatches/issues"
                 }
             }
@@ -26067,19 +26202,19 @@
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             },
-            "dev-master": {
+            "1.6.9": {
                 "name": "tm/knowledge-base",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.9",
+                "version_normalized": "1.6.9.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "fee041ff84c0235c15c171a5a4597a437357a812"
+                    "reference": "3ea84190a8fe0d2a202b0234a1bc626064f464c9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/fee041ff84c0235c15c171a5a4597a437357a812",
-                    "reference": "fee041ff84c0235c15c171a5a4597a437357a812",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/3ea84190a8fe0d2a202b0234a1bc626064f464c9",
+                    "reference": "3ea84190a8fe0d2a202b0234a1bc626064f464c9",
                     "shasum": ""
                 },
                 "require": {
@@ -26088,7 +26223,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2018-02-19T09:47:05+00:00",
+                "time": "2018-11-08T10:06:30+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26102,7 +26237,46 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.9",
+                    "issues": "https://github.com/tmhub/knowledge-base/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/knowledge-base",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/knowledge-base.git",
+                    "reference": "3ea84190a8fe0d2a202b0234a1bc626064f464c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/3ea84190a8fe0d2a202b0234a1bc626064f464c9",
+                    "reference": "3ea84190a8fe0d2a202b0234a1bc626064f464c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2018-11-08T10:06:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Knowledge Base module",
+                "homepage": "https://github.com/tmhub/knowledge-base",
+                "support": {
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.9",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
@@ -32109,25 +32283,25 @@
                     "issues": "https://github.com/tmhub/purify/issues"
                 }
             },
-            "dev-master": {
+            "1.0.1": {
                 "name": "tm/purify",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/purify.git",
-                    "reference": "122ea518200e464a2c90ded8a37360c7b0c64e6b"
+                    "reference": "de009970e33ae155538feff5b75adcb7d9bedd18"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/purify/zipball/122ea518200e464a2c90ded8a37360c7b0c64e6b",
-                    "reference": "122ea518200e464a2c90ded8a37360c7b0c64e6b",
+                    "url": "https://api.github.com/repos/tmhub/purify/zipball/de009970e33ae155538feff5b75adcb7d9bedd18",
+                    "reference": "de009970e33ae155538feff5b75adcb7d9bedd18",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-03-28T15:11:14+00:00",
+                "time": "2018-11-08T10:06:22+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -32141,7 +32315,43 @@
                 "description": "Templates Master Purify module(HTMLPurifier magento integrator)",
                 "homepage": "https://github.com/tmhub/purify",
                 "support": {
-                    "source": "https://github.com/tmhub/purify/tree/master",
+                    "source": "https://github.com/tmhub/purify/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/purify/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/purify",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/purify.git",
+                    "reference": "de009970e33ae155538feff5b75adcb7d9bedd18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/purify/zipball/de009970e33ae155538feff5b75adcb7d9bedd18",
+                    "reference": "de009970e33ae155538feff5b75adcb7d9bedd18",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:06:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Purify module(HTMLPurifier magento integrator)",
+                "homepage": "https://github.com/tmhub/purify",
+                "support": {
+                    "source": "https://github.com/tmhub/purify/tree/1.0.1",
                     "issues": "https://github.com/tmhub/purify/issues"
                 }
             }
@@ -33071,25 +33281,25 @@
                     "issues": "https://github.com/tmhub/recaptcha/issues"
                 }
             },
-            "dev-master": {
+            "1.1.1": {
                 "name": "tm/recaptcha",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recaptcha.git",
-                    "reference": "4ef1c5bc4ec2a90f9cbb035d6bacffe8f66d9217"
+                    "reference": "74b47141cc83078c0b8289a0adf2673febce4131"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/4ef1c5bc4ec2a90f9cbb035d6bacffe8f66d9217",
-                    "reference": "4ef1c5bc4ec2a90f9cbb035d6bacffe8f66d9217",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/74b47141cc83078c0b8289a0adf2673febce4131",
+                    "reference": "74b47141cc83078c0b8289a0adf2673febce4131",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-12-15T13:25:17+00:00",
+                "time": "2018-11-08T10:08:19+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33103,7 +33313,43 @@
                 "description": "reCAPTCHA for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/recaptcha",
                 "support": {
-                    "source": "https://github.com/tmhub/recaptcha/tree/master",
+                    "source": "https://github.com/tmhub/recaptcha/tree/1.1.1",
+                    "issues": "https://github.com/tmhub/recaptcha/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/recaptcha",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/recaptcha.git",
+                    "reference": "74b47141cc83078c0b8289a0adf2673febce4131"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/74b47141cc83078c0b8289a0adf2673febce4131",
+                    "reference": "74b47141cc83078c0b8289a0adf2673febce4131",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:08:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "reCAPTCHA for Magento 1.x e-commerce",
+                "homepage": "https://github.com/tmhub/recaptcha",
+                "support": {
+                    "source": "https://github.com/tmhub/recaptcha/tree/1.1.1",
                     "issues": "https://github.com/tmhub/recaptcha/issues"
                 }
             }
