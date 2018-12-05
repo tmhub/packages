@@ -89,15 +89,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe.git",
-                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045"
+                    "reference": "ee8b1528f5c43bd89f33b18ade976eee4d07cbbc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/971e885356e1fea1df4c5e8889ae2fa3d1963045",
-                    "reference": "971e885356e1fea1df4c5e8889ae2fa3d1963045",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/ee8b1528f5c43bd89f33b18ade976eee4d07cbbc",
+                    "reference": "ee8b1528f5c43bd89f33b18ade976eee4d07cbbc",
                     "shasum": ""
                 },
-                "time": "2018-11-05T15:28:56+00:00",
+                "time": "2018-12-05T08:31:20+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -105,7 +105,7 @@
                 "description": "Stripe Payments",
                 "homepage": "http://store.cryozonic.com/stripe-payments.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/2.2.2",
+                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/master",
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
             }
@@ -172,15 +172,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
-                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064"
+                    "reference": "620d87e1abba356042667aebfcc44ca7c0357832"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/979f0c2f28e34c4f30da88fa35f0caf58db7f064",
-                    "reference": "979f0c2f28e34c4f30da88fa35f0caf58db7f064",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/620d87e1abba356042667aebfcc44ca7c0357832",
+                    "reference": "620d87e1abba356042667aebfcc44ca7c0357832",
                     "shasum": ""
                 },
-                "time": "2018-11-08T10:08:46+00:00",
+                "time": "2018-12-05T08:37:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -188,7 +188,7 @@
                 "description": "Stripe Subscriptions",
                 "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/1.7.7",
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/master",
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             }
@@ -23280,12 +23280,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "c5e4241a794a556096c523cad29ebc048979a7dc"
+                    "reference": "a8167552e664c52e3dfe6dd3f2718d15e3390422"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/c5e4241a794a556096c523cad29ebc048979a7dc",
-                    "reference": "c5e4241a794a556096c523cad29ebc048979a7dc",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a8167552e664c52e3dfe6dd3f2718d15e3390422",
+                    "reference": "a8167552e664c52e3dfe6dd3f2718d15e3390422",
                     "shasum": ""
                 },
                 "require": {
@@ -23294,7 +23294,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2018-11-30T13:19:37+00:00",
+                "time": "2018-12-05T09:14:12+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24655,6 +24655,46 @@
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             },
+            "1.7.10": {
+                "name": "tm/helpdesk",
+                "version": "1.7.10",
+                "version_normalized": "1.7.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/helpdesk.git",
+                    "reference": "fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43",
+                    "reference": "fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/knowledge-base": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2018-12-05T09:21:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Helpdesk module",
+                "homepage": "https://github.com/tmhub/helpdesk",
+                "support": {
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.10",
+                    "issues": "https://github.com/tmhub/helpdesk/issues"
+                }
+            },
             "1.7.2": {
                 "name": "tm/helpdesk",
                 "version": "1.7.2",
@@ -24982,12 +25022,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "39313e15b6f90c49615b4c2c4fa3dbb56927293c"
+                    "reference": "fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/39313e15b6f90c49615b4c2c4fa3dbb56927293c",
-                    "reference": "39313e15b6f90c49615b4c2c4fa3dbb56927293c",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43",
+                    "reference": "fe8b6ab3d8b37055a3e29ac1d955964e5ea7cd43",
                     "shasum": ""
                 },
                 "require": {
@@ -24997,7 +25037,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2018-10-12T11:05:26+00:00",
+                "time": "2018-12-05T09:21:45+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25011,7 +25051,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.9",
+                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.10",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
@@ -36283,18 +36323,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
-                    "reference": "ca5d0df1b95ebc29d4574c5c92895559d2538d67"
+                    "reference": "c4de95f6de697f8e6dac567b69a2b5d5c56d88c3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/ca5d0df1b95ebc29d4574c5c92895559d2538d67",
-                    "reference": "ca5d0df1b95ebc29d4574c5c92895559d2538d67",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/c4de95f6de697f8e6dac567b69a2b5d5c56d88c3",
+                    "reference": "c4de95f6de697f8e6dac567b69a2b5d5c56d88c3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-10-17T08:35:00+00:00",
+                "time": "2018-12-05T09:29:01+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
