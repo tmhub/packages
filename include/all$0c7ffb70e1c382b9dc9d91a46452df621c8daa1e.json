@@ -5038,7 +5038,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/tmhub/argento/tree/1.12.0",
+                    "source": "https://github.com/tmhub/argento/tree/master",
                     "issues": "https://github.com/tmhub/argento/issues"
                 }
             },
@@ -10241,7 +10241,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             },
@@ -10286,7 +10286,7 @@
                 "description": "Module to protect magento from bots and spiders",
                 "homepage": "https://github.com/tmhub/botprotection",
                 "support": {
-                    "source": "https://github.com/tmhub/botprotection/tree/1.0.9",
+                    "source": "https://github.com/tmhub/botprotection/tree/master",
                     "issues": "https://github.com/tmhub/botprotection/issues"
                 }
             }
@@ -12874,7 +12874,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.0",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             },
@@ -15534,7 +15534,7 @@
                 "description": "Subcategories listing with images",
                 "homepage": "https://github.com/tmhub/easycatalogimg",
                 "support": {
-                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.4.4",
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/master",
                     "issues": "https://github.com/tmhub/easycatalogimg/issues"
                 }
             },
@@ -19249,7 +19249,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.10",
+                    "source": "https://github.com/tmhub/email/tree/master",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             },
@@ -26200,7 +26200,7 @@
                 "description": "Image compressing",
                 "homepage": "https://github.com/tmhub/imagemin",
                 "support": {
-                    "source": "https://github.com/tmhub/imagemin/tree/0.1.0",
+                    "source": "https://github.com/tmhub/imagemin/tree/master",
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             },
@@ -26236,7 +26236,7 @@
                 "description": "Image compressing",
                 "homepage": "https://github.com/tmhub/imagemin",
                 "support": {
-                    "source": "https://github.com/tmhub/imagemin/tree/0.1.0",
+                    "source": "https://github.com/tmhub/imagemin/tree/master",
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             }
@@ -26980,7 +26980,7 @@
                 "description": "License checker for argentotheme.com and swissuplabs.com",
                 "homepage": "https://github.com/tmhub/license",
                 "support": {
-                    "source": "https://github.com/tmhub/license/tree/1.4.3",
+                    "source": "https://github.com/tmhub/license/tree/master",
                     "issues": "https://github.com/tmhub/license/issues"
                 }
             },
@@ -26991,18 +26991,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/license.git",
-                    "reference": "be8350922840d9cd020d8ab52e79b4621f59deb1"
+                    "reference": "78dc1eed55f5c807eaead0efd10a58e9285066df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/license/zipball/be8350922840d9cd020d8ab52e79b4621f59deb1",
-                    "reference": "be8350922840d9cd020d8ab52e79b4621f59deb1",
+                    "url": "https://api.github.com/repos/tmhub/license/zipball/78dc1eed55f5c807eaead0efd10a58e9285066df",
+                    "reference": "78dc1eed55f5c807eaead0efd10a58e9285066df",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-12-03T09:54:59+00:00",
+                "time": "2018-12-06T16:16:58+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27016,7 +27016,7 @@
                 "description": "License checker for argentotheme.com and swissuplabs.com",
                 "homepage": "https://github.com/tmhub/license",
                 "support": {
-                    "source": "https://github.com/tmhub/license/tree/1.4.3",
+                    "source": "https://github.com/tmhub/license/tree/master",
                     "issues": "https://github.com/tmhub/license/issues"
                 }
             }
@@ -31482,7 +31482,7 @@
                 "description": "Product labels and badges",
                 "homepage": "https://github.com/tmhub/prolabels",
                 "support": {
-                    "source": "https://github.com/tmhub/prolabels/tree/2.7.12",
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
                     "issues": "https://github.com/tmhub/prolabels/issues"
                 }
             },
@@ -35174,17 +35174,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.0",
                 "version_normalized": "0.5.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
-                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35205,17 +35194,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.1",
                 "version_normalized": "0.5.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/4fbb53ea53d16aeee2e5ad278753be62c148f505",
-                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35236,17 +35214,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.0",
                 "version_normalized": "0.6.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/620aa100540b5ebb3159a3716d15a0ce3a2c4203",
-                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35268,17 +35235,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.1",
                 "version_normalized": "0.6.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6e27faee0a0ac440b5600b5551e29b99e9264168",
-                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35300,17 +35256,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.2",
                 "version_normalized": "0.6.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
-                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35332,17 +35277,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.3",
                 "version_normalized": "0.6.3.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/534f58d0b236ecc101784eaec92405cc5f4d9b95",
-                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35364,17 +35298,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.4",
                 "version_normalized": "0.6.4.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35396,17 +35319,6 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.5",
                 "version_normalized": "0.6.5.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6ea75bdf0706b104833ab66d4be97fc6c20913e7",
-                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -35428,17 +35340,6 @@
                 "name": "tm/seo-suite",
                 "version": "dev-master",
                 "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/seo-suite.git",
-                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6ea75bdf0706b104833ab66d4be97fc6c20913e7",
-                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7",
-                    "shasum": ""
-                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -39711,7 +39612,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/1.3.1",
+                    "source": "https://github.com/tmhub/testimonials/tree/master",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             },
@@ -39747,7 +39648,7 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/1.3.1",
+                    "source": "https://github.com/tmhub/testimonials/tree/master",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             }
