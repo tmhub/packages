@@ -33621,25 +33621,25 @@
                     "issues": "https://github.com/tmhub/recaptcha/issues"
                 }
             },
-            "dev-master": {
+            "1.2.1": {
                 "name": "tm/recaptcha",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recaptcha.git",
-                    "reference": "2f87515f929b5f3c3cb2a08d2050bc72ac274917"
+                    "reference": "074dec0df5335b79034666baaeca8a2e71c274ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/2f87515f929b5f3c3cb2a08d2050bc72ac274917",
-                    "reference": "2f87515f929b5f3c3cb2a08d2050bc72ac274917",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/074dec0df5335b79034666baaeca8a2e71c274ca",
+                    "reference": "074dec0df5335b79034666baaeca8a2e71c274ca",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-11-27T15:38:39+00:00",
+                "time": "2018-12-19T11:57:04+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33653,7 +33653,43 @@
                 "description": "reCAPTCHA for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/recaptcha",
                 "support": {
-                    "source": "https://github.com/tmhub/recaptcha/tree/1.2.0",
+                    "source": "https://github.com/tmhub/recaptcha/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/recaptcha/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/recaptcha",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/recaptcha.git",
+                    "reference": "074dec0df5335b79034666baaeca8a2e71c274ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/recaptcha/zipball/074dec0df5335b79034666baaeca8a2e71c274ca",
+                    "reference": "074dec0df5335b79034666baaeca8a2e71c274ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-12-19T11:57:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "reCAPTCHA for Magento 1.x e-commerce",
+                "homepage": "https://github.com/tmhub/recaptcha",
+                "support": {
+                    "source": "https://github.com/tmhub/recaptcha/tree/1.2.1",
                     "issues": "https://github.com/tmhub/recaptcha/issues"
                 }
             }
