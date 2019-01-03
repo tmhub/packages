@@ -3319,12 +3319,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "f613697a9d8931783fefd93c484776d76b0724fe"
+                    "reference": "79b594c21e1a1657719d4407b75127b5be40e4ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/f613697a9d8931783fefd93c484776d76b0724fe",
-                    "reference": "f613697a9d8931783fefd93c484776d76b0724fe",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/79b594c21e1a1657719d4407b75127b5be40e4ca",
+                    "reference": "79b594c21e1a1657719d4407b75127b5be40e4ca",
                     "shasum": ""
                 },
                 "require": {
@@ -3332,7 +3332,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2018-12-28T12:32:38+00:00",
+                "time": "2019-01-03T13:07:53+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
