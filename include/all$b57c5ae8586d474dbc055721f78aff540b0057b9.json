@@ -7643,18 +7643,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "d088b917ccba7d1a639a37f67df71461f3b61ceb"
+                    "reference": "0cb4e290ab7d7029d1a266d9591b84959f86e83b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/d088b917ccba7d1a639a37f67df71461f3b61ceb",
-                    "reference": "d088b917ccba7d1a639a37f67df71461f3b61ceb",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/0cb4e290ab7d7029d1a266d9591b84959f86e83b",
+                    "reference": "0cb4e290ab7d7029d1a266d9591b84959f86e83b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2019-01-15T15:44:09+00:00",
+                "time": "2019-01-16T16:16:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28794,18 +28794,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065"
+                    "reference": "753e682ac619a0d72fd695cc5ccdd0d61da7a75d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/641555f0782f9bb7a9c006c37c59f44737e7f065",
-                    "reference": "641555f0782f9bb7a9c006c37c59f44737e7f065",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/753e682ac619a0d72fd695cc5ccdd0d61da7a75d",
+                    "reference": "753e682ac619a0d72fd695cc5ccdd0d61da7a75d",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-20T14:39:38+00:00",
+                "time": "2019-01-16T09:42:37+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28819,7 +28819,7 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/1.6.0",
+                    "source": "https://github.com/tmhub/navigationpro/tree/master",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
