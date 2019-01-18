@@ -7643,18 +7643,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "68ea89788c266058effa2239b4cd108fba68885a"
+                    "reference": "544518c78383bc3d25aa50d6caf7a4fb63455625"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/68ea89788c266058effa2239b4cd108fba68885a",
-                    "reference": "68ea89788c266058effa2239b4cd108fba68885a",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/544518c78383bc3d25aa50d6caf7a4fb63455625",
+                    "reference": "544518c78383bc3d25aa50d6caf7a4fb63455625",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2019-01-17T15:56:30+00:00",
+                "time": "2019-01-18T16:08:29+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -10342,18 +10342,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
-                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54"
+                    "reference": "1083b9b950ce4707887f539260729869753a014b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/2f6020746603f04d44f9dcf0ea597126e18f4f54",
-                    "reference": "2f6020746603f04d44f9dcf0ea597126e18f4f54",
+                    "url": "https://api.github.com/repos/tmhub/botprotection/zipball/1083b9b950ce4707887f539260729869753a014b",
+                    "reference": "1083b9b950ce4707887f539260729869753a014b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2017-10-19T09:02:43+00:00",
+                "time": "2019-01-18T15:08:55+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -27675,12 +27675,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
-                    "reference": "1ef154ef723e8d71ffd5da72a7ceb9894a2e8a21"
+                    "reference": "5fa413d66bcbcbc9a7c09beb8be3d5cd11f1fcc6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/1ef154ef723e8d71ffd5da72a7ceb9894a2e8a21",
-                    "reference": "1ef154ef723e8d71ffd5da72a7ceb9894a2e8a21",
+                    "url": "https://api.github.com/repos/tmhub/lightboxpro/zipball/5fa413d66bcbcbc9a7c09beb8be3d5cd11f1fcc6",
+                    "reference": "5fa413d66bcbcbc9a7c09beb8be3d5cd11f1fcc6",
                     "shasum": ""
                 },
                 "require": {
@@ -27688,7 +27688,7 @@
                     "tm/core": "*",
                     "tm/slick-carousel": "*"
                 },
-                "time": "2018-10-31T12:38:40+00:00",
+                "time": "2019-01-18T14:37:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27702,7 +27702,7 @@
                 "description": "Templates Master LightboxPro module",
                 "homepage": "https://github.com/tmhub/lightboxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/lightboxpro/tree/1.3.1",
+                    "source": "https://github.com/tmhub/lightboxpro/tree/master",
                     "issues": "https://github.com/tmhub/lightboxpro/issues"
                 }
             }
