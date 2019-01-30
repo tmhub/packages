@@ -7643,18 +7643,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "4db9c6e995d80574c36187e852f10bcaf4a523ed"
+                    "reference": "4e14a825f712cf010131e3e4c77aa7fbe469bdde"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/4db9c6e995d80574c36187e852f10bcaf4a523ed",
-                    "reference": "4db9c6e995d80574c36187e852f10bcaf4a523ed",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/4e14a825f712cf010131e3e4c77aa7fbe469bdde",
+                    "reference": "4e14a825f712cf010131e3e4c77aa7fbe469bdde",
                     "shasum": ""
                 },
                 "require": {
                     "tm/argento": "*"
                 },
-                "time": "2019-01-29T16:11:20+00:00",
+                "time": "2019-01-30T16:17:06+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13140,15 +13140,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "3bdd7106f2d9c7241c3af59c474ab9d167f69066"
+                    "reference": "b2c01561006ea83da99b86080000138720ce1ff3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/3bdd7106f2d9c7241c3af59c474ab9d167f69066",
-                    "reference": "3bdd7106f2d9c7241c3af59c474ab9d167f69066",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/b2c01561006ea83da99b86080000138720ce1ff3",
+                    "reference": "b2c01561006ea83da99b86080000138720ce1ff3",
                     "shasum": ""
                 },
-                "time": "2018-06-13T13:11:20+00:00",
+                "time": "2019-01-30T14:02:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13162,7 +13162,7 @@
                 "description": "Templates Master core functionality module",
                 "homepage": "https://github.com/tmhub/core",
                 "support": {
-                    "source": "https://github.com/tmhub/core/tree/1.6.5",
+                    "source": "https://github.com/tmhub/core/tree/master",
                     "issues": "https://github.com/tmhub/core/issues"
                 }
             }
