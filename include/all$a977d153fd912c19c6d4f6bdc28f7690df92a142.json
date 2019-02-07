@@ -7643,12 +7643,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "74e79ddcf80813412b6153646533ac0f604403fb"
+                    "reference": "2e7bca5523336c76813ee339f190ac0684259983"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/74e79ddcf80813412b6153646533ac0f604403fb",
-                    "reference": "74e79ddcf80813412b6153646533ac0f604403fb",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/2e7bca5523336c76813ee339f190ac0684259983",
+                    "reference": "2e7bca5523336c76813ee339f190ac0684259983",
                     "shasum": ""
                 },
                 "require": {
@@ -7668,7 +7668,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2019-02-06T15:29:11+00:00",
+                "time": "2019-02-07T16:02:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37469,15 +37469,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/storepickup.git",
-                    "reference": "086035319dbd558038536818588be5eec711faaf"
+                    "reference": "7389117d05e39808f8f6cc747005bde389b9b791"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/storepickup/zipball/086035319dbd558038536818588be5eec711faaf",
-                    "reference": "086035319dbd558038536818588be5eec711faaf",
+                    "url": "https://api.github.com/repos/tmhub/storepickup/zipball/7389117d05e39808f8f6cc747005bde389b9b791",
+                    "reference": "7389117d05e39808f8f6cc747005bde389b9b791",
                     "shasum": ""
                 },
-                "time": "2018-02-15T08:36:55+00:00",
+                "time": "2019-02-07T14:23:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37493,7 +37493,7 @@
                     "store pickup"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/storepickup/tree/1.1.0",
+                    "source": "https://github.com/tmhub/storepickup/tree/master",
                     "issues": "https://github.com/tmhub/storepickup/issues"
                 }
             }
