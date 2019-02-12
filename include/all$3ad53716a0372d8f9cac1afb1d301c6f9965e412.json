@@ -7453,12 +7453,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "2027a57d7b7d0317b4c1b8e2c451a424052e2c20"
+                    "reference": "4f1fc90e6175883680c1cc6ca22ecfedf780081c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/2027a57d7b7d0317b4c1b8e2c451a424052e2c20",
-                    "reference": "2027a57d7b7d0317b4c1b8e2c451a424052e2c20",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/4f1fc90e6175883680c1cc6ca22ecfedf780081c",
+                    "reference": "4f1fc90e6175883680c1cc6ca22ecfedf780081c",
                     "shasum": ""
                 },
                 "require": {
@@ -7489,7 +7489,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2019-01-31T15:14:58+00:00",
+                "time": "2019-02-12T13:04:32+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -7643,12 +7643,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "2490991e0ad1394b5f334c934aab91f8ccc46866"
+                    "reference": "7445d2c1875896bc4cfa03cf931a439b95dd66e0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/2490991e0ad1394b5f334c934aab91f8ccc46866",
-                    "reference": "2490991e0ad1394b5f334c934aab91f8ccc46866",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/7445d2c1875896bc4cfa03cf931a439b95dd66e0",
+                    "reference": "7445d2c1875896bc4cfa03cf931a439b95dd66e0",
                     "shasum": ""
                 },
                 "require": {
@@ -7668,7 +7668,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2019-02-11T10:06:45+00:00",
+                "time": "2019-02-12T14:22:12+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15047,18 +15047,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "54301b8a75110087b72f1edd8a3beace9cfa0792"
+                    "reference": "ef868f868d3266fcdbbbe54f407edfb142f5005f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/54301b8a75110087b72f1edd8a3beace9cfa0792",
-                    "reference": "54301b8a75110087b72f1edd8a3beace9cfa0792",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/ef868f868d3266fcdbbbe54f407edfb142f5005f",
+                    "reference": "ef868f868d3266fcdbbbe54f407edfb142f5005f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-06-13T13:25:19+00:00",
+                "time": "2019-02-12T07:57:31+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -15080,7 +15080,7 @@
                 "description": "Banner management extension",
                 "homepage": "https://github.com/tmhub/easybanner",
                 "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/1.7.4",
+                    "source": "https://github.com/tmhub/easybanner/tree/master",
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             }
