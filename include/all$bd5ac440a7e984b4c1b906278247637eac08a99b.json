@@ -7643,12 +7643,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "e1c11a7ebdd7a682e7ff4270cd0a11a145e270ad"
+                    "reference": "68a7e8d309a3ee4671ca6b2d1da801b71e9300ca"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/e1c11a7ebdd7a682e7ff4270cd0a11a145e270ad",
-                    "reference": "e1c11a7ebdd7a682e7ff4270cd0a11a145e270ad",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/68a7e8d309a3ee4671ca6b2d1da801b71e9300ca",
+                    "reference": "68a7e8d309a3ee4671ca6b2d1da801b71e9300ca",
                     "shasum": ""
                 },
                 "require": {
@@ -7668,7 +7668,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2019-02-15T16:13:54+00:00",
+                "time": "2019-02-18T16:02:43+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13154,15 +13154,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
-                    "reference": "b2c01561006ea83da99b86080000138720ce1ff3"
+                    "reference": "d3e509bc5e23ac17c787b2b759d090ce4b94ac1b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/core/zipball/b2c01561006ea83da99b86080000138720ce1ff3",
-                    "reference": "b2c01561006ea83da99b86080000138720ce1ff3",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/d3e509bc5e23ac17c787b2b759d090ce4b94ac1b",
+                    "reference": "d3e509bc5e23ac17c787b2b759d090ce4b94ac1b",
                     "shasum": ""
                 },
-                "time": "2019-01-30T14:02:50+00:00",
+                "time": "2019-02-18T13:55:06+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35650,18 +35650,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-templates.git",
-                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac"
+                    "reference": "412ab52682f14c3f652da3fd2b1c8408b75fe538"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
-                    "reference": "75d7f7bfdc41c15d04e321cc2c9a3aa08605b4ac",
+                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/412ab52682f14c3f652da3fd2b1c8408b75fe538",
+                    "reference": "412ab52682f14c3f652da3fd2b1c8408b75fe538",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2018-06-13T12:09:12+00:00",
+                "time": "2019-02-18T09:49:55+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35675,7 +35675,7 @@
                 "description": "Generate product and category metadata for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-templates",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.3",
+                    "source": "https://github.com/tmhub/seo-templates/tree/master",
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             }
