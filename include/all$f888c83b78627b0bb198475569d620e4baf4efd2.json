@@ -28992,25 +28992,25 @@
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             },
-            "dev-master": {
+            "1.6.1": {
                 "name": "tm/navigation-pro",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
-                    "reference": "753e682ac619a0d72fd695cc5ccdd0d61da7a75d"
+                    "reference": "41265fec2481657e9d23bc15b4c3faa2dc5472aa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/753e682ac619a0d72fd695cc5ccdd0d61da7a75d",
-                    "reference": "753e682ac619a0d72fd695cc5ccdd0d61da7a75d",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/41265fec2481657e9d23bc15b4c3faa2dc5472aa",
+                    "reference": "41265fec2481657e9d23bc15b4c3faa2dc5472aa",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-01-16T09:42:37+00:00",
+                "time": "2019-02-26T09:51:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29024,7 +29024,43 @@
                 "description": "Flexible navigation customization module",
                 "homepage": "https://github.com/tmhub/navigationpro",
                 "support": {
-                    "source": "https://github.com/tmhub/navigationpro/tree/master",
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.6.1",
+                    "issues": "https://github.com/tmhub/navigationpro/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/navigation-pro",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/navigationpro.git",
+                    "reference": "41265fec2481657e9d23bc15b4c3faa2dc5472aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/navigationpro/zipball/41265fec2481657e9d23bc15b4c3faa2dc5472aa",
+                    "reference": "41265fec2481657e9d23bc15b4c3faa2dc5472aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-02-26T09:51:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Flexible navigation customization module",
+                "homepage": "https://github.com/tmhub/navigationpro",
+                "support": {
+                    "source": "https://github.com/tmhub/navigationpro/tree/1.6.1",
                     "issues": "https://github.com/tmhub/navigationpro/issues"
                 }
             }
