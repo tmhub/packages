@@ -3049,6 +3049,44 @@
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             },
+            "3.3.24": {
+                "name": "tm/ajax-pro",
+                "version": "3.3.24",
+                "version_normalized": "3.3.24.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxpro.git",
+                    "reference": "b4265bcfe0fe2b406409a6c324c7a3e10f547b76"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/b4265bcfe0fe2b406409a6c324c7a3e10f547b76",
+                    "reference": "b4265bcfe0fe2b406409a6c324c7a3e10f547b76",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/qty-switcher": "*"
+                },
+                "time": "2019-02-26T09:45:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxPro module",
+                "homepage": "https://github.com/tmhub/ajaxpro",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.24",
+                    "issues": "https://github.com/tmhub/ajaxpro/issues"
+                }
+            },
             "3.3.3": {
                 "name": "tm/ajax-pro",
                 "version": "3.3.3",
@@ -3319,12 +3357,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "79b594c21e1a1657719d4407b75127b5be40e4ca"
+                    "reference": "b4265bcfe0fe2b406409a6c324c7a3e10f547b76"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/79b594c21e1a1657719d4407b75127b5be40e4ca",
-                    "reference": "79b594c21e1a1657719d4407b75127b5be40e4ca",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/b4265bcfe0fe2b406409a6c324c7a3e10f547b76",
+                    "reference": "b4265bcfe0fe2b406409a6c324c7a3e10f547b76",
                     "shasum": ""
                 },
                 "require": {
@@ -3332,7 +3370,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2019-01-03T13:07:53+00:00",
+                "time": "2019-02-26T09:45:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3346,7 +3384,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.24",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
