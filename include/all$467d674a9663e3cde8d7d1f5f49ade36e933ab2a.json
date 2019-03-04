@@ -7747,12 +7747,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "03f9e1829bd6fd0c66efacd3de117488242260e2"
+                    "reference": "50c676bb19ab9022e7a87b7c2aafb76026220526"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/03f9e1829bd6fd0c66efacd3de117488242260e2",
-                    "reference": "03f9e1829bd6fd0c66efacd3de117488242260e2",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/50c676bb19ab9022e7a87b7c2aafb76026220526",
+                    "reference": "50c676bb19ab9022e7a87b7c2aafb76026220526",
                     "shasum": ""
                 },
                 "require": {
@@ -7772,7 +7772,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2019-03-01T08:07:33+00:00",
+                "time": "2019-03-04T14:16:54+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35156,18 +35156,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "e43c9aebfd861b67332c319af67cb2cc634a5d00"
+                    "reference": "91c99f198287c8df5e84b2f5366bbdfffa08a207"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/e43c9aebfd861b67332c319af67cb2cc634a5d00",
-                    "reference": "e43c9aebfd861b67332c319af67cb2cc634a5d00",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/91c99f198287c8df5e84b2f5366bbdfffa08a207",
+                    "reference": "91c99f198287c8df5e84b2f5366bbdfffa08a207",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2019-02-26T08:24:24+00:00",
+                "time": "2019-03-04T15:11:31+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35181,7 +35181,7 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/2.0.9",
+                    "source": "https://github.com/tmhub/richsnippets/tree/master",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
