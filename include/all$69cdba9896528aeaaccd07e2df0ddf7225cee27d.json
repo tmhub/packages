@@ -23956,12 +23956,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "34e3b4fa4d5ea6f02d081f4d9938140d051789c3"
+                    "reference": "3b672e37e22d3ea2c8c2c3479e78353d5ed0d1af"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/34e3b4fa4d5ea6f02d081f4d9938140d051789c3",
-                    "reference": "34e3b4fa4d5ea6f02d081f4d9938140d051789c3",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/3b672e37e22d3ea2c8c2c3479e78353d5ed0d1af",
+                    "reference": "3b672e37e22d3ea2c8c2c3479e78353d5ed0d1af",
                     "shasum": ""
                 },
                 "require": {
@@ -23970,7 +23970,7 @@
                     "tm/core": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2019-03-06T13:12:08+00:00",
+                "time": "2019-03-15T09:08:36+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -23993,7 +23993,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.3.6",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
