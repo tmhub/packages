@@ -20303,18 +20303,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "4a86146649951219040a9054149abb7e2fa3e71e"
+                    "reference": "4e664695619f56a2519636f77147f27d7aa2cc92"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/4a86146649951219040a9054149abb7e2fa3e71e",
-                    "reference": "4a86146649951219040a9054149abb7e2fa3e71e",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/4e664695619f56a2519636f77147f27d7aa2cc92",
+                    "reference": "4e664695619f56a2519636f77147f27d7aa2cc92",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-02-26T09:57:23+00:00",
+                "time": "2019-03-25T09:45:06+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20328,7 +20328,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.12",
+                    "source": "https://github.com/tmhub/email/tree/master",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
