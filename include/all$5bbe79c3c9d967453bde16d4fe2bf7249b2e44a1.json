@@ -334,15 +334,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
-                    "reference": "01f16c591a504293e26cdb44e261ea20af4aa475"
+                    "reference": "a7bb7eefff303cec5c113b3bf9afb8eed27a4616"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/01f16c591a504293e26cdb44e261ea20af4aa475",
-                    "reference": "01f16c591a504293e26cdb44e261ea20af4aa475",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/a7bb7eefff303cec5c113b3bf9afb8eed27a4616",
+                    "reference": "a7bb7eefff303cec5c113b3bf9afb8eed27a4616",
                     "shasum": ""
                 },
-                "time": "2019-03-19T15:56:45+00:00",
+                "time": "2019-03-26T08:43:57+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -350,7 +350,7 @@
                 "description": "Stripe Subscriptions",
                 "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/2.0.3",
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/master",
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             }
@@ -14312,19 +14312,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "6cacb5ee65b9b42bed7a0796f408080f6a3805d1"
+                    "reference": "ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/6cacb5ee65b9b42bed7a0796f408080f6a3805d1",
-                    "reference": "6cacb5ee65b9b42bed7a0796f408080f6a3805d1",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781",
+                    "reference": "ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2018-10-18T14:51:01+00:00",
+                "time": "2019-03-26T15:51:41+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -34815,18 +34815,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recurring.git",
-                    "reference": "14a524e88a2e0fc35c19c063ef13eb8093964f2a"
+                    "reference": "5880b4de3566af8825db4528eb88eade57a9de78"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recurring/zipball/14a524e88a2e0fc35c19c063ef13eb8093964f2a",
-                    "reference": "14a524e88a2e0fc35c19c063ef13eb8093964f2a",
+                    "url": "https://api.github.com/repos/tmhub/recurring/zipball/5880b4de3566af8825db4528eb88eade57a9de78",
+                    "reference": "5880b4de3566af8825db4528eb88eade57a9de78",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-03-20T08:36:30+00:00",
+                "time": "2019-03-26T08:44:21+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
