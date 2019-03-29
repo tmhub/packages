@@ -327,22 +327,22 @@
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             },
-            "dev-master": {
+            "2.0.4": {
                 "name": "cryozonic/stripe-subscriptions",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
-                    "reference": "a7bb7eefff303cec5c113b3bf9afb8eed27a4616"
+                    "reference": "7b5c706deac7057b410f2839f6ebb7afadb97895"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/a7bb7eefff303cec5c113b3bf9afb8eed27a4616",
-                    "reference": "a7bb7eefff303cec5c113b3bf9afb8eed27a4616",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/7b5c706deac7057b410f2839f6ebb7afadb97895",
+                    "reference": "7b5c706deac7057b410f2839f6ebb7afadb97895",
                     "shasum": ""
                 },
-                "time": "2019-03-26T08:43:57+00:00",
+                "time": "2019-03-29T16:04:39+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -350,7 +350,34 @@
                 "description": "Stripe Subscriptions",
                 "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/master",
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/2.0.4",
+                    "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
+                }
+            },
+            "dev-master": {
+                "name": "cryozonic/stripe-subscriptions",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
+                    "reference": "7b5c706deac7057b410f2839f6ebb7afadb97895"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe-subscriptions/zipball/7b5c706deac7057b410f2839f6ebb7afadb97895",
+                    "reference": "7b5c706deac7057b410f2839f6ebb7afadb97895",
+                    "shasum": ""
+                },
+                "time": "2019-03-29T16:04:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Stripe Subscriptions",
+                "homepage": "http://store.cryozonic.com/stripe-subscriptions.html",
+                "support": {
+                    "source": "https://github.com/tmhub/cryozonic-stripe-subscriptions/tree/2.0.4",
                     "issues": "https://github.com/tmhub/cryozonic-stripe-subscriptions/issues"
                 }
             }
