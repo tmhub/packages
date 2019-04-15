@@ -24813,6 +24813,46 @@
                 }
             }
         },
+        "tm/geoip": {
+            "dev-master": {
+                "name": "tm/geoip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/geoip.git",
+                    "reference": "8cc6297bc13144054aefe695ea0483a739385339"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/geoip/zipball/8cc6297bc13144054aefe695ea0483a739385339",
+                    "reference": "8cc6297bc13144054aefe695ea0483a739385339",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-04-15T08:40:14+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/geoip/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/geoip/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "GeoIp module for Magento 1",
+                "homepage": "https://github.com/tmhub/geoip",
+                "support": {
+                    "source": "https://github.com/tmhub/geoip/tree/master",
+                    "issues": "https://github.com/tmhub/geoip/issues"
+                }
+            }
+        },
         "tm/helpdesk": {
             "1.5.1": {
                 "name": "tm/helpdesk",
@@ -27475,12 +27515,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "3820a0d68b355094d534c0d94d74212a5282123c"
+                    "reference": "074ba3bd1329addd6a34d2818e6eaa78c46904ce"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/3820a0d68b355094d534c0d94d74212a5282123c",
-                    "reference": "3820a0d68b355094d534c0d94d74212a5282123c",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/074ba3bd1329addd6a34d2818e6eaa78c46904ce",
+                    "reference": "074ba3bd1329addd6a34d2818e6eaa78c46904ce",
                     "shasum": ""
                 },
                 "require": {
@@ -27489,7 +27529,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2019-03-06T07:30:04+00:00",
+                "time": "2019-04-15T07:44:16+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27503,7 +27543,7 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.10",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
