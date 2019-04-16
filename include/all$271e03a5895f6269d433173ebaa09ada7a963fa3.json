@@ -24814,25 +24814,25 @@
             }
         },
         "tm/geoip": {
-            "dev-master": {
+            "1.0.0": {
                 "name": "tm/geoip",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/geoip.git",
-                    "reference": "75aae50f10f601ab4891ce14886e5d137648672d"
+                    "reference": "745b58646aa7381c676416e5a72739833a322773"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/geoip/zipball/75aae50f10f601ab4891ce14886e5d137648672d",
-                    "reference": "75aae50f10f601ab4891ce14886e5d137648672d",
+                    "url": "https://api.github.com/repos/tmhub/geoip/zipball/745b58646aa7381c676416e5a72739833a322773",
+                    "reference": "745b58646aa7381c676416e5a72739833a322773",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-04-15T08:43:03+00:00",
+                "time": "2019-04-16T09:14:22+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24848,7 +24848,45 @@
                 "description": "GeoIp module for Magento 1",
                 "homepage": "https://github.com/tmhub/geoip",
                 "support": {
-                    "source": "https://github.com/tmhub/geoip/tree/master",
+                    "source": "https://github.com/tmhub/geoip/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/geoip/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/geoip",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/geoip.git",
+                    "reference": "745b58646aa7381c676416e5a72739833a322773"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/geoip/zipball/745b58646aa7381c676416e5a72739833a322773",
+                    "reference": "745b58646aa7381c676416e5a72739833a322773",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-04-16T09:14:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/geoip/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/geoip/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "GeoIp module for Magento 1",
+                "homepage": "https://github.com/tmhub/geoip",
+                "support": {
+                    "source": "https://github.com/tmhub/geoip/tree/1.0.0",
                     "issues": "https://github.com/tmhub/geoip/issues"
                 }
             }
