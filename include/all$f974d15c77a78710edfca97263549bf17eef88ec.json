@@ -14668,18 +14668,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-css.git",
-                    "reference": "6ff5b8091ed55d90cc930faf1f6186feadc26716"
+                    "reference": "6cf8a687b490a166018f47a2b789810da54fdd20"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/6ff5b8091ed55d90cc930faf1f6186feadc26716",
-                    "reference": "6ff5b8091ed55d90cc930faf1f6186feadc26716",
+                    "url": "https://api.github.com/repos/tmhub/defer-css/zipball/6cf8a687b490a166018f47a2b789810da54fdd20",
+                    "reference": "6cf8a687b490a166018f47a2b789810da54fdd20",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-08-03T08:45:19+00:00",
+                "time": "2019-04-17T13:24:41+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14693,7 +14693,7 @@
                 "description": "Templates Master Optimise css delivery module",
                 "homepage": "https://github.com/tmhub/defer-css",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-css/tree/1.2.4",
+                    "source": "https://github.com/tmhub/defer-css/tree/master",
                     "issues": "https://github.com/tmhub/defer-css/issues"
                 }
             }
@@ -24281,12 +24281,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "04f1b6c4514f6885bf5232d98e6968159e86a0e8"
+                    "reference": "57efe549a36f21390c11df9a4608ed307bc15cf7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/04f1b6c4514f6885bf5232d98e6968159e86a0e8",
-                    "reference": "04f1b6c4514f6885bf5232d98e6968159e86a0e8",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/57efe549a36f21390c11df9a4608ed307bc15cf7",
+                    "reference": "57efe549a36f21390c11df9a4608ed307bc15cf7",
                     "shasum": ""
                 },
                 "require": {
@@ -24296,7 +24296,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2019-04-16T10:18:51+00:00",
+                "time": "2019-04-17T12:17:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -24319,7 +24319,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.4.0",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
