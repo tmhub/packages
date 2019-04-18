@@ -36949,6 +36949,28 @@
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             },
+            "0.7.1": {
+                "name": "tm/seo-suite",
+                "version": "0.7.1",
+                "version_normalized": "0.7.1.0",
+                "require": {
+                    "tm/richsnippets": "^2.1.0",
+                    "tm/seo-core": "^1.0.0",
+                    "tm/seo-html-sitemap": "^1.0.2",
+                    "tm/seo-templates": "^1.0.4",
+                    "tm/seo-xml-sitemap": "^1.0.4"
+                },
+                "time": "2019-04-18T08:07:29+00:00",
+                "type": "metapackage",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "SEO Suite metapackage for Magento 1.x",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.7.1",
+                    "issues": "https://github.com/tmhub/seo-suite/issues"
+                }
+            },
             "dev-master": {
                 "name": "tm/seo-suite",
                 "version": "dev-master",
@@ -36960,14 +36982,14 @@
                     "tm/seo-templates": "^1.0.4",
                     "tm/seo-xml-sitemap": "^1.0.4"
                 },
-                "time": "2019-04-09T10:47:07+00:00",
+                "time": "2019-04-18T08:07:29+00:00",
                 "type": "metapackage",
                 "license": [
                     "OSL-3.0"
                 ],
                 "description": "SEO Suite metapackage for Magento 1.x",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-suite/tree/0.7.0",
+                    "source": "https://github.com/tmhub/seo-suite/tree/0.7.1",
                     "issues": "https://github.com/tmhub/seo-suite/issues"
                 }
             }
