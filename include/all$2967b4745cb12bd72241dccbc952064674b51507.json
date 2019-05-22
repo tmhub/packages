@@ -37525,26 +37525,26 @@
                     "issues": "https://github.com/tmhub/seo-xml-sitemap/issues"
                 }
             },
-            "dev-master": {
+            "1.0.5": {
                 "name": "tm/seo-xml-sitemap",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-xml-sitemap.git",
-                    "reference": "fc04e9a1cdb0dea950b306fe3abb76654a7ffb68"
+                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-xml-sitemap/zipball/fc04e9a1cdb0dea950b306fe3abb76654a7ffb68",
-                    "reference": "fc04e9a1cdb0dea950b306fe3abb76654a7ffb68",
+                    "url": "https://api.github.com/repos/tmhub/seo-xml-sitemap/zipball/114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
+                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*",
                     "tm/seo-html-sitemap": "*"
                 },
-                "time": "2019-05-08T09:01:41+00:00",
+                "time": "2019-05-22T08:55:28+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37558,7 +37558,44 @@
                 "description": "Templates Master Seo Xml Sitemap module",
                 "homepage": "https://github.com/tmhub/seo-xml-sitemap",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-xml-sitemap/tree/master",
+                    "source": "https://github.com/tmhub/seo-xml-sitemap/tree/1.0.5",
+                    "issues": "https://github.com/tmhub/seo-xml-sitemap/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/seo-xml-sitemap",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-xml-sitemap.git",
+                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-xml-sitemap/zipball/114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
+                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*",
+                    "tm/seo-html-sitemap": "*"
+                },
+                "time": "2019-05-22T08:55:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Seo Xml Sitemap module",
+                "homepage": "https://github.com/tmhub/seo-xml-sitemap",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-xml-sitemap/tree/1.0.5",
                     "issues": "https://github.com/tmhub/seo-xml-sitemap/issues"
                 }
             }
