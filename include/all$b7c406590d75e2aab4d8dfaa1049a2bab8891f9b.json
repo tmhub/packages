@@ -2356,18 +2356,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "5f00be50f9abda0beeb4c652f75e0a74c3182df0"
+                    "reference": "c1ce6bb31ad776aa587fdf8099d14d89d0e60502"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/5f00be50f9abda0beeb4c652f75e0a74c3182df0",
-                    "reference": "5f00be50f9abda0beeb4c652f75e0a74c3182df0",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/c1ce6bb31ad776aa587fdf8099d14d89d0e60502",
+                    "reference": "c1ce6bb31ad776aa587fdf8099d14d89d0e60502",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-05-24T13:49:56+00:00",
+                "time": "2019-06-03T13:54:48+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2381,7 +2381,7 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.5",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             }
