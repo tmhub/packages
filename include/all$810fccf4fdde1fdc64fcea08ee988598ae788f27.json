@@ -5225,12 +5225,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "a45da99f7082c63c71d25bb65f50620b56612871"
+                    "reference": "b9053b9d7003700f2b12670e8e8070fa95a584cf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/a45da99f7082c63c71d25bb65f50620b56612871",
-                    "reference": "a45da99f7082c63c71d25bb65f50620b56612871",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/b9053b9d7003700f2b12670e8e8070fa95a584cf",
+                    "reference": "b9053b9d7003700f2b12670e8e8070fa95a584cf",
                     "shasum": ""
                 },
                 "require": {
@@ -5238,7 +5238,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2019-05-22T08:55:22+00:00",
+                "time": "2019-06-14T07:12:13+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -5258,7 +5258,7 @@
                     "amp"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/amp/tree/1.7.1",
+                    "source": "https://github.com/tmhub/amp/tree/master",
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             }
@@ -20226,18 +20226,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
-                    "reference": "a21c121448c2997cbb6ee14507bce71d1c0277d4"
+                    "reference": "53df405eb9cab6382e6e77a0f6198dd2a02c30c3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a21c121448c2997cbb6ee14507bce71d1c0277d4",
-                    "reference": "a21c121448c2997cbb6ee14507bce71d1c0277d4",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/53df405eb9cab6382e6e77a0f6198dd2a02c30c3",
+                    "reference": "53df405eb9cab6382e6e77a0f6198dd2a02c30c3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-10-31T12:31:00+00:00",
+                "time": "2019-06-14T07:24:16+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -20260,7 +20260,7 @@
                 "description": "Tabs for product page",
                 "homepage": "https://github.com/tmhub/easytabs",
                 "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.2.1",
+                    "source": "https://github.com/tmhub/easytabs/tree/master",
                     "issues": "https://github.com/tmhub/easytabs/issues"
                 }
             }
@@ -37966,19 +37966,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-xml-sitemap.git",
-                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb"
+                    "reference": "21859f27576c0c35cb774dd21ca23e55533cfde5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-xml-sitemap/zipball/114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
-                    "reference": "114daaa9f2fcd0e399c7ba3c5b9b20a82e0355cb",
+                    "url": "https://api.github.com/repos/tmhub/seo-xml-sitemap/zipball/21859f27576c0c35cb774dd21ca23e55533cfde5",
+                    "reference": "21859f27576c0c35cb774dd21ca23e55533cfde5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*",
                     "tm/seo-html-sitemap": "*"
                 },
-                "time": "2019-05-22T08:55:28+00:00",
+                "time": "2019-06-14T10:03:41+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37992,7 +37992,7 @@
                 "description": "Templates Master Seo Xml Sitemap module",
                 "homepage": "https://github.com/tmhub/seo-xml-sitemap",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-xml-sitemap/tree/1.0.5",
+                    "source": "https://github.com/tmhub/seo-xml-sitemap/tree/master",
                     "issues": "https://github.com/tmhub/seo-xml-sitemap/issues"
                 }
             }
