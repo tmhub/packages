@@ -2349,25 +2349,25 @@
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             },
-            "dev-master": {
+            "2.6.6": {
                 "name": "tm/ajax-layered-navigation",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.6.6",
+                "version_normalized": "2.6.6.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
-                    "reference": "c1ce6bb31ad776aa587fdf8099d14d89d0e60502"
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/c1ce6bb31ad776aa587fdf8099d14d89d0e60502",
-                    "reference": "c1ce6bb31ad776aa587fdf8099d14d89d0e60502",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-06-03T13:54:48+00:00",
+                "time": "2019-06-24T11:28:10+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2381,7 +2381,43 @@
                 "description": "Advanced catalog filters with ajax and seo support",
                 "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/master",
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.6",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-layered-navigation",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-06-24T11:28:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.6",
                     "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
                 }
             }
