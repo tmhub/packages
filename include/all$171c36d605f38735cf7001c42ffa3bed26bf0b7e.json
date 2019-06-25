@@ -28380,25 +28380,25 @@
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             },
-            "dev-master": {
+            "1.0.7": {
                 "name": "tm/lazyload",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
-                    "reference": "335e08ca0ef2c3088ddeff880ec81b21fee2467c"
+                    "reference": "47a82db650acf5691205c3bac231797cec042a07"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/335e08ca0ef2c3088ddeff880ec81b21fee2467c",
-                    "reference": "335e08ca0ef2c3088ddeff880ec81b21fee2467c",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/47a82db650acf5691205c3bac231797cec042a07",
+                    "reference": "47a82db650acf5691205c3bac231797cec042a07",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-06-24T11:20:31+00:00",
+                "time": "2019-06-25T10:27:29+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28412,7 +28412,43 @@
                 "description": "Templates Master Image lazy load module",
                 "homepage": "https://github.com/tmhub/lazyload",
                 "support": {
-                    "source": "https://github.com/tmhub/lazyload/tree/1.0.6",
+                    "source": "https://github.com/tmhub/lazyload/tree/1.0.7",
+                    "issues": "https://github.com/tmhub/lazyload/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/lazyload",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/lazyload.git",
+                    "reference": "47a82db650acf5691205c3bac231797cec042a07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/47a82db650acf5691205c3bac231797cec042a07",
+                    "reference": "47a82db650acf5691205c3bac231797cec042a07",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-06-25T10:27:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Image lazy load module",
+                "homepage": "https://github.com/tmhub/lazyload",
+                "support": {
+                    "source": "https://github.com/tmhub/lazyload/tree/1.0.7",
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             }
