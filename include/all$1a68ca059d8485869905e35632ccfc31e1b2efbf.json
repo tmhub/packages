@@ -7985,12 +7985,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento.git",
-                    "reference": "cc03e05d738aac4178b4e55403c0acd8577e267e"
+                    "reference": "512cfe8c075090b74eaf85e0635237068fbcba6d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/cc03e05d738aac4178b4e55403c0acd8577e267e",
-                    "reference": "cc03e05d738aac4178b4e55403c0acd8577e267e",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/512cfe8c075090b74eaf85e0635237068fbcba6d",
+                    "reference": "512cfe8c075090b74eaf85e0635237068fbcba6d",
                     "shasum": ""
                 },
                 "require": {
@@ -8021,7 +8021,7 @@
                     "tm/suggestpage": "*",
                     "tm/testimonials": "*"
                 },
-                "time": "2019-05-22T11:34:48+00:00",
+                "time": "2019-06-25T11:11:45+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8040,7 +8040,7 @@
                 "description": "Argento theme",
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
-                    "source": "https://github.com/tmhub/argento/tree/1.14.0",
+                    "source": "https://github.com/tmhub/argento/tree/master",
                     "issues": "https://github.com/tmhub/argento/issues"
                 }
             },
@@ -27455,18 +27455,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "6715f330f2f6e2337203b2c07fbb20140c17281b"
+                    "reference": "1fe22cf3e400ebf85c74f1f221420f7713371ea1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/6715f330f2f6e2337203b2c07fbb20140c17281b",
-                    "reference": "6715f330f2f6e2337203b2c07fbb20140c17281b",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/1fe22cf3e400ebf85c74f1f221420f7713371ea1",
+                    "reference": "1fe22cf3e400ebf85c74f1f221420f7713371ea1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-10-31T12:32:38+00:00",
+                "time": "2019-06-25T11:08:42+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27480,7 +27480,7 @@
                 "description": "Custom product collections with flexible filters",
                 "homepage": "https://github.com/tmhub/highlight",
                 "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/2.7.2",
+                    "source": "https://github.com/tmhub/highlight/tree/master",
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             }
