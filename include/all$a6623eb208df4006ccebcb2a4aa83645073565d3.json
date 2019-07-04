@@ -25209,18 +25209,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
-                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af"
+                    "reference": "d1baf507b4c108869dda607ebe16e262473851ae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/b32591aa0f46dc950427fdd9f6317b438d8b73af",
-                    "reference": "b32591aa0f46dc950427fdd9f6317b438d8b73af",
+                    "url": "https://api.github.com/repos/tmhub/gdpr/zipball/d1baf507b4c108869dda607ebe16e262473851ae",
+                    "reference": "d1baf507b4c108869dda607ebe16e262473851ae",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-07-23T06:51:25+00:00",
+                "time": "2019-07-04T13:15:55+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25234,7 +25234,7 @@
                 "description": "GDPR compliance module",
                 "homepage": "https://github.com/tmhub/gdpr",
                 "support": {
-                    "source": "https://github.com/tmhub/gdpr/tree/1.0.1",
+                    "source": "https://github.com/tmhub/gdpr/tree/master",
                     "issues": "https://github.com/tmhub/gdpr/issues"
                 }
             }
@@ -28423,18 +28423,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
-                    "reference": "47a82db650acf5691205c3bac231797cec042a07"
+                    "reference": "ec5cbc5766bb2ceea45f4e15be6f23e2c3d7ac1c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/47a82db650acf5691205c3bac231797cec042a07",
-                    "reference": "47a82db650acf5691205c3bac231797cec042a07",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/ec5cbc5766bb2ceea45f4e15be6f23e2c3d7ac1c",
+                    "reference": "ec5cbc5766bb2ceea45f4e15be6f23e2c3d7ac1c",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-06-25T10:27:29+00:00",
+                "time": "2019-07-03T07:11:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28448,7 +28448,7 @@
                 "description": "Templates Master Image lazy load module",
                 "homepage": "https://github.com/tmhub/lazyload",
                 "support": {
-                    "source": "https://github.com/tmhub/lazyload/tree/1.0.7",
+                    "source": "https://github.com/tmhub/lazyload/tree/master",
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             }
