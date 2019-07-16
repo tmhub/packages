@@ -3669,12 +3669,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
-                    "reference": "1dbbe2ac5bbbe76c81e236415a213bb2629ecb08"
+                    "reference": "58ba1cec0d49d9949d2c025ddc31fc8d66e982c6"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/1dbbe2ac5bbbe76c81e236415a213bb2629ecb08",
-                    "reference": "1dbbe2ac5bbbe76c81e236415a213bb2629ecb08",
+                    "url": "https://api.github.com/repos/tmhub/ajaxpro/zipball/58ba1cec0d49d9949d2c025ddc31fc8d66e982c6",
+                    "reference": "58ba1cec0d49d9949d2c025ddc31fc8d66e982c6",
                     "shasum": ""
                 },
                 "require": {
@@ -3682,7 +3682,7 @@
                     "tm/core": "*",
                     "tm/qty-switcher": "*"
                 },
-                "time": "2019-07-08T14:04:27+00:00",
+                "time": "2019-07-15T09:25:57+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -3696,7 +3696,7 @@
                 "description": "Templates Master AjaxPro module",
                 "homepage": "https://github.com/tmhub/ajaxpro",
                 "support": {
-                    "source": "https://github.com/tmhub/ajaxpro/tree/3.3.25",
+                    "source": "https://github.com/tmhub/ajaxpro/tree/master",
                     "issues": "https://github.com/tmhub/ajaxpro/issues"
                 }
             }
@@ -27493,18 +27493,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "1fe22cf3e400ebf85c74f1f221420f7713371ea1"
+                    "reference": "b815144b2328356a81c39fb8c311ec6c5b4dc028"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/1fe22cf3e400ebf85c74f1f221420f7713371ea1",
-                    "reference": "1fe22cf3e400ebf85c74f1f221420f7713371ea1",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/b815144b2328356a81c39fb8c311ec6c5b4dc028",
+                    "reference": "b815144b2328356a81c39fb8c311ec6c5b4dc028",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-06-25T11:08:42+00:00",
+                "time": "2019-07-15T08:38:08+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
