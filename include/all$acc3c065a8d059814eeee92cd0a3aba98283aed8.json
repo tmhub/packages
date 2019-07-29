@@ -32641,12 +32641,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
-                    "reference": "90e312fafa4b4ed223ebfa0bc602ee0861b8be53"
+                    "reference": "039e36903e4152c9e0e215f1b7b8832e1023a687"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/90e312fafa4b4ed223ebfa0bc602ee0861b8be53",
-                    "reference": "90e312fafa4b4ed223ebfa0bc602ee0861b8be53",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/039e36903e4152c9e0e215f1b7b8832e1023a687",
+                    "reference": "039e36903e4152c9e0e215f1b7b8832e1023a687",
                     "shasum": ""
                 },
                 "require": {
@@ -32656,7 +32656,7 @@
                     "tm/imagemin": "*",
                     "tm/lazyload": "*"
                 },
-                "time": "2019-06-24T11:21:03+00:00",
+                "time": "2019-07-29T14:08:30+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -32679,7 +32679,7 @@
                 "description": "Templates Master Pagespeed module",
                 "homepage": "https://github.com/tmhub/pagespeed",
                 "support": {
-                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.7",
+                    "source": "https://github.com/tmhub/pagespeed/tree/master",
                     "issues": "https://github.com/tmhub/pagespeed/issues"
                 }
             }
