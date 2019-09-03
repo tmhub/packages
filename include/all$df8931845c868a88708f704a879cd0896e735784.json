@@ -36164,18 +36164,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recurring.git",
-                    "reference": "72f3f577abce9ac87022b3639b87076f1f11089b"
+                    "reference": "bc79eab294ab28fa282c67037cb01c37a0dd5015"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/recurring/zipball/72f3f577abce9ac87022b3639b87076f1f11089b",
-                    "reference": "72f3f577abce9ac87022b3639b87076f1f11089b",
+                    "url": "https://api.github.com/repos/tmhub/recurring/zipball/bc79eab294ab28fa282c67037cb01c37a0dd5015",
+                    "reference": "bc79eab294ab28fa282c67037cb01c37a0dd5015",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-04-26T06:39:45+00:00",
+                "time": "2019-09-03T07:08:30+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -36382,18 +36382,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/reviewreminder.git",
-                    "reference": "75249f53205a3bdb9437c9a30f61961c606ea415"
+                    "reference": "0b6ac33b2ffb8bf97a0b9341bf2340b3f44e2a5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/reviewreminder/zipball/75249f53205a3bdb9437c9a30f61961c606ea415",
-                    "reference": "75249f53205a3bdb9437c9a30f61961c606ea415",
+                    "url": "https://api.github.com/repos/tmhub/reviewreminder/zipball/0b6ac33b2ffb8bf97a0b9341bf2340b3f44e2a5a",
+                    "reference": "0b6ac33b2ffb8bf97a0b9341bf2340b3f44e2a5a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-12-09T07:51:04+00:00",
+                "time": "2019-09-03T07:22:22+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -36407,7 +36407,7 @@
                 "description": "Review Reminder",
                 "homepage": "https://github.com/tmhub/reviewreminder",
                 "support": {
-                    "source": "https://github.com/tmhub/reviewreminder/tree/1.0.4",
+                    "source": "https://github.com/tmhub/reviewreminder/tree/master",
                     "issues": "https://github.com/tmhub/reviewreminder/issues"
                 }
             }
