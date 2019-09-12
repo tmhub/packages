@@ -14876,26 +14876,26 @@
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             },
-            "dev-master": {
+            "1.1.7": {
                 "name": "tm/dailydeals",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
-                    "reference": "ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781"
+                    "reference": "90215f9fbdb1542c2b9272390649d2fe0dc97e11"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781",
-                    "reference": "ded9249f7e5cb6d2b6c5c2041042c56b2d1c6781",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/90215f9fbdb1542c2b9272390649d2fe0dc97e11",
+                    "reference": "90215f9fbdb1542c2b9272390649d2fe0dc97e11",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/countdowntimer": "*"
                 },
-                "time": "2019-03-26T15:51:41+00:00",
+                "time": "2019-09-12T11:04:58+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14909,7 +14909,44 @@
                 "description": "Module deals managment",
                 "homepage": "https://github.com/tmhub/dailydeals",
                 "support": {
-                    "source": "https://github.com/tmhub/dailydeals/tree/master",
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.7",
+                    "issues": "https://github.com/tmhub/dailydeals/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/dailydeals",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/dailydeals.git",
+                    "reference": "90215f9fbdb1542c2b9272390649d2fe0dc97e11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/dailydeals/zipball/90215f9fbdb1542c2b9272390649d2fe0dc97e11",
+                    "reference": "90215f9fbdb1542c2b9272390649d2fe0dc97e11",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/countdowntimer": "*"
+                },
+                "time": "2019-09-12T11:04:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module deals managment",
+                "homepage": "https://github.com/tmhub/dailydeals",
+                "support": {
+                    "source": "https://github.com/tmhub/dailydeals/tree/1.1.7",
                     "issues": "https://github.com/tmhub/dailydeals/issues"
                 }
             }
