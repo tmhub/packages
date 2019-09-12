@@ -42636,25 +42636,25 @@
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             },
-            "dev-master": {
+            "1.3.3": {
                 "name": "tm/testimonials",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
-                    "reference": "7fc022cc97a6089ff3a68dd72ea9372c1b90c3ef"
+                    "reference": "650db0f9e22e4ca7b348ef8069fbed8c31b0d319"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/7fc022cc97a6089ff3a68dd72ea9372c1b90c3ef",
-                    "reference": "7fc022cc97a6089ff3a68dd72ea9372c1b90c3ef",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/650db0f9e22e4ca7b348ef8069fbed8c31b0d319",
+                    "reference": "650db0f9e22e4ca7b348ef8069fbed8c31b0d319",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-05-28T14:27:08+00:00",
+                "time": "2019-09-12T11:05:05+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -42668,7 +42668,43 @@
                 "description": "Customer testimonials",
                 "homepage": "https://github.com/tmhub/testimonials",
                 "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/master",
+                    "source": "https://github.com/tmhub/testimonials/tree/1.3.3",
+                    "issues": "https://github.com/tmhub/testimonials/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/testimonials",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/testimonials.git",
+                    "reference": "650db0f9e22e4ca7b348ef8069fbed8c31b0d319"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/testimonials/zipball/650db0f9e22e4ca7b348ef8069fbed8c31b0d319",
+                    "reference": "650db0f9e22e4ca7b348ef8069fbed8c31b0d319",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-12T11:05:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Customer testimonials",
+                "homepage": "https://github.com/tmhub/testimonials",
+                "support": {
+                    "source": "https://github.com/tmhub/testimonials/tree/1.3.3",
                     "issues": "https://github.com/tmhub/testimonials/issues"
                 }
             }
