@@ -28033,18 +28033,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9"
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/15f95cfef19db52624f0333326726c2bdb41bbc9",
-                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/9c9cd63ba2b5f369e95099548f473100f477fabb",
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb",
                     "shasum": ""
                 },
                 "require": {
-                    "tm/core": "*"
+                    "tm/core": "*",
+                    "tm/slick-carousel": "*"
                 },
-                "time": "2019-09-30T08:09:47+00:00",
+                "time": "2019-09-30T08:24:19+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28069,18 +28070,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9"
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/15f95cfef19db52624f0333326726c2bdb41bbc9",
-                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/9c9cd63ba2b5f369e95099548f473100f477fabb",
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb",
                     "shasum": ""
                 },
                 "require": {
-                    "tm/core": "*"
+                    "tm/core": "*",
+                    "tm/slick-carousel": "*"
                 },
-                "time": "2019-09-30T08:09:47+00:00",
+                "time": "2019-09-30T08:24:19+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
