@@ -5384,19 +5384,19 @@
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             },
-            "dev-master": {
+            "1.7.2": {
                 "name": "tm/amp",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
-                    "reference": "b9053b9d7003700f2b12670e8e8070fa95a584cf"
+                    "reference": "031d3543dfbdd136fd21b4dafe48c5db48147971"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/amp/zipball/b9053b9d7003700f2b12670e8e8070fa95a584cf",
-                    "reference": "b9053b9d7003700f2b12670e8e8070fa95a584cf",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/031d3543dfbdd136fd21b4dafe48c5db48147971",
+                    "reference": "031d3543dfbdd136fd21b4dafe48c5db48147971",
                     "shasum": ""
                 },
                 "require": {
@@ -5404,7 +5404,7 @@
                     "tm/easycatalogimg": "*",
                     "tm/easyslide": "*"
                 },
-                "time": "2019-06-14T07:12:13+00:00",
+                "time": "2019-09-30T08:09:28+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -5424,7 +5424,51 @@
                     "amp"
                 ],
                 "support": {
-                    "source": "https://github.com/tmhub/amp/tree/master",
+                    "source": "https://github.com/tmhub/amp/tree/1.7.2",
+                    "issues": "https://github.com/tmhub/amp/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/amp",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/amp.git",
+                    "reference": "031d3543dfbdd136fd21b4dafe48c5db48147971"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/031d3543dfbdd136fd21b4dafe48c5db48147971",
+                    "reference": "031d3543dfbdd136fd21b4dafe48c5db48147971",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*"
+                },
+                "time": "2019-09-30T08:09:28+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/magento-amp-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/amp/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/amp/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Accelerated Mobile Pages for Magento",
+                "keywords": [
+                    "accelerated mobile pages",
+                    "amp"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/amp/tree/1.7.2",
                     "issues": "https://github.com/tmhub/amp/issues"
                 }
             }
