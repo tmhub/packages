@@ -37547,25 +37547,25 @@
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
-            "dev-master": {
+            "2.1.2": {
                 "name": "tm/richsnippets",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "e8eaa7c3f8815e1d35903f94cbaa743130d97052"
+                    "reference": "83d6df151198583847ae54893975dd2252d94187"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/e8eaa7c3f8815e1d35903f94cbaa743130d97052",
-                    "reference": "e8eaa7c3f8815e1d35903f94cbaa743130d97052",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/83d6df151198583847ae54893975dd2252d94187",
+                    "reference": "83d6df151198583847ae54893975dd2252d94187",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2019-08-16T07:24:30+00:00",
+                "time": "2019-09-30T08:09:50+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37579,7 +37579,43 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/master",
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.1.2",
+                    "issues": "https://github.com/tmhub/richsnippets/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/richsnippets",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/richsnippets.git",
+                    "reference": "83d6df151198583847ae54893975dd2252d94187"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/83d6df151198583847ae54893975dd2252d94187",
+                    "reference": "83d6df151198583847ae54893975dd2252d94187",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*"
+                },
+                "time": "2019-09-30T08:09:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Google richsnippets integration",
+                "homepage": "https://github.com/tmhub/richsnippets",
+                "support": {
+                    "source": "https://github.com/tmhub/richsnippets/tree/2.1.2",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
