@@ -27976,25 +27976,25 @@
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             },
-            "dev-master": {
+            "2.7.3": {
                 "name": "tm/highlight",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "2.7.3",
+                "version_normalized": "2.7.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
-                    "reference": "b815144b2328356a81c39fb8c311ec6c5b4dc028"
+                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/b815144b2328356a81c39fb8c311ec6c5b4dc028",
-                    "reference": "b815144b2328356a81c39fb8c311ec6c5b4dc028",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/15f95cfef19db52624f0333326726c2bdb41bbc9",
+                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-07-15T08:38:08+00:00",
+                "time": "2019-09-30T08:09:47+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -28008,7 +28008,43 @@
                 "description": "Custom product collections with flexible filters",
                 "homepage": "https://github.com/tmhub/highlight",
                 "support": {
-                    "source": "https://github.com/tmhub/highlight/tree/master",
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.3",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/highlight",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/15f95cfef19db52624f0333326726c2bdb41bbc9",
+                    "reference": "15f95cfef19db52624f0333326726c2bdb41bbc9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-30T08:09:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.3",
                     "issues": "https://github.com/tmhub/highlight/issues"
                 }
             }
