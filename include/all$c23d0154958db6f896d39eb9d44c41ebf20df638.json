@@ -190,22 +190,22 @@
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
             },
-            "dev-master": {
+            "3.7.1": {
                 "name": "cryozonic/stripe",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "3.7.1",
+                "version_normalized": "3.7.1.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe.git",
-                    "reference": "e890e8ce097b10c3f6b7ffca9cad82529fec077f"
+                    "reference": "52a355aa0e28a32200ce7ff3a4c9917e2edb324a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/e890e8ce097b10c3f6b7ffca9cad82529fec077f",
-                    "reference": "e890e8ce097b10c3f6b7ffca9cad82529fec077f",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/52a355aa0e28a32200ce7ff3a4c9917e2edb324a",
+                    "reference": "52a355aa0e28a32200ce7ff3a4c9917e2edb324a",
                     "shasum": ""
                 },
-                "time": "2019-09-02T18:39:19+00:00",
+                "time": "2019-10-04T08:02:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -213,7 +213,34 @@
                 "description": "Stripe Payments",
                 "homepage": "http://store.cryozonic.com/stripe-payments.html",
                 "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/3.6.2",
+                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/3.7.1",
+                    "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
+                }
+            },
+            "dev-master": {
+                "name": "cryozonic/stripe",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cryozonic-stripe.git",
+                    "reference": "52a355aa0e28a32200ce7ff3a4c9917e2edb324a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/52a355aa0e28a32200ce7ff3a4c9917e2edb324a",
+                    "reference": "52a355aa0e28a32200ce7ff3a4c9917e2edb324a",
+                    "shasum": ""
+                },
+                "time": "2019-10-04T08:02:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "proprietary"
+                ],
+                "description": "Stripe Payments",
+                "homepage": "http://store.cryozonic.com/stripe-payments.html",
+                "support": {
+                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/3.7.1",
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
             }
