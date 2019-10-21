@@ -12587,25 +12587,25 @@
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             },
-            "dev-master": {
+            "1.5.2": {
                 "name": "tm/cache",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "e0c3fa827d515fbe18d0477c459eb5514bd7e4f6"
+                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/e0c3fa827d515fbe18d0477c459eb5514bd7e4f6",
-                    "reference": "e0c3fa827d515fbe18d0477c459eb5514bd7e4f6",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/3405114cd18a5cafe014636c96c5394c85b236f5",
+                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-09-30T09:04:57+00:00",
+                "time": "2019-10-21T09:18:26+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12619,7 +12619,43 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/1.5.1",
+                    "source": "https://github.com/tmhub/cache/tree/1.5.2",
+                    "issues": "https://github.com/tmhub/cache/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/cache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/cache.git",
+                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/3405114cd18a5cafe014636c96c5394c85b236f5",
+                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-10-21T09:18:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Full page cache",
+                "homepage": "https://github.com/tmhub/cache",
+                "support": {
+                    "source": "https://github.com/tmhub/cache/tree/1.5.2",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             }
