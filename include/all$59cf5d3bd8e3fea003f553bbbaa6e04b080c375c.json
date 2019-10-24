@@ -29529,18 +29529,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
-                    "reference": "282e894713f98c6d4577fbe37fd24bea301e6e40"
+                    "reference": "b8351776730c9b4895b8c5c54f261362c896faff"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/282e894713f98c6d4577fbe37fd24bea301e6e40",
-                    "reference": "282e894713f98c6d4577fbe37fd24bea301e6e40",
+                    "url": "https://api.github.com/repos/tmhub/lazyload/zipball/b8351776730c9b4895b8c5c54f261362c896faff",
+                    "reference": "b8351776730c9b4895b8c5c54f261362c896faff",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-10-23T13:21:53+00:00",
+                "time": "2019-10-24T11:53:05+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29554,7 +29554,7 @@
                 "description": "Templates Master Image lazy load module",
                 "homepage": "https://github.com/tmhub/lazyload",
                 "support": {
-                    "source": "https://github.com/tmhub/lazyload/tree/1.0.12",
+                    "source": "https://github.com/tmhub/lazyload/tree/master",
                     "issues": "https://github.com/tmhub/lazyload/issues"
                 }
             }
@@ -38060,18 +38060,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
-                    "reference": "5d1e4863dc26d3876177e0f3a40809868ffcd788"
+                    "reference": "2a1051bd41393cf8906ea6b25de9707f81b22698"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/5d1e4863dc26d3876177e0f3a40809868ffcd788",
-                    "reference": "5d1e4863dc26d3876177e0f3a40809868ffcd788",
+                    "url": "https://api.github.com/repos/tmhub/richsnippets/zipball/2a1051bd41393cf8906ea6b25de9707f81b22698",
+                    "reference": "2a1051bd41393cf8906ea6b25de9707f81b22698",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2019-09-30T10:25:03+00:00",
+                "time": "2019-10-24T11:37:35+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -38085,7 +38085,7 @@
                 "description": "Google richsnippets integration",
                 "homepage": "https://github.com/tmhub/richsnippets",
                 "support": {
-                    "source": "https://github.com/tmhub/richsnippets/tree/2.1.2",
+                    "source": "https://github.com/tmhub/richsnippets/tree/master",
                     "issues": "https://github.com/tmhub/richsnippets/issues"
                 }
             },
