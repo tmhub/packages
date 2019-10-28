@@ -36651,19 +36651,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
-                    "reference": "01656ebcb8359d2214330a12fb6b7d5da36638d6"
+                    "reference": "f7e73d644186be581fa1c7ec5d232169f659ee4f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/01656ebcb8359d2214330a12fb6b7d5da36638d6",
-                    "reference": "01656ebcb8359d2214330a12fb6b7d5da36638d6",
+                    "url": "https://api.github.com/repos/tmhub/quickshopping/zipball/f7e73d644186be581fa1c7ec5d232169f659ee4f",
+                    "reference": "f7e73d644186be581fa1c7ec5d232169f659ee4f",
                     "shasum": ""
                 },
                 "require": {
                     "tm/catalog-configurable-swatches": "*",
                     "tm/core": "*"
                 },
-                "time": "2017-08-25T12:13:35+00:00",
+                "time": "2019-10-28T11:27:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -36677,7 +36677,7 @@
                 "description": "Quick view popup for the product listing",
                 "homepage": "https://github.com/tmhub/quickshopping",
                 "support": {
-                    "source": "https://github.com/tmhub/quickshopping/tree/1.3.1",
+                    "source": "https://github.com/tmhub/quickshopping/tree/master",
                     "issues": "https://github.com/tmhub/quickshopping/issues"
                 }
             }
