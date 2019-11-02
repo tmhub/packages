@@ -25523,12 +25523,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "0d3fc034243ebd866e0866c709c56e03c29ffa21"
+                    "reference": "4e7c23b80d3d6231c80f19249022338e00d8248a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/0d3fc034243ebd866e0866c709c56e03c29ffa21",
-                    "reference": "0d3fc034243ebd866e0866c709c56e03c29ffa21",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/4e7c23b80d3d6231c80f19249022338e00d8248a",
+                    "reference": "4e7c23b80d3d6231c80f19249022338e00d8248a",
                     "shasum": ""
                 },
                 "require": {
@@ -25538,7 +25538,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2019-10-31T15:52:17+00:00",
+                "time": "2019-11-01T08:30:49+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -37101,78 +37101,6 @@
             }
         },
         "tm/review-reminder": {
-            "1.0.0": {
-                "name": "tm/review-reminder",
-                "version": "1.0.0",
-                "version_normalized": "1.0.0.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/reviewreminder.git",
-                    "reference": "ca45c9acd004148a8d9a1748ac97f8568ad59767"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/reviewreminder/zipball/ca45c9acd004148a8d9a1748ac97f8568ad59767",
-                    "reference": "ca45c9acd004148a8d9a1748ac97f8568ad59767",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2015-10-07T12:06:52+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Review Reminder",
-                "homepage": "https://github.com/tmhub/reviewreminder",
-                "support": {
-                    "source": "https://github.com/tmhub/reviewreminder/tree/v1.0.0",
-                    "issues": "https://github.com/tmhub/reviewreminder/issues"
-                }
-            },
-            "1.0.1": {
-                "name": "tm/review-reminder",
-                "version": "1.0.1",
-                "version_normalized": "1.0.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/reviewreminder.git",
-                    "reference": "f926b3eb54f5702f68cecc946998493b98f80938"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/reviewreminder/zipball/f926b3eb54f5702f68cecc946998493b98f80938",
-                    "reference": "f926b3eb54f5702f68cecc946998493b98f80938",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2015-10-29T13:49:27+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Review Reminder",
-                "homepage": "https://github.com/tmhub/reviewreminder",
-                "support": {
-                    "source": "https://github.com/tmhub/reviewreminder/tree/v1.0.1",
-                    "issues": "https://github.com/tmhub/reviewreminder/issues"
-                }
-            },
             "1.0.2": {
                 "name": "tm/review-reminder",
                 "version": "1.0.2",
