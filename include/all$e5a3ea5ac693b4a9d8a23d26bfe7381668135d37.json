@@ -32085,18 +32085,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/newsletterbooster.git",
-                    "reference": "c19e78dbedd07e13fd3d7433e85ba5e1a618c275"
+                    "reference": "4f6e3332b44ba96f0026bb1971b8f149b3f3c714"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/c19e78dbedd07e13fd3d7433e85ba5e1a618c275",
-                    "reference": "c19e78dbedd07e13fd3d7433e85ba5e1a618c275",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/4f6e3332b44ba96f0026bb1971b8f149b3f3c714",
+                    "reference": "4f6e3332b44ba96f0026bb1971b8f149b3f3c714",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-03-13T08:49:44+00:00",
+                "time": "2019-11-27T07:53:13+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -32110,7 +32110,7 @@
                 "description": "Newsletterbooster",
                 "homepage": "https://github.com/tmhub/newsletterbooster",
                 "support": {
-                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.6",
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/master",
                     "issues": "https://github.com/tmhub/newsletterbooster/issues"
                 }
             }
