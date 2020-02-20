@@ -13397,18 +13397,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
-                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b"
+                    "reference": "0ea21d47404f814c32e99769ee7c783dc0068dc3"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
-                    "reference": "dacd0d0116c99ea45bf4d1d14de2cce4591ae70b",
+                    "url": "https://api.github.com/repos/tmhub/cdn/zipball/0ea21d47404f814c32e99769ee7c783dc0068dc3",
+                    "reference": "0ea21d47404f814c32e99769ee7c783dc0068dc3",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-09-18T14:09:17+00:00",
+                "time": "2020-02-20T09:43:24+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13422,7 +13422,7 @@
                 "description": "Templates Master CDN module",
                 "homepage": "https://github.com/tmhub/cdn",
                 "support": {
-                    "source": "https://github.com/tmhub/cdn/tree/1.2.1",
+                    "source": "https://github.com/tmhub/cdn/tree/master",
                     "issues": "https://github.com/tmhub/cdn/issues"
                 }
             }
@@ -29140,12 +29140,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "459a5587ad7c85e3b09faea1991af2d4e1d4c015"
+                    "reference": "1f04c275662332ab18e1e27e8871112cf99040c0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/459a5587ad7c85e3b09faea1991af2d4e1d4c015",
-                    "reference": "459a5587ad7c85e3b09faea1991af2d4e1d4c015",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/1f04c275662332ab18e1e27e8871112cf99040c0",
+                    "reference": "1f04c275662332ab18e1e27e8871112cf99040c0",
                     "shasum": ""
                 },
                 "require": {
@@ -29154,7 +29154,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2020-02-17T07:56:21+00:00",
+                "time": "2020-02-19T07:12:31+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29168,7 +29168,7 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.12",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
