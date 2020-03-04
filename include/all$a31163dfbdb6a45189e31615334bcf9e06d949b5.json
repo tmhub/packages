@@ -12815,18 +12815,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
-                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5"
+                    "reference": "54a4b1d23691ef2d550aee8750958bf2da6956a1"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cache/zipball/3405114cd18a5cafe014636c96c5394c85b236f5",
-                    "reference": "3405114cd18a5cafe014636c96c5394c85b236f5",
+                    "url": "https://api.github.com/repos/tmhub/cache/zipball/54a4b1d23691ef2d550aee8750958bf2da6956a1",
+                    "reference": "54a4b1d23691ef2d550aee8750958bf2da6956a1",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-10-21T09:18:26+00:00",
+                "time": "2020-03-04T15:42:40+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12840,7 +12840,7 @@
                 "description": "Full page cache",
                 "homepage": "https://github.com/tmhub/cache",
                 "support": {
-                    "source": "https://github.com/tmhub/cache/tree/1.5.2",
+                    "source": "https://github.com/tmhub/cache/tree/master",
                     "issues": "https://github.com/tmhub/cache/issues"
                 }
             }
