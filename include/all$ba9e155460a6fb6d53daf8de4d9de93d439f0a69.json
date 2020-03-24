@@ -9344,12 +9344,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-swissup.git",
-                    "reference": "9db38f4a66712f2cabfd79ed91b37f074336c719"
+                    "reference": "11ef0c2eaddefb6b63fd026c836502f55a3e6821"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/9db38f4a66712f2cabfd79ed91b37f074336c719",
-                    "reference": "9db38f4a66712f2cabfd79ed91b37f074336c719",
+                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/11ef0c2eaddefb6b63fd026c836502f55a3e6821",
+                    "reference": "11ef0c2eaddefb6b63fd026c836502f55a3e6821",
                     "shasum": ""
                 },
                 "require": {
@@ -9373,7 +9373,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2019-11-13T16:06:14+00:00",
+                "time": "2020-03-24T20:50:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16167,18 +16167,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
-                    "reference": "6e101010f321ab3a0aacbec328b5f877ce50e966"
+                    "reference": "009ccd830bcb1087f6644570d872810efd7c0ccf"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/6e101010f321ab3a0aacbec328b5f877ce50e966",
-                    "reference": "6e101010f321ab3a0aacbec328b5f877ce50e966",
+                    "url": "https://api.github.com/repos/tmhub/defer-js/zipball/009ccd830bcb1087f6644570d872810efd7c0ccf",
+                    "reference": "009ccd830bcb1087f6644570d872810efd7c0ccf",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2018-03-16T14:51:52+00:00",
+                "time": "2020-03-24T11:43:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16192,7 +16192,7 @@
                 "description": "Templates Master Defer javascript module",
                 "homepage": "https://github.com/tmhub/defer-js",
                 "support": {
-                    "source": "https://github.com/tmhub/defer-js/tree/1.0.6",
+                    "source": "https://github.com/tmhub/defer-js/tree/master",
                     "issues": "https://github.com/tmhub/defer-js/issues"
                 }
             }
