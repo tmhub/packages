@@ -9055,12 +9055,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "9848086e3df69d988e50272492ced8f0869bfbf0"
+                    "reference": "bba3d3e3e73037364c274737b114675038735c7a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/9848086e3df69d988e50272492ced8f0869bfbf0",
-                    "reference": "9848086e3df69d988e50272492ced8f0869bfbf0",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/bba3d3e3e73037364c274737b114675038735c7a",
+                    "reference": "bba3d3e3e73037364c274737b114675038735c7a",
                     "shasum": ""
                 },
                 "require": {
@@ -9080,7 +9080,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2020-04-02T09:27:03+00:00",
+                "time": "2020-04-02T12:32:59+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9094,7 +9094,7 @@
                 "description": "Argento theme for Argentotheme.com",
                 "homepage": "https://github.com/tmhub/argento-argentotheme",
                 "support": {
-                    "source": "https://github.com/tmhub/argento-argentotheme/tree/1.2.5",
+                    "source": "https://github.com/tmhub/argento-argentotheme/tree/master",
                     "issues": "https://github.com/tmhub/argento-argentotheme/issues"
                 }
             }
@@ -25807,12 +25807,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "65c042453e10bbf44219950fab2e1a90ccfd0c0a"
+                    "reference": "8280b2b9e4bb5c3ad5fa024d62a5677076035968"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/65c042453e10bbf44219950fab2e1a90ccfd0c0a",
-                    "reference": "65c042453e10bbf44219950fab2e1a90ccfd0c0a",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/8280b2b9e4bb5c3ad5fa024d62a5677076035968",
+                    "reference": "8280b2b9e4bb5c3ad5fa024d62a5677076035968",
                     "shasum": ""
                 },
                 "require": {
@@ -25822,7 +25822,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2020-03-25T15:59:08+00:00",
+                "time": "2020-04-02T12:26:26+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
