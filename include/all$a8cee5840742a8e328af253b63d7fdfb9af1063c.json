@@ -29080,25 +29080,25 @@
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             },
-            "dev-master": {
+            "0.1.2": {
                 "name": "tm/imagemin",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/imagemin.git",
-                    "reference": "da5cc44a7995f8ffecf262cf293ea1d1b6b0c532"
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/da5cc44a7995f8ffecf262cf293ea1d1b6b0c532",
-                    "reference": "da5cc44a7995f8ffecf262cf293ea1d1b6b0c532",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2020-04-06T16:01:48+00:00",
+                "time": "2020-04-11T16:50:52+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29112,7 +29112,43 @@
                 "description": "Image compressing",
                 "homepage": "https://github.com/tmhub/imagemin",
                 "support": {
-                    "source": "https://github.com/tmhub/imagemin/tree/master",
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.2",
+                    "issues": "https://github.com/tmhub/imagemin/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/imagemin",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/imagemin.git",
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-04-11T16:50:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Image compressing",
+                "homepage": "https://github.com/tmhub/imagemin",
+                "support": {
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.2",
                     "issues": "https://github.com/tmhub/imagemin/issues"
                 }
             }
