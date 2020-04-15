@@ -16316,6 +16316,39 @@
                     "source": "https://github.com/tmhub/demo-deployer/tree/master",
                     "issues": "https://github.com/tmhub/demo-deployer/issues"
                 }
+            },
+            "dev-deployer-page": {
+                "name": "tm/demo-deployer",
+                "version": "dev-deployer-page",
+                "version_normalized": "dev-deployer-page",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/demo-deployer.git",
+                    "reference": "67a90387e41e3a288723d0fb8c97f626daa27042"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/67a90387e41e3a288723d0fb8c97f626daa27042",
+                    "reference": "67a90387e41e3a288723d0fb8c97f626daa27042",
+                    "shasum": ""
+                },
+                "time": "2020-04-15T15:40:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "swissup demo deployer tool/module",
+                "homepage": "https://github.com/swissup/demo-deployer",
+                "support": {
+                    "source": "https://github.com/tmhub/demo-deployer/tree/deployer-page",
+                    "issues": "https://github.com/tmhub/demo-deployer/issues"
+                }
             }
         },
         "tm/downloadable": {
