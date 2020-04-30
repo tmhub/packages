@@ -16324,15 +16324,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "b6e361955ba48510c3510fc4c579cc7da35ede13"
+                    "reference": "2d0f698015470a8ad7ca7d36677369fb775fe12f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/b6e361955ba48510c3510fc4c579cc7da35ede13",
-                    "reference": "b6e361955ba48510c3510fc4c579cc7da35ede13",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/2d0f698015470a8ad7ca7d36677369fb775fe12f",
+                    "reference": "2d0f698015470a8ad7ca7d36677369fb775fe12f",
                     "shasum": ""
                 },
-                "time": "2020-04-24T14:58:42+00:00",
+                "time": "2020-04-30T14:40:14+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -25840,12 +25840,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "36cdf57217de5d2c878828ad5c691ad096128d43"
+                    "reference": "a9380c80ee164918318110d5b2cdb62eb54b956f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/36cdf57217de5d2c878828ad5c691ad096128d43",
-                    "reference": "36cdf57217de5d2c878828ad5c691ad096128d43",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/a9380c80ee164918318110d5b2cdb62eb54b956f",
+                    "reference": "a9380c80ee164918318110d5b2cdb62eb54b956f",
                     "shasum": ""
                 },
                 "require": {
@@ -25855,7 +25855,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2020-04-28T06:22:34+00:00",
+                "time": "2020-04-30T10:10:09+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
