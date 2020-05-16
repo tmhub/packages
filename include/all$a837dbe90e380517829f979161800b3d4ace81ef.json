@@ -16291,15 +16291,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "2d0f698015470a8ad7ca7d36677369fb775fe12f"
+                    "reference": "01e435a38d8b07dd5e4b83d2de5e50dbba5ea2a7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/2d0f698015470a8ad7ca7d36677369fb775fe12f",
-                    "reference": "2d0f698015470a8ad7ca7d36677369fb775fe12f",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/01e435a38d8b07dd5e4b83d2de5e50dbba5ea2a7",
+                    "reference": "01e435a38d8b07dd5e4b83d2de5e50dbba5ea2a7",
                     "shasum": ""
                 },
-                "time": "2020-04-30T14:40:14+00:00",
+                "time": "2020-05-15T18:48:36+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16313,7 +16313,7 @@
                 "description": "swissup demo deployer tool/module",
                 "homepage": "https://github.com/swissup/demo-deployer",
                 "support": {
-                    "source": "https://github.com/tmhub/demo-deployer/tree/deployer-page",
+                    "source": "https://github.com/tmhub/demo-deployer/tree/master",
                     "issues": "https://github.com/tmhub/demo-deployer/issues"
                 }
             },
