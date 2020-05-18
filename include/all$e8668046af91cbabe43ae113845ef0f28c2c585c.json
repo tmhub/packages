@@ -27857,12 +27857,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
-                    "reference": "92ec09f9a3c9bcf80575f871070d6c2fe46cef9c"
+                    "reference": "b58d88a0897bcafb5efb1c812cc91f34c39ac4c5"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/92ec09f9a3c9bcf80575f871070d6c2fe46cef9c",
-                    "reference": "92ec09f9a3c9bcf80575f871070d6c2fe46cef9c",
+                    "url": "https://api.github.com/repos/tmhub/helpdesk/zipball/b58d88a0897bcafb5efb1c812cc91f34c39ac4c5",
+                    "reference": "b58d88a0897bcafb5efb1c812cc91f34c39ac4c5",
                     "shasum": ""
                 },
                 "require": {
@@ -27872,7 +27872,7 @@
                     "tm/knowledge-base": "*",
                     "tm/purify": "*"
                 },
-                "time": "2020-03-17T10:13:08+00:00",
+                "time": "2020-05-18T13:44:11+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27886,7 +27886,7 @@
                 "description": "Templates Master Helpdesk module",
                 "homepage": "https://github.com/tmhub/helpdesk",
                 "support": {
-                    "source": "https://github.com/tmhub/helpdesk/tree/1.7.14",
+                    "source": "https://github.com/tmhub/helpdesk/tree/master",
                     "issues": "https://github.com/tmhub/helpdesk/issues"
                 }
             }
