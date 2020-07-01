@@ -1528,25 +1528,25 @@
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             },
-            "dev-master": {
+            "1.3.3": {
                 "name": "tm/affiliate-suite",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/affiliatesuite.git",
-                    "reference": "fbbe531f5a67d32cbf3b667f92bf3215a83078fb"
+                    "reference": "2c168f7df50e4e6cbd61a27ed5cf058b188d309a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/fbbe531f5a67d32cbf3b667f92bf3215a83078fb",
-                    "reference": "fbbe531f5a67d32cbf3b667f92bf3215a83078fb",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/2c168f7df50e4e6cbd61a27ed5cf058b188d309a",
+                    "reference": "2c168f7df50e4e6cbd61a27ed5cf058b188d309a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-09-30T08:09:37+00:00",
+                "time": "2020-07-01T11:53:52+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1560,7 +1560,43 @@
                 "description": "Templates Master Affiliate Suite module",
                 "homepage": "https://github.com/tmhub/affiliatesuite",
                 "support": {
-                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.2",
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.3",
+                    "issues": "https://github.com/tmhub/affiliatesuite/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/affiliate-suite",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/affiliatesuite.git",
+                    "reference": "2c168f7df50e4e6cbd61a27ed5cf058b188d309a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/affiliatesuite/zipball/2c168f7df50e4e6cbd61a27ed5cf058b188d309a",
+                    "reference": "2c168f7df50e4e6cbd61a27ed5cf058b188d309a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-07-01T11:53:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Affiliate Suite module",
+                "homepage": "https://github.com/tmhub/affiliatesuite",
+                "support": {
+                    "source": "https://github.com/tmhub/affiliatesuite/tree/1.3.3",
                     "issues": "https://github.com/tmhub/affiliatesuite/issues"
                 }
             }
