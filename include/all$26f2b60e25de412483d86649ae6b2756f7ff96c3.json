@@ -9266,19 +9266,19 @@
                     "issues": "https://github.com/tmhub/argento-argentotheme/issues"
                 }
             },
-            "dev-master": {
+            "1.2.8": {
                 "name": "tm/argento-argentotheme",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "687f9683faf2e91ac2c8141c45b539fbbf466275"
+                    "reference": "ae606053d1daec7682d195d242e6a2615f7b509b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/687f9683faf2e91ac2c8141c45b539fbbf466275",
-                    "reference": "687f9683faf2e91ac2c8141c45b539fbbf466275",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/ae606053d1daec7682d195d242e6a2615f7b509b",
+                    "reference": "ae606053d1daec7682d195d242e6a2615f7b509b",
                     "shasum": ""
                 },
                 "require": {
@@ -9298,7 +9298,57 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2020-09-09T09:23:05+00:00",
+                "time": "2020-09-09T09:29:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Argento theme for Argentotheme.com",
+                "homepage": "https://github.com/tmhub/argento-argentotheme",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-argentotheme/tree/1.2.8",
+                    "issues": "https://github.com/tmhub/argento-argentotheme/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento-argentotheme",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-argentotheme.git",
+                    "reference": "ae606053d1daec7682d195d242e6a2615f7b509b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/ae606053d1daec7682d195d242e6a2615f7b509b",
+                    "reference": "ae606053d1daec7682d195d242e6a2615f7b509b",
+                    "shasum": ""
+                },
+                "require": {
+                    "cryozonic/stripe": "*",
+                    "cryozonic/stripe-subscriptions": "*",
+                    "tm/abandoned": "*",
+                    "tm/affiliate-suite": "*",
+                    "tm/argento": "*",
+                    "tm/bot-protection": "*",
+                    "tm/cache": "*",
+                    "tm/downloadable": "*",
+                    "tm/firecheckout": "*",
+                    "tm/helpdesk": "*",
+                    "tm/license": "*",
+                    "tm/newsletterbooster": "*",
+                    "tm/pagespeed": "*",
+                    "tm/recaptcha": "*",
+                    "tm/recurring": "*"
+                },
+                "time": "2020-09-09T09:29:47+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
