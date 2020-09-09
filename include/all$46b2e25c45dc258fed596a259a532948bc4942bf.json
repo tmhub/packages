@@ -9273,12 +9273,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
-                    "reference": "1cf5746356632a14eb0539a865dd5c6e735105c2"
+                    "reference": "687f9683faf2e91ac2c8141c45b539fbbf466275"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/1cf5746356632a14eb0539a865dd5c6e735105c2",
-                    "reference": "1cf5746356632a14eb0539a865dd5c6e735105c2",
+                    "url": "https://api.github.com/repos/tmhub/argento-argentotheme/zipball/687f9683faf2e91ac2c8141c45b539fbbf466275",
+                    "reference": "687f9683faf2e91ac2c8141c45b539fbbf466275",
                     "shasum": ""
                 },
                 "require": {
@@ -9298,7 +9298,7 @@
                     "tm/recaptcha": "*",
                     "tm/recurring": "*"
                 },
-                "time": "2020-09-08T05:55:10+00:00",
+                "time": "2020-09-09T09:23:05+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9312,7 +9312,7 @@
                 "description": "Argento theme for Argentotheme.com",
                 "homepage": "https://github.com/tmhub/argento-argentotheme",
                 "support": {
-                    "source": "https://github.com/tmhub/argento-argentotheme/tree/master",
+                    "source": "https://github.com/tmhub/argento-argentotheme/tree/1.2.8",
                     "issues": "https://github.com/tmhub/argento-argentotheme/issues"
                 }
             }
