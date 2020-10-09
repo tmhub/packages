@@ -26417,12 +26417,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "94a723e0072b4dbb89d7020f832e055c35a8d92c"
+                    "reference": "1bc879e356486bb2132b25e27fd8c4815f51afec"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/94a723e0072b4dbb89d7020f832e055c35a8d92c",
-                    "reference": "94a723e0072b4dbb89d7020f832e055c35a8d92c",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/1bc879e356486bb2132b25e27fd8c4815f51afec",
+                    "reference": "1bc879e356486bb2132b25e27fd8c4815f51afec",
                     "shasum": ""
                 },
                 "require": {
@@ -26432,7 +26432,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2020-09-03T12:34:46+00:00",
+                "time": "2020-10-09T14:18:56+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -42443,19 +42443,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/soldtogether.git",
-                    "reference": "15adb84d44a4474407fefdf9b4c6e4552171029e"
+                    "reference": "a2db804f580f636a9cba693ec5ed8f889541abac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/15adb84d44a4474407fefdf9b4c6e4552171029e",
-                    "reference": "15adb84d44a4474407fefdf9b4c6e4552171029e",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/a2db804f580f636a9cba693ec5ed8f889541abac",
+                    "reference": "a2db804f580f636a9cba693ec5ed8f889541abac",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*",
                     "tm/suggestpage": "*"
                 },
-                "time": "2018-06-13T13:03:39+00:00",
+                "time": "2020-10-09T08:06:33+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -42469,7 +42469,7 @@
                 "description": "Frequently bought together and Customer who bought this also bought blocks",
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.2",
+                    "source": "https://github.com/tmhub/soldtogether/tree/master",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             },
