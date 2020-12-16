@@ -243,33 +243,6 @@
                     "source": "https://github.com/tmhub/cryozonic-stripe/tree/3.7.1.1",
                     "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
                 }
-            },
-            "dev-master": {
-                "name": "cryozonic/stripe",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/cryozonic-stripe.git",
-                    "reference": "e89b686a75bf0730ac4b51b1fc40af08c3a96848"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/cryozonic-stripe/zipball/e89b686a75bf0730ac4b51b1fc40af08c3a96848",
-                    "reference": "e89b686a75bf0730ac4b51b1fc40af08c3a96848",
-                    "shasum": ""
-                },
-                "time": "2019-11-01T12:05:56+00:00",
-                "type": "magento-module",
-                "license": [
-                    "proprietary"
-                ],
-                "description": "Stripe Payments",
-                "homepage": "http://store.cryozonic.com/stripe-payments.html",
-                "support": {
-                    "source": "https://github.com/tmhub/cryozonic-stripe/tree/3.7.1.1",
-                    "issues": "https://github.com/tmhub/cryozonic-stripe/issues"
-                }
             }
         },
         "cryozonic/stripe-subscriptions": {
@@ -17581,18 +17554,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "0dd4dc5a95fc38dd095736fa9558b07b7f3719dd"
+                    "reference": "e343f87170b3a045ec66e512d503e13b922fc167"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/0dd4dc5a95fc38dd095736fa9558b07b7f3719dd",
-                    "reference": "0dd4dc5a95fc38dd095736fa9558b07b7f3719dd",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/e343f87170b3a045ec66e512d503e13b922fc167",
+                    "reference": "e343f87170b3a045ec66e512d503e13b922fc167",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2019-08-14T08:23:59+00:00",
+                "time": "2020-12-16T08:56:11+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -17614,7 +17587,7 @@
                 "description": "Banner management extension",
                 "homepage": "https://github.com/tmhub/easybanner",
                 "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/1.7.7",
+                    "source": "https://github.com/tmhub/easybanner/tree/master",
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             }
