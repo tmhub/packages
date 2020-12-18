@@ -17574,25 +17574,25 @@
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             },
-            "dev-master": {
+            "1.7.8": {
                 "name": "tm/easy-banner",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.7.8",
+                "version_normalized": "1.7.8.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
-                    "reference": "e343f87170b3a045ec66e512d503e13b922fc167"
+                    "reference": "0b58aa656c57cfa58898979c3ffbbfd001052e5a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/e343f87170b3a045ec66e512d503e13b922fc167",
-                    "reference": "e343f87170b3a045ec66e512d503e13b922fc167",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/0b58aa656c57cfa58898979c3ffbbfd001052e5a",
+                    "reference": "0b58aa656c57cfa58898979c3ffbbfd001052e5a",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2020-12-16T08:56:11+00:00",
+                "time": "2020-12-18T09:16:53+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -17614,7 +17614,51 @@
                 "description": "Banner management extension",
                 "homepage": "https://github.com/tmhub/easybanner",
                 "support": {
-                    "source": "https://github.com/tmhub/easybanner/tree/master",
+                    "source": "https://github.com/tmhub/easybanner/tree/1.7.8",
+                    "issues": "https://github.com/tmhub/easybanner/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/easy-banner",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easybanner.git",
+                    "reference": "0b58aa656c57cfa58898979c3ffbbfd001052e5a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easybanner/zipball/0b58aa656c57cfa58898979c3ffbbfd001052e5a",
+                    "reference": "0b58aa656c57cfa58898979c3ffbbfd001052e5a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-12-18T09:16:53+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easybanners/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easybanners/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Banner management extension",
+                "homepage": "https://github.com/tmhub/easybanner",
+                "support": {
+                    "source": "https://github.com/tmhub/easybanner/tree/1.7.8",
                     "issues": "https://github.com/tmhub/easybanner/issues"
                 }
             }
