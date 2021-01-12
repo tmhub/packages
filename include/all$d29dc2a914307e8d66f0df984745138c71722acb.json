@@ -9764,12 +9764,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-swissup.git",
-                    "reference": "9f3e091f6a9f1770b2c0af8ce9c9cf9b057ca3a8"
+                    "reference": "852c2b8181d3fe32f4008aa839bc62736fc60702"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/9f3e091f6a9f1770b2c0af8ce9c9cf9b057ca3a8",
-                    "reference": "9f3e091f6a9f1770b2c0af8ce9c9cf9b057ca3a8",
+                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/852c2b8181d3fe32f4008aa839bc62736fc60702",
+                    "reference": "852c2b8181d3fe32f4008aa839bc62736fc60702",
                     "shasum": ""
                 },
                 "require": {
@@ -9793,7 +9793,7 @@
                     "tm/socialsuite": "*",
                     "tm/subscription": "*"
                 },
-                "time": "2020-11-29T12:29:32+00:00",
+                "time": "2021-01-12T15:55:04+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26576,12 +26576,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "deec02325ea20f4cb90affaece8e0ecc656155b3"
+                    "reference": "b16d758c06270012dc50c7d60235457a63a34c96"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/deec02325ea20f4cb90affaece8e0ecc656155b3",
-                    "reference": "deec02325ea20f4cb90affaece8e0ecc656155b3",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/b16d758c06270012dc50c7d60235457a63a34c96",
+                    "reference": "b16d758c06270012dc50c7d60235457a63a34c96",
                     "shasum": ""
                 },
                 "require": {
@@ -26591,7 +26591,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2020-11-25T08:51:48+00:00",
+                "time": "2021-01-12T11:31:06+00:00",
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -26614,7 +26614,7 @@
                 "description": "One step checkout module",
                 "homepage": "https://github.com/tmhub/firecheckout",
                 "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/4.4.4",
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
