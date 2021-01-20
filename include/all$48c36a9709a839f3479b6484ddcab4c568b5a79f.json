@@ -30239,6 +30239,45 @@
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             },
+            "1.6.14": {
+                "name": "tm/knowledge-base",
+                "version": "1.6.14",
+                "version_normalized": "1.6.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/knowledge-base.git",
+                    "reference": "d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e",
+                    "reference": "d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/akismet": "*",
+                    "tm/core": "*",
+                    "tm/email": "*",
+                    "tm/purify": "*"
+                },
+                "time": "2021-01-20T13:51:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Knowledge Base module",
+                "homepage": "https://github.com/tmhub/knowledge-base",
+                "support": {
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.14",
+                    "issues": "https://github.com/tmhub/knowledge-base/issues"
+                }
+            },
             "1.6.4": {
                 "name": "tm/knowledge-base",
                 "version": "1.6.4",
@@ -30441,12 +30480,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
-                    "reference": "48d60d006ddcf3ebc0dd180a6ff71ce623ee0c35"
+                    "reference": "d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/48d60d006ddcf3ebc0dd180a6ff71ce623ee0c35",
-                    "reference": "48d60d006ddcf3ebc0dd180a6ff71ce623ee0c35",
+                    "url": "https://api.github.com/repos/tmhub/knowledge-base/zipball/d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e",
+                    "reference": "d07ef1e5bbb7f6b9873a6bf822e573fac8021a2e",
                     "shasum": ""
                 },
                 "require": {
@@ -30455,7 +30494,7 @@
                     "tm/email": "*",
                     "tm/purify": "*"
                 },
-                "time": "2021-01-06T12:16:15+00:00",
+                "time": "2021-01-20T13:51:03+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -30469,7 +30508,7 @@
                 "description": "Templates Master Knowledge Base module",
                 "homepage": "https://github.com/tmhub/knowledge-base",
                 "support": {
-                    "source": "https://github.com/tmhub/knowledge-base/tree/master",
+                    "source": "https://github.com/tmhub/knowledge-base/tree/1.6.14",
                     "issues": "https://github.com/tmhub/knowledge-base/issues"
                 }
             }
