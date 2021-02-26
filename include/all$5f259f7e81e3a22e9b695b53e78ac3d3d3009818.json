@@ -37221,25 +37221,25 @@
                     "issues": "https://github.com/tmhub/productvideos/issues"
                 }
             },
-            "dev-master": {
+            "1.1.4": {
                 "name": "tm/productvideos",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
-                    "reference": "040a0493ddfb22a85b89930eff5f179993bc0de6"
+                    "reference": "98e3f6b119f9cd9cc953f5b83058cd0b6a852c43"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/040a0493ddfb22a85b89930eff5f179993bc0de6",
-                    "reference": "040a0493ddfb22a85b89930eff5f179993bc0de6",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/98e3f6b119f9cd9cc953f5b83058cd0b6a852c43",
+                    "reference": "98e3f6b119f9cd9cc953f5b83058cd0b6a852c43",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2021-01-06T12:54:02+00:00",
+                "time": "2021-02-26T09:49:49+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37253,7 +37253,43 @@
                 "description": "Product videos",
                 "homepage": "https://github.com/tmhub/productvideos",
                 "support": {
-                    "source": "https://github.com/tmhub/productvideos/tree/master",
+                    "source": "https://github.com/tmhub/productvideos/tree/1.1.4",
+                    "issues": "https://github.com/tmhub/productvideos/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/productvideos",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/productvideos.git",
+                    "reference": "98e3f6b119f9cd9cc953f5b83058cd0b6a852c43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/productvideos/zipball/98e3f6b119f9cd9cc953f5b83058cd0b6a852c43",
+                    "reference": "98e3f6b119f9cd9cc953f5b83058cd0b6a852c43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2021-02-26T09:49:49+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product videos",
+                "homepage": "https://github.com/tmhub/productvideos",
+                "support": {
+                    "source": "https://github.com/tmhub/productvideos/tree/1.1.4",
                     "issues": "https://github.com/tmhub/productvideos/issues"
                 }
             }
