@@ -41260,18 +41260,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-templates.git",
-                    "reference": "ecf8d92eb0fc15fd06c10da69c7095120d6119d5"
+                    "reference": "a0d582418f9b4902d9086103ca083b042eb9de94"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/ecf8d92eb0fc15fd06c10da69c7095120d6119d5",
-                    "reference": "ecf8d92eb0fc15fd06c10da69c7095120d6119d5",
+                    "url": "https://api.github.com/repos/tmhub/seo-templates/zipball/a0d582418f9b4902d9086103ca083b042eb9de94",
+                    "reference": "a0d582418f9b4902d9086103ca083b042eb9de94",
                     "shasum": ""
                 },
                 "require": {
                     "tm/seo-core": "*"
                 },
-                "time": "2019-02-26T08:29:22+00:00",
+                "time": "2021-08-04T07:45:46+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -41285,7 +41285,7 @@
                 "description": "Generate product and category metadata for Magento 1.x e-commerce",
                 "homepage": "https://github.com/tmhub/seo-templates",
                 "support": {
-                    "source": "https://github.com/tmhub/seo-templates/tree/1.0.4",
+                    "source": "https://github.com/tmhub/seo-templates/tree/master",
                     "issues": "https://github.com/tmhub/seo-templates/issues"
                 }
             }
