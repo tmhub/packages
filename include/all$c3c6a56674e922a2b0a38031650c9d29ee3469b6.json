@@ -247,7 +247,7 @@
             "dev-master": {
                 "name": "cryozonic/stripe",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe.git",
@@ -260,6 +260,7 @@
                     "shasum": ""
                 },
                 "time": "2019-11-01T12:05:56+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -519,7 +520,7 @@
             "dev-master": {
                 "name": "cryozonic/stripe-subscriptions",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cryozonic-stripe-subscriptions.git",
@@ -532,6 +533,7 @@
                     "shasum": ""
                 },
                 "time": "2019-11-06T14:06:39+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -548,7 +550,7 @@
             "dev-master": {
                 "name": "fishpig/wordpress",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/fishpig-wordpress.git",
@@ -561,6 +563,7 @@
                     "shasum": ""
                 },
                 "time": "2016-08-30T08:05:16+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "proprietary"
@@ -1021,7 +1024,7 @@
             "dev-master": {
                 "name": "tm/abandoned",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/abandoned.git",
@@ -1038,6 +1041,7 @@
                     "tm/email": "*"
                 },
                 "time": "2021-08-04T12:15:09+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1270,7 +1274,7 @@
             "dev-master": {
                 "name": "tm/address-autocomplete",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/address-autocomplete.git",
@@ -1286,6 +1290,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-03-06T12:21:58+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -1604,7 +1609,7 @@
             "dev-master": {
                 "name": "tm/affiliate-suite",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/affiliatesuite.git",
@@ -1620,6 +1625,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-07-01T11:53:52+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -2695,7 +2701,7 @@
             "dev-master": {
                 "name": "tm/ajax-layered-navigation",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
@@ -2711,6 +2717,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-09-25T14:46:46+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4086,7 +4093,7 @@
             "dev-master": {
                 "name": "tm/ajax-pro",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/ajaxpro.git",
@@ -4104,6 +4111,7 @@
                     "tm/qty-switcher": "*"
                 },
                 "time": "2020-08-05T18:31:36+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -4600,42 +4608,6 @@
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             },
-            "dev-master": {
-                "name": "tm/ajax-search",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/ajaxsearch.git",
-                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1f52865eb7fdae2118ea3f2b7420408f54fd338d",
-                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2018-06-20T14:56:19+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Template-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Templates Master AjaxSearch module",
-                "homepage": "https://github.com/tmhub/ajaxsearch",
-                "support": {
-                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.7",
-                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
-                }
-            },
             "dev-js-improvments": {
                 "name": "tm/ajax-search",
                 "version": "dev-js-improvments",
@@ -4670,6 +4642,43 @@
                 "homepage": "https://github.com/tmhub/ajaxsearch",
                 "support": {
                     "source": "https://github.com/tmhub/ajaxsearch/tree/js-improvments",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/ajax-search",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-20T14:56:19+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.7",
                     "issues": "https://github.com/tmhub/ajaxsearch/issues"
                 }
             }
@@ -4714,7 +4723,7 @@
             "dev-master": {
                 "name": "tm/akismet",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/akismet.git",
@@ -4730,6 +4739,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-07-20T12:28:51+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -5848,7 +5858,7 @@
             "dev-master": {
                 "name": "tm/amp",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/amp.git",
@@ -5866,6 +5876,7 @@
                     "tm/easyslide": "*"
                 },
                 "time": "2020-06-16T07:31:06+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -8701,72 +8712,6 @@
                     "issues": "https://github.com/tmhub/argento/issues"
                 }
             },
-            "dev-master": {
-                "name": "tm/argento",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/argento.git",
-                    "reference": "a56b442ef23d600c85eab41e7920058823916d8e"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento/zipball/a56b442ef23d600c85eab41e7920058823916d8e",
-                    "reference": "a56b442ef23d600c85eab41e7920058823916d8e",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/ajax-pro": "*",
-                    "tm/ajax-search": "*",
-                    "tm/amp": "*",
-                    "tm/ask-it": "*",
-                    "tm/attributepages": "*",
-                    "tm/catalog-configurable-swatches": "*",
-                    "tm/core": "*",
-                    "tm/easy-banner": "*",
-                    "tm/easycatalogimg": "*",
-                    "tm/easyflags": "*",
-                    "tm/easyslide": "*",
-                    "tm/easytabs": "*",
-                    "tm/facebooklb": "*",
-                    "tm/gdpr": "*",
-                    "tm/highlight": "*",
-                    "tm/hover-gallery": "*",
-                    "tm/lightboxpro": "*",
-                    "tm/navigation-pro": "*",
-                    "tm/pagespeed": "*",
-                    "tm/pro-labels": "*",
-                    "tm/review-reminder": "*",
-                    "tm/seo-suite": "*",
-                    "tm/slick-carousel": "*",
-                    "tm/sold-together": "*",
-                    "tm/suggestpage": "*",
-                    "tm/testimonials": "*"
-                },
-                "time": "2020-12-18T09:49:51+00:00",
-                "type": "magento-module",
-                "extra": {
-                    "tm": {
-                        "purchase_code": "TM_ArgentoArgento",
-                        "links": {
-                            "download": "https://argentotheme.com/downloadable/customer/products/",
-                            "identity_key": "https://argentotheme.com/license/customer/activation/",
-                            "docs": "http://docs.swissuplabs.com/m1/argento/",
-                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
-                        }
-                    }
-                },
-                "license": [
-                    "OSL-3.0"
-                ],
-                "description": "Argento theme",
-                "homepage": "https://github.com/tmhub/argento",
-                "support": {
-                    "source": "https://github.com/tmhub/argento/tree/1.15.1",
-                    "issues": "https://github.com/tmhub/argento/issues"
-                }
-            },
             "dev-carousel": {
                 "name": "tm/argento",
                 "version": "dev-carousel",
@@ -8814,6 +8759,73 @@
                 "homepage": "https://github.com/tmhub/argento",
                 "support": {
                     "source": "https://github.com/tmhub/argento/tree/carousel",
+                    "issues": "https://github.com/tmhub/argento/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento.git",
+                    "reference": "a56b442ef23d600c85eab41e7920058823916d8e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento/zipball/a56b442ef23d600c85eab41e7920058823916d8e",
+                    "reference": "a56b442ef23d600c85eab41e7920058823916d8e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/ajax-pro": "*",
+                    "tm/ajax-search": "*",
+                    "tm/amp": "*",
+                    "tm/ask-it": "*",
+                    "tm/attributepages": "*",
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easy-banner": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyflags": "*",
+                    "tm/easyslide": "*",
+                    "tm/easytabs": "*",
+                    "tm/facebooklb": "*",
+                    "tm/gdpr": "*",
+                    "tm/highlight": "*",
+                    "tm/hover-gallery": "*",
+                    "tm/lightboxpro": "*",
+                    "tm/navigation-pro": "*",
+                    "tm/pagespeed": "*",
+                    "tm/pro-labels": "*",
+                    "tm/review-reminder": "*",
+                    "tm/seo-suite": "*",
+                    "tm/slick-carousel": "*",
+                    "tm/sold-together": "*",
+                    "tm/suggestpage": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2020-12-18T09:49:51+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "purchase_code": "TM_ArgentoArgento",
+                        "links": {
+                            "download": "https://argentotheme.com/downloadable/customer/products/",
+                            "identity_key": "https://argentotheme.com/license/customer/activation/",
+                            "docs": "http://docs.swissuplabs.com/m1/argento/",
+                            "changelog": "http://docs.swissuplabs.com/m1/argento/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Argento theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/tmhub/argento/tree/1.15.1",
                     "issues": "https://github.com/tmhub/argento/issues"
                 }
             }
@@ -9558,7 +9570,7 @@
             "dev-master": {
                 "name": "tm/argento-argentotheme",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-argentotheme.git",
@@ -9588,6 +9600,7 @@
                     "tm/recurring": "*"
                 },
                 "time": "2021-06-29T11:54:56+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9610,7 +9623,7 @@
             "dev-master": {
                 "name": "tm/argento_firecheckout",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento_firecheckout.git",
@@ -9641,6 +9654,7 @@
                     "tm/socialsuite": "*"
                 },
                 "time": "2021-07-09T07:19:52+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -9837,7 +9851,7 @@
             "dev-master": {
                 "name": "tm/argento_mage2cloud",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-mage2cloud.git",
@@ -9854,6 +9868,7 @@
                     "tm/helpdesk": "*"
                 },
                 "time": "2018-11-08T09:25:01+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -9894,60 +9909,6 @@
             }
         },
         "tm/argento_swissup": {
-            "dev-master": {
-                "name": "tm/argento_swissup",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/argento-swissup.git",
-                    "reference": "563c59bd9f02d022f8a1bfc3aa99a08df150ea05"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/563c59bd9f02d022f8a1bfc3aa99a08df150ea05",
-                    "reference": "563c59bd9f02d022f8a1bfc3aa99a08df150ea05",
-                    "shasum": ""
-                },
-                "require": {
-                    "cryozonic/stripe": "*",
-                    "cryozonic/stripe-subscriptions": "*",
-                    "tm/abandoned": "*",
-                    "tm/affiliate-suite": "*",
-                    "tm/argento": "*",
-                    "tm/bot-protection": "*",
-                    "tm/cache": "*",
-                    "tm/cdn": "*",
-                    "tm/demo-deployer": "*",
-                    "tm/firecheckout": "*",
-                    "tm/ga-plugin-scrolldepth": "*",
-                    "tm/helpdesk": "*",
-                    "tm/license": "*",
-                    "tm/notifier": "*",
-                    "tm/pagespeed": "*",
-                    "tm/recaptcha": "*",
-                    "tm/secure": "*",
-                    "tm/socialsuite": "*",
-                    "tm/subscription": "*"
-                },
-                "time": "2021-06-03T14:03:31+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Swissup theme for swissuplabs.com",
-                "homepage": "https://github.com/tmhub/argento_swissup",
-                "support": {
-                    "source": "https://github.com/tmhub/argento-swissup/tree/master",
-                    "issues": "https://github.com/tmhub/argento-swissup/issues"
-                }
-            },
             "dev-listing-menu": {
                 "name": "tm/argento_swissup",
                 "version": "dev-listing-menu",
@@ -9999,6 +9960,61 @@
                 "homepage": "https://github.com/tmhub/argento_swissup",
                 "support": {
                     "source": "https://github.com/tmhub/argento-swissup/tree/listing-menu",
+                    "issues": "https://github.com/tmhub/argento-swissup/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/argento_swissup",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-swissup.git",
+                    "reference": "563c59bd9f02d022f8a1bfc3aa99a08df150ea05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-swissup/zipball/563c59bd9f02d022f8a1bfc3aa99a08df150ea05",
+                    "reference": "563c59bd9f02d022f8a1bfc3aa99a08df150ea05",
+                    "shasum": ""
+                },
+                "require": {
+                    "cryozonic/stripe": "*",
+                    "cryozonic/stripe-subscriptions": "*",
+                    "tm/abandoned": "*",
+                    "tm/affiliate-suite": "*",
+                    "tm/argento": "*",
+                    "tm/bot-protection": "*",
+                    "tm/cache": "*",
+                    "tm/cdn": "*",
+                    "tm/demo-deployer": "*",
+                    "tm/firecheckout": "*",
+                    "tm/ga-plugin-scrolldepth": "*",
+                    "tm/helpdesk": "*",
+                    "tm/license": "*",
+                    "tm/notifier": "*",
+                    "tm/pagespeed": "*",
+                    "tm/recaptcha": "*",
+                    "tm/secure": "*",
+                    "tm/socialsuite": "*",
+                    "tm/subscription": "*"
+                },
+                "time": "2021-06-03T14:03:31+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Swissup theme for swissuplabs.com",
+                "homepage": "https://github.com/tmhub/argento_swissup",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-swissup/tree/master",
                     "issues": "https://github.com/tmhub/argento-swissup/issues"
                 }
             }
@@ -10086,7 +10102,7 @@
             "dev-master": {
                 "name": "tm/argento_tm",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/argento-tm.git",
@@ -10106,6 +10122,7 @@
                     "tm/testimonials": "*"
                 },
                 "time": "2018-11-08T09:45:43+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -11223,7 +11240,7 @@
             "dev-master": {
                 "name": "tm/ask-it",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/askit.git",
@@ -11241,6 +11258,7 @@
                     "tm/email": "*"
                 },
                 "time": "2021-05-28T09:07:36+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12071,7 +12089,7 @@
             "dev-master": {
                 "name": "tm/attributepages",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/attributepages.git",
@@ -12087,6 +12105,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-07-01T11:53:56+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -12540,7 +12559,7 @@
             "dev-master": {
                 "name": "tm/bot-protection",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/botprotection.git",
@@ -12556,6 +12575,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-05-22T08:51:38+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -13490,7 +13510,7 @@
             "dev-master": {
                 "name": "tm/cache",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cache.git",
@@ -13506,6 +13526,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-03-05T15:15:10+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -13780,7 +13801,7 @@
             "dev-master": {
                 "name": "tm/catalog-configurable-swatches",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
@@ -13796,6 +13817,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-06-08T12:29:33+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14108,7 +14130,7 @@
             "dev-master": {
                 "name": "tm/cdn",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/cdn.git",
@@ -14124,6 +14146,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-03-17T09:21:17+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -14539,42 +14562,6 @@
                     "issues": "https://github.com/tmhub/checkout-success/issues"
                 }
             },
-            "dev-master": {
-                "name": "tm/checkout-success",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/checkout-success.git",
-                    "reference": "32c9b083f0575e26adf91d0a661a0191f1306f59"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/32c9b083f0575e26adf91d0a661a0191f1306f59",
-                    "reference": "32c9b083f0575e26adf91d0a661a0191f1306f59",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2018-11-08T10:22:44+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Checkout Success Page module",
-                "homepage": "https://github.com/tmhub/checkout-success",
-                "support": {
-                    "source": "https://github.com/tmhub/checkout-success/tree/2.0.9",
-                    "issues": "https://github.com/tmhub/checkout-success/issues"
-                }
-            },
             "dev-dev": {
                 "name": "tm/checkout-success",
                 "version": "dev-dev",
@@ -14608,6 +14595,43 @@
                 "homepage": "https://github.com/tmhub/checkout-success",
                 "support": {
                     "source": "https://github.com/tmhub/checkout-success/tree/dev",
+                    "issues": "https://github.com/tmhub/checkout-success/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/checkout-success",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/checkout-success.git",
+                    "reference": "32c9b083f0575e26adf91d0a661a0191f1306f59"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/checkout-success/zipball/32c9b083f0575e26adf91d0a661a0191f1306f59",
+                    "reference": "32c9b083f0575e26adf91d0a661a0191f1306f59",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:22:44+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Checkout Success Page module",
+                "homepage": "https://github.com/tmhub/checkout-success",
+                "support": {
+                    "source": "https://github.com/tmhub/checkout-success/tree/2.0.9",
                     "issues": "https://github.com/tmhub/checkout-success/issues"
                 }
             }
@@ -15515,7 +15539,7 @@
             "dev-master": {
                 "name": "tm/core",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/core.git",
@@ -15528,6 +15552,7 @@
                     "shasum": ""
                 },
                 "time": "2019-02-26T09:14:17+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -15694,7 +15719,7 @@
             "dev-master": {
                 "name": "tm/countdowntimer",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/countdowntimer.git",
@@ -15710,6 +15735,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-08T10:06:28+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16139,7 +16165,7 @@
             "dev-master": {
                 "name": "tm/dailydeals",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/dailydeals.git",
@@ -16156,6 +16182,7 @@
                     "tm/countdowntimer": "*"
                 },
                 "time": "2019-09-12T11:04:58+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16466,7 +16493,7 @@
             "dev-master": {
                 "name": "tm/defer-css",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-css.git",
@@ -16482,6 +16509,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-05-22T08:57:44+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16792,7 +16820,7 @@
             "dev-master": {
                 "name": "tm/defer-js",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/defer-js.git",
@@ -16808,6 +16836,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-03-25T09:13:19+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -16831,39 +16860,6 @@
                 "name": "tm/demo-deployer",
                 "version": "1.1.1",
                 "version_normalized": "1.1.1.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/demo-deployer.git",
-                    "reference": "e1b5bfa5ee28aebd383017bdb634a03fd0c43793"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/e1b5bfa5ee28aebd383017bdb634a03fd0c43793",
-                    "reference": "e1b5bfa5ee28aebd383017bdb634a03fd0c43793",
-                    "shasum": ""
-                },
-                "time": "2020-09-17T13:11:11+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Template Masters Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "swissup demo deployer tool/module",
-                "homepage": "https://github.com/swissup/demo-deployer",
-                "support": {
-                    "source": "https://github.com/tmhub/demo-deployer/tree/1.1.1",
-                    "issues": "https://github.com/tmhub/demo-deployer/issues"
-                }
-            },
-            "dev-master": {
-                "name": "tm/demo-deployer",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/demo-deployer.git",
@@ -16923,6 +16919,40 @@
                 "homepage": "https://github.com/swissup/demo-deployer",
                 "support": {
                     "source": "https://github.com/tmhub/demo-deployer/tree/deployer-page",
+                    "issues": "https://github.com/tmhub/demo-deployer/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/demo-deployer",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/demo-deployer.git",
+                    "reference": "e1b5bfa5ee28aebd383017bdb634a03fd0c43793"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/demo-deployer/zipball/e1b5bfa5ee28aebd383017bdb634a03fd0c43793",
+                    "reference": "e1b5bfa5ee28aebd383017bdb634a03fd0c43793",
+                    "shasum": ""
+                },
+                "time": "2020-09-17T13:11:11+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "swissup demo deployer tool/module",
+                "homepage": "https://github.com/swissup/demo-deployer",
+                "support": {
+                    "source": "https://github.com/tmhub/demo-deployer/tree/1.1.1",
                     "issues": "https://github.com/tmhub/demo-deployer/issues"
                 }
             }
@@ -16996,7 +17026,7 @@
             "dev-master": {
                 "name": "tm/downloadable",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/downloadable.git",
@@ -17012,6 +17042,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-02-11T09:28:18+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -17824,7 +17855,7 @@
             "dev-master": {
                 "name": "tm/easy-banner",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easybanner.git",
@@ -17840,6 +17871,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-12-18T09:16:53+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -18498,7 +18530,7 @@
             "dev-master": {
                 "name": "tm/easycatalogimg",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easycatalogimg.git",
@@ -18514,6 +18546,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-01T09:52:45+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19076,7 +19109,7 @@
             "dev-master": {
                 "name": "tm/easycolorswatches",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easycolorswatches.git",
@@ -19092,6 +19125,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-08T10:06:25+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19402,7 +19436,7 @@
             "dev-master": {
                 "name": "tm/easyflags",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easyflags.git",
@@ -19418,6 +19452,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-06-13T13:28:46+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19588,7 +19623,7 @@
             "dev-master": {
                 "name": "tm/easylightbox",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easylightbox.git",
@@ -19605,6 +19640,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-06-09T09:01:50+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -19728,7 +19764,7 @@
             "dev-master": {
                 "name": "tm/easynavigation",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easynavigation.git",
@@ -19744,6 +19780,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-05T15:25:15+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -20680,7 +20717,7 @@
             "dev-master": {
                 "name": "tm/easyslide",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/easyslide.git",
@@ -20696,6 +20733,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-10-26T08:43:35+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22156,7 +22194,7 @@
             "dev-master": {
                 "name": "tm/easytabs",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/easytabs.git",
@@ -22172,6 +22210,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-07-01T11:54:00+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -22636,7 +22675,7 @@
             "dev-master": {
                 "name": "tm/email",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
@@ -22652,6 +22691,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-03-27T13:22:09+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -22980,7 +23020,7 @@
             "dev-master": {
                 "name": "tm/facebooklb",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/facebooklb.git",
@@ -22996,6 +23036,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-12-15T09:50:07+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -26755,55 +26796,6 @@
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
-            "dev-master": {
-                "name": "tm/firecheckout",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "547b43e3ab2e3e8e47cec0e2f730fe16a8e80730"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/547b43e3ab2e3e8e47cec0e2f730fe16a8e80730",
-                    "reference": "547b43e3ab2e3e8e47cec0e2f730fe16a8e80730",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/address-autocomplete": "*",
-                    "tm/checkout-success": "*",
-                    "tm/core": "*",
-                    "tm/geoip": "*",
-                    "tm/orderattachment": "*"
-                },
-                "time": "2021-03-26T09:59:42+00:00",
-                "type": "magento-module",
-                "extra": {
-                    "tm": {
-                        "links": {
-                            "download": "http://templates-master.com/magento-one-page-checkout.html",
-                            "docs": "http://docs.swissuplabs.com/m1/extensions/firecheckout/",
-                            "changelog": "http://docs.swissuplabs.com/m1/extensions/firecheckout/changelog/"
-                        }
-                    }
-                },
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "One step checkout module",
-                "homepage": "https://github.com/tmhub/firecheckout",
-                "support": {
-                    "source": "https://github.com/tmhub/firecheckout/tree/master",
-                    "issues": "https://github.com/tmhub/firecheckout/issues"
-                }
-            },
             "dev-integration-phoenix_wirecardcheckoutpage": {
                 "name": "tm/firecheckout",
                 "version": "dev-integration-phoenix_wirecardcheckoutpage",
@@ -27001,6 +26993,56 @@
                     "issues": "https://github.com/tmhub/firecheckout/issues"
                 }
             },
+            "dev-master": {
+                "name": "tm/firecheckout",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/firecheckout.git",
+                    "reference": "547b43e3ab2e3e8e47cec0e2f730fe16a8e80730"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/547b43e3ab2e3e8e47cec0e2f730fe16a8e80730",
+                    "reference": "547b43e3ab2e3e8e47cec0e2f730fe16a8e80730",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/address-autocomplete": "*",
+                    "tm/checkout-success": "*",
+                    "tm/core": "*",
+                    "tm/geoip": "*",
+                    "tm/orderattachment": "*"
+                },
+                "time": "2021-03-26T09:59:42+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "http://templates-master.com/magento-one-page-checkout.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/firecheckout/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/firecheckout/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "One step checkout module",
+                "homepage": "https://github.com/tmhub/firecheckout",
+                "support": {
+                    "source": "https://github.com/tmhub/firecheckout/tree/master",
+                    "issues": "https://github.com/tmhub/firecheckout/issues"
+                }
+            },
             "dev-refactoring-window": {
                 "name": "tm/firecheckout",
                 "version": "dev-refactoring-window",
@@ -27090,7 +27132,7 @@
             "dev-master": {
                 "name": "tm/ga-plugin-events",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/ga-plugin-events.git",
@@ -27106,6 +27148,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-11-30T12:04:10+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27200,7 +27243,7 @@
             "dev-master": {
                 "name": "tm/ga-plugin-scrolldepth",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/ga-plugin-scrolldepth.git",
@@ -27216,6 +27259,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-08T09:45:51+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27346,7 +27390,7 @@
             "dev-master": {
                 "name": "tm/gdpr",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/gdpr.git",
@@ -27362,6 +27406,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-09-30T08:09:34+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -27422,7 +27467,7 @@
             "dev-master": {
                 "name": "tm/geoip",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/geoip.git",
@@ -27438,6 +27483,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-04-16T10:38:57+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -28935,7 +28981,7 @@
             "dev-master": {
                 "name": "tm/helpdesk",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/helpdesk.git",
@@ -28955,6 +29001,7 @@
                     "tm/purify": "*"
                 },
                 "time": "2021-01-08T08:16:27+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -29869,7 +29916,7 @@
             "dev-master": {
                 "name": "tm/highlight",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/highlight.git",
@@ -29886,6 +29933,7 @@
                     "tm/slick-carousel": "*"
                 },
                 "time": "2019-09-30T08:24:19+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -30088,7 +30136,7 @@
             "dev-master": {
                 "name": "tm/hover-gallery",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/hover-gallery.git",
@@ -30104,6 +30152,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-06-13T12:20:53+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -30234,7 +30283,7 @@
             "dev-master": {
                 "name": "tm/imagemin",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/imagemin.git",
@@ -30250,6 +30299,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-04-11T16:50:52+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -30701,7 +30751,7 @@
             "dev-master": {
                 "name": "tm/knowledge-base",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/knowledge-base.git",
@@ -30720,6 +30770,7 @@
                     "tm/purify": "*"
                 },
                 "time": "2021-03-04T06:59:09+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -31282,7 +31333,7 @@
             "dev-master": {
                 "name": "tm/lazyload",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lazyload.git",
@@ -31298,6 +31349,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-03-19T12:13:24+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -31716,7 +31768,7 @@
             "dev-master": {
                 "name": "tm/license",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/license.git",
@@ -31732,6 +31784,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-02-25T12:12:30+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -32348,7 +32401,7 @@
             "dev-master": {
                 "name": "tm/lightboxpro",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/lightboxpro.git",
@@ -32366,6 +32419,7 @@
                     "tm/slick-carousel": "*"
                 },
                 "time": "2019-02-26T09:32:40+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -32447,7 +32501,7 @@
             "dev-master": {
                 "name": "tm/mobileswitcher",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/mobileswitcher.git",
@@ -32463,6 +32517,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-25T12:11:15+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -33503,7 +33558,7 @@
             "dev-master": {
                 "name": "tm/navigation-pro",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/navigationpro.git",
@@ -33519,6 +33574,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-02-26T09:51:40+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -33829,7 +33885,7 @@
             "dev-master": {
                 "name": "tm/newsletterbooster",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/newsletterbooster.git",
@@ -33845,6 +33901,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-06-16T07:31:10+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -34005,7 +34062,7 @@
             "dev-master": {
                 "name": "tm/notifier",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/notifier.git",
@@ -34021,6 +34078,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-06-24T13:13:15+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "map": [
@@ -34346,7 +34404,7 @@
             "dev-master": {
                 "name": "tm/orderattachment",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/orderattachment.git",
@@ -34362,6 +34420,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-25T11:56:55+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -35594,7 +35653,7 @@
             "dev-master": {
                 "name": "tm/pagespeed",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/pagespeed.git",
@@ -35614,6 +35673,7 @@
                     "tm/lazyload": "*"
                 },
                 "time": "2020-07-10T07:35:05+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "extra": {
                     "tm": {
@@ -37041,7 +37101,7 @@
             "dev-master": {
                 "name": "tm/pro-labels",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prolabels.git",
@@ -37057,6 +37117,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-07-08T12:43:42+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37336,7 +37397,7 @@
             "dev-master": {
                 "name": "tm/productvideos",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/productvideos.git",
@@ -37352,6 +37413,7 @@
                     "tm/core": "*"
                 },
                 "time": "2021-02-26T09:49:49+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37671,7 +37733,7 @@
             "dev-master": {
                 "name": "tm/prozoom",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/prozoom.git",
@@ -37688,6 +37750,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-10-17T08:53:53+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -37818,7 +37881,7 @@
             "dev-master": {
                 "name": "tm/purify",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/purify.git",
@@ -37834,6 +37897,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-12-05T14:27:31+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -38108,7 +38172,7 @@
             "dev-master": {
                 "name": "tm/qty-switcher",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/qty-switcher.git",
@@ -38124,6 +38188,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-03T12:08:41+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -38634,7 +38699,7 @@
             "dev-master": {
                 "name": "tm/quickshopping",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/quickshopping.git",
@@ -38651,6 +38716,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-06-16T07:30:57+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -38961,7 +39027,7 @@
             "dev-master": {
                 "name": "tm/recaptcha",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recaptcha.git",
@@ -38977,6 +39043,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-10-29T12:28:37+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -39035,7 +39102,7 @@
             "dev-master": {
                 "name": "tm/recurring",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/recurring.git",
@@ -39051,6 +39118,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-09-03T07:08:30+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -39217,7 +39285,7 @@
             "dev-master": {
                 "name": "tm/review-reminder",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/reviewreminder.git",
@@ -39233,6 +39301,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-09-30T08:09:53+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -39328,7 +39397,7 @@
             "dev-master": {
                 "name": "tm/reward",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/reward.git",
@@ -39344,6 +39413,7 @@
                     "tm/core": "*"
                 },
                 "time": "2018-11-08T09:45:40+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -40115,7 +40185,7 @@
             "dev-master": {
                 "name": "tm/richsnippets",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/richsnippets.git",
@@ -40131,6 +40201,7 @@
                     "tm/seo-core": "*"
                 },
                 "time": "2020-12-18T09:19:19+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -40540,7 +40611,7 @@
             "dev-master": {
                 "name": "tm/secure",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/secure.git",
@@ -40557,6 +40628,7 @@
                     "tm/email": "*"
                 },
                 "time": "2020-05-18T12:01:16+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -40615,7 +40687,7 @@
             "dev-master": {
                 "name": "tm/seo-core",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-core.git",
@@ -40631,6 +40703,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-04-26T09:18:51+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -40761,7 +40834,7 @@
             "dev-master": {
                 "name": "tm/seo-html-sitemap",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-html-sitemap.git",
@@ -40777,6 +40850,7 @@
                     "tm/seo-core": "*"
                 },
                 "time": "2019-02-26T08:26:51+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -40800,6 +40874,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.0",
                 "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/aed9356b79d93b04088818526aa5cbdca0290ace",
+                    "reference": "aed9356b79d93b04088818526aa5cbdca0290ace",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40820,6 +40905,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.5.1",
                 "version_normalized": "0.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/4fbb53ea53d16aeee2e5ad278753be62c148f505",
+                    "reference": "4fbb53ea53d16aeee2e5ad278753be62c148f505",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40840,6 +40936,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.0",
                 "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/620aa100540b5ebb3159a3716d15a0ce3a2c4203",
+                    "reference": "620aa100540b5ebb3159a3716d15a0ce3a2c4203",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40861,6 +40968,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.1",
                 "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6e27faee0a0ac440b5600b5551e29b99e9264168",
+                    "reference": "6e27faee0a0ac440b5600b5551e29b99e9264168",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40882,6 +41000,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.2",
                 "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
+                    "reference": "fdcf7d805b2f3014c27407e704873c2f5b5ca52b",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40903,6 +41032,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.3",
                 "version_normalized": "0.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/534f58d0b236ecc101784eaec92405cc5f4d9b95",
+                    "reference": "534f58d0b236ecc101784eaec92405cc5f4d9b95",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40924,6 +41064,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.4",
                 "version_normalized": "0.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
+                    "reference": "cab4def03c4fe0d3c915700e35e3d6b75b9e1e4a",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40945,6 +41096,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.5",
                 "version_normalized": "0.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/6ea75bdf0706b104833ab66d4be97fc6c20913e7",
+                    "reference": "6ea75bdf0706b104833ab66d4be97fc6c20913e7",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40966,6 +41128,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.6.6",
                 "version_normalized": "0.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "f50a19fb4a1cf9f54716671686e89e60c06fc488"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/f50a19fb4a1cf9f54716671686e89e60c06fc488",
+                    "reference": "f50a19fb4a1cf9f54716671686e89e60c06fc488",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "*",
                     "tm/seo-html-sitemap": "*",
@@ -40987,6 +41160,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.7.0",
                 "version_normalized": "0.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "c80ec3003bb03ad61326b96fea2e47d487ae6758"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/c80ec3003bb03ad61326b96fea2e47d487ae6758",
+                    "reference": "c80ec3003bb03ad61326b96fea2e47d487ae6758",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "^2.1.0",
                     "tm/seo-core": "^1.0.0",
@@ -41009,6 +41193,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.7.1",
                 "version_normalized": "0.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "83a88c0b47ad1df114d7cd2ce4706b72342b7817"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/83a88c0b47ad1df114d7cd2ce4706b72342b7817",
+                    "reference": "83a88c0b47ad1df114d7cd2ce4706b72342b7817",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "^2.1.0",
                     "tm/seo-core": "^1.0.0",
@@ -41031,6 +41226,17 @@
                 "name": "tm/seo-suite",
                 "version": "0.7.2",
                 "version_normalized": "0.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "ca614b9a01d5874cd436f92a92f26fbd9cc9828d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/ca614b9a01d5874cd436f92a92f26fbd9cc9828d",
+                    "reference": "ca614b9a01d5874cd436f92a92f26fbd9cc9828d",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "^2.1.0",
                     "tm/seo-core": "^1.0.0",
@@ -41052,7 +41258,18 @@
             "dev-master": {
                 "name": "tm/seo-suite",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-suite.git",
+                    "reference": "ca614b9a01d5874cd436f92a92f26fbd9cc9828d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-suite/zipball/ca614b9a01d5874cd436f92a92f26fbd9cc9828d",
+                    "reference": "ca614b9a01d5874cd436f92a92f26fbd9cc9828d",
+                    "shasum": ""
+                },
                 "require": {
                     "tm/richsnippets": "^2.1.0",
                     "tm/seo-core": "^1.0.0",
@@ -41061,6 +41278,7 @@
                     "tm/seo-xml-sitemap": "^1.0.4"
                 },
                 "time": "2019-05-22T11:20:47+00:00",
+                "default-branch": true,
                 "type": "metapackage",
                 "license": [
                     "OSL-3.0"
@@ -41256,7 +41474,7 @@
             "dev-master": {
                 "name": "tm/seo-templates",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-templates.git",
@@ -41272,6 +41490,7 @@
                     "tm/seo-core": "*"
                 },
                 "time": "2021-08-04T07:45:46+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -41590,7 +41809,7 @@
             "dev-master": {
                 "name": "tm/seo-xml-sitemap",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/seo-xml-sitemap.git",
@@ -41607,6 +41826,7 @@
                     "tm/seo-html-sitemap": "*"
                 },
                 "time": "2020-12-18T09:19:11+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -41665,7 +41885,7 @@
             "dev-master": {
                 "name": "tm/slick-carousel",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/slick-carousel.git",
@@ -41681,6 +41901,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-10-12T12:27:55+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -41888,7 +42109,7 @@
             "dev-master": {
                 "name": "tm/smartsuggest",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/smartsuggest.git",
@@ -41905,6 +42126,7 @@
                     "tm/suggestpage": "*"
                 },
                 "time": "2016-12-20T13:20:48+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -42252,7 +42474,7 @@
             "dev-master": {
                 "name": "tm/socialsuite",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/socialsuite.git",
@@ -42268,6 +42490,7 @@
                     "tm/core": "*"
                 },
                 "time": "2019-09-12T11:05:02+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -43045,43 +43268,6 @@
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             },
-            "dev-master": {
-                "name": "tm/sold-together",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/soldtogether.git",
-                    "reference": "a874618eea20f7f466836ed1435e49e500a54054"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/a874618eea20f7f466836ed1435e49e500a54054",
-                    "reference": "a874618eea20f7f466836ed1435e49e500a54054",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*",
-                    "tm/suggestpage": "*"
-                },
-                "time": "2020-12-18T09:19:15+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Frequently bought together and Customer who bought this also bought blocks",
-                "homepage": "https://github.com/tmhub/soldtogether",
-                "support": {
-                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.3",
-                    "issues": "https://github.com/tmhub/soldtogether/issues"
-                }
-            },
             "dev-feature-configurable-addtocart": {
                 "name": "tm/sold-together",
                 "version": "dev-feature-configurable-addtocart",
@@ -43181,6 +43367,44 @@
                 "homepage": "https://github.com/tmhub/soldtogether",
                 "support": {
                     "source": "https://github.com/tmhub/soldtogether/tree/feature-configurable-addtocart",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            "dev-master": {
+                "name": "tm/sold-together",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "a874618eea20f7f466836ed1435e49e500a54054"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/a874618eea20f7f466836ed1435e49e500a54054",
+                    "reference": "a874618eea20f7f466836ed1435e49e500a54054",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2020-12-18T09:19:15+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.3",
                     "issues": "https://github.com/tmhub/soldtogether/issues"
                 }
             }
@@ -43294,7 +43518,7 @@
             "dev-master": {
                 "name": "tm/storepickup",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/storepickup.git",
@@ -43307,6 +43531,7 @@
                     "shasum": ""
                 },
                 "time": "2019-03-06T12:22:03+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -43324,44 +43549,6 @@
                 "support": {
                     "source": "https://github.com/tmhub/storepickup/tree/1.1.1",
                     "issues": "https://github.com/tmhub/storepickup/issues"
-                }
-            }
-        },
-        "tm/subscription": {
-            "dev-master": {
-                "name": "tm/subscription",
-                "version": "dev-master",
-                "version_normalized": "9999999-dev",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:tmhub/subscription.git",
-                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/subscription/zipball/f59d772c4e77b109413d085cf3bcb4543fdf2224",
-                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224",
-                    "shasum": ""
-                },
-                "require": {
-                    "tm/core": "*"
-                },
-                "time": "2019-10-04T13:12:09+00:00",
-                "type": "magento-module",
-                "license": [
-                    "OSL-3.0"
-                ],
-                "authors": [
-                    {
-                        "name": "Templates-Master Team",
-                        "email": "support@templates-master.com"
-                    }
-                ],
-                "description": "Module for Swissuplabs.com that allows to link downloadable products to the virtual subscription",
-                "homepage": "https://github.com/tmhub/subscription",
-                "support": {
-                    "source": "https://github.com/tmhub/subscription/tree/master",
-                    "issues": "https://github.com/tmhub/subscription/issues"
                 }
             }
         },
@@ -43405,7 +43592,7 @@
             "dev-master": {
                 "name": "tm/subscription-checker",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/subscription-checker.git",
@@ -43421,6 +43608,7 @@
                     "tm/core": "*"
                 },
                 "time": "2016-06-30T13:38:06+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -43436,6 +43624,45 @@
                 "support": {
                     "source": "https://github.com/tmhub/subscription-checker/tree/1.0.0",
                     "issues": "https://github.com/tmhub/subscription-checker/issues"
+                }
+            }
+        },
+        "tm/subscription": {
+            "dev-master": {
+                "name": "tm/subscription",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/subscription.git",
+                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/subscription/zipball/f59d772c4e77b109413d085cf3bcb4543fdf2224",
+                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-10-04T13:12:09+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module for Swissuplabs.com that allows to link downloadable products to the virtual subscription",
+                "homepage": "https://github.com/tmhub/subscription",
+                "support": {
+                    "source": "https://github.com/tmhub/subscription/tree/master",
+                    "issues": "https://github.com/tmhub/subscription/issues"
                 }
             }
         },
@@ -43623,7 +43850,7 @@
             "dev-master": {
                 "name": "tm/suggestpage",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/suggestpage.git",
@@ -43639,6 +43866,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-25T12:01:23+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -44062,7 +44290,7 @@
             "dev-master": {
                 "name": "tm/templatef001",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/templatef001.git",
@@ -44079,6 +44307,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-25T13:53:16+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -44361,7 +44590,7 @@
             "dev-master": {
                 "name": "tm/templatef002",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/templatef002.git",
@@ -44378,6 +44607,7 @@
                     "tm/core": "*"
                 },
                 "time": "2017-08-25T13:53:54+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -44808,7 +45038,7 @@
             "dev-master": {
                 "name": "tm/templatem001",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/templatem001.git",
@@ -44828,6 +45058,7 @@
                     "tm/mobileswitcher": "*"
                 },
                 "time": "2018-08-31T08:52:18+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -45660,7 +45891,7 @@
             "dev-master": {
                 "name": "tm/testimonials",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/testimonials.git",
@@ -45676,6 +45907,7 @@
                     "tm/core": "*"
                 },
                 "time": "2020-07-01T11:31:57+00:00",
+                "default-branch": true,
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"

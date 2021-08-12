@@ -1,0 +1,1059 @@
+{
+    "packages": {
+        "tm/ajax-layered-navigation": [
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "06a6616f3e6e57841d5409b03335495cc5eb525b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/06a6616f3e6e57841d5409b03335495cc5eb525b",
+                    "reference": "06a6616f3e6e57841d5409b03335495cc5eb525b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-09-29T08:19:01+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.3.0",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "39cf871adffd5c8db789897a5d3537c2d380e50b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/39cf871adffd5c8db789897a5d3537c2d380e50b",
+                    "reference": "39cf871adffd5c8db789897a5d3537c2d380e50b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-10-03T08:05:40+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.3.1",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "7218b0e4a8af40e6908aed94b64c905da2b3c484"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/7218b0e4a8af40e6908aed94b64c905da2b3c484",
+                    "reference": "7218b0e4a8af40e6908aed94b64c905da2b3c484",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-10-14T09:29:03+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.4.0",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "85cf0df1f417d6e0993aa64346ce350cfe7fdf28"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/85cf0df1f417d6e0993aa64346ce350cfe7fdf28",
+                    "reference": "85cf0df1f417d6e0993aa64346ce350cfe7fdf28",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-01T10:04:06+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.4.1",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "d0095a27fa863e8517b778ec0e6c8d2824a3b43a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/d0095a27fa863e8517b778ec0e6c8d2824a3b43a",
+                    "reference": "d0095a27fa863e8517b778ec0e6c8d2824a3b43a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-04T10:06:42+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.4.2",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "fbd9bc7424fb038edb5500370f5c3fe9f4d05683"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/fbd9bc7424fb038edb5500370f5c3fe9f4d05683",
+                    "reference": "fbd9bc7424fb038edb5500370f5c3fe9f4d05683",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-10-15T13:06:03+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.0",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "30f26cf7253dad84dc853152c89e95d636461cdf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/30f26cf7253dad84dc853152c89e95d636461cdf",
+                    "reference": "30f26cf7253dad84dc853152c89e95d636461cdf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-10-28T14:21:48+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.1",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "dbc0d1e87fb60aa85ab01bd42a9cf267ed8870d1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/dbc0d1e87fb60aa85ab01bd42a9cf267ed8870d1",
+                    "reference": "dbc0d1e87fb60aa85ab01bd42a9cf267ed8870d1",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-11-02T08:47:07+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.2",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "7460a083ca43e18dc9193884b9907abb5df7af19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/7460a083ca43e18dc9193884b9907abb5df7af19",
+                    "reference": "7460a083ca43e18dc9193884b9907abb5df7af19",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-11-09T14:56:40+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/AjaxLayeredNavigation",
+                            "app/code/local/TM/AjaxLayeredNavigation"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml",
+                            "app/design/frontend/base/default/layout/tm/ajaxlayerednavigation.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation",
+                            "app/design/frontend/base/default/template/tm/ajaxlayerednavigation"
+                        ],
+                        [
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml",
+                            "app/etc/modules/TM_AjaxLayeredNavigation.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv",
+                            "app/locale/en_US/TM_AjaxLayeredNavigation.csv"
+                        ],
+                        [
+                            "media/ajaxlayerednavigation",
+                            "media/ajaxlayerednavigation"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/aln",
+                            "skin/frontend/base/default/css/tm/aln"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/aln",
+                            "skin/frontend/base/default/js/tm/aln"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.3",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "20188d596cb7e1d7e9e81523d9fb5c89a28dd2d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/20188d596cb7e1d7e9e81523d9fb5c89a28dd2d4",
+                    "reference": "20188d596cb7e1d7e9e81523d9fb5c89a28dd2d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-03-08T19:33:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.5",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.6",
+                "version_normalized": "2.5.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "14aee8ff5d2c89e97256ca94abdff8dcdc7f10b4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/14aee8ff5d2c89e97256ca94abdff8dcdc7f10b4",
+                    "reference": "14aee8ff5d2c89e97256ca94abdff8dcdc7f10b4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-21T07:02:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.6",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.5.7",
+                "version_normalized": "2.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "e317939f7569f657900ce3eac014360977b2ed6b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/e317939f7569f657900ce3eac014360977b2ed6b",
+                    "reference": "e317939f7569f657900ce3eac014360977b2ed6b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-12T08:53:47+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.5.7",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/286abda236b6099150e2ae3ad47da43a9a6a69f5",
+                    "reference": "286abda236b6099150e2ae3ad47da43a9a6a69f5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-12-30T14:21:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.0",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
+                    "reference": "4feaa5ab2c9460b34e407719ae67dc71cbc457ac",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-08T13:20:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.1",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.2",
+                "version_normalized": "2.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "976bb8023bb593a767332c174f39f37e568d704b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/976bb8023bb593a767332c174f39f37e568d704b",
+                    "reference": "976bb8023bb593a767332c174f39f37e568d704b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-28T10:33:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.2",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.3",
+                "version_normalized": "2.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "853a54d65e69fa19ee850dd2ed3eb1252f2924cb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/853a54d65e69fa19ee850dd2ed3eb1252f2924cb",
+                    "reference": "853a54d65e69fa19ee850dd2ed3eb1252f2924cb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-04T11:37:27+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.3",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.4",
+                "version_normalized": "2.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "377fa8b4b3e752541d172ff90d9f938ce4c3c2e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/377fa8b4b3e752541d172ff90d9f938ce4c3c2e8",
+                    "reference": "377fa8b4b3e752541d172ff90d9f938ce4c3c2e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-09T07:38:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.4",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.5",
+                "version_normalized": "2.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "5f00be50f9abda0beeb4c652f75e0a74c3182df0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/5f00be50f9abda0beeb4c652f75e0a74c3182df0",
+                    "reference": "5f00be50f9abda0beeb4c652f75e0a74c3182df0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-05-24T13:49:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.5",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.6",
+                "version_normalized": "2.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
+                    "reference": "2d1536c22a29c910f19e1f01580d53c4dd2b7a36",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-06-24T11:28:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.6",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-layered-navigation",
+                "version": "2.6.7",
+                "version_normalized": "2.6.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxlayerednavigation.git",
+                    "reference": "588d7f0fb76c15500a94718a6b3346e8d633b7b8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxlayerednavigation/zipball/588d7f0fb76c15500a94718a6b3346e8d633b7b8",
+                    "reference": "588d7f0fb76c15500a94718a6b3346e8d633b7b8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-09-25T14:46:46+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced catalog filters with ajax and seo support",
+                "homepage": "https://github.com/tmhub/ajaxlayerednavigation",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxlayerednavigation/tree/2.6.7",
+                    "issues": "https://github.com/tmhub/ajaxlayerednavigation/issues"
+                }
+            }
+        ]
+    }
+}

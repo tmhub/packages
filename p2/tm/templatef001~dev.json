@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "tm/templatef001": [
+            {
+                "name": "tm/templatef001",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "3708f3d0c3138b99a9e9c80ccc568854e6b6113e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/3708f3d0c3138b99a9e9c80ccc568854e6b6113e",
+                    "reference": "3708f3d0c3138b99a9e9c80ccc568854e6b6113e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T13:53:16+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/2.0.1",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            }
+        ]
+    }
+}

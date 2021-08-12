@@ -1,0 +1,56 @@
+{
+    "packages": {
+        "tm/pagespeed": [
+            {
+                "name": "tm/pagespeed",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/pagespeed.git",
+                    "reference": "0ac235cf2e475c18ffeb5f63af72992e874cd4d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/pagespeed/zipball/0ac235cf2e475c18ffeb5f63af72992e874cd4d0",
+                    "reference": "0ac235cf2e475c18ffeb5f63af72992e874cd4d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/defer-css": "*",
+                    "tm/defer-js": "*",
+                    "tm/imagemin": "*",
+                    "tm/lazyload": "*"
+                },
+                "time": "2020-07-10T07:35:05+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/page-speed.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/pagespeed/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/pagespeed/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Pagespeed module",
+                "homepage": "https://github.com/tmhub/pagespeed",
+                "support": {
+                    "source": "https://github.com/tmhub/pagespeed/tree/1.3.9",
+                    "issues": "https://github.com/tmhub/pagespeed/issues"
+                }
+            }
+        ]
+    }
+}

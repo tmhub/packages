@@ -1,0 +1,905 @@
+{
+    "packages": {
+        "tm/core": [
+            {
+                "name": "tm/core",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "91d0656b2b5c11114c1ceccaa9831cb634916bab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/91d0656b2b5c11114c1ceccaa9831cb634916bab",
+                    "reference": "91d0656b2b5c11114c1ceccaa9831cb634916bab",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/composer-command-integrator": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-15T07:19:00+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.0",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "2fd546711ef9c686f339d2c5650f3a0f671ffdaf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/2fd546711ef9c686f339d2c5650f3a0f671ffdaf",
+                    "reference": "2fd546711ef9c686f339d2c5650f3a0f671ffdaf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/composer-command-integrator": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-07-10T07:11:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.1",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "79437b388b6b8e95c502bf535a9cf35efc4a2129"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/79437b388b6b8e95c502bf535a9cf35efc4a2129",
+                    "reference": "79437b388b6b8e95c502bf535a9cf35efc4a2129",
+                    "shasum": ""
+                },
+                "time": "2016-01-04T13:39:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.2",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/019e9bc7274a243afbc63faf75dfcf985311b2a4",
+                    "reference": "019e9bc7274a243afbc63faf75dfcf985311b2a4",
+                    "shasum": ""
+                },
+                "time": "2016-03-24T08:56:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "d938a55adea4092c01ce3b1cefb091ef15796fe9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/d938a55adea4092c01ce3b1cefb091ef15796fe9",
+                    "reference": "d938a55adea4092c01ce3b1cefb091ef15796fe9",
+                    "shasum": ""
+                },
+                "time": "2016-08-03T17:19:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.5",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "b1c85ba6fbcbe9d8e70908067d8a286e11e1ef8a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/b1c85ba6fbcbe9d8e70908067d8a286e11e1ef8a",
+                    "reference": "b1c85ba6fbcbe9d8e70908067d8a286e11e1ef8a",
+                    "shasum": ""
+                },
+                "time": "2016-09-30T14:25:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.6",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.7",
+                "version_normalized": "1.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "39abf04d24a13f49a652c98b18bf2838b75f3ca7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/39abf04d24a13f49a652c98b18bf2838b75f3ca7",
+                    "reference": "39abf04d24a13f49a652c98b18bf2838b75f3ca7",
+                    "shasum": ""
+                },
+                "time": "2016-11-01T14:20:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.7",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.8",
+                "version_normalized": "1.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "8370fc03de6ba9c81af6023ab874cf19f560dc07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/8370fc03de6ba9c81af6023ab874cf19f560dc07",
+                    "reference": "8370fc03de6ba9c81af6023ab874cf19f560dc07",
+                    "shasum": ""
+                },
+                "time": "2016-11-16T15:02:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.8",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.3.9",
+                "version_normalized": "1.3.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "ba6187907b472ada923399b6e886e24cf4c8dc6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/ba6187907b472ada923399b6e886e24cf4c8dc6a",
+                    "reference": "ba6187907b472ada923399b6e886e24cf4c8dc6a",
+                    "shasum": ""
+                },
+                "time": "2016-11-18T10:16:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.3.9",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "a6f2d5fe7777161e67ab0a28ac438e7907cd0b1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/a6f2d5fe7777161e67ab0a28ac438e7907cd0b1e",
+                    "reference": "a6f2d5fe7777161e67ab0a28ac438e7907cd0b1e",
+                    "shasum": ""
+                },
+                "time": "2016-12-29T13:21:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.4.0",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "f2bcebf2710742702cae7cc0a70fc36f781362a4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/f2bcebf2710742702cae7cc0a70fc36f781362a4",
+                    "reference": "f2bcebf2710742702cae7cc0a70fc36f781362a4",
+                    "shasum": ""
+                },
+                "time": "2017-01-20T13:34:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.4.1",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "52c0a474aa5dd98f95579b487ae98017374800ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/52c0a474aa5dd98f95579b487ae98017374800ab",
+                    "reference": "52c0a474aa5dd98f95579b487ae98017374800ab",
+                    "shasum": ""
+                },
+                "time": "2017-01-29T20:18:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.0",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "0d0c2562fe92f2b6a41b2b5f30bbe223cb5c9215"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/0d0c2562fe92f2b6a41b2b5f30bbe223cb5c9215",
+                    "reference": "0d0c2562fe92f2b6a41b2b5f30bbe223cb5c9215",
+                    "shasum": ""
+                },
+                "time": "2017-02-08T12:28:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.1",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "386185375f21b9dd19e02c3f24f8904ce165f819"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/386185375f21b9dd19e02c3f24f8904ce165f819",
+                    "reference": "386185375f21b9dd19e02c3f24f8904ce165f819",
+                    "shasum": ""
+                },
+                "time": "2017-02-20T07:27:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.2",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "b4d3a1e2c8f689227fec4b111401ac43b1a73fe2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/b4d3a1e2c8f689227fec4b111401ac43b1a73fe2",
+                    "reference": "b4d3a1e2c8f689227fec4b111401ac43b1a73fe2",
+                    "shasum": ""
+                },
+                "time": "2017-03-14T08:37:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.3",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.4",
+                "version_normalized": "1.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "bc89c141b84d5ec3f470e202f801858fc7c94e5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/bc89c141b84d5ec3f470e202f801858fc7c94e5c",
+                    "reference": "bc89c141b84d5ec3f470e202f801858fc7c94e5c",
+                    "shasum": ""
+                },
+                "time": "2017-03-29T11:42:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.4",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "07376a726afd93700b30dc2b20fc1b37ed140b39"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/07376a726afd93700b30dc2b20fc1b37ed140b39",
+                    "reference": "07376a726afd93700b30dc2b20fc1b37ed140b39",
+                    "shasum": ""
+                },
+                "time": "2017-04-21T12:00:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.5",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.6",
+                "version_normalized": "1.5.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "4521a352a55c0a407e1c5c463eaa7226e5312a11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/4521a352a55c0a407e1c5c463eaa7226e5312a11",
+                    "reference": "4521a352a55c0a407e1c5c463eaa7226e5312a11",
+                    "shasum": ""
+                },
+                "time": "2017-05-24T13:57:53+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.6",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.7",
+                "version_normalized": "1.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "1d3a752e88105be3d1e006b615953451f765659a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/1d3a752e88105be3d1e006b615953451f765659a",
+                    "reference": "1d3a752e88105be3d1e006b615953451f765659a",
+                    "shasum": ""
+                },
+                "time": "2017-06-08T12:06:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.7",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.5.8",
+                "version_normalized": "1.5.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "61861f722110815dd28666f74516ffe4666b0e6d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/61861f722110815dd28666f74516ffe4666b0e6d",
+                    "reference": "61861f722110815dd28666f74516ffe4666b0e6d",
+                    "shasum": ""
+                },
+                "time": "2017-08-03T11:15:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.5.8",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "8d40baaf1de617f5b623801319a74f4ab72d1afb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/8d40baaf1de617f5b623801319a74f4ab72d1afb",
+                    "reference": "8d40baaf1de617f5b623801319a74f4ab72d1afb",
+                    "shasum": ""
+                },
+                "time": "2017-10-10T09:15:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/master",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "reference": "d05cc339b4454a594a581a2396af5112fa8f8ed0",
+                    "shasum": ""
+                },
+                "time": "2017-10-19T11:37:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.1",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "a6c4039aef917d7efbedd51e6c6d40c36466790d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/a6c4039aef917d7efbedd51e6c6d40c36466790d",
+                    "reference": "a6c4039aef917d7efbedd51e6c6d40c36466790d",
+                    "shasum": ""
+                },
+                "time": "2017-10-23T11:32:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.2",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.3",
+                "version_normalized": "1.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "0596f6c8a97b823f9f40e7cb27fde63643f8500d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/0596f6c8a97b823f9f40e7cb27fde63643f8500d",
+                    "reference": "0596f6c8a97b823f9f40e7cb27fde63643f8500d",
+                    "shasum": ""
+                },
+                "time": "2017-10-27T09:14:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.3",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.4",
+                "version_normalized": "1.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "6b54232558a2cf7510706c9115fdfdce01762617"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/6b54232558a2cf7510706c9115fdfdce01762617",
+                    "reference": "6b54232558a2cf7510706c9115fdfdce01762617",
+                    "shasum": ""
+                },
+                "time": "2018-05-10T14:46:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.4",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.5",
+                "version_normalized": "1.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "3bdd7106f2d9c7241c3af59c474ab9d167f69066"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/3bdd7106f2d9c7241c3af59c474ab9d167f69066",
+                    "reference": "3bdd7106f2d9c7241c3af59c474ab9d167f69066",
+                    "shasum": ""
+                },
+                "time": "2018-06-13T13:11:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.5",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            },
+            {
+                "name": "tm/core",
+                "version": "1.6.6",
+                "version_normalized": "1.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/core.git",
+                    "reference": "2e0fbf8745bf14bc4e232339c1b8d5b69576a2f2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/core/zipball/2e0fbf8745bf14bc4e232339c1b8d5b69576a2f2",
+                    "reference": "2e0fbf8745bf14bc4e232339c1b8d5b69576a2f2",
+                    "shasum": ""
+                },
+                "time": "2019-02-26T09:14:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master core functionality module",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/core/tree/1.6.6",
+                    "issues": "https://github.com/tmhub/core/issues"
+                }
+            }
+        ]
+    }
+}

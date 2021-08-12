@@ -1,0 +1,114 @@
+{
+    "packages": {
+        "tm/imagemin": [
+            {
+                "name": "tm/imagemin",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/imagemin.git",
+                    "reference": "d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c",
+                    "reference": "d2aad4328529f71a60bf0c36ceb2201b4b9d3e5c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-04-04T15:09:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Image compressing",
+                "homepage": "https://github.com/tmhub/imagemin",
+                "support": {
+                    "source": "https://github.com/tmhub/imagemin/tree/master",
+                    "issues": "https://github.com/tmhub/imagemin/issues"
+                }
+            },
+            {
+                "name": "tm/imagemin",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/imagemin.git",
+                    "reference": "e12168b5a514c33e06b741aa3e6425c82df92ea2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/e12168b5a514c33e06b741aa3e6425c82df92ea2",
+                    "reference": "e12168b5a514c33e06b741aa3e6425c82df92ea2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-05-22T08:57:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Image compressing",
+                "homepage": "https://github.com/tmhub/imagemin",
+                "support": {
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.1",
+                    "issues": "https://github.com/tmhub/imagemin/issues"
+                }
+            },
+            {
+                "name": "tm/imagemin",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/imagemin.git",
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/imagemin/zipball/20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
+                    "reference": "20407f91457a90a7f4e2fdd3a4f6c66fa9fb8ede",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-04-11T16:50:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Image compressing",
+                "homepage": "https://github.com/tmhub/imagemin",
+                "support": {
+                    "source": "https://github.com/tmhub/imagemin/tree/0.1.2",
+                    "issues": "https://github.com/tmhub/imagemin/issues"
+                }
+            }
+        ]
+    }
+}

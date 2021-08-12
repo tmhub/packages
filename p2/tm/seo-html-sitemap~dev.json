@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/seo-html-sitemap": [
+            {
+                "name": "tm/seo-html-sitemap",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/seo-html-sitemap.git",
+                    "reference": "7c8d51a93fccaba8a1656944a90d45c18dfcb147"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/seo-html-sitemap/zipball/7c8d51a93fccaba8a1656944a90d45c18dfcb147",
+                    "reference": "7c8d51a93fccaba8a1656944a90d45c18dfcb147",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/seo-core": "*"
+                },
+                "time": "2019-02-26T08:26:51+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Advanced HTML Sitemap for Magento 1.x e-commerce",
+                "homepage": "https://github.com/tmhub/seo-html-sitemap",
+                "support": {
+                    "source": "https://github.com/tmhub/seo-html-sitemap/tree/1.0.2",
+                    "issues": "https://github.com/tmhub/seo-html-sitemap/issues"
+                }
+            }
+        ]
+    }
+}

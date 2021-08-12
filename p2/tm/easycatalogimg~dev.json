@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/easycatalogimg": [
+            {
+                "name": "tm/easycatalogimg",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easycatalogimg.git",
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycatalogimg/zipball/99d634206a4c687a832e8c3e48e976c049c323c6",
+                    "reference": "99d634206a4c687a832e8c3e48e976c049c323c6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-01T09:52:45+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Subcategories listing with images",
+                "homepage": "https://github.com/tmhub/easycatalogimg",
+                "support": {
+                    "source": "https://github.com/tmhub/easycatalogimg/tree/2.5.1",
+                    "issues": "https://github.com/tmhub/easycatalogimg/issues"
+                }
+            }
+        ]
+    }
+}

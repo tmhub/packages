@@ -1,0 +1,80 @@
+{
+    "packages": {
+        "tm/ajax-search": [
+            {
+                "name": "tm/ajax-search",
+                "version": "dev-js-improvments",
+                "version_normalized": "dev-js-improvments",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "8c3ebfd1c4ecc12e9c2f3e3d68f5a39c16f0d62c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/8c3ebfd1c4ecc12e9c2f3e3d68f5a39c16f0d62c",
+                    "reference": "8c3ebfd1c4ecc12e9c2f3e3d68f5a39c16f0d62c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2016-08-26T11:03:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/js-improvments",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            },
+            {
+                "name": "tm/ajax-search",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/ajaxsearch.git",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/ajaxsearch/zipball/1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "reference": "1f52865eb7fdae2118ea3f2b7420408f54fd338d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-20T14:56:19+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master AjaxSearch module",
+                "homepage": "https://github.com/tmhub/ajaxsearch",
+                "support": {
+                    "source": "https://github.com/tmhub/ajaxsearch/tree/1.6.7",
+                    "issues": "https://github.com/tmhub/ajaxsearch/issues"
+                }
+            }
+        ]
+    }
+}

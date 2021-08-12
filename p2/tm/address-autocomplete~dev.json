@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "tm/address-autocomplete": [
+            {
+                "name": "tm/address-autocomplete",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/address-autocomplete.git",
+                    "reference": "df21657ac0f3b1db167a6e25de4dd052c5b95198"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/address-autocomplete/zipball/df21657ac0f3b1db167a6e25de4dd052c5b95198",
+                    "reference": "df21657ac0f3b1db167a6e25de4dd052c5b95198",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-03-06T12:21:58+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Address autocompletion",
+                "homepage": "https://github.com/tmhub/address-autocomplete",
+                "support": {
+                    "source": "https://github.com/tmhub/address-autocomplete/tree/1.1.5",
+                    "issues": "https://github.com/tmhub/address-autocomplete/issues"
+                }
+            }
+        ]
+    }
+}

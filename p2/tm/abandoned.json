@@ -1,0 +1,450 @@
+{
+    "packages": {
+        "tm/abandoned": [
+            {
+                "name": "tm/abandoned",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "cb37e5225706512abc3a17d81fd8a7b2520e2abc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/cb37e5225706512abc3a17d81fd8a7b2520e2abc",
+                    "reference": "cb37e5225706512abc3a17d81fd8a7b2520e2abc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-05-20T07:06:57+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "20edfd4d321ee93e710f0a3b6cfa4960ffcac233"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/20edfd4d321ee93e710f0a3b6cfa4960ffcac233",
+                    "reference": "20edfd4d321ee93e710f0a3b6cfa4960ffcac233",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-05-23T07:38:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "65721cea1ae1a2b810af247c2ae2a136a0718f57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/65721cea1ae1a2b810af247c2ae2a136a0718f57",
+                    "reference": "65721cea1ae1a2b810af247c2ae2a136a0718f57",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-07-18T07:47:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.0",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "f28e283cf25fbe6df13f190b09442a4081a578bc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/f28e283cf25fbe6df13f190b09442a4081a578bc",
+                    "reference": "f28e283cf25fbe6df13f190b09442a4081a578bc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-11-02T12:23:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "880e8757302006aa1f1045947307ad0766280b9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/880e8757302006aa1f1045947307ad0766280b9a",
+                    "reference": "880e8757302006aa1f1045947307ad0766280b9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2016-12-20T12:54:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.2",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "0c9e206a0f8830c72a3409948704d68e607f0699"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/0c9e206a0f8830c72a3409948704d68e607f0699",
+                    "reference": "0c9e206a0f8830c72a3409948704d68e607f0699",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2017-04-05T14:15:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.3",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "8f76dd7f9ea233bcf06694e1d67fe15c73e2bf93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/8f76dd7f9ea233bcf06694e1d67fe15c73e2bf93",
+                    "reference": "8f76dd7f9ea233bcf06694e1d67fe15c73e2bf93",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2017-08-09T14:02:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.4",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/da40d62bb7090550647baa5828c48682e150ac93",
+                    "reference": "da40d62bb7090550647baa5828c48682e150ac93",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-02-22T08:59:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.5",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
+                    "reference": "c65b3ec17ed10f8eea2e9700df5bc8bc171ab3bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-04-17T08:26:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.6",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/6113c506406e38886604e6b31f40ae6b066532ce",
+                    "reference": "6113c506406e38886604e6b31f40ae6b066532ce",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2018-09-18T14:20:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.7",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "d2995cd1a883ecc7c197d37c97af31eeba24e392"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/d2995cd1a883ecc7c197d37c97af31eeba24e392",
+                    "reference": "d2995cd1a883ecc7c197d37c97af31eeba24e392",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2019-05-24T13:49:05+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.8",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            },
+            {
+                "name": "tm/abandoned",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/abandoned.git",
+                    "reference": "42b0b033c7d0b033a16e20eea63f753a86d32997"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/abandoned/zipball/42b0b033c7d0b033a16e20eea63f753a86d32997",
+                    "reference": "42b0b033c7d0b033a16e20eea63f753a86d32997",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2021-08-04T12:15:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Abandoned Cart module",
+                "homepage": "https://github.com/tmhub/abandoned",
+                "support": {
+                    "source": "https://github.com/tmhub/abandoned/tree/1.2.9",
+                    "issues": "https://github.com/tmhub/abandoned/issues"
+                }
+            }
+        ]
+    }
+}

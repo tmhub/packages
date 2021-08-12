@@ -1,0 +1,71 @@
+{
+    "packages": {
+        "tm/downloadable": [
+            {
+                "name": "tm/downloadable",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/downloadable.git",
+                    "reference": "77629ac69b0ba6102d515a3882f12e0d3726e0d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/downloadable/zipball/77629ac69b0ba6102d515a3882f12e0d3726e0d4",
+                    "reference": "77629ac69b0ba6102d515a3882f12e0d3726e0d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-02-11T09:28:18+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Downloadable",
+                            "app/code/local/TM/Downloadable"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tmdownloadable.xml",
+                            "app/design/frontend/base/default/layout/tmdownloadable.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tmdownloadable",
+                            "app/design/frontend/base/default/template/tmdownloadable"
+                        ],
+                        [
+                            "app/etc/modules/TM_Downloadable.xml",
+                            "app/etc/modules/TM_Downloadable.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Downloadable.csv",
+                            "app/locale/en_US/TM_Downloadable.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/tm/downloadable",
+                            "skin/frontend/base/default/tm/downloadable"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Downloadable products for templates-master.com and argentotheme.com",
+                "homepage": "https://github.com/tmhub/downloadable",
+                "support": {
+                    "source": "https://github.com/tmhub/downloadable/tree/master",
+                    "issues": "https://github.com/tmhub/downloadable/issues"
+                }
+            }
+        ]
+    }
+}

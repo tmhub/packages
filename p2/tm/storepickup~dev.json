@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "tm/storepickup": [
+            {
+                "name": "tm/storepickup",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/storepickup.git",
+                    "reference": "1f5cb3aa3bb5f5626b401fd4d72f629137f2c7eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/storepickup/zipball/1f5cb3aa3bb5f5626b401fd4d72f629137f2c7eb",
+                    "reference": "1f5cb3aa3bb5f5626b401fd4d72f629137f2c7eb",
+                    "shasum": ""
+                },
+                "time": "2019-03-06T12:22:03+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Simplest Store Pickup for Magento1",
+                "keywords": [
+                    "store pickup"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/storepickup/tree/1.1.1",
+                    "issues": "https://github.com/tmhub/storepickup/issues"
+                }
+            }
+        ]
+    }
+}

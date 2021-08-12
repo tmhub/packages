@@ -1,0 +1,52 @@
+{
+    "packages": {
+        "tm/easytabs": [
+            {
+                "name": "tm/easytabs",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "8e9aa332e7efa53e297f6e9de266ce32005bc126"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8e9aa332e7efa53e297f6e9de266ce32005bc126",
+                    "reference": "8e9aa332e7efa53e297f6e9de266ce32005bc126",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-07-01T11:54:00+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.4",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            }
+        ]
+    }
+}

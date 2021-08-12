@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/pro-labels": [
+            {
+                "name": "tm/pro-labels",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "df0fddf29f2cc33e721554349351bd47566972d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/df0fddf29f2cc33e721554349351bd47566972d0",
+                    "reference": "df0fddf29f2cc33e721554349351bd47566972d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-07-08T12:43:42+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            }
+        ]
+    }
+}

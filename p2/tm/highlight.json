@@ -1,0 +1,898 @@
+{
+    "packages": {
+        "tm/highlight": [
+            {
+                "name": "tm/highlight",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "e92554dc8f645e1bf07d65a195fa89a676f0e8bf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/e92554dc8f645e1bf07d65a195fa89a676f0e8bf",
+                    "reference": "e92554dc8f645e1bf07d65a195fa89a676f0e8bf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-04-02T09:40:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "f343472a386c2fda38d94ac9a7aa67ec617969f4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/f343472a386c2fda38d94ac9a7aa67ec617969f4",
+                    "reference": "f343472a386c2fda38d94ac9a7aa67ec617969f4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-16T12:57:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.2",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.4.2.1",
+                "version_normalized": "2.4.2.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "c3dcda0be7284b3e8bd5720d2f6da206689594c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/c3dcda0be7284b3e8bd5720d2f6da206689594c4",
+                    "reference": "c3dcda0be7284b3e8bd5720d2f6da206689594c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-22T09:01:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.2.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "7b1601bb9c57d0353b9faaa5925c7651605a9940"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/7b1601bb9c57d0353b9faaa5925c7651605a9940",
+                    "reference": "7b1601bb9c57d0353b9faaa5925c7651605a9940",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-09-02T12:10:15+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Highlight",
+                            "app/code/local/TM/Highlight"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/highlight.xml",
+                            "app/design/frontend/base/default/layout/tm/highlight.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/highlight",
+                            "app/design/frontend/base/default/template/tm/highlight"
+                        ],
+                        [
+                            "app/etc/modules/TM_Highlight.xml",
+                            "app/etc/modules/TM_Highlight.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Highlight.csv",
+                            "app/locale/en_US/TM_Highlight.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_Highlight.csv",
+                            "app/locale/es_ES/TM_Highlight.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_Highlight.csv",
+                            "app/locale/fr_FR/TM_Highlight.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_Highlight.csv",
+                            "app/locale/it_IT/TM_Highlight.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_Highlight.csv",
+                            "app/locale/nl_NL/TM_Highlight.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_Highlight.csv",
+                            "app/locale/pt_PT/TM_Highlight.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/highlight.css",
+                            "skin/frontend/base/default/css/tm/highlight.css"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.3",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "6002b4e12488b8723ea4bd17573b2bd79058ee29"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/6002b4e12488b8723ea4bd17573b2bd79058ee29",
+                    "reference": "6002b4e12488b8723ea4bd17573b2bd79058ee29",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-19T09:00:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.4",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.4.5",
+                "version_normalized": "2.4.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "3bb053f684c0250b7e791ae081bd6cd40d0df210"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/3bb053f684c0250b7e791ae081bd6cd40d0df210",
+                    "reference": "3bb053f684c0250b7e791ae081bd6cd40d0df210",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-26T09:55:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.4.5",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "fe7cc5a137bb8afbef833a0f95dd3a7ae17c35cd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/fe7cc5a137bb8afbef833a0f95dd3a7ae17c35cd",
+                    "reference": "fe7cc5a137bb8afbef833a0f95dd3a7ae17c35cd",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-04-06T08:18:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.5.0",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "80fcfad779efaf6154e15d7eb0e9e3666ae4dbdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/80fcfad779efaf6154e15d7eb0e9e3666ae4dbdb",
+                    "reference": "80fcfad779efaf6154e15d7eb0e9e3666ae4dbdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-10-09T09:45:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.5.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "b5fac30bee55e9b1b983384496c9e2a2b55cb57d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/b5fac30bee55e9b1b983384496c9e2a2b55cb57d",
+                    "reference": "b5fac30bee55e9b1b983384496c9e2a2b55cb57d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-10-29T14:29:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.5.2",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.5.3",
+                "version_normalized": "2.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "2b990520a3239fa9f306df5cf58b7fe0b8c5e464"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/2b990520a3239fa9f306df5cf58b7fe0b8c5e464",
+                    "reference": "2b990520a3239fa9f306df5cf58b7fe0b8c5e464",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-03T13:38:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.5.3",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.0",
+                "version_normalized": "2.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "9ee4c08eccce707675f50c13f27cf0c9bfffffcd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/9ee4c08eccce707675f50c13f27cf0c9bfffffcd",
+                    "reference": "9ee4c08eccce707675f50c13f27cf0c9bfffffcd",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-29T09:59:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.0",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.0.1",
+                "version_normalized": "2.6.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "146367cba85d0d9aa32b3d719553c5139eb4908c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/146367cba85d0d9aa32b3d719553c5139eb4908c",
+                    "reference": "146367cba85d0d9aa32b3d719553c5139eb4908c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-13T08:52:50+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.0.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "c287d10b56397e9e734a15e55fc1fa76a0f2fd6a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/c287d10b56397e9e734a15e55fc1fa76a0f2fd6a",
+                    "reference": "c287d10b56397e9e734a15e55fc1fa76a0f2fd6a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-04-28T12:55:22+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.2",
+                "version_normalized": "2.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "2fb01144272a89d237047c732301d2e874f7b1ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/2fb01144272a89d237047c732301d2e874f7b1ea",
+                    "reference": "2fb01144272a89d237047c732301d2e874f7b1ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-05-11T07:27:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.2",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.3",
+                "version_normalized": "2.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "a2316d03ef5e27015de99f13056ddd9108f58d50"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/a2316d03ef5e27015de99f13056ddd9108f58d50",
+                    "reference": "a2316d03ef5e27015de99f13056ddd9108f58d50",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T12:00:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.3",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.3.1",
+                "version_normalized": "2.6.3.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "c29916f8216da62a964e6ee55bdfc57b84c84865"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/c29916f8216da62a964e6ee55bdfc57b84c84865",
+                    "reference": "c29916f8216da62a964e6ee55bdfc57b84c84865",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-04T07:09:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.3.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.6.4",
+                "version_normalized": "2.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "621cbbb3142841217f38213af90f428cfb9dbb95"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/621cbbb3142841217f38213af90f428cfb9dbb95",
+                    "reference": "621cbbb3142841217f38213af90f428cfb9dbb95",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-12-15T09:57:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.6.4",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.7.0",
+                "version_normalized": "2.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "07cf54412fd0c5084f77ab7a147b2cc663b73f53"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/07cf54412fd0c5084f77ab7a147b2cc663b73f53",
+                    "reference": "07cf54412fd0c5084f77ab7a147b2cc663b73f53",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-02-15T20:51:30+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.0",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "e7417b14f011c87765489649c0cab295eba6cd2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/e7417b14f011c87765489649c0cab295eba6cd2e",
+                    "reference": "e7417b14f011c87765489649c0cab295eba6cd2e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-05-10T14:51:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.1",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "6715f330f2f6e2337203b2c07fbb20140c17281b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/6715f330f2f6e2337203b2c07fbb20140c17281b",
+                    "reference": "6715f330f2f6e2337203b2c07fbb20140c17281b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-10-31T12:32:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.2",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            },
+            {
+                "name": "tm/highlight",
+                "version": "2.7.3",
+                "version_normalized": "2.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/highlight.git",
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/highlight/zipball/9c9cd63ba2b5f369e95099548f473100f477fabb",
+                    "reference": "9c9cd63ba2b5f369e95099548f473100f477fabb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/slick-carousel": "*"
+                },
+                "time": "2019-09-30T08:24:19+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Custom product collections with flexible filters",
+                "homepage": "https://github.com/tmhub/highlight",
+                "support": {
+                    "source": "https://github.com/tmhub/highlight/tree/2.7.3",
+                    "issues": "https://github.com/tmhub/highlight/issues"
+                }
+            }
+        ]
+    }
+}

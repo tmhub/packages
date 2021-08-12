@@ -1,0 +1,407 @@
+{
+    "packages": {
+        "tm/templatef001": [
+            {
+                "name": "tm/templatef001",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "aa70c0015dbad042127425c6eb5e25afcf4708c3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/aa70c0015dbad042127425c6eb5e25afcf4708c3",
+                    "reference": "aa70c0015dbad042127425c6eb5e25afcf4708c3",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-20T13:22:49+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Ajax",
+                            "app/code/local/TM/Ajax"
+                        ],
+                        [
+                            "app/code/local/TM/Featured",
+                            "app/code/local/TM/Featured"
+                        ],
+                        [
+                            "app/code/local/TM/Templatef001",
+                            "app/code/local/TM/Templatef001"
+                        ],
+                        [
+                            "app/design/frontend/default/f001",
+                            "app/design/frontend/default/f001"
+                        ],
+                        [
+                            "app/etc/modules/TM_Ajax.xml",
+                            "app/etc/modules/TM_Ajax.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Featured.xml",
+                            "app/etc/modules/TM_Featured.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Templatef001.xml",
+                            "app/etc/modules/TM_Templatef001.xml"
+                        ],
+                        [
+                            "skin/frontend/default/f001",
+                            "skin/frontend/default/f001"
+                        ],
+                        [
+                            "skin/frontend/default/f001_green",
+                            "skin/frontend/default/f001_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_grey",
+                            "skin/frontend/default/f001_grey"
+                        ],
+                        [
+                            "skin/frontend/default/f001_orange",
+                            "skin/frontend/default/f001_orange"
+                        ],
+                        [
+                            "skin/frontend/default/f001_pink",
+                            "skin/frontend/default/f001_pink"
+                        ],
+                        [
+                            "skin/frontend/default/f001_red",
+                            "skin/frontend/default/f001_red"
+                        ],
+                        [
+                            "skin/frontend/default/f001_sea_green",
+                            "skin/frontend/default/f001_sea_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_silver",
+                            "skin/frontend/default/f001_silver"
+                        ],
+                        [
+                            "skin/frontend/default/f001_violet",
+                            "skin/frontend/default/f001_violet"
+                        ],
+                        [
+                            "skin/frontend/default/f001_yellow",
+                            "skin/frontend/default/f001_yellow"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/1.7.0",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            },
+            {
+                "name": "tm/templatef001",
+                "version": "1.7.1",
+                "version_normalized": "1.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "bdfd0b736bdc450a0cb1b89b374da1c324123a0a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/bdfd0b736bdc450a0cb1b89b374da1c324123a0a",
+                    "reference": "bdfd0b736bdc450a0cb1b89b374da1c324123a0a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-20T14:02:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Ajax",
+                            "app/code/local/TM/Ajax"
+                        ],
+                        [
+                            "app/code/local/TM/Featured",
+                            "app/code/local/TM/Featured"
+                        ],
+                        [
+                            "app/code/local/TM/Templatef001",
+                            "app/code/local/TM/Templatef001"
+                        ],
+                        [
+                            "app/design/frontend/default/f001",
+                            "app/design/frontend/default/f001"
+                        ],
+                        [
+                            "app/etc/modules/TM_Ajax.xml",
+                            "app/etc/modules/TM_Ajax.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Featured.xml",
+                            "app/etc/modules/TM_Featured.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Templatef001.xml",
+                            "app/etc/modules/TM_Templatef001.xml"
+                        ],
+                        [
+                            "skin/frontend/default/f001",
+                            "skin/frontend/default/f001"
+                        ],
+                        [
+                            "skin/frontend/default/f001_green",
+                            "skin/frontend/default/f001_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_grey",
+                            "skin/frontend/default/f001_grey"
+                        ],
+                        [
+                            "skin/frontend/default/f001_orange",
+                            "skin/frontend/default/f001_orange"
+                        ],
+                        [
+                            "skin/frontend/default/f001_pink",
+                            "skin/frontend/default/f001_pink"
+                        ],
+                        [
+                            "skin/frontend/default/f001_red",
+                            "skin/frontend/default/f001_red"
+                        ],
+                        [
+                            "skin/frontend/default/f001_sea_green",
+                            "skin/frontend/default/f001_sea_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_silver",
+                            "skin/frontend/default/f001_silver"
+                        ],
+                        [
+                            "skin/frontend/default/f001_violet",
+                            "skin/frontend/default/f001_violet"
+                        ],
+                        [
+                            "skin/frontend/default/f001_yellow",
+                            "skin/frontend/default/f001_yellow"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/1.7.1",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            },
+            {
+                "name": "tm/templatef001",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "147e2f53432781fb4e4b3fc497c8b5ccfc7b5318"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/147e2f53432781fb4e4b3fc497c8b5ccfc7b5318",
+                    "reference": "147e2f53432781fb4e4b3fc497c8b5ccfc7b5318",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-03T10:12:24+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Ajax",
+                            "app/code/local/TM/Ajax"
+                        ],
+                        [
+                            "app/code/local/TM/Featured",
+                            "app/code/local/TM/Featured"
+                        ],
+                        [
+                            "app/code/local/TM/Templatef001",
+                            "app/code/local/TM/Templatef001"
+                        ],
+                        [
+                            "app/design/frontend/default/f001",
+                            "app/design/frontend/default/f001"
+                        ],
+                        [
+                            "app/etc/modules/TM_Ajax.xml",
+                            "app/etc/modules/TM_Ajax.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Featured.xml",
+                            "app/etc/modules/TM_Featured.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_Templatef001.xml",
+                            "app/etc/modules/TM_Templatef001.xml"
+                        ],
+                        [
+                            "skin/frontend/default/f001",
+                            "skin/frontend/default/f001"
+                        ],
+                        [
+                            "skin/frontend/default/f001_green",
+                            "skin/frontend/default/f001_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_grey",
+                            "skin/frontend/default/f001_grey"
+                        ],
+                        [
+                            "skin/frontend/default/f001_orange",
+                            "skin/frontend/default/f001_orange"
+                        ],
+                        [
+                            "skin/frontend/default/f001_pink",
+                            "skin/frontend/default/f001_pink"
+                        ],
+                        [
+                            "skin/frontend/default/f001_red",
+                            "skin/frontend/default/f001_red"
+                        ],
+                        [
+                            "skin/frontend/default/f001_sea_green",
+                            "skin/frontend/default/f001_sea_green"
+                        ],
+                        [
+                            "skin/frontend/default/f001_silver",
+                            "skin/frontend/default/f001_silver"
+                        ],
+                        [
+                            "skin/frontend/default/f001_violet",
+                            "skin/frontend/default/f001_violet"
+                        ],
+                        [
+                            "skin/frontend/default/f001_yellow",
+                            "skin/frontend/default/f001_yellow"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/1.7.2",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            },
+            {
+                "name": "tm/templatef001",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "1cfd49e08606004f3749981a3c5ff34bb00ba4a3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/1cfd49e08606004f3749981a3c5ff34bb00ba4a3",
+                    "reference": "1cfd49e08606004f3749981a3c5ff34bb00ba4a3",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2015-01-16T15:10:14+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/2.0.0",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            },
+            {
+                "name": "tm/templatef001",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/templatef001.git",
+                    "reference": "3708f3d0c3138b99a9e9c80ccc568854e6b6113e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatef001/zipball/3708f3d0c3138b99a9e9c80ccc568854e6b6113e",
+                    "reference": "3708f3d0c3138b99a9e9c80ccc568854e6b6113e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T13:53:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Free Absolute theme",
+                "homepage": "https://github.com/tmhub/templatef001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatef001/tree/2.0.1",
+                    "issues": "https://github.com/tmhub/templatef001/issues"
+                }
+            }
+        ]
+    }
+}

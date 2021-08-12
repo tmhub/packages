@@ -1,0 +1,814 @@
+{
+    "packages": {
+        "tm/attributepages": [
+            {
+                "name": "tm/attributepages",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "6cde51f27bed761fb4cbdff5a7a180653e4ad2e6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/6cde51f27bed761fb4cbdff5a7a180653e4ad2e6",
+                    "reference": "6cde51f27bed761fb4cbdff5a7a180653e4ad2e6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-02-25T15:42:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Attributepages",
+                            "app/code/local/TM/Attributepages"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml",
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml",
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/attributepages",
+                            "app/design/frontend/base/default/template/tm/attributepages"
+                        ],
+                        [
+                            "app/etc/modules/TM_Attributepages.xml",
+                            "app/etc/modules/TM_Attributepages.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Attributepages.csv",
+                            "app/locale/en_US/TM_Attributepages.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/attributepages.css",
+                            "skin/frontend/base/default/css/tm/attributepages.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/attributepages.js",
+                            "skin/frontend/base/default/js/tm/attributepages.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "c5904124e8796f6b1b3d16a1512a3d99f1fee261"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/c5904124e8796f6b1b3d16a1512a3d99f1fee261",
+                    "reference": "c5904124e8796f6b1b3d16a1512a3d99f1fee261",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-04-07T15:07:06+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Attributepages",
+                            "app/code/local/TM/Attributepages"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml",
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml",
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/attributepages",
+                            "app/design/frontend/base/default/template/tm/attributepages"
+                        ],
+                        [
+                            "app/etc/modules/TM_Attributepages.xml",
+                            "app/etc/modules/TM_Attributepages.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Attributepages.csv",
+                            "app/locale/en_US/TM_Attributepages.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/attributepages.css",
+                            "skin/frontend/base/default/css/tm/attributepages.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/attributepages.js",
+                            "skin/frontend/base/default/js/tm/attributepages.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "a16007a544f9a374a1fc9ab39755da199231f9d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/a16007a544f9a374a1fc9ab39755da199231f9d9",
+                    "reference": "a16007a544f9a374a1fc9ab39755da199231f9d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-04-29T14:47:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Attributepages",
+                            "app/code/local/TM/Attributepages"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml",
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml",
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/attributepages",
+                            "app/design/frontend/base/default/template/tm/attributepages"
+                        ],
+                        [
+                            "app/etc/modules/TM_Attributepages.xml",
+                            "app/etc/modules/TM_Attributepages.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Attributepages.csv",
+                            "app/locale/en_US/TM_Attributepages.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/attributepages.css",
+                            "skin/frontend/base/default/css/tm/attributepages.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/attributepages.js",
+                            "skin/frontend/base/default/js/tm/attributepages.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.2.0",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "a2e6cecc98a016de3d79f00a83296fedeb5077eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/a2e6cecc98a016de3d79f00a83296fedeb5077eb",
+                    "reference": "a2e6cecc98a016de3d79f00a83296fedeb5077eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-09-02T12:22:13+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/Attributepages",
+                            "app/code/local/TM/Attributepages"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml",
+                            "app/design/adminhtml/default/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml",
+                            "app/design/frontend/base/default/layout/tm/attributepages.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/attributepages",
+                            "app/design/frontend/base/default/template/tm/attributepages"
+                        ],
+                        [
+                            "app/etc/modules/TM_Attributepages.xml",
+                            "app/etc/modules/TM_Attributepages.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_Attributepages.csv",
+                            "app/locale/en_US/TM_Attributepages.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/attributepages.css",
+                            "skin/frontend/base/default/css/tm/attributepages.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/attributepages.js",
+                            "skin/frontend/base/default/js/tm/attributepages.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.2.1",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "9f3120c598267db5a826be22ac9432353cd36fbc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/9f3120c598267db5a826be22ac9432353cd36fbc",
+                    "reference": "9f3120c598267db5a826be22ac9432353cd36fbc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-07-10T07:03:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.1",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "393fc3c7a8a942cd41f1725aa85d1462c66142a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/393fc3c7a8a942cd41f1725aa85d1462c66142a1",
+                    "reference": "393fc3c7a8a942cd41f1725aa85d1462c66142a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-10-30T15:14:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.2",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "bef380abf96dbf4363d10863dc39da8b5787c42b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/bef380abf96dbf4363d10863dc39da8b5787c42b",
+                    "reference": "bef380abf96dbf4363d10863dc39da8b5787c42b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-06-10T12:49:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.3",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "a5707efcafbec55d2ae10e0cc669f235f09d11ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/a5707efcafbec55d2ae10e0cc669f235f09d11ea",
+                    "reference": "a5707efcafbec55d2ae10e0cc669f235f09d11ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-03T13:24:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "7658cc55e055b129b367ff71d5c17893b004a1e9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/7658cc55e055b129b367ff71d5c17893b004a1e9",
+                    "reference": "7658cc55e055b129b367ff71d5c17893b004a1e9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-03T13:54:35+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.5",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "9ec79e266887a777618d6cc592b8e34ae475e226"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/9ec79e266887a777618d6cc592b8e34ae475e226",
+                    "reference": "9ec79e266887a777618d6cc592b8e34ae475e226",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-25T14:03:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.6",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.7",
+                "version_normalized": "1.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "f333c733b998769784bd10dccb3ccd338a3e7d18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/f333c733b998769784bd10dccb3ccd338a3e7d18",
+                    "reference": "f333c733b998769784bd10dccb3ccd338a3e7d18",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-04-28T12:41:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.7",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.8",
+                "version_normalized": "1.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "b555bd96e74e158874affe5adeb36b7d047b7c3b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/b555bd96e74e158874affe5adeb36b7d047b7c3b",
+                    "reference": "b555bd96e74e158874affe5adeb36b7d047b7c3b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-09T11:49:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.8",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.3.9",
+                "version_normalized": "1.3.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "2123931da29ab763e2f2c64c020cc37699835e11"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/2123931da29ab763e2f2c64c020cc37699835e11",
+                    "reference": "2123931da29ab763e2f2c64c020cc37699835e11",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T12:03:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.3.9",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "97485e517df67b575ecbda5077b59f5d2b4beac4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/97485e517df67b575ecbda5077b59f5d2b4beac4",
+                    "reference": "97485e517df67b575ecbda5077b59f5d2b4beac4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-10-31T13:19:20+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.4.0",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "d3c313269cef4ab4174a442d4d0dbac35737dcec"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/d3c313269cef4ab4174a442d4d0dbac35737dcec",
+                    "reference": "d3c313269cef4ab4174a442d4d0dbac35737dcec",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-02-15T20:22:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.4.1",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "6641a597c31b45740792d7e7fded2618563a8240"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/6641a597c31b45740792d7e7fded2618563a8240",
+                    "reference": "6641a597c31b45740792d7e7fded2618563a8240",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-13T13:21:31+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.4.2",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "ab312e6b66200fb87858265ff10037192b076f0a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/ab312e6b66200fb87858265ff10037192b076f0a",
+                    "reference": "ab312e6b66200fb87858265ff10037192b076f0a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-04T12:30:52+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.4.3",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            },
+            {
+                "name": "tm/attributepages",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/attributepages.git",
+                    "reference": "da71eed710c0ae8dade0c77e9e0ffc8f3dfe954a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/attributepages/zipball/da71eed710c0ae8dade0c77e9e0ffc8f3dfe954a",
+                    "reference": "da71eed710c0ae8dade0c77e9e0ffc8f3dfe954a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-07-01T11:53:56+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute and brand based pages",
+                "homepage": "https://github.com/tmhub/attributepages",
+                "support": {
+                    "source": "https://github.com/tmhub/attributepages/tree/1.4.4",
+                    "issues": "https://github.com/tmhub/attributepages/issues"
+                }
+            }
+        ]
+    }
+}

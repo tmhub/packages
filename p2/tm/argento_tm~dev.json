@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "tm/argento_tm": [
+            {
+                "name": "tm/argento_tm",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-tm.git",
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-tm/zipball/5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
+                    "reference": "5bbbc93b8dcfc284aaca2e56eb14f4f8441ab801",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/firecheckout": "*",
+                    "tm/helpdesk": "*",
+                    "tm/notifier": "*",
+                    "tm/testimonials": "*"
+                },
+                "time": "2018-11-08T09:45:43+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates-Master theme",
+                "homepage": "https://github.com/tmhub/argento_tm",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-tm/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/argento-tm/issues"
+                }
+            }
+        ]
+    }
+}

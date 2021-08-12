@@ -1,0 +1,44 @@
+{
+    "packages": {
+        "tm/secure": [
+            {
+                "name": "tm/secure",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/secure.git",
+                    "reference": "bc686d9db30368d226a4333e9daf48b357176bf9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/secure/zipball/bc686d9db30368d226a4333e9daf48b357176bf9",
+                    "reference": "bc686d9db30368d226a4333e9daf48b357176bf9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/email": "*"
+                },
+                "time": "2020-05-18T12:01:16+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Admin Secure module",
+                "homepage": "https://github.com/tmhub/secure",
+                "support": {
+                    "source": "https://github.com/tmhub/secure/tree/2.1.6",
+                    "issues": "https://github.com/tmhub/secure/issues"
+                }
+            }
+        ]
+    }
+}

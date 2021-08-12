@@ -1,0 +1,37 @@
+{
+    "packages": {
+        "tm/orderattachment": [
+            {
+                "name": "tm/orderattachment",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/orderattachment.git",
+                    "reference": "df6c7bbcd227c6fbf62c304d98040a37bc1f3087"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/orderattachment/zipball/df6c7bbcd227c6fbf62c304d98040a37bc1f3087",
+                    "reference": "df6c7bbcd227c6fbf62c304d98040a37bc1f3087",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T11:56:55+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento order attachments",
+                "homepage": "https://github.com/tmhub/orderattachment",
+                "support": {
+                    "source": "https://github.com/tmhub/orderattachment/tree/1.1.6",
+                    "issues": "https://github.com/tmhub/orderattachment/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "tm/templatem001": [
+            {
+                "name": "tm/templatem001",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/templatem001.git",
+                    "reference": "d94fcfda4907c9dc2aa89233fad5f662240b6a4c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/templatem001/zipball/d94fcfda4907c9dc2aa89233fad5f662240b6a4c",
+                    "reference": "d94fcfda4907c9dc2aa89233fad5f662240b6a4c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/catalog-configurable-swatches": "*",
+                    "tm/core": "*",
+                    "tm/easyslide": "*",
+                    "tm/highlight": "*",
+                    "tm/mobileswitcher": "*"
+                },
+                "time": "2018-08-31T08:52:18+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Mobile Star theme",
+                "homepage": "https://github.com/tmhub/templatem001",
+                "support": {
+                    "source": "https://github.com/tmhub/templatem001/tree/1.4.6",
+                    "issues": "https://github.com/tmhub/templatem001/issues"
+                }
+            }
+        ]
+    }
+}

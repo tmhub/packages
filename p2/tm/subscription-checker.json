@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "tm/subscription-checker": [
+            {
+                "name": "tm/subscription-checker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/subscription-checker.git",
+                    "reference": "e33544336b605cc4a1c112a5c4b2692c0b9fc24c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/subscription-checker/zipball/e33544336b605cc4a1c112a5c4b2692c0b9fc24c",
+                    "reference": "e33544336b605cc4a1c112a5c4b2692c0b9fc24c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-06-30T13:38:06+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Client subscription validation module",
+                "homepage": "https://github.com/tmhub/subscription-checker",
+                "support": {
+                    "source": "https://github.com/tmhub/subscription-checker/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/subscription-checker/issues"
+                }
+            }
+        ]
+    }
+}

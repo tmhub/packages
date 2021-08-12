@@ -1,0 +1,66 @@
+{
+    "packages": {
+        "tm/mobileswitcher": [
+            {
+                "name": "tm/mobileswitcher",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/mobileswitcher.git",
+                    "reference": "4fa788e7f5aa829b6ebfe78f532749265c1beec2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/mobileswitcher/zipball/4fa788e7f5aa829b6ebfe78f532749265c1beec2",
+                    "reference": "4fa788e7f5aa829b6ebfe78f532749265c1beec2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T12:11:15+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/MobileSwitcher",
+                            "app/code/community/TM/MobileSwitcher"
+                        ],
+                        [
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml",
+                            "app/design/frontend/default/default/layout/mobileswitcher.xml"
+                        ],
+                        [
+                            "app/etc/modules/TM_MobileSwitcher.xml",
+                            "app/etc/modules/TM_MobileSwitcher.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_MobileSwitcher.csv",
+                            "app/locale/en_US/TM_MobileSwitcher.csv"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/mobileswitcher",
+                "support": {
+                    "source": "https://github.com/tmhub/mobileswitcher/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/mobileswitcher/issues"
+                }
+            }
+        ]
+    }
+}

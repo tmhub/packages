@@ -1,0 +1,65 @@
+{
+    "packages": {
+        "tm/argento_mage2cloud": [
+            {
+                "name": "tm/argento_mage2cloud",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/argento-mage2cloud.git",
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/argento-mage2cloud/zipball/49c3317307bcb3b6d42962de5e752367c131ea37",
+                    "reference": "49c3317307bcb3b6d42962de5e752367c131ea37",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/argento": "*",
+                    "tm/helpdesk": "*"
+                },
+                "time": "2018-11-08T09:25:01+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ArgentoMage2Cloud",
+                            "app/code/local/TM/ArgentoMage2Cloud"
+                        ],
+                        [
+                            "app/design/frontend/argento/mage2cloud",
+                            "app/design/frontend/argento/mage2cloud"
+                        ],
+                        [
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml",
+                            "app/etc/modules/TM_ArgentoMage2Cloud.xml"
+                        ],
+                        [
+                            "skin/frontend/argento/mage2cloud",
+                            "skin/frontend/argento/mage2cloud"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Mage2Cloud theme",
+                "homepage": "https://github.com/tmhub/argento",
+                "support": {
+                    "source": "https://github.com/tmhub/argento-mage2cloud/tree/1.0.2",
+                    "issues": "https://github.com/tmhub/argento-mage2cloud/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,1444 @@
+{
+    "packages": {
+        "tm/easytabs": [
+            {
+                "name": "tm/easytabs",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "4908e5c45a3cf350a5a8638a75da0bf7174f45f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/4908e5c45a3cf350a5a8638a75da0bf7174f45f8",
+                    "reference": "4908e5c45a3cf350a5a8638a75da0bf7174f45f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-02-25T15:43:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.1.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.1.1",
+                "version_normalized": "2.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "1451cc35aa9514fdc57512177655de82d94b29f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/1451cc35aa9514fdc57512177655de82d94b29f0",
+                    "reference": "1451cc35aa9514fdc57512177655de82d94b29f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-03-24T09:29:44+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.1.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "f02ff79b41e6626f7927d5b77bbd0c95d3defd3c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/f02ff79b41e6626f7927d5b77bbd0c95d3defd3c",
+                    "reference": "f02ff79b41e6626f7927d5b77bbd0c95d3defd3c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-05-07T09:36:20+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.2.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "341395bd145eaeea254b65489610c9821eb23d94"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/341395bd145eaeea254b65489610c9821eb23d94",
+                    "reference": "341395bd145eaeea254b65489610c9821eb23d94",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-05-22T08:57:41+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.2.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "6085c29c975e059cb13ec0cb493c34b05460fbe1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/6085c29c975e059cb13ec0cb493c34b05460fbe1",
+                    "reference": "6085c29c975e059cb13ec0cb493c34b05460fbe1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-07-10T11:33:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_EasyTabs.csv",
+                            "app/locale/es_ES/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_EasyTabs.csv",
+                            "app/locale/fr_FR/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_EasyTabs.csv",
+                            "app/locale/it_IT/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_EasyTabs.csv",
+                            "app/locale/nl_NL/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_EasyTabs.csv",
+                            "app/locale/pt_PT/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "f751d50455c6040f41947552e1b5e05374fa934a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/f751d50455c6040f41947552e1b5e05374fa934a",
+                    "reference": "f751d50455c6040f41947552e1b5e05374fa934a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2014-09-02T12:18:29+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/community/TM/EasyTabs",
+                            "app/code/community/TM/EasyTabs"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml",
+                            "app/design/adminhtml/default/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml",
+                            "app/design/frontend/base/default/layout/tm/easytabs.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/easytabs",
+                            "app/design/frontend/base/default/template/tm/easytabs"
+                        ],
+                        [
+                            "app/etc/modules/TM_EasyTabs.xml",
+                            "app/etc/modules/TM_EasyTabs.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_EasyTabs.csv",
+                            "app/locale/en_US/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_EasyTabs.csv",
+                            "app/locale/es_ES/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_EasyTabs.csv",
+                            "app/locale/fr_FR/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_EasyTabs.csv",
+                            "app/locale/it_IT/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_EasyTabs.csv",
+                            "app/locale/nl_NL/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_EasyTabs.csv",
+                            "app/locale/pt_PT/TM_EasyTabs.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/easytabs.css",
+                            "skin/frontend/base/default/css/tm/easytabs.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/easytabs.js",
+                            "skin/frontend/base/default/js/tm/easytabs.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master EasyTabs module",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "110da931d56f02b5134ad8b64585e0039142f196"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/110da931d56f02b5134ad8b64585e0039142f196",
+                    "reference": "110da931d56f02b5134ad8b64585e0039142f196",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-19T08:39:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.2",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.3",
+                "version_normalized": "2.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "403e7b9fa841a8730f39a22a62849252ce888654"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/403e7b9fa841a8730f39a22a62849252ce888654",
+                    "reference": "403e7b9fa841a8730f39a22a62849252ce888654",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-06-08T08:54:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.3",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "b77bbbc648686c34df46ee49a283d18ccee0e976"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/b77bbbc648686c34df46ee49a283d18ccee0e976",
+                    "reference": "b77bbbc648686c34df46ee49a283d18ccee0e976",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-07-10T07:11:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.4",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.5",
+                "version_normalized": "2.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "60a9311caafef5ca6f730824321976a3818a4b83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/60a9311caafef5ca6f730824321976a3818a4b83",
+                    "reference": "60a9311caafef5ca6f730824321976a3818a4b83",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-03-24T12:28:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.5",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.6",
+                "version_normalized": "2.3.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "8a46cdb80b2dc529c5f848946aef54556af295cc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8a46cdb80b2dc529c5f848946aef54556af295cc",
+                    "reference": "8a46cdb80b2dc529c5f848946aef54556af295cc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-25T13:16:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.6",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.7",
+                "version_normalized": "2.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a898966bf50a533b5ecd2161dba6c11486df8f1e",
+                    "reference": "a898966bf50a533b5ecd2161dba6c11486df8f1e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30T13:20:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.7",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "2.3.8",
+                "version_normalized": "2.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "f11b0881c8b3bf125152efe94e27823b7bb82109"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/f11b0881c8b3bf125152efe94e27823b7bb82109",
+                    "reference": "f11b0881c8b3bf125152efe94e27823b7bb82109",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-16T19:12:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/2.3.8",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "435dadd2faaa7178e200fc0ebea6a090c9d4d619"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/435dadd2faaa7178e200fc0ebea6a090c9d4d619",
+                    "reference": "435dadd2faaa7178e200fc0ebea6a090c9d4d619",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-01-20T13:22:16+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.0.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "d1f4b47882ba07cf65d81df66df32bf97b45a26e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/d1f4b47882ba07cf65d81df66df32bf97b45a26e",
+                    "reference": "d1f4b47882ba07cf65d81df66df32bf97b45a26e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-01-26T12:38:07+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.0.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "0f3595c9e33a398823168ea18acc4635a44a97ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/0f3595c9e33a398823168ea18acc4635a44a97ab",
+                    "reference": "0f3595c9e33a398823168ea18acc4635a44a97ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-14T15:53:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.0.2",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.0.3",
+                "version_normalized": "3.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "24855ddf847603463095d89c8188b8cdca334ba0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/24855ddf847603463095d89c8188b8cdca334ba0",
+                    "reference": "24855ddf847603463095d89c8188b8cdca334ba0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-31T12:03:33+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.0.3",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.0",
+                "version_normalized": "3.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "fda9d1fe901a982a2f5c0a22c915e24d043d072c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/fda9d1fe901a982a2f5c0a22c915e24d043d072c",
+                    "reference": "fda9d1fe901a982a2f5c0a22c915e24d043d072c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-04-27T20:15:16+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "5df63af19202986daa4ad6dedf7fd770b0bce056"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5df63af19202986daa4ad6dedf7fd770b0bce056",
+                    "reference": "5df63af19202986daa4ad6dedf7fd770b0bce056",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-15T09:16:09+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "8a55160baed71be55eaaedbacdf958b440bda52f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8a55160baed71be55eaaedbacdf958b440bda52f",
+                    "reference": "8a55160baed71be55eaaedbacdf958b440bda52f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-07-14T07:53:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.2",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.3",
+                "version_normalized": "3.1.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "5eeaf14691f25f787605c91b3b55492d80a1cb21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5eeaf14691f25f787605c91b3b55492d80a1cb21",
+                    "reference": "5eeaf14691f25f787605c91b3b55492d80a1cb21",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-04T07:06:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.3",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.4",
+                "version_normalized": "3.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "263b98f7d79703396654a470eb1d8e2edee571eb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/263b98f7d79703396654a470eb1d8e2edee571eb",
+                    "reference": "263b98f7d79703396654a470eb1d8e2edee571eb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T11:58:36+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.4",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.5",
+                "version_normalized": "3.1.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "5bc66a4455b268ea985be74caf1bafd84db25b64"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/5bc66a4455b268ea985be74caf1bafd84db25b64",
+                    "reference": "5bc66a4455b268ea985be74caf1bafd84db25b64",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-18T09:18:30+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.5",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.1.6",
+                "version_normalized": "3.1.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "26343277b62c1cb776a79a99d4a13682c2fff13b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/26343277b62c1cb776a79a99d4a13682c2fff13b",
+                    "reference": "26343277b62c1cb776a79a99d4a13682c2fff13b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-12-15T09:45:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.1.6",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "2bab59cd8ff7144193b3820e614ccf2e3d594381"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/2bab59cd8ff7144193b3820e614ccf2e3d594381",
+                    "reference": "2bab59cd8ff7144193b3820e614ccf2e3d594381",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-02-15T20:43:18+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.0",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.2.1",
+                "version_normalized": "3.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "a21c121448c2997cbb6ee14507bce71d1c0277d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/a21c121448c2997cbb6ee14507bce71d1c0277d4",
+                    "reference": "a21c121448c2997cbb6ee14507bce71d1c0277d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-10-31T12:31:00+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.1",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "8b0d88cf8b4ed02f4aff572701f94de3de77d05c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8b0d88cf8b4ed02f4aff572701f94de3de77d05c",
+                    "reference": "8b0d88cf8b4ed02f4aff572701f94de3de77d05c",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-30T08:28:08+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.2",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.2.3",
+                "version_normalized": "3.2.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "e6b8de9da07543b5742339f90910dbc956e374af"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/e6b8de9da07543b5742339f90910dbc956e374af",
+                    "reference": "e6b8de9da07543b5742339f90910dbc956e374af",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-06-16T07:31:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.3",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            },
+            {
+                "name": "tm/easytabs",
+                "version": "3.2.4",
+                "version_normalized": "3.2.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/easytabs.git",
+                    "reference": "8e9aa332e7efa53e297f6e9de266ce32005bc126"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easytabs/zipball/8e9aa332e7efa53e297f6e9de266ce32005bc126",
+                    "reference": "8e9aa332e7efa53e297f6e9de266ce32005bc126",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-07-01T11:54:00+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/product-tabs-magento-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/easytabs/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/easytabs/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Tabs for product page",
+                "homepage": "https://github.com/tmhub/easytabs",
+                "support": {
+                    "source": "https://github.com/tmhub/easytabs/tree/3.2.4",
+                    "issues": "https://github.com/tmhub/easytabs/issues"
+                }
+            }
+        ]
+    }
+}

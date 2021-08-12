@@ -1,0 +1,764 @@
+{
+    "packages": {
+        "tm/sold-together": [
+            {
+                "name": "tm/sold-together",
+                "version": "1.3.5",
+                "version_normalized": "1.3.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "6d735ed68a2d0dd639cc3539163572a7c8692e30"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/6d735ed68a2d0dd639cc3539163572a7c8692e30",
+                    "reference": "6d735ed68a2d0dd639cc3539163572a7c8692e30",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-03-21T10:19:19+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SoldTogether",
+                            "app/code/local/TM/SoldTogether"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml",
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml",
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/soldtogether",
+                            "app/design/frontend/base/default/template/tm/soldtogether"
+                        ],
+                        [
+                            "app/etc/modules/TM_SoldTogether.xml",
+                            "app/etc/modules/TM_SoldTogether.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SoldTogether.csv",
+                            "app/locale/en_US/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/soldtogether.css",
+                            "skin/frontend/base/default/css/tm/soldtogether.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/soldtogether",
+                            "skin/frontend/base/default/images/tm/soldtogether"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/soldtogether.js",
+                            "skin/frontend/base/default/js/tm/soldtogether.js"
+                        ]
+                    ],
+                    "magento-root-dir": ".",
+                    "magento-deploystrategy": "copy",
+                    "magento-force": true,
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.3.5",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.3.8",
+                "version_normalized": "1.3.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "7b73923de112ae572e8cbb80ae623d6beaa7fbf9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/7b73923de112ae572e8cbb80ae623d6beaa7fbf9",
+                    "reference": "7b73923de112ae572e8cbb80ae623d6beaa7fbf9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-05-23T09:20:17+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SoldTogether",
+                            "app/code/local/TM/SoldTogether"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml",
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml",
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/soldtogether",
+                            "app/design/frontend/base/default/template/tm/soldtogether"
+                        ],
+                        [
+                            "app/etc/modules/TM_SoldTogether.xml",
+                            "app/etc/modules/TM_SoldTogether.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SoldTogether.csv",
+                            "app/locale/en_US/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_SoldTogether.csv",
+                            "app/locale/es_ES/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_SoldTogether.csv",
+                            "app/locale/fr_FR/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_SoldTogether.csv",
+                            "app/locale/it_IT/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_SoldTogether.csv",
+                            "app/locale/nl_NL/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_SoldTogether.csv",
+                            "app/locale/pt_PT/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/soldtogether.css",
+                            "skin/frontend/base/default/css/tm/soldtogether.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/soldtogether",
+                            "skin/frontend/base/default/images/tm/soldtogether"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/soldtogether.js",
+                            "skin/frontend/base/default/js/tm/soldtogether.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.3.8",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.3.9.1",
+                "version_normalized": "1.3.9.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "08739abe19f7b39c7360dbb85d0e76205464bfdb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/08739abe19f7b39c7360dbb85d0e76205464bfdb",
+                    "reference": "08739abe19f7b39c7360dbb85d0e76205464bfdb",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2015-10-29T13:59:07+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SoldTogether",
+                            "app/code/local/TM/SoldTogether"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml",
+                            "app/design/adminhtml/default/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml",
+                            "app/design/frontend/base/default/layout/tm/soldtogether.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/soldtogether",
+                            "app/design/frontend/base/default/template/tm/soldtogether"
+                        ],
+                        [
+                            "app/etc/modules/TM_SoldTogether.xml",
+                            "app/etc/modules/TM_SoldTogether.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SoldTogether.csv",
+                            "app/locale/en_US/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_SoldTogether.csv",
+                            "app/locale/es_ES/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_SoldTogether.csv",
+                            "app/locale/fr_FR/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_SoldTogether.csv",
+                            "app/locale/it_IT/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_SoldTogether.csv",
+                            "app/locale/nl_NL/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_SoldTogether.csv",
+                            "app/locale/pt_PT/TM_SoldTogether.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/soldtogether.css",
+                            "skin/frontend/base/default/css/tm/soldtogether.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/soldtogether",
+                            "skin/frontend/base/default/images/tm/soldtogether"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/soldtogether.js",
+                            "skin/frontend/base/default/js/tm/soldtogether.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.3.9.1",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "b2654022999099f13edf271f16c7a70e9c2790a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/b2654022999099f13edf271f16c7a70e9c2790a6",
+                    "reference": "b2654022999099f13edf271f16c7a70e9c2790a6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-05-11T06:29:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.0",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "bf5d0f6a7bbe315bddd09e7b6edff71a58ac1ac4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/bf5d0f6a7bbe315bddd09e7b6edff71a58ac1ac4",
+                    "reference": "bf5d0f6a7bbe315bddd09e7b6edff71a58ac1ac4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-09-30T08:42:18+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.1",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "d94148e090d191d02a721fc8269003ae28cb2748"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/d94148e090d191d02a721fc8269003ae28cb2748",
+                    "reference": "d94148e090d191d02a721fc8269003ae28cb2748",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-12-09T07:57:24+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.2",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "8f551e4b0699db185bc0c7970a2de3f2f74425d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/8f551e4b0699db185bc0c7970a2de3f2f74425d4",
+                    "reference": "8f551e4b0699db185bc0c7970a2de3f2f74425d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-03-20T15:52:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.3",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "d6471b52f4805d635ba40ab1bee6c7b8dec41bf6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/d6471b52f4805d635ba40ab1bee6c7b8dec41bf6",
+                    "reference": "d6471b52f4805d635ba40ab1bee6c7b8dec41bf6",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-03-30T14:44:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.4",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "4b1bee541b3b58ba4d36fa87d110381d9731e26e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/4b1bee541b3b58ba4d36fa87d110381d9731e26e",
+                    "reference": "4b1bee541b3b58ba4d36fa87d110381d9731e26e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-06-16T11:49:43+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.5",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.6",
+                "version_normalized": "1.4.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "db8273704eb89eee46a6d34eb8af059d43c9f8f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/db8273704eb89eee46a6d34eb8af059d43c9f8f1",
+                    "reference": "db8273704eb89eee46a6d34eb8af059d43c9f8f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-08-03T14:04:04+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.6",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.7",
+                "version_normalized": "1.4.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "8424e4615967c99f88454fa0aa686f327a587514"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/8424e4615967c99f88454fa0aa686f327a587514",
+                    "reference": "8424e4615967c99f88454fa0aa686f327a587514",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-08-09T14:00:28+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.7",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.4.8",
+                "version_normalized": "1.4.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "7ba4d121a9533bba948b36324c68f3519119cf4a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/7ba4d121a9533bba948b36324c68f3519119cf4a",
+                    "reference": "7ba4d121a9533bba948b36324c68f3519119cf4a",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-09-18T10:43:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.4.8",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "e93da40573f27ed21726c190a6c046b585f121f3"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/e93da40573f27ed21726c190a6c046b585f121f3",
+                    "reference": "e93da40573f27ed21726c190a6c046b585f121f3",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2017-12-15T13:20:32+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.0",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "5a79c32168b77df295fa2509d4215fb1120b133d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/5a79c32168b77df295fa2509d4215fb1120b133d",
+                    "reference": "5a79c32168b77df295fa2509d4215fb1120b133d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2018-02-15T22:02:11+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.1",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "15adb84d44a4474407fefdf9b4c6e4552171029e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/15adb84d44a4474407fefdf9b4c6e4552171029e",
+                    "reference": "15adb84d44a4474407fefdf9b4c6e4552171029e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2018-06-13T13:03:39+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.2",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            },
+            {
+                "name": "tm/sold-together",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/soldtogether.git",
+                    "reference": "a874618eea20f7f466836ed1435e49e500a54054"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/soldtogether/zipball/a874618eea20f7f466836ed1435e49e500a54054",
+                    "reference": "a874618eea20f7f466836ed1435e49e500a54054",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2020-12-18T09:19:15+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Frequently bought together and Customer who bought this also bought blocks",
+                "homepage": "https://github.com/tmhub/soldtogether",
+                "support": {
+                    "source": "https://github.com/tmhub/soldtogether/tree/1.5.3",
+                    "issues": "https://github.com/tmhub/soldtogether/issues"
+                }
+            }
+        ]
+    }
+}

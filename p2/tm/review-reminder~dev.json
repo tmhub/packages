@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/review-reminder": [
+            {
+                "name": "tm/review-reminder",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/reviewreminder.git",
+                    "reference": "ee499e848e3bc4bfdfe475ea1ba165d5110c8ff7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/reviewreminder/zipball/ee499e848e3bc4bfdfe475ea1ba165d5110c8ff7",
+                    "reference": "ee499e848e3bc4bfdfe475ea1ba165d5110c8ff7",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-30T08:09:53+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Review Reminder",
+                "homepage": "https://github.com/tmhub/reviewreminder",
+                "support": {
+                    "source": "https://github.com/tmhub/reviewreminder/tree/1.0.5",
+                    "issues": "https://github.com/tmhub/reviewreminder/issues"
+                }
+            }
+        ]
+    }
+}

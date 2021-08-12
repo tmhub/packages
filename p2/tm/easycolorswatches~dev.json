@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/easycolorswatches": [
+            {
+                "name": "tm/easycolorswatches",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/easycolorswatches.git",
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/easycolorswatches/zipball/cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
+                    "reference": "cdca7e84cf8647fa8ef4e3b49109b8041741b82f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T10:06:25+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Attribute Swatches for Magento",
+                "homepage": "https://github.com/tmhub/easycolorswatches",
+                "support": {
+                    "source": "https://github.com/tmhub/easycolorswatches/tree/2.1.6",
+                    "issues": "https://github.com/tmhub/easycolorswatches/issues"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "packages": {
+        "tm/reward": [
+            {
+                "name": "tm/reward",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/reward.git",
+                    "reference": "99d119b8f3dedd082ca9a54e3f8ababf71c48ad5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/reward/zipball/99d119b8f3dedd082ca9a54e3f8ababf71c48ad5",
+                    "reference": "99d119b8f3dedd082ca9a54e3f8ababf71c48ad5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*",
+                    "tm/core": "*"
+                },
+                "time": "2015-07-10T08:16:17+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Reward module",
+                "homepage": "https://github.com/tmhub/reward",
+                "support": {
+                    "source": "https://github.com/tmhub/reward/tree/0.1.1",
+                    "issues": "https://github.com/tmhub/reward/issues"
+                }
+            },
+            {
+                "name": "tm/reward",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/reward.git",
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/reward/zipball/54957cfafecc17829efdd4f85f8b5c05e937699b",
+                    "reference": "54957cfafecc17829efdd4f85f8b5c05e937699b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T09:45:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Reward module",
+                "homepage": "https://github.com/tmhub/reward",
+                "support": {
+                    "source": "https://github.com/tmhub/reward/tree/0.1.2",
+                    "issues": "https://github.com/tmhub/reward/issues"
+                }
+            }
+        ]
+    }
+}

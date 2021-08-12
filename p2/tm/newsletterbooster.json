@@ -1,0 +1,294 @@
+{
+    "packages": {
+        "tm/newsletterbooster": [
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "3b84a6b9141e19629b1ce491cfe58c6ea994fe9b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/3b84a6b9141e19629b1ce491cfe58c6ea994fe9b",
+                    "reference": "3b84a6b9141e19629b1ce491cfe58c6ea994fe9b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-03-26T09:35:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.4.0",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "f0fcc20f66f70925b421e7ca5be87ec43850614b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/f0fcc20f66f70925b421e7ca5be87ec43850614b",
+                    "reference": "f0fcc20f66f70925b421e7ca5be87ec43850614b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-08-28T09:15:58+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.0",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "d167024218aa39fb4534aae1ce978ed9438d3f46"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/d167024218aa39fb4534aae1ce978ed9438d3f46",
+                    "reference": "d167024218aa39fb4534aae1ce978ed9438d3f46",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-11-11T14:15:12+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.2",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.3",
+                "version_normalized": "1.5.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "d897df88be70faa14f9f329585ea3b03620945f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/d897df88be70faa14f9f329585ea3b03620945f8",
+                    "reference": "d897df88be70faa14f9f329585ea3b03620945f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-14T08:32:36+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.3",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.4",
+                "version_normalized": "1.5.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "c588d3589557dd11594ae4181b83813ab2541670"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/c588d3589557dd11594ae4181b83813ab2541670",
+                    "reference": "c588d3589557dd11594ae4181b83813ab2541670",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-04T12:23:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.4",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/46027ae1a728470dbf334033e61b97247044e9fc",
+                    "reference": "46027ae1a728470dbf334033e61b97247044e9fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-11-08T09:45:45+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.5",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.6",
+                "version_normalized": "1.5.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "c19e78dbedd07e13fd3d7433e85ba5e1a618c275"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/c19e78dbedd07e13fd3d7433e85ba5e1a618c275",
+                    "reference": "c19e78dbedd07e13fd3d7433e85ba5e1a618c275",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-03-13T08:49:44+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.6",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            },
+            {
+                "name": "tm/newsletterbooster",
+                "version": "1.5.7",
+                "version_normalized": "1.5.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/newsletterbooster.git",
+                    "reference": "bc5927da0cdf7745dfbb8bfd2dc304d2f84deaa5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/newsletterbooster/zipball/bc5927da0cdf7745dfbb8bfd2dc304d2f84deaa5",
+                    "reference": "bc5927da0cdf7745dfbb8bfd2dc304d2f84deaa5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2020-06-16T07:31:10+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Newsletterbooster",
+                "homepage": "https://github.com/tmhub/newsletterbooster",
+                "support": {
+                    "source": "https://github.com/tmhub/newsletterbooster/tree/1.5.7",
+                    "issues": "https://github.com/tmhub/newsletterbooster/issues"
+                }
+            }
+        ]
+    }
+}

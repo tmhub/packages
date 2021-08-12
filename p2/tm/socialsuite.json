@@ -1,0 +1,331 @@
+{
+    "packages": {
+        "tm/socialsuite": [
+            {
+                "name": "tm/socialsuite",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "c8dbf8a539ce8603c1ae472836acb3b0e9870e21"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/c8dbf8a539ce8603c1ae472836acb3b0e9870e21",
+                    "reference": "c8dbf8a539ce8603c1ae472836acb3b0e9870e21",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-11-11T08:04:59+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SocialSuite",
+                            "app/code/local/TM/SocialSuite"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml",
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/socialsuite",
+                            "app/design/frontend/base/default/template/tm/socialsuite"
+                        ],
+                        [
+                            "app/etc/modules/TM_SocialSuite.xml",
+                            "app/etc/modules/TM_SocialSuite.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SocialSuite.csv",
+                            "app/locale/en_US/TM_SocialSuite.csv"
+                        ],
+                        [
+                            "media/socialsuite",
+                            "media/socialsuite"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/socialsuite/socialsuite.css",
+                            "skin/frontend/base/default/css/tm/socialsuite/socialsuite.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/socialsuite/socialsuite.js",
+                            "skin/frontend/base/default/js/tm/socialsuite/socialsuite.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.5.0",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            {
+                "name": "tm/socialsuite",
+                "version": "1.6.3",
+                "version_normalized": "1.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "c1319bc926997f6a7974a4438a21cc0739d7e82d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/c1319bc926997f6a7974a4438a21cc0739d7e82d",
+                    "reference": "c1319bc926997f6a7974a4438a21cc0739d7e82d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-11-23T13:16:40+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SocialSuite",
+                            "app/code/local/TM/SocialSuite"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml",
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/socialsuite",
+                            "app/design/frontend/base/default/template/tm/socialsuite"
+                        ],
+                        [
+                            "app/etc/modules/TM_SocialSuite.xml",
+                            "app/etc/modules/TM_SocialSuite.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SocialSuite.csv",
+                            "app/locale/en_US/TM_SocialSuite.csv"
+                        ],
+                        [
+                            "media/socialsuite",
+                            "media/socialsuite"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/socialsuite",
+                            "skin/frontend/base/default/css/tm/socialsuite"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/socialsuite",
+                            "skin/frontend/base/default/js/tm/socialsuite"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.6.3",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            {
+                "name": "tm/socialsuite",
+                "version": "1.6.6",
+                "version_normalized": "1.6.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "e1b1c62a377f8d5e16a5331c868ee9748fc1f55d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/e1b1c62a377f8d5e16a5331c868ee9748fc1f55d",
+                    "reference": "e1b1c62a377f8d5e16a5331c868ee9748fc1f55d",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-09-04T12:35:34+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SocialSuite",
+                            "app/code/local/TM/SocialSuite"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml",
+                            "app/design/frontend/base/default/layout/tm/socialsuite.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/socialsuite",
+                            "app/design/frontend/base/default/template/tm/socialsuite"
+                        ],
+                        [
+                            "app/etc/modules/TM_SocialSuite.xml",
+                            "app/etc/modules/TM_SocialSuite.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SocialSuite.csv",
+                            "app/locale/en_US/TM_SocialSuite.csv"
+                        ],
+                        [
+                            "media/socialsuite",
+                            "media/socialsuite"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/socialsuite",
+                            "skin/frontend/base/default/css/tm/socialsuite"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/socialsuite",
+                            "skin/frontend/base/default/js/tm/socialsuite"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.6.6",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            {
+                "name": "tm/socialsuite",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "d5383843ac767cdeaba205068335bddfc582f2ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/d5383843ac767cdeaba205068335bddfc582f2ad",
+                    "reference": "d5383843ac767cdeaba205068335bddfc582f2ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-11-02T11:12:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.7.0",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            {
+                "name": "tm/socialsuite",
+                "version": "1.7.0.1",
+                "version_normalized": "1.7.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "e3cfaddabfc12386341451fffd74313d446dd996"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/e3cfaddabfc12386341451fffd74313d446dd996",
+                    "reference": "e3cfaddabfc12386341451fffd74313d446dd996",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-11-10T14:06:25+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.7.0.1",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            },
+            {
+                "name": "tm/socialsuite",
+                "version": "1.8.0",
+                "version_normalized": "1.8.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "15ff71d624a9cbf4074bd39b2a9923b2912f1baf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/15ff71d624a9cbf4074bd39b2a9923b2912f1baf",
+                    "reference": "15ff71d624a9cbf4074bd39b2a9923b2912f1baf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-12T11:05:02+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.8.0",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            }
+        ]
+    }
+}

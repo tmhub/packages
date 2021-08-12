@@ -1,0 +1,191 @@
+{
+    "packages": {
+        "tm/smartsuggest": [
+            {
+                "name": "tm/smartsuggest",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "52cbc495baffd09ca4743c4dbc1544dd96927e07"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/52cbc495baffd09ca4743c4dbc1544dd96927e07",
+                    "reference": "52cbc495baffd09ca4743c4dbc1544dd96927e07",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-05-19T09:22:09+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SmartSuggest",
+                            "app/code/local/TM/SmartSuggest"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml",
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/smartsuggest",
+                            "app/design/frontend/base/default/template/tm/smartsuggest"
+                        ],
+                        [
+                            "app/etc/modules/TM_SmartSuggest.xml",
+                            "app/etc/modules/TM_SmartSuggest.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SmartSuggest.csv",
+                            "app/locale/en_US/TM_SmartSuggest.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/smartsuggest.css",
+                            "skin/frontend/base/default/css/tm/smartsuggest.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/smartsuggest",
+                            "skin/frontend/base/default/images/tm/smartsuggest"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/smartsuggest.js",
+                            "skin/frontend/base/default/js/tm/smartsuggest.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest",
+                "support": {
+                    "source": "https://github.com/tmhub/smartsuggest/tree/1.3.2",
+                    "issues": "https://github.com/tmhub/smartsuggest/issues"
+                }
+            },
+            {
+                "name": "tm/smartsuggest",
+                "version": "1.3.3",
+                "version_normalized": "1.3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "352e37cd4202cefc428e8818449ffdae2777f6a5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/352e37cd4202cefc428e8818449ffdae2777f6a5",
+                    "reference": "352e37cd4202cefc428e8818449ffdae2777f6a5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2014-06-19T08:49:40+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/SmartSuggest",
+                            "app/code/local/TM/SmartSuggest"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml",
+                            "app/design/frontend/base/default/layout/tm/smartsuggest.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/smartsuggest",
+                            "app/design/frontend/base/default/template/tm/smartsuggest"
+                        ],
+                        [
+                            "app/etc/modules/TM_SmartSuggest.xml",
+                            "app/etc/modules/TM_SmartSuggest.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_SmartSuggest.csv",
+                            "app/locale/en_US/TM_SmartSuggest.csv"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/smartsuggest.css",
+                            "skin/frontend/base/default/css/tm/smartsuggest.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/images/tm/smartsuggest",
+                            "skin/frontend/base/default/images/tm/smartsuggest"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/smartsuggest.js",
+                            "skin/frontend/base/default/js/tm/smartsuggest.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest",
+                "support": {
+                    "source": "https://github.com/tmhub/smartsuggest/tree/1.3.3",
+                    "issues": "https://github.com/tmhub/smartsuggest/issues"
+                }
+            },
+            {
+                "name": "tm/smartsuggest",
+                "version": "1.3.4",
+                "version_normalized": "1.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/smartsuggest.git",
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/smartsuggest/zipball/be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
+                    "reference": "be6c315b6ceace63621bb47b110b4f8bd1eee8f0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/suggestpage": "*"
+                },
+                "time": "2016-12-20T13:20:48+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Personalized products recommendations based on recent activity",
+                "homepage": "https://github.com/tmhub/smartsuggest",
+                "support": {
+                    "source": "https://github.com/tmhub/smartsuggest/tree/1.3.4",
+                    "issues": "https://github.com/tmhub/smartsuggest/issues"
+                }
+            }
+        ]
+    }
+}

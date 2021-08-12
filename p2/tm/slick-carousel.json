@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "tm/slick-carousel": [
+            {
+                "name": "tm/slick-carousel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/slick-carousel.git",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/slick-carousel/zipball/81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "reference": "81fb3d64d795a3170b8dab86015c16d8c5d01949",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-12T12:27:55+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "the last carousel you'll ever need for magento",
+                "homepage": "https://github.com/tmhub/core",
+                "support": {
+                    "source": "https://github.com/tmhub/slick-carousel/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/slick-carousel/issues"
+                }
+            }
+        ]
+    }
+}

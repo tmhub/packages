@@ -1,0 +1,258 @@
+{
+    "packages": {
+        "tm/catalog-configurable-swatches": [
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "d890121bcda560bb6472b510e89a881cec190bdf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/d890121bcda560bb6472b510e89a881cec190bdf",
+                    "reference": "d890121bcda560bb6472b510e89a881cec190bdf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-01-02T14:29:09+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.0",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "fafd4fd938cd55afc6fa656581c87b2bd692d13b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/fafd4fd938cd55afc6fa656581c87b2bd692d13b",
+                    "reference": "fafd4fd938cd55afc6fa656581c87b2bd692d13b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-03T13:28:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.1",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "16cd5bb0f1981d2dd8e6be49c195b3c808d50a04"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/16cd5bb0f1981d2dd8e6be49c195b3c808d50a04",
+                    "reference": "16cd5bb0f1981d2dd8e6be49c195b3c808d50a04",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-25T13:46:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.2",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/8c3008259d1f6a9848530a55ffd6e34a9346cd43",
+                    "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-30T13:07:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.3",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "96912caf52d31de7a11ace0d7962d55ed092b1d5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/96912caf52d31de7a11ace0d7962d55ed092b1d5",
+                    "reference": "96912caf52d31de7a11ace0d7962d55ed092b1d5",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-10-17T09:12:26+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.0",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "5533af56250883af4b18847b28a3b2da1a5529c9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/5533af56250883af4b18847b28a3b2da1a5529c9",
+                    "reference": "5533af56250883af4b18847b28a3b2da1a5529c9",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-14T08:36:38+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.1",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            },
+            {
+                "name": "tm/catalog-configurable-swatches",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "reference": "feb97d506dc0dc1b078a87a5c17a30a6f674bd4f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/catalog-configurable-swatches/zipball/feb97d506dc0dc1b078a87a5c17a30a6f674bd4f",
+                    "reference": "feb97d506dc0dc1b078a87a5c17a30a6f674bd4f",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-08T12:29:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Magento 1.9.1-1.9.3 ConfigurableSwatches integration module",
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
+                "support": {
+                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.2",
+                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
+                }
+            }
+        ]
+    }
+}

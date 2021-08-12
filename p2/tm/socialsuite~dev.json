@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/socialsuite": [
+            {
+                "name": "tm/socialsuite",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/socialsuite.git",
+                    "reference": "15ff71d624a9cbf4074bd39b2a9923b2912f1baf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/socialsuite/zipball/15ff71d624a9cbf4074bd39b2a9923b2912f1baf",
+                    "reference": "15ff71d624a9cbf4074bd39b2a9923b2912f1baf",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-09-12T11:05:02+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Facebook, Pinterest, Twitter, Yahoo and Google integration.",
+                "homepage": "https://github.com/tmhub/socialsuite",
+                "support": {
+                    "source": "https://github.com/tmhub/socialsuite/tree/1.8.0",
+                    "issues": "https://github.com/tmhub/socialsuite/issues"
+                }
+            }
+        ]
+    }
+}

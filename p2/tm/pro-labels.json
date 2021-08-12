@@ -1,0 +1,1402 @@
+{
+    "packages": {
+        "tm/pro-labels": [
+            {
+                "name": "tm/pro-labels",
+                "version": "2.5.0",
+                "version_normalized": "2.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "2e6795f5049f785f019ca79ddc038ce7d7ade3b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/2e6795f5049f785f019ca79ddc038ce7d7ade3b2",
+                    "reference": "2e6795f5049f785f019ca79ddc038ce7d7ade3b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-05-19T09:23:25+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.5.0",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.5.1",
+                "version_normalized": "2.5.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "30f3c990e0c82985c4074a7db58fc7b81bfaef18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/30f3c990e0c82985c4074a7db58fc7b81bfaef18",
+                    "reference": "30f3c990e0c82985c4074a7db58fc7b81bfaef18",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-07-23T09:43:35+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.5.1",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "ab852e410f9fe85f200e754934308c247f1a51f8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/ab852e410f9fe85f200e754934308c247f1a51f8",
+                    "reference": "ab852e410f9fe85f200e754934308c247f1a51f8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-07-24T07:59:58+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.5.2",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.6.2",
+                "version_normalized": "2.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4",
+                    "reference": "5b3cb51fb069d654d9f32e6c1442ec2eca5dc5d4",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-11-27T09:51:13+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.6.2",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.6.3",
+                "version_normalized": "2.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "bb0c76bc6da42d07fd2630813818c37376d0cb54"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/bb0c76bc6da42d07fd2630813818c37376d0cb54",
+                    "reference": "bb0c76bc6da42d07fd2630813818c37376d0cb54",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-01T12:49:38+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.6.3",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.6.4",
+                "version_normalized": "2.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2",
+                    "reference": "3bdd4b4a3b93e7fd7be27f0957c2fdd16f80dea2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-09T14:31:32+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.6.4",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.6.5",
+                "version_normalized": "2.6.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "1b8f58631dbbbc1622a4388daa7703512969a31e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/1b8f58631dbbbc1622a4388daa7703512969a31e",
+                    "reference": "1b8f58631dbbbc1622a4388daa7703512969a31e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2014-12-11T08:53:22+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.6.5",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "fea007d3c7be79242199d5357a1face902cb3f02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/fea007d3c7be79242199d5357a1face902cb3f02",
+                    "reference": "fea007d3c7be79242199d5357a1face902cb3f02",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-07-13T08:51:12+00:00",
+                "type": "magento-module",
+                "extra": {
+                    "map": [
+                        [
+                            "app/code/local/TM/ProLabels",
+                            "app/code/local/TM/ProLabels"
+                        ],
+                        [
+                            "app/design/adminhtml/default/default/template/prolabels",
+                            "app/design/adminhtml/default/default/template/prolabels"
+                        ],
+                        [
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml",
+                            "app/design/frontend/base/default/layout/tm/prolabels.xml"
+                        ],
+                        [
+                            "app/design/frontend/base/default/template/tm/prolabels",
+                            "app/design/frontend/base/default/template/tm/prolabels"
+                        ],
+                        [
+                            "app/etc/modules/TM_ProLabels.xml",
+                            "app/etc/modules/TM_ProLabels.xml"
+                        ],
+                        [
+                            "app/locale/en_US/TM_ProLabels.csv",
+                            "app/locale/en_US/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/es_ES/TM_ProLabels.csv",
+                            "app/locale/es_ES/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/fr_FR/TM_ProLabels.csv",
+                            "app/locale/fr_FR/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/it_IT/TM_ProLabels.csv",
+                            "app/locale/it_IT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/nl_NL/TM_ProLabels.csv",
+                            "app/locale/nl_NL/TM_ProLabels.csv"
+                        ],
+                        [
+                            "app/locale/pt_PT/TM_ProLabels.csv",
+                            "app/locale/pt_PT/TM_ProLabels.csv"
+                        ],
+                        [
+                            "js/tm/adminhtml/prolabels",
+                            "js/tm/adminhtml/prolabels"
+                        ],
+                        [
+                            "lib/Mobile_Detect.php",
+                            "lib/Mobile_Detect.php"
+                        ],
+                        [
+                            "media/prolabel",
+                            "media/prolabel"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabel.css",
+                            "skin/frontend/base/default/css/tm/prolabel.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css",
+                            "skin/frontend/base/default/css/tm/prolabels-tooltip.css"
+                        ],
+                        [
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js",
+                            "skin/frontend/base/default/js/tm/prolabels-tooltip.js"
+                        ],
+                        [
+                            "shell/prolabels.php",
+                            "shell/prolabels.php"
+                        ]
+                    ],
+                    "changelog": ""
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.1",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.10",
+                "version_normalized": "2.7.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "f773c7f0e20ddf176a3f0e52e318774c40f92d17"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/f773c7f0e20ddf176a3f0e52e318774c40f92d17",
+                    "reference": "f773c7f0e20ddf176a3f0e52e318774c40f92d17",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-03T13:25:33+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.10",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.11",
+                "version_normalized": "2.7.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "70bb615efef69dc88986b6d654d0c3a1d3d0174b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/70bb615efef69dc88986b6d654d0c3a1d3d0174b",
+                    "reference": "70bb615efef69dc88986b6d654d0c3a1d3d0174b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-08-25T12:06:37+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.11",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.12",
+                "version_normalized": "2.7.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/7cac3df40c91c193f4d43a54652b79bd6da657c8",
+                    "reference": "7cac3df40c91c193f4d43a54652b79bd6da657c8",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-10-19T08:54:03+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.13",
+                "version_normalized": "2.7.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "e75a368c36645976f35eaf675a5dbea8dfd259d2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/e75a368c36645976f35eaf675a5dbea8dfd259d2",
+                    "reference": "e75a368c36645976f35eaf675a5dbea8dfd259d2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-12-15T12:24:01+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.13",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.14",
+                "version_normalized": "2.7.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "6d1d32da92d0bb94df58e8c2c413409260122b00"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/6d1d32da92d0bb94df58e8c2c413409260122b00",
+                    "reference": "6d1d32da92d0bb94df58e8c2c413409260122b00",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2018-06-22T13:50:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.14",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.15",
+                "version_normalized": "2.7.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "f9df8a206e29ce636bd8454af7952ffbea1fc014"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/f9df8a206e29ce636bd8454af7952ffbea1fc014",
+                    "reference": "f9df8a206e29ce636bd8454af7952ffbea1fc014",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-02-26T10:07:59+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.15",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.16",
+                "version_normalized": "2.7.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "df0fddf29f2cc33e721554349351bd47566972d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/df0fddf29f2cc33e721554349351bd47566972d0",
+                    "reference": "df0fddf29f2cc33e721554349351bd47566972d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-07-08T12:43:42+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/master",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "568ce42332a58000be7a9dfa8dcfc44e847cf9e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/568ce42332a58000be7a9dfa8dcfc44e847cf9e2",
+                    "reference": "568ce42332a58000be7a9dfa8dcfc44e847cf9e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2015-11-18T09:38:34+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.2",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.3",
+                "version_normalized": "2.7.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "790dbda771e70e83c356585a50dc7082542ea82e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/790dbda771e70e83c356585a50dc7082542ea82e",
+                    "reference": "790dbda771e70e83c356585a50dc7082542ea82e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-08-03T13:47:21+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.3",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.4",
+                "version_normalized": "2.7.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "f42eb3cbffc4f06cf5ebe98a574902c53603ad71"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/f42eb3cbffc4f06cf5ebe98a574902c53603ad71",
+                    "reference": "f42eb3cbffc4f06cf5ebe98a574902c53603ad71",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-09-28T14:24:40+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.4",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.5",
+                "version_normalized": "2.7.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "c18b71bd88a1a2338086a38108d2fb4486f0f2e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/c18b71bd88a1a2338086a38108d2fb4486f0f2e2",
+                    "reference": "c18b71bd88a1a2338086a38108d2fb4486f0f2e2",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2016-12-08T15:58:23+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.5",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.6",
+                "version_normalized": "2.7.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "3afb645fc837ffb73093fcd5420ea25c3bd24a9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/3afb645fc837ffb73093fcd5420ea25c3bd24a9e",
+                    "reference": "3afb645fc837ffb73093fcd5420ea25c3bd24a9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-03-29T12:58:08+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.6",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.7",
+                "version_normalized": "2.7.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "ff14058af756e8a38d4325b12747e2059fbd76dc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/ff14058af756e8a38d4325b12747e2059fbd76dc",
+                    "reference": "ff14058af756e8a38d4325b12747e2059fbd76dc",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-04-28T13:08:54+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.7",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.8",
+                "version_normalized": "2.7.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "d829d77a99fbb2676befec80803ba6b68bf1f1ab"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/d829d77a99fbb2676befec80803ba6b68bf1f1ab",
+                    "reference": "d829d77a99fbb2676befec80803ba6b68bf1f1ab",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-06-14T08:43:41+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.8",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            },
+            {
+                "name": "tm/pro-labels",
+                "version": "2.7.9",
+                "version_normalized": "2.7.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/prolabels.git",
+                    "reference": "e70ee38f05c893d3687381f33c898b03c39d5d9e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/prolabels/zipball/e70ee38f05c893d3687381f33c898b03c39d5d9e",
+                    "reference": "e70ee38f05c893d3687381f33c898b03c39d5d9e",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2017-07-14T10:59:13+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Product labels and badges",
+                "homepage": "https://github.com/tmhub/prolabels",
+                "support": {
+                    "source": "https://github.com/tmhub/prolabels/tree/2.7.9",
+                    "issues": "https://github.com/tmhub/prolabels/issues"
+                }
+            }
+        ]
+    }
+}

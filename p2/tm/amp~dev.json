@@ -1,0 +1,51 @@
+{
+    "packages": {
+        "tm/amp": [
+            {
+                "name": "tm/amp",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/amp.git",
+                    "reference": "dd7d8915aca520cc6c7f124b017ced8dc19e6248"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/amp/zipball/dd7d8915aca520cc6c7f124b017ced8dc19e6248",
+                    "reference": "dd7d8915aca520cc6c7f124b017ced8dc19e6248",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*",
+                    "tm/easycatalogimg": "*",
+                    "tm/easyslide": "*"
+                },
+                "time": "2020-06-16T07:31:06+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "extra": {
+                    "tm": {
+                        "links": {
+                            "download": "https://swissuplabs.com/magento-amp-extension.html",
+                            "docs": "http://docs.swissuplabs.com/m1/extensions/amp/",
+                            "changelog": "http://docs.swissuplabs.com/m1/extensions/amp/changelog/"
+                        }
+                    }
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Accelerated Mobile Pages for Magento",
+                "keywords": [
+                    "accelerated mobile pages",
+                    "amp"
+                ],
+                "support": {
+                    "source": "https://github.com/tmhub/amp/tree/1.7.4",
+                    "issues": "https://github.com/tmhub/amp/issues"
+                }
+            }
+        ]
+    }
+}

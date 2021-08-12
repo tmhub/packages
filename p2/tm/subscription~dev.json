@@ -1,0 +1,43 @@
+{
+    "packages": {
+        "tm/subscription": [
+            {
+                "name": "tm/subscription",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:tmhub/subscription.git",
+                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/subscription/zipball/f59d772c4e77b109413d085cf3bcb4543fdf2224",
+                    "reference": "f59d772c4e77b109413d085cf3bcb4543fdf2224",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2019-10-04T13:12:09+00:00",
+                "default-branch": true,
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Templates-Master Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Module for Swissuplabs.com that allows to link downloadable products to the virtual subscription",
+                "homepage": "https://github.com/tmhub/subscription",
+                "support": {
+                    "source": "https://github.com/tmhub/subscription/tree/master",
+                    "issues": "https://github.com/tmhub/subscription/issues"
+                }
+            }
+        ]
+    }
+}
