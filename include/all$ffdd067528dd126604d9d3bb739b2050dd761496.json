@@ -27123,12 +27123,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/firecheckout.git",
-                    "reference": "6a80e8b58cb8eeaec282f48706312f1fee3a1ab4"
+                    "reference": "e5bbdaf692ac356da0565e3c97fba2ed0a58f082"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/6a80e8b58cb8eeaec282f48706312f1fee3a1ab4",
-                    "reference": "6a80e8b58cb8eeaec282f48706312f1fee3a1ab4",
+                    "url": "https://api.github.com/repos/tmhub/firecheckout/zipball/e5bbdaf692ac356da0565e3c97fba2ed0a58f082",
+                    "reference": "e5bbdaf692ac356da0565e3c97fba2ed0a58f082",
                     "shasum": ""
                 },
                 "require": {
@@ -27138,7 +27138,7 @@
                     "tm/geoip": "*",
                     "tm/orderattachment": "*"
                 },
-                "time": "2022-03-31T07:17:04+00:00",
+                "time": "2022-07-22T11:15:58+00:00",
                 "default-branch": true,
                 "type": "magento-module",
                 "extra": {
