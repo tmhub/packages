@@ -22544,6 +22544,42 @@
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             },
+            "1.1.15": {
+                "name": "tm/email",
+                "version": "1.1.15",
+                "version_normalized": "1.1.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/tmhub/email.git",
+                    "reference": "9e635a2a43ab98d2b78d497847f08e593be93f4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/9e635a2a43ab98d2b78d497847f08e593be93f4b",
+                    "reference": "9e635a2a43ab98d2b78d497847f08e593be93f4b",
+                    "shasum": ""
+                },
+                "require": {
+                    "tm/core": "*"
+                },
+                "time": "2024-11-28T15:46:29+00:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Template Masters Team",
+                        "email": "support@templates-master.com"
+                    }
+                ],
+                "description": "Templates Master Email module",
+                "homepage": "https://github.com/tmhub/email",
+                "support": {
+                    "source": "https://github.com/tmhub/email/tree/1.1.15",
+                    "issues": "https://github.com/tmhub/email/issues"
+                }
+            },
             "1.1.2": {
                 "name": "tm/email",
                 "version": "1.1.2",
@@ -22803,18 +22839,18 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/tmhub/email.git",
-                    "reference": "1a02bffc9881eb133c33ee6b6d441ee029b9a50a"
+                    "reference": "9e635a2a43ab98d2b78d497847f08e593be93f4b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/email/zipball/1a02bffc9881eb133c33ee6b6d441ee029b9a50a",
-                    "reference": "1a02bffc9881eb133c33ee6b6d441ee029b9a50a",
+                    "url": "https://api.github.com/repos/tmhub/email/zipball/9e635a2a43ab98d2b78d497847f08e593be93f4b",
+                    "reference": "9e635a2a43ab98d2b78d497847f08e593be93f4b",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2024-09-10T13:41:05+00:00",
+                "time": "2024-11-28T15:46:29+00:00",
                 "default-branch": true,
                 "type": "magento-module",
                 "license": [
@@ -22829,7 +22865,7 @@
                 "description": "Templates Master Email module",
                 "homepage": "https://github.com/tmhub/email",
                 "support": {
-                    "source": "https://github.com/tmhub/email/tree/master",
+                    "source": "https://github.com/tmhub/email/tree/1.1.15",
                     "issues": "https://github.com/tmhub/email/issues"
                 }
             }
