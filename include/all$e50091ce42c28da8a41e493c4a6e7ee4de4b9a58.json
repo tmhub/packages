@@ -43890,18 +43890,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:tmhub/subscription-checker.git",
-                    "reference": "e33544336b605cc4a1c112a5c4b2692c0b9fc24c"
+                    "reference": "67b936832df550f7c631934b47cefb43c048adae"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/tmhub/subscription-checker/zipball/e33544336b605cc4a1c112a5c4b2692c0b9fc24c",
-                    "reference": "e33544336b605cc4a1c112a5c4b2692c0b9fc24c",
+                    "url": "https://api.github.com/repos/tmhub/subscription-checker/zipball/67b936832df550f7c631934b47cefb43c048adae",
+                    "reference": "67b936832df550f7c631934b47cefb43c048adae",
                     "shasum": ""
                 },
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-06-30T13:38:06+00:00",
+                "time": "2026-02-06T14:37:16+00:00",
                 "default-branch": true,
                 "type": "magento-module",
                 "license": [
@@ -43916,7 +43916,7 @@
                 "description": "Client subscription validation module",
                 "homepage": "https://github.com/tmhub/subscription-checker",
                 "support": {
-                    "source": "https://github.com/tmhub/subscription-checker/tree/1.0.0",
+                    "source": "https://github.com/tmhub/subscription-checker/tree/master",
                     "issues": "https://github.com/tmhub/subscription-checker/issues"
                 }
             }
