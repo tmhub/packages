@@ -32,7 +32,11 @@
                     }
                 ],
                 "description": "Templates Master Reward module",
-                "homepage": "https://github.com/tmhub/reward"
+                "homepage": "https://github.com/tmhub/reward",
+                "support": {
+                    "source": "https://github.com/tmhub/reward/tree/0.1.1",
+                    "issues": "https://github.com/tmhub/reward/issues"
+                }
             },
             {
                 "name": "tm/reward",
@@ -64,7 +68,11 @@
                     }
                 ],
                 "description": "Templates Master Reward module",
-                "homepage": "https://github.com/tmhub/reward"
+                "homepage": "https://github.com/tmhub/reward",
+                "support": {
+                    "source": "https://github.com/tmhub/reward/tree/0.1.2",
+                    "issues": "https://github.com/tmhub/reward/issues"
+                }
             }
         ]
     }
