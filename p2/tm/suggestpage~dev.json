@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/suggestpage.git",
+                    "url": "git@github.com:tmhub/suggestpage.git",
                     "reference": "dd584128b0abd787a020671468b407543fd76ced"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "Page that can be shown after client adds product to the shopping cart",
-                "homepage": "https://github.com/tmhub/suggestpage",
-                "support": {
-                    "source": "https://github.com/tmhub/suggestpage/tree/1.4.3",
-                    "issues": "https://github.com/tmhub/suggestpage/issues"
-                }
+                "homepage": "https://github.com/tmhub/suggestpage"
             }
         ]
     }

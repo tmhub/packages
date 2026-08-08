@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "feb97d506dc0dc1b078a87a5c17a30a6f674bd4f"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1-1.9.3 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.2",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             }
         ]
     }

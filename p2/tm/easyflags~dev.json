@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/easyflags.git",
+                    "url": "git@github.com:tmhub/easyflags.git",
                     "reference": "155b1a1ee9e0233cefdb7b8a60ebef515ec3358b"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "EasyFlags",
-                "homepage": "https://github.com/tmhub/easyflags",
-                "support": {
-                    "source": "https://github.com/tmhub/easyflags/tree/3.1.1",
-                    "issues": "https://github.com/tmhub/easyflags/issues"
-                }
+                "homepage": "https://github.com/tmhub/easyflags"
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "url": "git@github.com:tmhub/countdowntimer.git",
                     "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "CountDown Timer module",
-                "homepage": "https://github.com/tmhub/countdowntimer",
-                "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.3",
-                    "issues": "https://github.com/tmhub/countdowntimer/issues"
-                }
+                "homepage": "https://github.com/tmhub/countdowntimer"
             }
         ]
     }

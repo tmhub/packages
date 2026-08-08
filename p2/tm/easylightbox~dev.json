@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/easylightbox.git",
+                    "url": "git@github.com:tmhub/easylightbox.git",
                     "reference": "cb604c8cacdcae356c0a6976f6d2c669eb8abba5"
                 },
                 "dist": {
@@ -33,11 +33,7 @@
                     }
                 ],
                 "description": "Lightbox for Magento Product and CMS pages",
-                "homepage": "https://github.com/tmhub/easylightbox",
-                "support": {
-                    "source": "https://github.com/tmhub/easylightbox/tree/3.2.0",
-                    "issues": "https://github.com/tmhub/easylightbox/issues"
-                }
+                "homepage": "https://github.com/tmhub/easylightbox"
             }
         ]
     }

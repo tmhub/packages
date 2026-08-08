@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/templatef002.git",
+                    "url": "git@github.com:tmhub/templatef002.git",
                     "reference": "ca70e937f18859a5ac61633cd3b18db8bdd1912f"
                 },
                 "dist": {
@@ -33,11 +33,7 @@
                     }
                 ],
                 "description": "Free Classic theme",
-                "homepage": "https://github.com/tmhub/templatef002",
-                "support": {
-                    "source": "https://github.com/tmhub/templatef002/tree/2.0.1",
-                    "issues": "https://github.com/tmhub/templatef002/issues"
-                }
+                "homepage": "https://github.com/tmhub/templatef002"
             }
         ]
     }

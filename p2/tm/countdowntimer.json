@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "url": "git@github.com:tmhub/countdowntimer.git",
                     "reference": "539457da5e893a92d08fc0d8e414dfb424bda9ea"
                 },
                 "dist": {
@@ -31,11 +31,7 @@
                     }
                 ],
                 "description": "CountDown Timer module",
-                "homepage": "https://github.com/tmhub/countdowntimer",
-                "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.0.0",
-                    "issues": "https://github.com/tmhub/countdowntimer/issues"
-                }
+                "homepage": "https://github.com/tmhub/countdowntimer"
             },
             {
                 "name": "tm/countdowntimer",
@@ -43,7 +39,7 @@
                 "version_normalized": "1.2.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "url": "git@github.com:tmhub/countdowntimer.git",
                     "reference": "06149765e55dd005e8aa387805a579fb176dbd06"
                 },
                 "dist": {
@@ -67,11 +63,7 @@
                     }
                 ],
                 "description": "CountDown Timer module",
-                "homepage": "https://github.com/tmhub/countdowntimer",
-                "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.1",
-                    "issues": "https://github.com/tmhub/countdowntimer/issues"
-                }
+                "homepage": "https://github.com/tmhub/countdowntimer"
             },
             {
                 "name": "tm/countdowntimer",
@@ -79,7 +71,7 @@
                 "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "url": "git@github.com:tmhub/countdowntimer.git",
                     "reference": "190844ec8fa14693445c2b9b0e303a640d56e975"
                 },
                 "dist": {
@@ -103,11 +95,7 @@
                     }
                 ],
                 "description": "CountDown Timer module",
-                "homepage": "https://github.com/tmhub/countdowntimer",
-                "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.2",
-                    "issues": "https://github.com/tmhub/countdowntimer/issues"
-                }
+                "homepage": "https://github.com/tmhub/countdowntimer"
             },
             {
                 "name": "tm/countdowntimer",
@@ -115,7 +103,7 @@
                 "version_normalized": "1.2.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/countdowntimer.git",
+                    "url": "git@github.com:tmhub/countdowntimer.git",
                     "reference": "99065f33ff21be47ce137fb35d46bba1ee26c108"
                 },
                 "dist": {
@@ -139,11 +127,7 @@
                     }
                 ],
                 "description": "CountDown Timer module",
-                "homepage": "https://github.com/tmhub/countdowntimer",
-                "support": {
-                    "source": "https://github.com/tmhub/countdowntimer/tree/1.2.3",
-                    "issues": "https://github.com/tmhub/countdowntimer/issues"
-                }
+                "homepage": "https://github.com/tmhub/countdowntimer"
             }
         ]
     }

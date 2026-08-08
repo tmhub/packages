@@ -7,7 +7,7 @@
                 "version_normalized": "0.9.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/ga-plugin-scrolldepth.git",
+                    "url": "git@github.com:tmhub/ga-plugin-scrolldepth.git",
                     "reference": "a21cdb9492bbdf9c4fa0b07b352b9326b1ca597a"
                 },
                 "dist": {
@@ -31,11 +31,7 @@
                     }
                 ],
                 "description": "Google Analytics plugin Scroll Depth",
-                "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth",
-                "support": {
-                    "source": "https://github.com/tmhub/ga-plugin-scrolldepth/tree/0.9.0",
-                    "issues": "https://github.com/tmhub/ga-plugin-scrolldepth/issues"
-                }
+                "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth"
             },
             {
                 "name": "tm/ga-plugin-scrolldepth",
@@ -43,7 +39,7 @@
                 "version_normalized": "0.9.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/ga-plugin-scrolldepth.git",
+                    "url": "git@github.com:tmhub/ga-plugin-scrolldepth.git",
                     "reference": "b82f305b7e47a011bfcaf4ac8a1d56b97d5022eb"
                 },
                 "dist": {
@@ -67,11 +63,7 @@
                     }
                 ],
                 "description": "Google Analytics plugin Scroll Depth",
-                "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth",
-                "support": {
-                    "source": "https://github.com/tmhub/ga-plugin-scrolldepth/tree/0.9.1",
-                    "issues": "https://github.com/tmhub/ga-plugin-scrolldepth/issues"
-                }
+                "homepage": "https://github.com/tmhub/ga-plugin-scrolldepth"
             }
         ]
     }

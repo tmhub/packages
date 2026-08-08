@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/testimonials.git",
+                    "url": "git@github.com:tmhub/testimonials.git",
                     "reference": "ca2c8f71bcb03f2855b4d421eb1015ce2d3e314e"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "Customer testimonials",
-                "homepage": "https://github.com/tmhub/testimonials",
-                "support": {
-                    "source": "https://github.com/tmhub/testimonials/tree/master",
-                    "issues": "https://github.com/tmhub/testimonials/issues"
-                }
+                "homepage": "https://github.com/tmhub/testimonials"
             }
         ]
     }

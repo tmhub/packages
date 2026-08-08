@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/storepickup.git",
+                    "url": "git@github.com:tmhub/storepickup.git",
                     "reference": "33351f43eed6e5161353db741baef07d314dd417"
                 },
                 "dist": {
@@ -30,11 +30,7 @@
                 "description": "Simplest Store Pickup for Magento1",
                 "keywords": [
                     "store pickup"
-                ],
-                "support": {
-                    "source": "https://github.com/tmhub/storepickup/tree/1.0.0",
-                    "issues": "https://github.com/tmhub/storepickup/issues"
-                }
+                ]
             },
             {
                 "name": "tm/storepickup",
@@ -42,7 +38,7 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/storepickup.git",
+                    "url": "git@github.com:tmhub/storepickup.git",
                     "reference": "086035319dbd558038536818588be5eec711faaf"
                 },
                 "dist": {
@@ -65,11 +61,7 @@
                 "description": "Simplest Store Pickup for Magento1",
                 "keywords": [
                     "store pickup"
-                ],
-                "support": {
-                    "source": "https://github.com/tmhub/storepickup/tree/1.1.0",
-                    "issues": "https://github.com/tmhub/storepickup/issues"
-                }
+                ]
             },
             {
                 "name": "tm/storepickup",
@@ -77,7 +69,7 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/storepickup.git",
+                    "url": "git@github.com:tmhub/storepickup.git",
                     "reference": "1f5cb3aa3bb5f5626b401fd4d72f629137f2c7eb"
                 },
                 "dist": {
@@ -100,11 +92,7 @@
                 "description": "Simplest Store Pickup for Magento1",
                 "keywords": [
                     "store pickup"
-                ],
-                "support": {
-                    "source": "https://github.com/tmhub/storepickup/tree/1.1.1",
-                    "issues": "https://github.com/tmhub/storepickup/issues"
-                }
+                ]
             }
         ]
     }

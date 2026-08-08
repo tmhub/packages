@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/email.git",
+                    "url": "git@github.com:tmhub/email.git",
                     "reference": "9e635a2a43ab98d2b78d497847f08e593be93f4b"
                 },
                 "dist": {
@@ -32,11 +32,7 @@
                     }
                 ],
                 "description": "Templates Master Email module",
-                "homepage": "https://github.com/tmhub/email",
-                "support": {
-                    "source": "https://github.com/tmhub/email/tree/1.1.15",
-                    "issues": "https://github.com/tmhub/email/issues"
-                }
+                "homepage": "https://github.com/tmhub/email"
             }
         ]
     }

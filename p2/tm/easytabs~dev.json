@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/easytabs.git",
+                    "url": "git@github.com:tmhub/easytabs.git",
                     "reference": "8e9aa332e7efa53e297f6e9de266ce32005bc126"
                 },
                 "dist": {
@@ -41,11 +41,7 @@
                     }
                 ],
                 "description": "Tabs for product page",
-                "homepage": "https://github.com/tmhub/easytabs",
-                "support": {
-                    "source": "https://github.com/tmhub/easytabs/tree/3.2.4",
-                    "issues": "https://github.com/tmhub/easytabs/issues"
-                }
+                "homepage": "https://github.com/tmhub/easytabs"
             }
         ]
     }

@@ -7,7 +7,7 @@
                 "version_normalized": "dev-master",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/templatef001.git",
+                    "url": "git@github.com:tmhub/templatef001.git",
                     "reference": "3708f3d0c3138b99a9e9c80ccc568854e6b6113e"
                 },
                 "dist": {
@@ -33,11 +33,7 @@
                     }
                 ],
                 "description": "Free Absolute theme",
-                "homepage": "https://github.com/tmhub/templatef001",
-                "support": {
-                    "source": "https://github.com/tmhub/templatef001/tree/2.0.1",
-                    "issues": "https://github.com/tmhub/templatef001/issues"
-                }
+                "homepage": "https://github.com/tmhub/templatef001"
             }
         ]
     }

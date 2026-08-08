@@ -7,7 +7,7 @@
                 "version_normalized": "1.0.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "d890121bcda560bb6472b510e89a881cec190bdf"
                 },
                 "dist": {
@@ -31,11 +31,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.0",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -43,7 +39,7 @@
                 "version_normalized": "1.0.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "fafd4fd938cd55afc6fa656581c87b2bd692d13b"
                 },
                 "dist": {
@@ -67,11 +63,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.1",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -79,7 +71,7 @@
                 "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "16cd5bb0f1981d2dd8e6be49c195b3c808d50a04"
                 },
                 "dist": {
@@ -91,7 +83,7 @@
                 "require": {
                     "tm/core": "*"
                 },
-                "time": "2016-08-25T13:46:33+00:00",
+                "time": "2016-08-25T13:46:00+00:00",
                 "type": "magento-module",
                 "license": [
                     "OSL-3.0"
@@ -103,11 +95,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.2",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -115,7 +103,7 @@
                 "version_normalized": "1.0.3.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "8c3008259d1f6a9848530a55ffd6e34a9346cd43"
                 },
                 "dist": {
@@ -139,11 +127,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.0.3",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -151,7 +135,7 @@
                 "version_normalized": "1.1.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "96912caf52d31de7a11ace0d7962d55ed092b1d5"
                 },
                 "dist": {
@@ -175,11 +159,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.0",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -187,7 +167,7 @@
                 "version_normalized": "1.1.1.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "5533af56250883af4b18847b28a3b2da1a5529c9"
                 },
                 "dist": {
@@ -211,11 +191,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.1",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             },
             {
                 "name": "tm/catalog-configurable-swatches",
@@ -223,7 +199,7 @@
                 "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
-                    "url": "https://github.com/tmhub/catalog-configurable-swatches.git",
+                    "url": "git@github.com:tmhub/catalog-configurable-swatches.git",
                     "reference": "feb97d506dc0dc1b078a87a5c17a30a6f674bd4f"
                 },
                 "dist": {
@@ -247,11 +223,7 @@
                     }
                 ],
                 "description": "Magento 1.9.1-1.9.3 ConfigurableSwatches integration module",
-                "homepage": "https://github.com/tmhub/catalog-configurable-swatches",
-                "support": {
-                    "source": "https://github.com/tmhub/catalog-configurable-swatches/tree/1.1.2",
-                    "issues": "https://github.com/tmhub/catalog-configurable-swatches/issues"
-                }
+                "homepage": "https://github.com/tmhub/catalog-configurable-swatches"
             }
         ]
     }
